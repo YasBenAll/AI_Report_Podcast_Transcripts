@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 235, 255;
+  --background-end-rgb: 214, 155, 255;
+} */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body { 
+  color: #553c41; 
+ } 
+
+html {
+  background: #f7dbe0 url("/TODO.png") no-repeat fixed;
+}
+
+@layer utilities {
+  .bg-green-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(72, 187, 120, var(--tw-bg-opacity));
+  }
+  .bg-red-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(239, 68, 68, var(--tw-bg-opacity));
+  }
+  .bg-blue-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(66, 153, 225, var(--tw-bg-opacity));
+  }
+}

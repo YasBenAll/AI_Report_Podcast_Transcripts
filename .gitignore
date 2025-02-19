@@ -1,0 +1,6 @@
+api/data
+api/old
+node_modules
+/.next
+public/images/1739205034254.jpeg
+whisper/audio.mp3
