@@ -3,4 +3,12 @@ api/old
 node_modules
 /.next
 public/images/1739205034254.jpeg
-whisper/audio.mp3
+whisper/audio.wav
+whisper/poki.mp3
+whisper/audio.wav.txt
+whisper/poki.mp3.txt
+whisper/transcription.txt
+whisper/.venv-whisper
+whisper/poki/
+/whisper/test
+/whisper/transcripts
