@@ -8,7 +8,7 @@ import datetime
 
 # open file in folder test
 files = os.listdir("poki")
-model = whisper.load_model("turbo", device="cuda")
+model = whisper.load_model("turbo")
 
 for file in files:
     start = time.time()
