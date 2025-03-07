@@ -11,8 +11,8 @@ export default function Episode() {
 
   useEffect(() => {
     if (!filename) return;
-    // Fetch the transcript using the actual filename.
-    fetch(`http://localhost:5328/api/transcripts/${filename}`)
+    // Append .txt extension when making the API call
+    fetch(`http://localhost:5328/api/transcripts/${filename}.txt`)
       .then((res) => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
