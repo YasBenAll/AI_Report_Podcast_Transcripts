@@ -45,7 +45,7 @@ export default function Home() {
 
   useEffect(() => {
     // Adjust the domain/port to match your Flask server configuration
-    const webdomain = "https://ai-report-podcast-transcripts.vercel.app/";
+    const webdomain = "https://ai-report-podcast-transcripts.vercel.app";
     fetch(`${webdomain}/api/transcript/episode_name`)
       .then((res) => {
         if (!res.ok) {
