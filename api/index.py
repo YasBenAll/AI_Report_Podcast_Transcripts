@@ -5,7 +5,7 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 # Define the directory that holds the transcripts
-TRANSCRIPTS_DIR = os.path.join(os.path.dirname(__file__), 'transcripts')
+TRANSCRIPTS_DIR = "api/transcripts"
 
 def is_safe_filename(filename):
     """
