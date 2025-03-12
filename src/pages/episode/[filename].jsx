@@ -12,7 +12,7 @@ export default function Episode() {
   const [youtubeCode, setYoutubeCode] = useState('');
   const [parsedContent, setParsedContent] = useState([]);
   const playerRef = useRef(null);
-
+  const webdomain = "https://ai-report-podcast-transcripts.vercel.app";
   const formatTimestamp = (time) => {
     const minutes = Math.floor(time / 60);
     const seconds = Math.floor(time % 60);
@@ -84,7 +84,7 @@ export default function Episode() {
   useEffect(() => {
     if (!filename) return;
     // Append .txt extension when making the API call
-    fetch(`https://ai-report-podcast-transcripts.vercel.app/api/transcripts/${filename}.txt`)
+    fetch(`${webdomain}/api/transcripts/${filename}.txt`)
       .then((res) => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
