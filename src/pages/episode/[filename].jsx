@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import Head from 'next/head';
 import Footer from '../../components/Footer';
 
@@ -11,6 +11,7 @@ export default function Episode() {
   const [videoTitle, setVideoTitle] = useState('');
   const [youtubeCode, setYoutubeCode] = useState('');
   const [parsedContent, setParsedContent] = useState([]);
+  const playerRef = useRef(null);
 
   const formatTimestamp = (time) => {
     const minutes = Math.floor(time / 60);
@@ -18,17 +19,29 @@ export default function Episode() {
     return `${minutes}m${seconds}s`;
   };
 
+  const seekToTimestamp = (time) => {
+    if (playerRef.current?.contentWindow) {
+      // Convert time to seconds if it's not already
+      const seconds = parseFloat(time);
+      playerRef.current.contentWindow.postMessage(
+        JSON.stringify({
+          event: 'command',
+          func: 'seekTo',
+          args: [seconds, true]
+        }),
+        '*'
+      );
+    }
+  };
+
   const createTimestampLink = (start, end, code) => {
-    const youtubeTimestamp = formatTimestamp(parseFloat(start));
     return (
-      <a 
-        href={`https://www.youtube.com/watch?v=${code}&t=${youtubeTimestamp}`}
-        target="_blank"
-        rel="noopener noreferrer"
+      <button 
+        onClick={() => seekToTimestamp(start)}
         className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800 mr-2 hover:bg-blue-200 transition-colors duration-200"
       >
         {start} → {end}
-      </a>
+      </button>
     );
   };
 
@@ -93,6 +106,7 @@ export default function Episode() {
     <div className="min-h-screen flex flex-col justify-between">
       <Head>
         <title>{videoTitle || 'Transcript'}</title>
+        <script src="https://www.youtube.com/iframe_api" />
       </Head>
       <div className="container mx-auto px-4 py-8">
         <div className="mb-6">
@@ -115,16 +129,30 @@ export default function Episode() {
           <div className="prose max-w-none">
             <div className="mb-8">
               <h1 className="text-3xl font-bold text-gray-900 mb-4">{videoTitle}</h1>
-              {youtubeCode && (
-                <a 
-                  href={`https://www.youtube.com/watch?v=${youtubeCode}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
-                >
-                  Watch on YouTube
-                </a>
-              )}
+              <div className="mb-6">
+                {youtubeCode && (
+                  <div className="aspect-w-16 aspect-h-9 mb-4">
+                    <iframe
+                      ref={playerRef}
+                      src={`https://www.youtube.com/embed/${youtubeCode}?enablejsapi=1`}
+                      title={videoTitle}
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                      className="w-full h-full rounded-lg"
+                    ></iframe>
+                  </div>
+                )}
+                {youtubeCode && (
+                  <a 
+                    href={`https://www.youtube.com/watch?v=${youtubeCode}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+                  >
+                    Watch on YouTube
+                  </a>
+                )}
+              </div>
             </div>
             <div className="bg-gray-50 p-6 rounded-lg shadow-sm border border-gray-200">
               {parsedContent}

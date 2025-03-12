@@ -13,3 +13,4 @@ whisper/poki/
 /whisper/test
 /whisper/transcripts
 api/transcripts/test.txt
+/api/transcripts
