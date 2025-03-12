@@ -1,0 +1,1153 @@
+Video title: De oplossing voor je e-mailverslaving heet Cora ft. POM ｜ ✨ Poki S03E17
+Youtube video code: _dS7tD0nKbE
+Last modified time: 2025-01-01 06:59:53
+
+------------------ 
+
+[0.00 --> 9.40]  Zo klinken 165.000 scheerbewegingen per minuut die je helpen om fris voor de dag te komen.
+[10.40 --> 17.84]  De flexibele scheerkop van de Philips S9000 Prestige volgt de contouren van je gezicht en scheert tot op 0 mm van je huid.
+[18.68 --> 21.68]  Ervaar een ultiem gladde en comfortabele scheerbeurt.
+[22.46 --> 24.16]  Ook wanneer je nog niet helemaal wakker bent.
+[24.72 --> 28.94]  Want dankzij de slimme sensoren past het scheerapparaat zich helemaal aan jou aan.
+[28.94 --> 32.78]  Zo kun jij nog extra genieten van je kopje koffie voor je de deur uitgaat.
+[33.68 --> 39.14]  De Philips S9000 Prestige is het ideale scheerapparaat om jouw dag goed mee te beginnen.
+[40.30 --> 44.24]  Koop de Philips S9000 Prestige bij jouw favoriete winkel.
+[45.32 --> 50.94]  Koffertijd voor mannen, de podcast waarin drie onbezonde gasten je wekelijks een kijkje geven in hun zinderende studentenleven.
+[51.06 --> 54.14]  We gaan geen onderwerp uit de weg en helpen je op het gebied van liefde.
+[54.14 --> 56.62]  Zou je huilen tijdens de seks een afknapper vinden?
+[56.62 --> 60.52]  Vriendschap en alle andere problemen die je tegenkomt in je studentenleven.
+[60.64 --> 62.12]  Ze misten een beetje vol.
+[64.04 --> 67.34]  Elke maandag om drie uur sharp op je favoriete podcastplatform.
+[67.40 --> 70.04]  Ik heb met zoveel meiden getoond.
+[70.34 --> 71.66]  Met vier verschillen.
+[71.82 --> 74.24]  Ik zei Bram, dat was vier keer dezelfde.
+[75.36 --> 76.96]  We luisteren deze podcast op eigen risico.
+[76.96 --> 81.86]  Welkom bij Poki, de Nederlandse podcast over kunstmatige intelligentie.
+[81.98 --> 86.32]  Waar we uitzoeken welke invloed AI gaat hebben op ons werk, ons leven en de samenleving.
+[86.90 --> 89.46]  Tegenover mij zit niemand, want wij hebben ook vakantie.
+[90.06 --> 94.58]  Maar ik wil je dit interview wat ik onlangs deed in mijn andere podcast POM op Podimo niet onthouden.
+[95.12 --> 97.50]  We hebben namelijk die week gehad over e-mail.
+[97.50 --> 101.54]  En ik ken daadwerkelijk niemand die een gezonde relatie met zijn e-mail heeft.
+[101.66 --> 107.20]  En ondanks de AI-revolutie van de afgelopen jaren, werkt e-mail nog steeds hetzelfde als tien jaar geleden.
+[107.74 --> 111.24]  Iedereen probeert te vechten naar een lege inbox en dat lukt maar niet.
+[111.94 --> 115.06]  Maar er wordt gewerkt aan een oplossing met behulp van AI.
+[115.22 --> 116.28]  En die oplossing heet Cora.
+[116.50 --> 118.58]  Een e-mailassistent die jou leert kennen.
+[119.04 --> 119.84]  Hoe je schrijft.
+[120.28 --> 121.68]  Welke e-mails je belangrijk vindt.
+[121.78 --> 124.04]  En welke e-mails alleen maar samengevat hoeven te worden.
+[124.04 --> 126.38]  En welke e-mails je helemaal niet hoeft te zien.
+[126.78 --> 128.46]  We spreken de ontwikkelaar van Cora.
+[128.60 --> 129.72]  Dat is Kieran Klaassen.
+[129.88 --> 133.30]  Hij is, zo heet dat, entrepreneur in residence bij Avery.
+[133.98 --> 137.06]  En Avery, dat moet ik ook even uitleggen, is mijn favoriet mediahuis.
+[137.16 --> 141.18]  Ze schrijven lange stukken, goede stukken, New Yorker-achtige stukken zelfs.
+[141.20 --> 142.96]  Over AI en andere nieuwe technologieën.
+[143.30 --> 145.42]  En brengen dus tegelijkertijd software uit.
+[146.06 --> 150.54]  Dat levert een heel leuk gesprek op over het probleem dat e-mail heet.
+[150.54 --> 153.78]  En hoe AI een cruciaal deel van de oplossing is.
+[153.78 --> 154.88]  Veel plezier bij Poki.
+[165.16 --> 167.68]  Kieran, wat was voor jou het moment dat je dacht, nu is het klaar met e-mail?
+[169.68 --> 171.46]  Ik heb verschillende momenten gehad.
+[173.36 --> 177.18]  Maar vooral het moment dat je een systeem hebt gehad.
+[177.18 --> 179.78]  Nu heb ik mijn inbox zero te pakken.
+[180.18 --> 185.76]  En twee weken later zie je je inbox en dan zitten er de 10.000 e-mails in je inbox.
+[185.88 --> 187.78]  En dan denk je, ja, dit werkt gewoon niet.
+[187.78 --> 191.58]  Ik heb gewoon mijn e-mail opgegeven.
+[191.74 --> 197.08]  Ik dacht van, ah ja, als er iets belangrijks komt, dan bellen ze me maar, appen ze me maar.
+[197.88 --> 203.94]  En ja, er moet gewoon een betere manier zijn om e-mail te doen.
+[204.10 --> 206.10]  En waarom heeft niemand dat nog gebouwd?
+[206.24 --> 207.48]  Waarom heeft Google dat niet gebouwd?
+[207.66 --> 211.74]  Waarom zijn er niet slimme mensen op deze wereld die daar gewoon een oplossing voor hebben?
+[211.74 --> 214.08]  Want was het probleem, er is teveel e-mail.
+[214.28 --> 215.62]  Oké, dat herkennen we allemaal wel.
+[215.62 --> 215.78]  Ja.
+[216.02 --> 216.70]  Maar wat nog meer?
+[217.70 --> 219.64]  Het is ook e-mail.
+[219.84 --> 223.22]  Mensen sturen je een e-mail en op dat moment moet je er iets mee.
+[223.56 --> 227.28]  Het is een soort van to-do-lijst waar andere mensen toegang tot hebben.
+[228.00 --> 230.60]  Dus dat is niet fijn.
+[230.68 --> 232.08]  Ik heb daar geen controle over.
+[232.08 --> 236.02]  En er is zoveel shit in mijn e-mail.
+[237.10 --> 242.08]  Waar je over de jaren, de twintig jaar, vijf en vijf jaar heb je ingeschreven voor newsletters.
+[242.74 --> 243.08]  Je bent verhuisd.
+[244.04 --> 250.46]  Je krijgt zoveel shit dat het werk om dat op te schonen, het heeft gewoon niet zoveel zin.
+[250.72 --> 255.30]  Ja, dus niet alleen komen er to-do's binnen waar je zelf geen controle over hebt.
+[255.40 --> 258.08]  Het is ook nog eens zo dat er andere dingen tussendoor komen.
+[258.20 --> 259.00]  Soms belangrijk.
+[259.20 --> 261.06]  Het kan ook berichten van je huisbaas zijn of zo.
+[261.06 --> 265.42]  Of dingen die niet urgent zijn, zoals nieuwsbrieven.
+[265.78 --> 266.14]  Absoluut.
+[266.30 --> 268.46]  En jouw boodschappij aan mensen heeft eigenlijk geen zin.
+[268.54 --> 271.48]  Je kan proberen naar Inbox Zero te streven.
+[271.66 --> 274.56]  Je kan proberen je netjes uit te schrijven, maar het blijft gewoon maar komen.
+[274.82 --> 275.78]  Het is weg tegen de b-kai.
+[276.48 --> 279.60]  Ja, en je kan het doen als je er energie en tijd in stopt.
+[279.72 --> 282.28]  Maar je wil er niet energie en tijd in stoppen.
+[282.34 --> 284.98]  Je wil je energie tijd in creëren stoppen.
+[285.22 --> 286.18]  In dingen bouwen.
+[286.38 --> 287.28]  In leven.
+[287.68 --> 288.56]  In leuke dingen.
+[288.56 --> 290.06]  Je wil het iemand kost te veel tijd.
+[290.06 --> 291.06]  Het kost te veel tijd.
+[291.14 --> 292.26]  Het kost te veel energie.
+[292.64 --> 297.22]  En je wil juist positieve dingen voelen als je software gebruikt.
+[297.46 --> 299.26]  Je wil niet je e-mail openen.
+[299.34 --> 301.60]  Niemand denkt, oh ja, ik ga even lekker mijn e-mail openen.
+[301.66 --> 303.04]  Oh, ik ben wel verslaafd aan mijn e-mail hoor.
+[303.24 --> 304.02]  Mensen zijn verslaafd aan mijn e-mail.
+[304.02 --> 304.98]  Het is een topamine machine.
+[305.22 --> 305.56]  Absoluut.
+[305.56 --> 307.12]  Er kan ook heel vet e-mail tussen zitten.
+[308.60 --> 309.72]  En daar willen we op.
+[309.96 --> 315.28]  We willen inzoomen op juist het verhaal uit de e-mails die positief zijn.
+[315.48 --> 320.38]  Dus juist die dingen die je wil lezen en die je wil zien, die halen we eruit.
+[320.88 --> 320.98]  Ja.
+[320.98 --> 324.38]  En daar maken we de focus op.
+[324.60 --> 325.56]  Dan gaan we erin duiken.
+[325.88 --> 327.00]  Jullie noemen het Cora.
+[327.44 --> 328.50]  Sorry, mijn moeder ook.
+[328.96 --> 329.34]  Mooie naam.
+[329.52 --> 329.76]  Leuk.
+[330.10 --> 331.54]  Het komt ook van de naam van iemand.
+[332.06 --> 332.26]  Ja?
+[332.42 --> 332.54]  Ja.
+[332.78 --> 333.48]  Nederlands vrouw?
+[333.62 --> 333.86]  Nee.
+[334.06 --> 334.38]  Oké.
+[334.94 --> 335.72]  Wie dan wel?
+[336.14 --> 337.86]  Een nichtje van iemand.
+[338.12 --> 338.84]  Nou, dat is gezellig.
+[339.00 --> 340.38]  Dat is leuk.
+[340.58 --> 341.72]  Maar wat is Cora?
+[341.72 --> 347.96]  Cora is een tool die jij verbindt met je Google of Gmail account.
+[348.24 --> 355.04]  Die jou helpt om e-mails sneller te beantwoorden.
+[355.04 --> 363.06]  En e-mails te verwerken op een manier dat je daar twee keer per dag een brief kan openen en een verhaal kan lezen.
+[363.30 --> 364.56]  Wat er allemaal is gebeurd in die tijd.
+[365.12 --> 370.96]  Wat dat doet is, als er een e-mail binnenkomt, kijkt Cora daarna en denkt.
+[371.72 --> 373.58]  Moet jij antwoorden?
+[374.34 --> 375.34]  Moet je er iets mee doen?
+[376.40 --> 377.50]  AI kijkt ernaar.
+[377.58 --> 378.82]  AI kijkt ernaar.
+[379.16 --> 381.00]  En algoritmes kijken ernaar.
+[381.36 --> 383.26]  En besluit, hé, deze e-mail is belangrijk.
+[383.40 --> 384.48]  Daar moet jij iets mee doen.
+[384.66 --> 386.56]  Dan laat die hem in jouw inbox zitten.
+[387.46 --> 393.86]  En als wij een patroon hebben ontdekt van, hé, dit is een soort e-mail waar jij altijd op deze manier op reageert.
+[394.06 --> 398.70]  Bijvoorbeeld een aanvraag voor een bepaalde offerte.
+[398.70 --> 402.24]  Of een aanvraag voor een cliënt die je hebt.
+[402.46 --> 405.78]  Of je moeder die zegt, hé, hoe gaat het met je?
+[405.86 --> 408.30]  Gewoon bepaalde patronen die je wilt ontdekken uit je e-mail.
+[408.56 --> 412.50]  Dan kunnen wij daar alvast een bericht, een draft op genereren.
+[412.72 --> 413.96]  Ik vind moeder dan een slecht voorbeeld.
+[414.08 --> 414.50]  Maar ja.
+[414.74 --> 415.48]  Het kan.
+[415.68 --> 416.30]  Het zou kunnen.
+[416.30 --> 416.40]  Ja.
+[417.58 --> 418.76]  En een draft.
+[419.62 --> 421.42]  We creëren dan een draft voor jou.
+[421.52 --> 422.90]  Die zetten we in je gmail klaar.
+[423.12 --> 424.74]  En vaak zijn het een aantal opties.
+[424.92 --> 427.70]  Want als je een aanvraag hebt voor een interview bijvoorbeeld.
+[428.20 --> 429.54]  Kan je zeggen, nee, ik heb geen tijd.
+[429.66 --> 430.52]  Of ja, klinkt goed.
+[430.68 --> 435.10]  Of hé, ik cc even mijn PA om te schedulen.
+[435.18 --> 436.24]  En hoe ziet dat er dan uit?
+[436.28 --> 438.96]  Want je zegt, we zetten dit klaar in je drafts folder.
+[439.14 --> 441.42]  Dat kan ik me nog voorstellen in gmail.
+[441.54 --> 442.84]  Dus ik gebruik gewoon een native gmail.
+[442.84 --> 445.10]  Ja, je kan gewoon native gmail gebruiken.
+[445.62 --> 448.62]  En we sturen, we creëren dan gewoon een draft daar.
+[448.74 --> 450.76]  En dan zie je drie berichten met een separator.
+[451.00 --> 452.34]  Dus ik haal weg wat ik niet wil.
+[452.44 --> 455.12]  En doe je dat met terugwerkende kracht?
+[455.18 --> 457.40]  Dat je analyseert hoe ik in het verleden heb teruggemaild?
+[458.06 --> 458.26]  Ja.
+[458.64 --> 461.04]  Dus als jij onboard, doen we een aantal dingen.
+[461.74 --> 464.32]  Wij doen een query door jouw e-mail.
+[464.64 --> 467.44]  En vissen daar belangrijke e-mails uit.
+[468.44 --> 471.50]  En we pakken ongeveer duizend stuks.
+[471.50 --> 476.78]  En analyseren dat met een AI, met een LM.
+[477.12 --> 479.70]  En kijken naar een aantal punten.
+[479.84 --> 482.42]  Wat voor een soort persoonlijkheid kunnen we extraheren daarvan?
+[482.90 --> 485.48]  Wat is jouw schrijfstel?
+[487.16 --> 488.36]  Hoe schrijf je?
+[488.44 --> 489.84]  Wat voor soort woorden gebruik je?
+[490.90 --> 491.94]  Maak je spelfouten?
+[491.98 --> 492.48]  Ja of nee?
+[492.86 --> 493.84]  Dat soort dingen.
+[494.20 --> 496.72]  Gewoon om het heel erg jouw te maken.
+[496.72 --> 501.44]  En dan gaan we kijken van, hé, zien we thema's terug?
+[501.56 --> 503.46]  Wat voor soorten e-mail zijn er?
+[503.54 --> 505.36]  Dus een soort van SOPs of zo.
+[505.74 --> 505.92]  Van templates.
+[506.78 --> 510.16]  Van wat voor soort repeterende soort e-mail heb je?
+[510.38 --> 512.20]  En daar zoomen we dan op in.
+[512.28 --> 515.42]  Want dat zijn juist de interessante dingen waar je heel veel tijd mee kan sparen.
+[515.52 --> 519.72]  Want vaak zijn dat e-mails waar mensen al weten op hoe ze reageren.
+[520.44 --> 523.38]  Oké, laten we het daarin induiken over hoe dit dan precies technisch werkt.
+[523.46 --> 524.16]  Dan ben ik heel nieuwsgierig.
+[524.24 --> 527.08]  Maar nog even aan de bovenkant wat mensen hierin hebben.
+[527.26 --> 529.72]  Dus hij zet drafts e-mails klaar in jouw schrijfstel.
+[530.50 --> 533.72]  Op het moment dat er een verzoek is waarvan dat ding denkt, hier wil je op reageren.
+[534.42 --> 535.42]  En dit is hoe je dat zou doen.
+[536.02 --> 541.24]  En daarna zeg je, er komen twee keer per dag, komt er een e-mail binnen met de rest.
+[541.38 --> 542.10]  Zet ik me dan zo voor?
+[542.22 --> 542.86]  Of hoe moet ik dat zien?
+[542.86 --> 548.74]  Ja, dus ongeveer 90 tot 98 procent van je e-mail hoef je helemaal niks mee.
+[549.56 --> 551.94]  Daar hoef je niet op te reageren.
+[552.04 --> 555.08]  Het enige wat je ermee hoeft is kijken of er iets leuks tussen zit.
+[555.14 --> 557.92]  Zit er een newsletter tussen of een promotie?
+[558.46 --> 564.26]  En wat wij doen met die e-mails of belangrijke informatie van...
+[564.26 --> 567.70]  de deal was gesloten gisteren met X, Y, Z of zo.
+[569.10 --> 572.92]  Wat we doen is we archiveren die e-mails in jouw gmail.
+[573.58 --> 577.72]  Dus als jij in je gmail gaat, heb je een hele schone inbox.
+[578.02 --> 582.00]  En twee keer per dag om acht uur ochtends en drie uur middags krijg jij een brief.
+[582.00 --> 591.02]  En we hebben een heel mooie esthetisch uitziende samenvatting van al die e-mails in soort actiegroepen.
+[591.14 --> 594.40]  Van hé, dit stukje daar moet je allemaal actie op ondernemen.
+[594.52 --> 600.66]  Zoals een DocuSign tekenen of je bent uitgenodigd voor een bepaalde product.
+[601.12 --> 602.32]  En je kan actie ondernemen.
+[602.74 --> 603.86]  Dan hebben we newsletters.
+[604.06 --> 605.60]  We hebben important information.
+[606.02 --> 607.56]  Allemaal in één e-mail.
+[607.56 --> 612.26]  Het is een e-mail en je klikt door naar een app.
+[612.68 --> 614.02]  Op dit moment is het een webapp.
+[614.56 --> 618.22]  Maar het is een webapp die dan alles laat zien aan je.
+[618.48 --> 623.48]  En dan is dat de reden waarom je dan dat doet in plaats van linken naar de mailtjes zelf.
+[623.58 --> 625.62]  Is omdat je dan kan doorscrollen of zo.
+[625.72 --> 628.06]  Dan kun je van de ene mail naar de andere mail makkelijker gaan.
+[628.74 --> 634.76]  Ja, het belangrijkste is dat we juist die e-mails groeperen in die focus delen.
+[635.00 --> 636.84]  Je kan je eigen delen daar ook aan toevoegen.
+[636.84 --> 639.72]  Dus als je zegt, ik heb een deal flow of zo.
+[639.98 --> 642.76]  Ik ben een investeerder en ik wil daar een speciaal sectie voor hebben.
+[642.86 --> 644.08]  Kan je dat ook doen?
+[644.30 --> 648.28]  Of updates van mijn kinderen van school wil ik in één sectie hebben.
+[648.48 --> 648.88]  Geweldig.
+[649.74 --> 651.14]  Dan kan dat.
+[651.66 --> 653.02]  En dan kan je daarop focussen.
+[653.30 --> 655.06]  En je kan daar je eigen prioriteit in geven.
+[655.16 --> 658.20]  Sommige mensen willen geen newsletters krijgen of geen promoties.
+[658.26 --> 664.06]  Maar andere mensen die willen juist zien of er wat leuk zit met hun favoriete merk.
+[664.06 --> 666.98]  Die laten we dan ook meer naar boven gaan.
+[666.98 --> 672.10]  Dus het idee is niet dat je meer in je Gmail door die 300 e-mails scant.
+[672.24 --> 674.74]  En dan hoopt dat je daar de juiste dingen uitvindt.
+[674.74 --> 677.52]  Wat eigenlijk is hoe je dat nu moet doen.
+[678.26 --> 681.70]  Wat we doen, we vatten het samen.
+[682.08 --> 687.56]  En we geven een betere beschrijving dan een volledige e-mail.
+[687.56 --> 690.00]  Als je verder wil klikken, kan je altijd terug.
+[690.28 --> 691.26]  En dan klik je naar de e-mail.
+[691.48 --> 693.60]  Je kan altijd de originele e-mail opvragen.
+[693.74 --> 696.34]  Je kan altijd de originele e-mail terugsturen naar je inbox.
+[696.88 --> 699.76]  Maar het idee is dat je minder e-mails hoeft te scannen in je Gmail.
+[700.30 --> 704.24]  En het lijkt me ook het idee dat je helpt afkikken van een eventuele e-mailverslaving.
+[704.40 --> 707.16]  Want mijn e-mailverslaving manifesteert zich als volgt.
+[707.66 --> 711.48]  Ik check de hele dag door een e-mail in de hoop dat er een dopamine shot tussen zit.
+[711.48 --> 716.70]  En dat probeer je dan op te heffen door te zeggen om acht uur morgens.
+[716.84 --> 719.40]  Kan je hem dus checken en om drie uur.
+[719.50 --> 721.62]  En verder hoef je er niet mee bezig te zijn.
+[721.64 --> 723.66]  Dan krijg je wel heel veel dopamine in één keer.
+[723.86 --> 726.26]  Ja, helemaal overspoeld.
+[726.86 --> 727.90]  Wel lekker ook.
+[727.98 --> 728.86]  Moet je je voorstellen.
+[729.06 --> 731.98]  Kun je die tijdstippen ook zelf instellen trouwens?
+[732.28 --> 734.44]  De tijdstippen dat je die bij ons scuidt?
+[734.48 --> 736.34]  Op dit moment is het acht uur en drie uur.
+[736.48 --> 739.62]  Maar we zijn nog niet officieel gelanceerd.
+[739.62 --> 743.20]  En als iemand dat op een andere manier, als iemand vier keer per dag dat wil.
+[743.64 --> 744.04]  Nee, nee, nee.
+[744.06 --> 744.56]  Ik zeg nou niet.
+[744.76 --> 745.92]  Nee, hou me nou gewoon niet weg.
+[746.32 --> 747.08]  Op dit moment.
+[747.10 --> 749.54]  En ze willen graag dat hij tegen zichzelf beschermd wordt.
+[749.72 --> 751.80]  Acht uur en drie uur werkt prima.
+[751.96 --> 753.96]  We hebben niemand horen klagen daarover.
+[754.20 --> 761.62]  En het leuke toen, ik heb dit gebouwd toen we onze Every Retreat hadden in het zuiden van Frankrijk.
+[761.62 --> 769.68]  En dit was een soort van, laten we gewoon kijken wat dat doet emotioneel met je als het alles archiveert en een e-mail stopt.
+[770.22 --> 777.10]  En wat ik voelde de eerste keer was, ik had dat zelf dat ik naar mijn e-mail ga en kijk, scroll, scroll.
+[777.10 --> 779.56]  En er is gewoon nooit iets nieuws.
+[780.22 --> 783.28]  En uiteindelijk denk ik van, ja, er is niks nieuws.
+[783.38 --> 786.02]  Dus ik onwend mezelf om steeds te scrollen.
+[786.26 --> 788.60]  Je wilt zeggen, je hebt dit voor jezelf aangezet.
+[788.72 --> 790.56]  Dat je mailbox eigenlijk leefgemaakt werd.
+[791.08 --> 796.36]  En toen ging je alsnog kijken naar de archiefmapsen van, heeft de AI iets gemist?
+[796.70 --> 801.06]  Nee, ik ging naar mijn gmail en zag dat er geen nieuwe ongelezen e-mails in zaten.
+[801.20 --> 801.66]  En dacht ik, ja.
+[801.66 --> 804.26]  Maar nu, omdat het werd gearchiveerd.
+[804.36 --> 809.18]  Dus mijn automatisme om mijn e-mail app te openen, werd gestopt.
+[809.40 --> 810.52]  Ja, omdat de beloning uitbleef.
+[810.56 --> 811.84]  Ja, er was geen beloning meer.
+[812.04 --> 813.94]  En het voelde heel erg chill.
+[814.24 --> 816.88]  Want ik voelde een soort van, hé, er is niks nieuws.
+[816.96 --> 818.98]  Maar ik weet dat die brief komt later.
+[819.12 --> 821.14]  Dus ik ga niks missen op dat moment.
+[821.92 --> 824.72]  En het was een soort van zen chillness.
+[825.48 --> 826.40]  En dat is het doel.
+[826.54 --> 828.14]  Uiteindelijk moet je niks missen natuurlijk.
+[828.30 --> 829.80]  Dat is het hele, ja.
+[829.80 --> 830.60]  Ja, oké.
+[830.62 --> 833.98]  Dus als ik het goed begrijp, drafts klaarzetten voor e-mails in jouw toon.
+[834.10 --> 834.20]  Ja.
+[834.22 --> 838.70]  Waarvan je zelf denkt dat je die, waarvan die AI denkt, daar gaat hij op willen antwoorden.
+[839.20 --> 843.56]  En dan vervolgens alle mails verzamelen twee keer per dag.
+[843.76 --> 847.04]  Sturen in een brief die gecategoriseerd is naar jouw wensen.
+[847.66 --> 850.54]  En die ook nog de belangrijkste punten eruit extraeert.
+[850.54 --> 853.30]  Dus het is niet zomaar een lijstje van je hebt drie mails van je baas.
+[853.40 --> 855.52]  Maar er staat ook in wat daarin staat.
+[855.72 --> 857.50]  Dus die totaalmodel verwerkt dat.
+[857.60 --> 859.38]  Je hoeft niet door te klikken in die ideale situatie.
+[859.38 --> 862.08]  Ja, je zou nooit moeten doorklikken.
+[862.24 --> 865.44]  En dat brengt ook de context van afgelopen briefs in.
+[865.88 --> 870.88]  En zegt dan, hé, dit is de update van deze nieuwe situatie.
+[871.52 --> 876.96]  En hij heeft dan ook memory over wat er gaande is in jouw leven.
+[878.34 --> 880.02]  Daar zijn we net mee begonnen.
+[880.38 --> 881.60]  Maar vertel hierover, wat betekent dit?
+[881.70 --> 885.64]  Het idee is dat de AI snapt wat er gaande is in jouw leven.
+[885.64 --> 891.60]  Kijk, als jij zo op vakantie gaat, verandert dat wat context aan alle e-mails die je krijgt.
+[891.78 --> 894.64]  Want waarschijnlijk moet je misschien sneller reageren op sommige e-mails.
+[894.86 --> 897.14]  Of moet je anders plannen.
+[897.42 --> 900.20]  Of moet je nee zeggen tegen dingen omdat je op vakantie gaat.
+[900.84 --> 905.00]  En door te weten, want nou ja, als jij ooit een keer hebt gedeeld in de e-mail.
+[905.08 --> 905.90]  Ik ga af vakantie.
+[906.28 --> 906.96]  Zorg ervoor dat.
+[906.96 --> 910.56]  Dan kunnen we dat opslaan als memory.
+[910.94 --> 912.10]  Net zoals ChatGPT dat doet.
+[912.52 --> 913.88]  Het is hetzelfde.
+[914.92 --> 919.08]  En dat kunnen we dan weer gebruiken in hoe we die e-mails samenvatten.
+[919.34 --> 921.32]  En hoe we die e-mails beantwoorden.
+[922.10 --> 924.10]  En dat zou iemand doen.
+[924.22 --> 928.38]  Als jij iemand in dienst hebt die je e-mail doet, dat zullen ze doen.
+[928.38 --> 928.92]  Ja, ja, ja.
+[928.92 --> 929.92]  Oké.
+[930.70 --> 934.02]  En vertel nog meer over die brief die mensen dan krijgen.
+[934.66 --> 937.50]  Het houdt dus mee met je, het houdt rekening met je geheugen.
+[937.70 --> 938.60]  Het vat het samen.
+[939.22 --> 941.50]  Het idee is dat je eigenlijk niet meer hoeft door te klikken.
+[942.60 --> 945.62]  Ja, wat doet dat met jou als je die brief nu, want je hebt gezegd ik ben niet meer verslaafd.
+[945.66 --> 946.92]  Want de beloning is uitgebleven.
+[947.50 --> 950.04]  Maar wat doet het dan met jou als je die brief krijgt?
+[950.04 --> 951.64]  Hoe ziet die moment er nu uit?
+[952.74 --> 954.12]  Er gaat een alarm af in huis.
+[954.30 --> 955.76]  Ja, mijn telefoon.
+[955.84 --> 956.02]  Hij is binnen.
+[956.16 --> 956.86]  Ja, hij is binnen.
+[957.04 --> 957.70]  Alles crasht.
+[957.70 --> 960.76]  Nee, de brief.
+[961.04 --> 965.88]  Het is nu een soort moment op de dag dat je plant, waarvan je weet van, hey, ik neem vijf,
+[965.98 --> 968.04]  tien minuten om daar doorheen te gaan.
+[969.62 --> 971.90]  Op dit moment krijg ik ook briefs in de weekenden.
+[972.02 --> 975.80]  Dat werkt niet voor mij, want in het weekend lees ik mijn brief niet.
+[975.96 --> 978.20]  Dus dan op maandag moet ik opeens vier briefs lezen.
+[978.20 --> 980.90]  Dus dat is iets waar we aan gaan werken.
+[981.16 --> 986.54]  Maar het leuke ervan is, het voelt niet alsof ik e-mails lees.
+[986.54 --> 989.04]  Het voelt meer als een soort artikel.
+[989.84 --> 994.96]  Een soort, ja, het voelt wat positiever, leuker om te lezen.
+[994.96 --> 1003.04]  En wat ik ervaar ook is dat bepaalde dingen uit mijn e-mail worden gelicht die ik nooit had gepakt.
+[1003.30 --> 1007.50]  Want in de promoties soms zit er iets waar ik eigenlijk naar wil kijken.
+[1007.84 --> 1008.64]  Heb je een voorbeeld daarvan?
+[1008.64 --> 1014.46]  Ja, ik had een promotie voor een product bij Ableton.
+[1015.10 --> 1019.06]  En ja, ik had daar nooit naar gekeken, maar dat was een promotie met Black Friday.
+[1019.20 --> 1022.66]  Het was een Black Friday deal die ik anders niet had gezien.
+[1022.84 --> 1026.10]  En dacht van, oh ja, chill en gelijk gekocht.
+[1026.64 --> 1027.62]  Dus zoiets.
+[1027.98 --> 1030.44]  En kon je reconstrueren waarom dat dan naar boven werd gehaald?
+[1030.58 --> 1034.08]  Wat begreep de LM dat het voor jou relevant zou zijn?
+[1034.08 --> 1039.76]  Ja, ten eerste, ik kijk gewoon nooit in de promoties in Gmail.
+[1039.98 --> 1041.58]  Want die stoppen dat weg in een ander tapje.
+[1042.90 --> 1046.40]  En ik weet niet hoe de LM dat doet, maar hij heeft het gedaan.
+[1046.58 --> 1047.08]  Dat is het leuke.
+[1047.52 --> 1051.74]  Hij bouwt een profiel van jou op en geheugen van jou op.
+[1051.92 --> 1057.08]  En hij scoort wat hij denkt dat jij leuk vindt aan promoties.
+[1057.08 --> 1061.42]  En daar gebruikt hij gewoon klikdata en open jij e-mails.
+[1061.64 --> 1063.08]  Ik heb geen flauw idee hoe hij dat doet.
+[1063.30 --> 1066.72]  Maar het klinkt dus eigenlijk alsof je e-mail nu iets voor jou is.
+[1066.78 --> 1070.30]  Wat je inroostert en dan een kwartier aan werkt en weer doorgaat met je leven.
+[1070.64 --> 1071.88]  Ja, klinkt als een ideaal.
+[1072.08 --> 1073.94]  Ja, e-mail is positiever.
+[1074.34 --> 1078.62]  En ik e-mail mensen sneller terug nu omdat er een draft klaar staat.
+[1078.62 --> 1084.48]  En waarom, je zei net helemaal aan het begin van je worstelde met dat e-mail probleem.
+[1084.70 --> 1086.20]  En zelfs Google doet er niks aan.
+[1086.74 --> 1090.12]  Waarom dacht jij dan, kie dan naar Nederland van ik ga dit wel even fixen.
+[1090.20 --> 1091.34]  Hoe ontstond dat moment?
+[1094.78 --> 1100.60]  Ja, ik denk dat het begon bij gesprekken met Avery.
+[1100.96 --> 1103.48]  Ik heb altijd dit idee gehad met e-mail.
+[1103.48 --> 1107.86]  En ik kreeg mijn tweede dochter in juni.
+[1108.50 --> 1113.50]  En ik had een aantal maanden vrijgenomen om gewoon lekker te chillen.
+[1114.44 --> 1116.94]  En ik ben zo'n bouwer dat ik niet stil kan zitten.
+[1117.06 --> 1118.86]  Na een week ben ik al boord.
+[1119.66 --> 1121.32]  Dus er begon al wat te kriebelen.
+[1121.42 --> 1122.22]  Ik wilde wat doen.
+[1123.34 --> 1128.12]  En op dat moment ben ik gewoon wat rond aan het mailen.
+[1128.38 --> 1132.40]  En mensen aan het zoeken die ook dingen aan het doen zijn in mijn netwerk.
+[1132.40 --> 1135.62]  En Avery kwam op de radar ook.
+[1135.70 --> 1140.58]  En die waren op zoek naar mensen die ook wilden bouwen of ideeën hadden.
+[1140.68 --> 1145.06]  En ik ben gewoon, ik heb geëmaild of een bericht gestuurd.
+[1146.20 --> 1148.22]  En ik deelde mijn ideeën.
+[1148.28 --> 1150.56]  En zij hadden ook ideeën over schrijven.
+[1150.94 --> 1152.20]  En e-mail drafting.
+[1152.64 --> 1156.14]  En ja, we dachten van laten we gewoon maar eens wat bouwen.
+[1156.28 --> 1156.90]  Ik had tijd.
+[1157.20 --> 1159.92]  Ik had, ja, ik had zin om iets te bouwen.
+[1159.92 --> 1162.84]  Dus ik ben gewoon erin gesprongen.
+[1162.98 --> 1165.18]  En ik heb, we hebben één keer gejammed.
+[1165.60 --> 1166.80]  Brandon en Dan en ik.
+[1168.06 --> 1169.34]  Dit zijn de oprichters van Avery.
+[1169.42 --> 1170.40]  De oprichter, ja.
+[1170.88 --> 1172.52]  Dan is de oprichter van Avery.
+[1172.66 --> 1178.66]  En Brandon is de product kant van Avery die er nu ook is.
+[1178.66 --> 1181.70]  En ik heb gewoon wat gebouwd in een avond.
+[1181.84 --> 1182.16]  Ik zei jongens.
+[1182.16 --> 1182.86]  Wat was het idee toen?
+[1183.08 --> 1184.20]  Het idee was de drafting.
+[1184.56 --> 1184.84]  Ja, ja.
+[1185.22 --> 1186.28]  Drafts klaarzetten in je mailbox.
+[1186.28 --> 1188.64]  Ja, kan je niet gewoon iets laten schrijven in jouw stijl.
+[1188.72 --> 1193.08]  Dit was het moment waarop Sonnet 3.5 ook een paar weken live was.
+[1193.20 --> 1195.30]  Dus het was van ja, nou we zijn er.
+[1195.38 --> 1195.84]  Van klot.
+[1195.84 --> 1196.72]  Ja, klot.
+[1196.86 --> 1197.36]  Ja, klot.
+[1197.50 --> 1205.74]  En dit model is zo goed met schrijven dat het gewoon een bepaalde bar voorbij gaat van hoe goed het is.
+[1205.88 --> 1209.88]  En dat was het moment waarop mensen dachten, oké, nu kan ik het gebruiken.
+[1210.46 --> 1210.96]  Dat is wel grappig.
+[1211.04 --> 1215.04]  Want je hoort dus vaak voorbeelden van AI gaat programmeren en productontwikkeling veranderen.
+[1215.22 --> 1221.46]  En een concrete manifestatie daarvan is dat jij dus al jarenlang een rondloop met een probleem waarvan je denkt, dit is zelfs te groot voor Google om te fixen.
+[1221.46 --> 1228.32]  Maar omdat die technologie nu beschikbaar is, dacht je, ik kan dit gewoon als loonprogrammeur bij een residency traject proberen.
+[1228.58 --> 1229.62]  Ja, absoluut.
+[1229.72 --> 1234.88]  Ja, en dat is altijd het idee in je hoofd van ja, maar Google gaat dit doen of van wie ben ik.
+[1235.40 --> 1237.40]  En dat is onzin, want Google gaat het niet doen.
+[1238.00 --> 1239.12]  En Google heeft het niet gedaan.
+[1239.26 --> 1246.34]  Ze hebben honderden mensen op hun AI team zitten en je gebruikt een AI Gemini plugin van Chrome en het is echt knudden.
+[1246.34 --> 1256.84]  Het is heel moeilijk voor Google om dit op te lossen omdat ze gewoon te groot zijn en niet specialisten hebben om echt te focussen op één ding.
+[1257.06 --> 1262.10]  Ze doen dat dan willekeurig, misschien soms met Notebook LM, maar dat is dan echt een uitzondering.
+[1262.74 --> 1270.32]  Maar juist om met Avery samen te werken, die zeggen van volgens mij kunnen we dit doen.
+[1270.32 --> 1277.60]  En juist om iemand erachter te hebben staan met een netwerk en following van Avery, wordt het heel interessant.
+[1277.88 --> 1280.14]  Want het gaat niet om de tool alleen.
+[1280.40 --> 1286.62]  Het gaat ook hoe breng je zoiets op de markt en hoe bereik je de mensen die dit willen gebruiken.
+[1286.70 --> 1288.06]  Want dat is ook een grote vraag.
+[1288.30 --> 1291.46]  Ik wil het heel graag hebben over hoe dat gaat bij Avery, want het is een bijzonder bedrijf.
+[1291.84 --> 1294.72]  En we zijn ook op een bepaalde manier best wel jaloers op deze mensen.
+[1294.84 --> 1296.56]  Maar toch nog even hoe het technisch werkt.
+[1296.56 --> 1300.92]  Want jij zegt Claude 3.5 zon het nieuwe versie kwam daarvan uit.
+[1301.36 --> 1305.60]  Daarvan dacht je, die kan natuurlijker praten, die kan normaal in Nederlands of Engels.
+[1306.24 --> 1310.72]  En daarmee wordt het bruikbaarder om je tone of voice na te doen.
+[1310.94 --> 1312.40]  Dat is de kern dan neem ik aan.
+[1312.48 --> 1314.36]  Dat hij gewoon beter schrijft.
+[1314.48 --> 1316.46]  Niet over programmeren, maar over schrijven.
+[1317.32 --> 1324.12]  En wat voor, want ik begrijp dus dat je probeert de spreektaal of de schrijftaal van je klanten te vatten.
+[1324.12 --> 1326.46]  En die na te doen.
+[1326.56 --> 1329.46]  Maar er is ook iets dat die mails filtert voor jou.
+[1329.68 --> 1332.02]  Dat lijkt me een cruciaal ding dat goed werkt.
+[1332.12 --> 1336.82]  Want op het moment dat ik dat ding niet vertrouw, de filtering, ga ik deze app niet meer gebruiken.
+[1337.08 --> 1338.22]  Ja, het restrikes your out waarschijnlijk.
+[1338.26 --> 1342.06]  Ja, en overlapt het ook met dat, dan krijg ik vast die digest nog binnen.
+[1342.20 --> 1346.24]  Maar dan ga ik ook nog de archieffolder doorzit scrollen, waardoor het probleem niet is opgelost.
+[1346.24 --> 1350.88]  Hoe heb je dit naar een niveau gekregen dat je denkt dit is betrouwbaar?
+[1350.98 --> 1352.02]  En hoe is dat gegaan?
+[1353.32 --> 1354.48]  Veel evaluaties.
+[1355.84 --> 1357.52]  Gewoon heel goede data.
+[1357.82 --> 1358.86]  Goede datasets.
+[1359.72 --> 1364.84]  Gewoon een honderd mails selecteren waarvan jij weet hoe je ze wil gecategoriseerd hebben.
+[1365.58 --> 1369.90]  En gewoon een toolset hebben waar je heel snel e-vails kan draaien.
+[1370.96 --> 1374.08]  Maar dat gaat over individuele gebruikers waarbij je dat dan mee doet.
+[1374.08 --> 1376.36]  Ja, en dat is vooral bij onszelf eerst.
+[1376.56 --> 1380.28]  We beginnen met dit van Dan gebruikt het, ik gebruik het, Brennan gebruikt het.
+[1380.42 --> 1386.40]  En dan als het voor ons goed genoeg is, dan zeggen we nou, wil iemand anders binnen Every erbij.
+[1386.80 --> 1388.20]  Hoe werkt dat dan op een abstract niveau?
+[1388.84 --> 1391.22]  Want jullie zijn allemaal individuen met verschillende smaak.
+[1391.44 --> 1395.20]  Dus hoe krijg je dan, zeg maar, hoe maak je zo'n prompt?
+[1395.24 --> 1395.84]  Het is een prompt.
+[1396.16 --> 1402.02]  Ja, het zijn een aantal prompts en een aantal algoritmen die samenwerken.
+[1402.02 --> 1411.76]  Maar hoe het werkt is, je gaat gewoon prompt naar prompt, heb je dataset en die prompt pas je aan.
+[1412.00 --> 1416.94]  Bijvoorbeeld, je hebt een prompt die zegt, oké, dit is een e-mail die binnenkomt.
+[1417.34 --> 1418.34]  De volledige thread.
+[1419.10 --> 1422.90]  De e-mail is gericht aan deze persoon.
+[1422.90 --> 1429.90]  En ik heb tien categorieën waarvan ik wil dat je er een toewijst.
+[1431.64 --> 1432.90]  En dan ga je in op die categorieën.
+[1433.70 --> 1443.04]  Bijvoorbeeld, important is als het niet een antwoord nodig heeft, maar dat het wel belangrijk is om te weten.
+[1443.26 --> 1445.34]  En dan kan je een beetje een few shot example geven.
+[1445.34 --> 1448.14]  Dat hoeft niet, dat kan.
+[1448.48 --> 1449.46]  Dus even om te vertalen.
+[1449.72 --> 1454.36]  Dus je zegt eigenlijk, de eerste stap in zo'n filter is, e-mail kom binnen.
+[1454.58 --> 1459.86]  Dan gaat er een chatjebid, of de exploit gaat er naar kijken.
+[1460.52 --> 1463.22]  En dan ga je als eerste filteren, is dit belangrijk ja of nee?
+[1463.26 --> 1468.16]  Want dat moet je weten of je überhaupt een e-digest gaat zetten, neem ik aan.
+[1468.34 --> 1468.54]  Ja.
+[1468.54 --> 1470.14]  Oké, dus dat is stap één.
+[1470.24 --> 1472.06]  Dan moet je belangrijk definiëren.
+[1472.90 --> 1475.38]  En dat is dus grappig, want hiermee ben je eigenlijk het werk aan het doen.
+[1475.62 --> 1480.82]  Zeg maar, je bent dan weliswaar technologie aan het maken, maar het is eigenlijk in gewone taal.
+[1480.92 --> 1482.56]  Je bent het gewoon in het Engels aan het opschrijven.
+[1482.76 --> 1487.00]  Zo van, ik ga nu uitleggen aan dat ding, in gewone taal, alsof ik tegen iemand praat.
+[1487.56 --> 1489.16]  Wat maakt dat een e-mail belangrijk is?
+[1489.20 --> 1492.46]  En dan zeg je dus, er is geen reactie nodig, dit is belangrijk.
+[1492.82 --> 1495.94]  En ik ga je nu een aantal voorbeelden geven van wat belangrijke e-mails zijn.
+[1495.94 --> 1497.58]  En wat zet je dan voor voorbeelden daarin?
+[1497.58 --> 1505.28]  Daar zet je voorbeelden in van die dataset die je hebt, waarvan je weet, dit soort e-mails zijn belangrijk, maar hebben geen antwoord nodig.
+[1505.38 --> 1505.74]  Zoals?
+[1506.06 --> 1513.62]  Zoals, ik heb net mijn huis verkocht, de advocaat die zegt, je hebt je geld op de rekening.
+[1513.64 --> 1514.20]  Ja, precies.
+[1514.28 --> 1515.94]  Hoef ik niet op te antwoorden, maar wil ik wel weten.
+[1515.96 --> 1519.38]  En dan begrijpt dat taal, oké, dit is een bepaalde categorie e-mails.
+[1519.44 --> 1519.60]  Ja.
+[1519.94 --> 1522.52]  En dan hoef je naar drie voorbeelden, begrijpt die de wereld.
+[1522.80 --> 1525.70]  Ja, het hangt er vanaf welk model je gebruikt.
+[1525.70 --> 1529.24]  Maar vaak, als je een paar voorbeelden geeft, werkt dat heel goed.
+[1529.76 --> 1530.84]  En oké, dus dat is belangrijk.
+[1531.02 --> 1533.04]  Kun je nog een aantal van dat soort andere categorieën noemen?
+[1533.46 --> 1533.62]  Ja.
+[1533.72 --> 1536.48]  Dit is een soort van keten die eigenlijk afwerkt.
+[1536.54 --> 1537.90]  Ja, we hebben ongeveer tien categorieën.
+[1537.96 --> 1540.00]  Maar een andere belangrijke is de timely.
+[1540.66 --> 1544.40]  Dit is de categorie die je gewoon nooit gebriefd wil hebben.
+[1544.50 --> 1546.04]  Die wil je altijd in je inbox.
+[1546.04 --> 1548.70]  Dat is bijvoorbeeld als je een loggingcode hebt of zo.
+[1548.74 --> 1548.84]  Ja.
+[1548.84 --> 1551.24]  Heel irritant als die opeens gearchiveerd wordt.
+[1551.34 --> 1551.68]  Dan denk je, ja.
+[1552.38 --> 1555.14]  Dus hoe beschrijf je dan aan een taalmodel, er zit een loggingcode in?
+[1556.74 --> 1561.10]  Ja, je zegt OTP-code, defector, dat soort dingen.
+[1561.34 --> 1567.02]  Alle waarvan jij denkt als model dat de gebruiker deze e-mail gelijk moet lezen.
+[1567.74 --> 1568.28]  Doe dat niet.
+[1568.28 --> 1573.78]  En een aantal voorbeelden zijn ook van als er meetings zijn die voor vandaag zijn.
+[1573.90 --> 1575.98]  Dus dan zeg je vandaag is het die datum.
+[1576.72 --> 1578.10]  Dat tel je aan Claude op dat moment.
+[1578.14 --> 1579.38]  Ja, en dat verandert dan ook.
+[1579.66 --> 1582.40]  Dan zeg je gewoon, hé Claude, het is woensdag.
+[1583.84 --> 1591.40]  En als het vandaag woensdag is en er is een event op dezelfde dag, is het timely.
+[1591.56 --> 1592.42]  Want het is voor vandaag.
+[1592.96 --> 1596.02]  En je legt gewoon dat concept uit en dat werkt.
+[1596.58 --> 1597.18]  Dat is het mooie.
+[1597.18 --> 1603.20]  En wanneer is dan voor het eerst dat omslagpunt dat je dus zelf verrast wordt door dat model?
+[1603.30 --> 1606.66]  Want het klinkt alsof je, ik ben een totale leek hieropper, maar alsof je dat ding aan het trainen bent.
+[1606.76 --> 1611.54]  En op een gegeven moment neemt hij het over en heeft hij beter dan jij door dat jij een aanbieding uit een bepaald mailtje wil zien.
+[1611.82 --> 1622.08]  Ja, het moment is als je het gebruikt en niet meer, kijk als je dit schrijft, dan zit je helemaal in het proces van het nadenken over hoe je daar toe komt.
+[1622.08 --> 1627.06]  Maar op het moment dat je eruit gaat en gewoon twee dagen later een brief opent.
+[1627.78 --> 1631.88]  En als het de dingen zegt die je wil weten, is het zo'n magisch moment.
+[1632.26 --> 1634.40]  Dat je denkt van ja, dit is precies wat ik wil weten.
+[1634.40 --> 1641.74]  En we zijn steeds aan het bouwen naar momenten waar het schuurt en denk je van ik wil iets meer weten hier.
+[1642.14 --> 1650.68]  En dan ga je naar zo'n prompt toe, dan pak je dat e-mailtje erbij en zeg je ja, kan je niet iets meer van de context geven hier?
+[1650.74 --> 1652.42]  Want ik weet niet eens wie die persoon is.
+[1652.52 --> 1655.14]  Kan je niet even die persoon introduceren in deze summary?
+[1655.32 --> 1657.52]  Want ik moet echt weten wie dat is.
+[1657.52 --> 1666.48]  Dus dan pas je het prompt aan naar, want dit is een heel concreet voorbeeld, dan zeg je dus eigenlijk bij sommige mensen moet je meer context geven.
+[1666.72 --> 1669.12]  Dat zijn dan mensen die voldoen aan deze en deze beschrijvingen.
+[1669.18 --> 1675.30]  Ja, bijvoorbeeld als Brandon of Dan van Avery mij e-mailen, hoef ik geen intro wie ze zijn.
+[1675.72 --> 1683.02]  Hoe stel je dat aan een taalmodel op een manier dat hij ook begrijpt bij andere bedrijven dat als de baas mailt dat je niet hoeft uit te leggen wie de baas is?
+[1683.02 --> 1688.34]  Dat is bij trainen gebeurd, waar hij extra heert dat hij weet voor wie jij werkt.
+[1689.02 --> 1689.42]  Wauw.
+[1689.76 --> 1694.14]  En die context heeft hij al uit jouw e-mail gehaald, want hij weet al je domein.
+[1694.28 --> 1697.62]  Dus als jij dezelfde domein hebt als iemand anders, zal je waarschijnlijk werken.
+[1697.66 --> 1701.84]  Dus dat trainen, als je dan, want jij gebruikt net dat woord ernst, trainen.
+[1702.04 --> 1706.98]  En op een bepaalde manier vind ik dat een woord wat heel erg afstand oproept tot het maken van software.
+[1707.34 --> 1711.46]  Want zeg maar, het schrijven van prompt kunnen jij en ik ook ernst.
+[1711.46 --> 1712.42]  Dat kan iedereen.
+[1712.60 --> 1713.34]  Dat is trainen.
+[1714.54 --> 1716.62]  Het is niet trainen.
+[1716.70 --> 1716.90]  Nee.
+[1717.70 --> 1718.88]  Het is prompten.
+[1719.24 --> 1723.54]  Maar het is iets meer, het zijn meerdere prompts en systemen die samenwerken.
+[1723.72 --> 1724.70]  Maar dat kan je ook met chatchip.
+[1724.82 --> 1728.00]  Je kan gewoon één ding copy en dan plak je het in een andere.
+[1728.10 --> 1735.62]  Als ik notulen van mijn vergadering op de school van mijn kinderen doe, dan heb ik ook een reeks prompts die ik achter elkaar copy-paste.
+[1736.38 --> 1737.40]  Op volgorde.
+[1737.74 --> 1738.02]  Trainen.
+[1738.02 --> 1741.58]  Ja, dat kun je trainen noemen, maar het is gewoon een prompt eerder geschreven dan copy-paste.
+[1742.24 --> 1748.76]  Dus wat jij zegt is, het is gewoon de hele tijd probeer je, doet die het nu wel of doet die het nu niet.
+[1748.94 --> 1750.46]  En als je het niet doet, dan pas je het prompt aan.
+[1750.56 --> 1752.04]  Dat is gewoon hoe je nu aan het maken bent.
+[1752.16 --> 1752.72]  Dat is het.
+[1752.88 --> 1753.64]  Het is fascinerend.
+[1753.64 --> 1759.24]  Maar mijn vraag staat er eigenlijk meer in, wanneer neemt het model het eigenlijk over van jou dat hij jou begint te verrassen?
+[1760.20 --> 1762.16]  Op het moment dat ik er niet meer in zit.
+[1762.96 --> 1771.00]  En dat is vooral de magische momenten zijn als er een e-mail naar boven komt waarvan ik denk, oh die had ik nooit, nooit uit mijn e-mail gepakt.
+[1771.00 --> 1775.46]  Bijvoorbeeld een phishing e-mail.
+[1775.56 --> 1780.24]  Er was een melding van Google die zegt, oh ja, je e-mails gebruikt in een phishing attack en dit en dit en dit.
+[1780.56 --> 1782.82]  Ik zou dat nooit hebben geopend.
+[1784.28 --> 1787.28]  Normaal gesproken had je niet geregistreerd en nu is het een mooie bullet samengevat.
+[1787.28 --> 1790.18]  Of in de important information en waarom is dat?
+[1790.40 --> 1793.32]  En toen denk ik, oh oké, dit is important.
+[1793.60 --> 1799.24]  Is dat iets nieuws als een programmeur dat je nu dus dingen maakt die jou eigenlijk ook gaan verrassen?
+[1800.38 --> 1808.72]  Dat je niet, ik kan me voorstellen dat vroeger programmeren iets was van ik geef gewoon een aantal instructies of ik schrijf code en ik weet wat er uit rolt.
+[1809.26 --> 1814.66]  Terwijl je nu iets maakt wat eigenlijk een soort, bijna een soort eigen interpretaties erop los gaat laten.
+[1816.12 --> 1816.70]  Absoluut, ja.
+[1817.28 --> 1819.48]  Je wordt nu meer geïnspireerd.
+[1819.84 --> 1825.88]  Hoe ik het zie, het is een soort hele positieve feedback loop.
+[1826.40 --> 1832.24]  Dat als jij iets wil creëren, dan kan je dat snel doen.
+[1832.68 --> 1834.08]  Daar krijg je snel feedback van.
+[1834.48 --> 1839.92]  Dat verras je, want het doet dingen die meer zijn dan jouw gedachten soms hebben.
+[1840.30 --> 1846.28]  Bijvoorbeeld als je een opdracht geeft van, hey ik wil een UI implementeren.
+[1846.28 --> 1847.60]  Waar ik dit doe.
+[1848.40 --> 1849.48]  Dan kan je er gewoon achter zetten.
+[1850.22 --> 1853.28]  Make it look good like Apple design.
+[1853.46 --> 1853.90]  Bla, bla, bla.
+[1854.80 --> 1857.72]  Ik weet niks van Apple design, maar het ziet er goed uit.
+[1858.36 --> 1859.64]  En dat kan me verrassen.
+[1859.64 --> 1866.48]  En juist om dat te zien, dat inspireert.
+[1866.62 --> 1868.78]  En dat is een feedback loop die heel goed werkt voor mij.
+[1869.60 --> 1878.50]  Het is echt mensen die in flow werken, mensen die creëren, innoveren, kunnen daar heel veel mee op dit moment.
+[1878.50 --> 1884.28]  Want het moeilijke gedeelte vaak van die LLM zijn dat je een idee moet hebben.
+[1884.64 --> 1887.94]  Of een juiste, een goede stijl hebben.
+[1888.16 --> 1892.16]  Of een juiste mening om dat model te sturen.
+[1892.38 --> 1899.06]  Want modellen kunnen heel veel, net zoals een kok, kan alle ingrediënten in de wereld kopen bij een winkel.
+[1899.40 --> 1901.50]  Maar kan nog steeds iets wanstalters koken.
+[1901.50 --> 1903.38]  Het is een beetje hetzelfde met een LLM.
+[1904.62 --> 1911.36]  Waar als jij daar de juiste instructies geeft en je juiste ideeën ingeeft, dan kan je er veel meer mee.
+[1911.38 --> 1915.36]  Ik moet altijd bij een kok denken, dat soort van, ik heb ook wel vrienden die echt heel goed kunnen koken.
+[1915.68 --> 1920.76]  Wat echt geweldig is als je bijvoorbeeld eten gaat koken voor jou als je hangover bent.
+[1921.74 --> 1924.66]  En dan kun je ze opeens fucking lekker ei maken.
+[1925.06 --> 1926.32]  Dan moet je toch maar even omvragen.
+[1926.68 --> 1927.92]  Dat is de truc.
+[1928.06 --> 1929.14]  Dat moet met een LLM ook.
+[1929.14 --> 1930.54]  Ik moet toch wel even vragen.
+[1930.76 --> 1931.66]  Dan blijkt hij het te kunnen.
+[1931.90 --> 1934.18]  Maar dat is het onszins niet wat ik bedoel.
+[1934.80 --> 1940.58]  Wat het leek alsof je net zei, dat voorbeeld van die promotie die naar boven kwam.
+[1940.94 --> 1944.12]  Is dat jij iets gemaakt hebt, dat je hebt Cora gemaakt.
+[1944.24 --> 1946.84]  En je begrijpt nu af en toe ook niet meer hoe Cora tot dingen komt.
+[1946.92 --> 1947.72]  Maar je vindt ze wel goed.
+[1947.82 --> 1950.34]  Dat lijkt me een soort gekke realisatie als maker.
+[1950.42 --> 1954.68]  Dat je iets hebt gecreëerd dat nu dingen doet die jij zelf niet meer kan terugbereneren hoe het gebeurd is.
+[1955.24 --> 1956.16]  Heel normaal voor mij.
+[1956.68 --> 1956.92]  Waarom?
+[1956.92 --> 1959.04]  Ik heb een muziekachtergrond.
+[1959.14 --> 1960.92]  Ik ben heel lang filmcomponist geweest.
+[1961.82 --> 1963.10]  Weten we hoe muziek werkt?
+[1963.18 --> 1963.76]  Geen flauw idee.
+[1964.38 --> 1967.42]  Maar je observeert wel een emotie.
+[1967.64 --> 1971.30]  Of je observeert wel met gevoel of iets werkt of niet.
+[1971.94 --> 1975.08]  Hoe het technisch werkt is heel moeilijk.
+[1975.16 --> 1976.88]  Er is niet heel veel wetenschap.
+[1977.06 --> 1979.94]  Bijvoorbeeld als je een bepaalde toon onder bepaalde scène zet.
+[1979.94 --> 1982.52]  Kan dat heel goed werken?
+[1982.52 --> 1986.32]  En voor mij de validatie is werkt het bij mij?
+[1986.66 --> 1988.42]  En daarvoor heb ik het over die feedback loop.
+[1988.52 --> 1993.06]  Van als het werkt bij mij, dan kan ik daarmee verder.
+[1993.32 --> 1995.58]  En dat is niet egocentrisch.
+[1995.64 --> 1998.22]  Maar dat is meer als het werkt bij mij, dan zal dat ook bij anderen.
+[1998.22 --> 1999.80]  Want we delen dat.
+[1999.94 --> 2001.66]  We delen die gevoelens.
+[2002.20 --> 2004.66]  Dus voor mij is dat een heel natuurlijke manier om software te bouwen.
+[2004.78 --> 2007.50]  Ik ben niet een traditionele software engineer.
+[2007.74 --> 2009.48]  Ik vind programmeren ook verschrikkelijk.
+[2009.88 --> 2011.34]  Ik vind het helemaal niet leuk.
+[2011.50 --> 2012.88]  Nou ja, ik vind het wel leuk.
+[2013.02 --> 2015.86]  Maar de echte motivatie komt van het creëren.
+[2016.54 --> 2018.10]  En dat is software.
+[2018.26 --> 2020.36]  Nou ja, je moet code schrijven om software te maken.
+[2020.52 --> 2022.62]  Maar het doel is om die software te maken.
+[2022.74 --> 2024.42]  En dat verhaal te vertellen met die software.
+[2024.42 --> 2029.48]  Dus voor mij is het juist heel natuurlijk om iets te bouwen wat iets doet.
+[2030.98 --> 2034.32]  Juist vanuit de buitenkant en niet vanuit precies hoe het werkt.
+[2034.66 --> 2038.64]  Dat is een andere manier van denken die heel veel mensen ook hebben.
+[2038.74 --> 2039.58]  En er is niks mis mee.
+[2039.80 --> 2041.34]  Alleen dat is niet hoe...
+[2041.34 --> 2043.10]  Voor mij is dat een natuurlijke manier.
+[2043.26 --> 2045.34]  Dat model dingen doet die ik niet weet.
+[2045.46 --> 2046.46]  Want daar gaat het niet om.
+[2046.50 --> 2051.16]  Het gaat over wat het doet met mij en de emoties die juist teweeg brengen.
+[2051.16 --> 2057.66]  En zoals je muziek die hebt gemaakt af en toe toch totaal niet klinkt of overkomt.
+[2057.72 --> 2059.06]  Of de emotie overbrengt die je wil.
+[2059.18 --> 2060.48]  Heb je dat ook al met Cora gehad?
+[2060.54 --> 2062.56]  Dat je dacht van, nee maar dit is niet de bedoeling.
+[2063.22 --> 2063.82]  Absoluut, ja.
+[2064.50 --> 2064.90]  Zoals?
+[2065.28 --> 2068.30]  Ja, gewoon als het mist.
+[2068.46 --> 2072.90]  Of als je een instructie geeft en het gewoon de hele tijd verkeerd begrijpt.
+[2073.22 --> 2074.10]  Dan zeg je doe dit.
+[2074.20 --> 2075.68]  En dan doen ze veel te veel.
+[2075.68 --> 2076.86]  Dan denk je, ach.
+[2078.12 --> 2083.28]  Dat zijn de frustratiemomenten die waarschijnlijk andere mensen ook met ChatGPT hebben.
+[2083.44 --> 2086.18]  Waar je zegt van, oh ik wil dit en dan komt er iets uit.
+[2086.28 --> 2087.88]  Waarvan dit, wanstalig.
+[2088.68 --> 2089.58]  Dit werkt niet.
+[2090.54 --> 2091.72]  Dat is er nog wel.
+[2091.84 --> 2092.66]  Het is niet perfect.
+[2092.98 --> 2094.18]  Modellen zijn niet perfect.
+[2094.36 --> 2096.22]  Maar je kunt er veel mee.
+[2097.66 --> 2099.70]  Door juist meer context te geven.
+[2100.20 --> 2103.34]  En ja, we kunnen er veel meer mee dan we denken.
+[2103.34 --> 2106.34]  Het lijkt me ook in de marketing van dit soort dingen gek.
+[2107.20 --> 2114.34]  Omdat je dus eigenlijk, eigenlijk moet je bijna zeggen van, vertrouw ons nou maar gewoon dat Cora iets doet wat voor jou goed is.
+[2115.46 --> 2119.52]  Vroeger kon je nog een soort van, dit doet A, B, C en dan kan je dit verwachten.
+[2119.94 --> 2121.96]  Nu is het meer van, wij hebben iets gemaakt.
+[2122.38 --> 2123.88]  Het is een spamfilter toch?
+[2123.98 --> 2126.44]  Daar heb je het vertrouwen ook op een gegeven moment gekregen.
+[2126.72 --> 2128.90]  Dat je niet iedere dag meer in je spammap gaat kijken.
+[2128.90 --> 2131.26]  Ja, als je heel veel algoritmes hebt.
+[2131.40 --> 2134.42]  Kijk, niemand snapt honderd algoritmes die tegelijk werken.
+[2135.32 --> 2137.06]  Dat het werkt of het werkt niet.
+[2137.24 --> 2139.60]  Net zoals, ja dat is met spam, maar dat is met zoeken ook.
+[2139.80 --> 2141.60]  Weten iemand hoe Google werkt?
+[2142.60 --> 2144.76]  Niet echt, maar dat gebruiken we ook.
+[2144.90 --> 2145.82]  Ja, maar die is wel platter.
+[2145.96 --> 2148.16]  Want dan zijn er steekwoorden en die komen dan terug in je mail.
+[2148.44 --> 2151.04]  En dat is, zeg maar, hij gaat niet op synonieme zoeken in je Gmail.
+[2151.62 --> 2154.76]  En dat op een bepaalde manier zorgt dat er ook voor dat je meer kan vertrouwen.
+[2154.86 --> 2156.34]  Omdat je weet wat hij gaat doen.
+[2156.34 --> 2157.96]  En dat bij jou denk ik natuurlijk niet.
+[2158.10 --> 2158.60]  Ik snap ernstig.
+[2158.64 --> 2159.74]  Meer interpretatie lijkt me.
+[2159.76 --> 2161.50]  Ja, nee, ik snap het absoluut.
+[2161.62 --> 2170.14]  Ja, er is een deel vertrouwen en is absoluut een product voor mensen die vooruit lopen.
+[2170.28 --> 2175.34]  Het is niet voor de mensen die heel erg anti-AI zijn, want we gebruiken AI.
+[2175.76 --> 2176.96]  Maar het is wel de toekomst.
+[2177.14 --> 2180.90]  Dit is wel hoe het gaat gebeuren en meer gaat gebeuren.
+[2180.90 --> 2186.74]  En ja, ook helemaal in de combinatie met soort van assistenten natuurlijk.
+[2186.88 --> 2191.42]  Want dit is een soort van voorloper van hoe we straks assistenten gaan gebruiken.
+[2191.70 --> 2193.94]  Dit is de aanpak voor e-mail.
+[2194.18 --> 2197.42]  Namelijk twee keer per dag krijg je een digest.
+[2197.70 --> 2201.94]  En daaromheen word je gepinkt op het moment dat de AI beslist dat het voor jou waardevol is.
+[2201.98 --> 2203.26]  Om op dat moment iets te lezen.
+[2203.26 --> 2208.10]  En zeg maar in de volgende versie van iOS die wij in april gaan krijgen en de rest van de wereld al heeft.
+[2208.32 --> 2209.00]  Doet Apple dit?
+[2209.34 --> 2214.14]  Zij nemen beslissingen over pushberichten die jij krijgt op basis van de inhoud van die berichten.
+[2214.78 --> 2215.72]  Dus wij gaan met z'n allen.
+[2216.18 --> 2217.00]  Dat is iOS.
+[2217.18 --> 2221.50]  Ik bedoel, hoeveel sneller wil je dat de wereldbevolking ergens aan wendt.
+[2221.56 --> 2223.26]  We gaan heel erg gewend raken aan...
+[2223.90 --> 2225.76]  Ik ben heel benieuwd hoe je daar dan keuzes in gaat maken.
+[2225.90 --> 2227.56]  Dus dat je dus...
+[2227.56 --> 2228.04]  En hoe?
+[2228.44 --> 2229.58]  Je krijgt dan misschien...
+[2229.58 --> 2231.76]  Stel dat er tien Cora concurrenten komen.
+[2231.76 --> 2235.88]  En je gaat allemaal op verschillende manieren uitleggen hoe jullie dit gigantische probleem van de e-mail gaan oplossen.
+[2236.02 --> 2236.82]  Waar je dan...
+[2236.82 --> 2239.86]  En bij allemaal is het heel veel interpretatie, want het is met AI gemaakt.
+[2240.34 --> 2244.40]  Hoe je dan duidelijk maakt wat jouw manier onderscheidend maakt.
+[2244.50 --> 2250.58]  Ik denk alsof dat heel erg nu in de briefing, in de drafting, maar heel erg in de features zit.
+[2250.68 --> 2252.90]  En eigenlijk niet zozeer in wat daar allemaal achter gebeurt.
+[2253.34 --> 2255.36]  De technologie heeft iedereen toegang tot.
+[2255.82 --> 2258.86]  Dus dat zal niet de onderscheiding zijn.
+[2259.10 --> 2260.44]  Iedereen kan dit doen.
+[2260.44 --> 2261.34]  Iedereen kan dit bouwen.
+[2261.34 --> 2264.52]  Die drafting heb ik in een avond gebouwd voor mezelf.
+[2264.66 --> 2266.18]  Nou, iedereen kan dat in principe doen.
+[2267.40 --> 2268.40]  Waar wij...
+[2268.40 --> 2271.84]  Juist een hele interessante take-off hebben, is dat wij...
+[2271.84 --> 2273.52]  Wij archiveren je e-mail.
+[2273.60 --> 2275.28]  Dat is een best wel agressieve stap.
+[2275.52 --> 2276.36]  Dat is echt...
+[2276.36 --> 2277.40]  Dat is een mening.
+[2277.84 --> 2280.24]  En wij zeggen, je krijgt twee keer per dag die e-mails.
+[2280.32 --> 2281.16]  Dat is ook een mening.
+[2281.72 --> 2283.40]  En wij hebben die categorieën gemaakt.
+[2284.00 --> 2285.46]  En wij zeggen, dit zijn de categorieën.
+[2285.54 --> 2286.20]  Dat is ook een mening.
+[2286.20 --> 2294.32]  En het is juist voor mensen die niet de Notion e-mail willen gebruiken om daar hun workflows in te zetten.
+[2294.32 --> 2300.88]  En dat kan voor de power users, de sales, wie dan ook, customer representatives.
+[2300.88 --> 2303.72]  Waarschijnlijk is dat een goede tool voor ze.
+[2303.72 --> 2308.84]  Maar onze tool is meer toegespitsend op de mensen die willen dat het werkt.
+[2308.84 --> 2311.58]  En dat er een goede start is.
+[2311.76 --> 2314.76]  Want veel software moet je nog heel veel zelf doen.
+[2315.08 --> 2316.98]  En daar kan je dat allemaal zelf inrichten.
+[2317.12 --> 2319.10]  Maar wij zeggen gewoon, wij hebben een goede kijk.
+[2319.46 --> 2323.86]  We hebben een heel uitgesproken mening over hoe wij denken dat het kan.
+[2324.76 --> 2326.34]  En dat kunnen ook andere mensen.
+[2326.46 --> 2329.06]  Nou, dat kunnen andere influencers zijn die hun eigen systeem hebben.
+[2329.16 --> 2333.28]  En in de toekomst kan je zeggen, ik wil Alexander's systeem hebben.
+[2333.28 --> 2338.96]  En dan gebruik jij je eigen startpunt.
+[2340.96 --> 2344.88]  En een andere is ook, het is maar een startpunt.
+[2345.00 --> 2350.82]  Als jij iets wil beïnvloeden, is er een loop voor reinforcement learning.
+[2350.94 --> 2353.66]  Waar jij kan zeggen, hé, dit was niet helemaal juist.
+[2354.66 --> 2357.08]  En ik geef het een schopje deze kant op.
+[2357.46 --> 2360.10]  En dan gaat het ook leren van jou.
+[2360.10 --> 2364.66]  Dus door dat te doen, creëer je ook wat meer vertrouwen in het systeem.
+[2364.82 --> 2368.84]  Omdat jij controle hebt of jij kan feedback geven aan het systeem.
+[2369.78 --> 2373.32]  En hopelijk daardoor krijg je ook meer vertrouwen in het systeem.
+[2373.50 --> 2375.60]  Doordat je het goed doet.
+[2376.16 --> 2380.26]  Misschien is de doelgroep van Avery ook een beetje mensen die willen voorlopen.
+[2380.44 --> 2385.84]  Ik denk niet helemaal in een fan diagram met pomluisteraars dat dat heel ver uit elkaar loopt.
+[2386.00 --> 2387.10]  Het is ook het doen om...
+[2387.10 --> 2389.36]  We hebben vrij veel overlap. We willen het ook even over Avery hebben.
+[2389.36 --> 2391.64]  Want het is heel leuk dat je hier bent.
+[2393.86 --> 2399.76]  Waarom dacht je, je was dus met vaderschapsverlof, je was een beetje aan het mailen met Dan en Brandon.
+[2400.64 --> 2402.72]  En waarom dacht je van, oké, ik ga het bij deze jongens doen?
+[2404.82 --> 2409.02]  Omdat zij de plek zijn waar ik luister naar AI nieuws.
+[2409.02 --> 2415.26]  Het is gewoon de plek waar ik hoor wat het volgende in technologie is.
+[2416.16 --> 2420.44]  En er zijn niet veel plekken, maar ze lopen gewoon vooruit.
+[2420.68 --> 2427.64]  En vooral met hun meer filosofische, meer multidisciplinary kijk op dingen.
+[2427.64 --> 2430.44]  En ook heel technisch.
+[2431.04 --> 2437.02]  Gewoon de combinatie van goed schrijven, echt weten wat technologie is.
+[2437.14 --> 2439.54]  Dan is ook een waanzinnig goede programmeur.
+[2439.66 --> 2440.52]  Dat heb ik geleerd.
+[2442.06 --> 2447.60]  En de filosofische kijk en gewoon de tijd nemen om te experimenteren.
+[2447.60 --> 2457.90]  En voor mij, ja, gewoon het idee dat je een product kan bouwen en het kan uitproberen met dat team.
+[2458.16 --> 2461.10]  En dan ook met de mensen die Avery volgen.
+[2461.20 --> 2464.02]  Wat vaak heel interessante mensen zijn.
+[2464.02 --> 2465.64]  Ja, behoorlijke subset van de samenleving.
+[2465.76 --> 2466.42]  Ja, absoluut.
+[2466.42 --> 2469.02]  Dus ja, dat was genoeg.
+[2469.40 --> 2476.34]  Ik dacht, nou ja, er is geen betere plek om te gaan kijken hoe we dit kunnen doen dan daar.
+[2476.44 --> 2481.20]  Als we het niet voor elkaar krijgen met deze club, dan is het gewoon nog niet de tijd ervoor.
+[2481.62 --> 2484.20]  Want hoe werkt zo'n residentie?
+[2485.48 --> 2487.68]  We zijn het nog een beetje aan het uitzoeken.
+[2487.96 --> 2491.74]  Maar op dit moment hebben we een aantal entrepreneurs in residence.
+[2491.74 --> 2497.46]  Het idee is dat we zoeken naar mensen die bouwers zijn.
+[2498.10 --> 2499.48]  Die het al hebben gedaan.
+[2499.88 --> 2503.16]  Die op dit moment gewoon iets nieuws willen.
+[2503.30 --> 2504.70]  Veel willen experimenteren.
+[2505.02 --> 2509.64]  En de waardes van Avery delen.
+[2510.28 --> 2512.58]  Ideaal ben je gewoon een lezer en denkt van, oh cool.
+[2513.52 --> 2514.68]  Ik wil wat bouwen.
+[2515.50 --> 2520.10]  En als je dat bent, dan werken we gewoon samen.
+[2520.10 --> 2524.74]  Ik ben de eerste en ik heb ook het grootste product.
+[2524.88 --> 2527.40]  De andere mensen zijn iets meer in experimentele fase.
+[2529.10 --> 2530.48]  Dus we weten het ook nog niet.
+[2530.56 --> 2532.06]  Het is het eerste keer dat we zo'n...
+[2532.06 --> 2536.34]  Kijk, we hebben wel natuurlijk Lex en Spiral en Sparkle.
+[2537.18 --> 2539.98]  Maar Cora is de eerste in deze vorm.
+[2540.64 --> 2543.18]  Voor de mensen die het kennen, Lex is een schrijftool.
+[2543.18 --> 2550.18]  Spiral, daar kan je eigenlijk heel makkelijk sociale media berichten maken op basis van artikelen of podcast transcripten.
+[2551.60 --> 2553.94]  En Sparkle organiseert je bestanden op je Mac, toch?
+[2554.14 --> 2554.28]  Ja.
+[2554.78 --> 2556.42]  Die organiseert je desktop.
+[2556.74 --> 2557.56]  Maar deze is groter.
+[2557.72 --> 2558.20]  Ik snap het wel.
+[2558.30 --> 2560.16]  Dit is een fundamentele deel van het leven van mensen.
+[2560.16 --> 2561.16]  Dit is e-mail.
+[2561.36 --> 2563.20]  Ja, dit is een andere markt.
+[2563.26 --> 2564.36]  Dit is een groter product.
+[2564.46 --> 2565.88]  Of potentieel groter product.
+[2565.88 --> 2572.16]  En dit is ook het eerste product wat is gemaakt met een entrepreneur in residence.
+[2572.98 --> 2575.20]  De anderen waren een soort van internal.
+[2576.36 --> 2584.48]  En die worden nu wel door mensen gebouwd in deze vorm.
+[2585.12 --> 2586.06]  Maar ja, we gaan het zien.
+[2586.38 --> 2592.88]  En we hopen dat Cora ervoor gaat zorgen dat we meer kunnen experimenteren in Avery.
+[2592.88 --> 2598.12]  En dat Avery mensen naar Cora kan sturen.
+[2598.22 --> 2598.88]  Dat is een soort synergetische.
+[2599.54 --> 2600.66]  Ja, hoe werkt dit zakelijk?
+[2600.90 --> 2602.00]  Is het jouw bedrijf?
+[2602.10 --> 2603.36]  Of is het nu van Avery?
+[2603.52 --> 2605.06]  En heb jij wel een aandeel in Avery?
+[2605.42 --> 2606.50]  Hoe zetten ze dit op?
+[2607.32 --> 2609.88]  Het is mijn bedrijf en Avery heeft een aandeel.
+[2610.08 --> 2612.16]  Ik ben de CEO en CTO, zeg maar.
+[2613.34 --> 2614.52]  En de enige medewerker.
+[2614.76 --> 2615.54]  En de enige medewerker.
+[2615.54 --> 2615.82]  Ja, precies.
+[2615.94 --> 2616.22]  Ja, mooi.
+[2617.72 --> 2619.44]  Ook CFO blijkbaar.
+[2619.74 --> 2621.82]  Ja, dat besteed ik uit.
+[2621.82 --> 2622.46]  Oké.
+[2622.52 --> 2625.62]  En krijgen ze dan, ze doen natuurlijk distributie.
+[2625.72 --> 2628.52]  Want je hebt meteen het ingebakken publiek van Avery dat je bereikt.
+[2628.64 --> 2630.62]  Maar wat krijg je verder van ze?
+[2631.88 --> 2634.24]  Behalve dan het omveld dat je net omschreef van die mensen?
+[2634.76 --> 2637.40]  Ja, je krijgt design.
+[2637.94 --> 2641.76]  Onze designer Lucas is geweldig.
+[2641.76 --> 2647.78]  Die heeft een hele interessante achtergrond in reclame.
+[2648.06 --> 2652.98]  En is nu UI en UX aan het leren met mij deze app te bouwen.
+[2653.18 --> 2656.88]  Is echt heel duidelijk een Avery stijl.
+[2657.66 --> 2659.30]  Wat daar vanuit komt.
+[2660.24 --> 2663.66]  En uiteraard, we hebben schrijvers op het team.
+[2663.74 --> 2667.48]  Dus alle kopie wordt grondig doorgelicht.
+[2667.48 --> 2673.24]  En de kwaliteit, ja, het moet gewoon every kwaliteit zijn met een supporter omheen.
+[2673.86 --> 2675.64]  Dus je krijgt schrijvers erbij.
+[2675.82 --> 2678.52]  Je krijgt Dan, die helpt met prompting.
+[2678.68 --> 2680.86]  Als ik een keer vastloop, denk ik van, ah, het werkt niet.
+[2680.96 --> 2683.92]  En dan zeg ik, Dan, kunnen we even brainstormen?
+[2684.12 --> 2687.20]  En dan zegt hij, oh, gebruik Vector Search met de laatste honderd.
+[2687.36 --> 2688.64]  En doe je multiprompt.
+[2688.76 --> 2689.68]  En dan denk ik, oh ja, goed idee.
+[2689.86 --> 2692.82]  En dan twee minuten later doe ik dat.
+[2692.82 --> 2694.60]  En dan ben je alweer een stap verder.
+[2694.78 --> 2697.96]  Gewoon dat soort synergetische dingen.
+[2699.38 --> 2700.06]  Dat werkt.
+[2700.12 --> 2703.30]  Gewoon de energie met mensen om je heen die bouwers zijn.
+[2703.46 --> 2705.22]  En die inspiratie geven.
+[2705.56 --> 2707.74]  En dat doe ik dan ook naar anderen.
+[2708.00 --> 2709.30]  En andere entrepreneurs in residence.
+[2709.58 --> 2711.38]  En het is gewoon leuk om je eigen ding te doen.
+[2711.52 --> 2712.28]  En vrijheid te hebben.
+[2712.42 --> 2716.66]  Maar je wil ook een beetje zo'n cheer team achter je hebben.
+[2716.66 --> 2717.80]  Dat is voor jou gewoon heel leuk.
+[2717.90 --> 2718.94]  Dat kan je me heel goed voorstellen.
+[2719.32 --> 2720.26]  En zit je weer op kantoor?
+[2720.26 --> 2721.28]  Of in New York?
+[2721.46 --> 2722.52]  Of ben je remote?
+[2722.84 --> 2723.78]  Ik ben remote.
+[2723.90 --> 2725.32]  Ik ben naar het westen verhuisd.
+[2725.38 --> 2726.12]  Want het was lekker warm.
+[2726.80 --> 2729.68]  Maar ik kom af en toe op het kantoor in New York.
+[2729.88 --> 2732.68]  En we doen ook work weeks.
+[2732.84 --> 2736.04]  Waar we een week lang met z'n allen ergens zitten.
+[2736.64 --> 2737.84]  Het is natuurlijk een nieuw model.
+[2737.96 --> 2739.68]  In de zin dat je distributie hebt.
+[2739.94 --> 2742.56]  Het is een beetje alsof de Volkskrant in Nederland...
+[2742.56 --> 2744.10]  Nou, Volkskrant een beetje een raar voorbeeld misschien.
+[2744.26 --> 2748.58]  Maar het is wel wonderlijk dat een mediabedrijf software gaat maken.
+[2748.58 --> 2749.14]  Ja.
+[2749.86 --> 2753.60]  Je zou het kunnen vergelijken met een soort vakblad in Nederland...
+[2753.60 --> 2755.62]  Dat dan voor z'n publiek dingen gaat maken.
+[2755.62 --> 2756.12]  Ja, precies.
+[2756.22 --> 2756.92]  Beter voorbeeld.
+[2757.06 --> 2760.02]  Dat de adformatie dingen zou gaan maken voor reclamebureaus.
+[2760.02 --> 2762.80]  Kleine toeltjes waarbij ze eenlingen aan het werk zetten.
+[2762.80 --> 2766.56]  Die je dan bij het abonnement op adformatie krijgt.
+[2766.66 --> 2767.76]  Het is nieuw.
+[2768.12 --> 2770.22]  Niet onlogisch, maar nieuw.
+[2771.56 --> 2775.86]  En hoe denk je dat dit nou...
+[2775.86 --> 2779.82]  Hoe denk je iedereen zou dit moeten kopiëren, dit model?
+[2780.08 --> 2780.48]  Want dit is...
+[2780.48 --> 2781.34]  Uiteraard, ja.
+[2781.54 --> 2782.74]  Iedereen moet het doen.
+[2782.74 --> 2788.40]  Ja, want het moeilijke van bouwen is het publiek vinden.
+[2789.22 --> 2792.46]  En het moeilijke met media is dat je geld moet verdienen.
+[2792.80 --> 2792.94]  Ja.
+[2793.16 --> 2794.92]  En waarom zou je ze niet bij elkaar brengen?
+[2794.92 --> 2797.84]  Ja, want met toeltjes kun je makkelijker geld verdienen, bedoel je.
+[2797.92 --> 2798.02]  Ja.
+[2798.20 --> 2801.22]  Een abonnement verkopen op een reeks met toeltjes makkelijker dan verkopen.
+[2801.28 --> 2802.72]  Kijk, wij hebben hele goede gedachten, hoor.
+[2802.82 --> 2804.08]  Of de hele goede columnisten hebben wij.
+[2804.24 --> 2804.38]  Ja.
+[2804.38 --> 2805.14]  Ja, oké, interessant.
+[2805.14 --> 2811.80]  En het wordt interessanter ook als jij een abonnement neemt en je krijgt daar twee software tools bij.
+[2811.88 --> 2813.38]  Wordt het opeens een goede propositie.
+[2813.46 --> 2813.58]  Ja.
+[2813.82 --> 2817.00]  Of als jij die software koopt en je krijgt er een abonnement bij.
+[2817.16 --> 2817.30]  Ja.
+[2817.46 --> 2819.66]  Je hebt aan beide kanten krijg je er iets bij.
+[2820.50 --> 2822.02]  En dat kan alleen maar goed zijn.
+[2822.06 --> 2826.26]  En is het nou de droom dat het een soort van suite van software is die allemaal in dat abonnement zit?
+[2826.50 --> 2832.20]  Of is er op een gegeven moment zo'n succes voor bijvoorbeeld Cora dat die uitspint en dat het een losbedrag per maand wordt?
+[2832.20 --> 2837.04]  Ik denk dat er altijd een versie is die je krijgt bij het abonnement.
+[2837.24 --> 2838.84]  Maar het moet ook een stand-alone.
+[2839.16 --> 2840.06]  Het is beide.
+[2840.44 --> 2841.88]  Spiral kan je ook al gewoon stand-alone kopen.
+[2841.90 --> 2843.84]  Ja, je kan Spiral ook stand-alone kopen.
+[2844.04 --> 2844.06]  Ja.
+[2845.20 --> 2846.50]  Ja, dus het is beide.
+[2846.64 --> 2850.60]  En het zal waarschijnlijk zijn dat de ene versie iets meer capaciteit heeft.
+[2850.66 --> 2851.90]  Of misschien duurdere modellen.
+[2852.56 --> 2853.86]  We zijn het nog aan het uitzoeken.
+[2853.98 --> 2858.72]  Maar het idee is dat je absoluut, ja, het moet wel werken samen.
+[2858.72 --> 2861.50]  Dus voor Every, ik kijk hier nu even naar de bril van Every naar.
+[2862.20 --> 2865.74]  Every heeft hier dus een belang in jouw bedrijf.
+[2865.80 --> 2871.38]  Dus als het ooit verkocht wordt of dividend gaat uitkeren dan of naar de beurs gaat, dan hebben ze daar geldelijk belang bij.
+[2871.48 --> 2876.30]  En nu is het ook zakelijk interessant voor ze, omdat het dus hun abonnements propositie interessanter maakt.
+[2876.66 --> 2881.34]  Ze kunnen nu weer meer abonnementen gaan verkopen op basis van dat je dan Cora gratis bij krijgt.
+[2881.34 --> 2885.00]  Ja, als mensen nu denken van hey Cora, dat lijkt me interessant.
+[2885.48 --> 2886.68]  Ik kan kiezen stand-alone.
+[2887.08 --> 2890.88]  Of ik doe de subscription met Every en dat is maar vijf dollar duurder.
+[2891.02 --> 2892.16]  Of hoe het ook mag zijn.
+[2892.92 --> 2897.24]  Nou ja, dat zien we al van anderen zoals Spiral en Sparkle.
+[2897.44 --> 2900.14]  Dat geeft gewoon, dat geeft klanten.
+[2900.14 --> 2901.86]  Oké, nou we hebben het vandaag gehad.
+[2901.92 --> 2904.42]  Dit is al heel bijzonder.
+[2904.62 --> 2906.86]  Maar nu wil ik toch even een kijkje in de toekomst.
+[2906.94 --> 2907.58]  Waar gaat dit heen?
+[2907.68 --> 2908.78]  Wordt het een e-mail app?
+[2909.30 --> 2911.86]  Wordt dit soort van de voor Teams versie?
+[2912.12 --> 2915.16]  Wat is de, zeg maar over een jaar?
+[2915.40 --> 2916.34]  Waar zijn we dan?
+[2916.90 --> 2917.54]  Wat is je droom?
+[2918.02 --> 2920.26]  Het wordt een e-mail client.
+[2920.42 --> 2924.52]  We hebben altijd vanaf het begin af gezegd, we gaan niet een e-mail client bouwen, maar het wordt een e-mail client.
+[2924.52 --> 2937.16]  Ja, dat is gewoon, dat moet het, ja, alles wijst ernaar dat dit gewoon een iOS en Android app en gewoon, het wordt een e-mail app.
+[2937.96 --> 2941.82]  We proberen het niet, maar alles wijst ernaar dat dat het wordt.
+[2943.90 --> 2947.70]  En het leuke is, we weten niet precies waar het heen gaat.
+[2947.90 --> 2948.52]  Want dat gaat...
+[2948.52 --> 2949.62]  Vertel maar waar je verdroomt.
+[2949.62 --> 2953.90]  Er zijn vast dingen die je zou, daarvan je nu al weet, creatief, dit kan ik doen.
+[2953.90 --> 2954.16]  Ja.
+[2954.44 --> 2957.38]  Maar, god, we zijn er in de eerste versie niet bij aangekomen.
+[2957.54 --> 2961.38]  Maar wat is dan, wat vind je een heel vet ding om te gaan najagen komend jaar?
+[2961.68 --> 2968.52]  Heel veel, ja, veel meer leunen in context bouwen over wat er gebeurt in je leven.
+[2968.68 --> 2977.94]  Echt met, ja, veel meer extraheren en daar dan meer relevante dingen uit pikken.
+[2977.94 --> 2983.58]  Dus echt met thema's werken, jou meer helpen.
+[2984.52 --> 2985.74]  Noem eens een voorbeeld, want het is heel abstract.
+[2985.92 --> 2993.00]  Ja, bijvoorbeeld als jij therapie hebt of zo.
+[2993.00 --> 2996.94]  En er zijn bepaalde thema's die daarin voorkomen.
+[2997.20 --> 3002.00]  En in de e-mail gaat het erover ergens dat die...
+[3002.54 --> 3011.10]  Dat die briefs jou met die bepaalde context ook kunnen helpen met bepaald nieuws brengen in de e-mails.
+[3011.28 --> 3018.38]  Dus als iemand zegt, je bent afgewezen voor een sollicitatie, maar dat het weet dat je struggelt met depressie of zo.
+[3018.38 --> 3023.04]  Dat dat dan op een manier wordt gebracht die werkt bij jouw persoonlijkheid.
+[3023.20 --> 3026.06]  En onder de oppervlakte, dit is niet iets wat je aan de gebruiker gaat vragen.
+[3026.08 --> 3026.76]  Nee, nee, nee.
+[3026.78 --> 3027.98]  Of voel ik bepaalde documentatie toe.
+[3028.18 --> 3029.38]  Nee, dit zou gewoon allemaal...
+[3030.22 --> 3034.74]  Uit je e-mail halen en dan op de achtergrond ben je er een beetje in die pot aan het roeren.
+[3034.92 --> 3037.54]  En dan is het opeens therapie e-mails voel als een losse.
+[3037.66 --> 3038.62]  En ik snap het voorbeeld.
+[3038.76 --> 3042.04]  Heel specifiek en voor veel mensen ook best wel een eng voorbeeld.
+[3042.36 --> 3046.18]  Maar om maar aan te geven wat voor context je allemaal kan extraheren uit e-mail.
+[3046.26 --> 3047.18]  Dat is heel rijk.
+[3047.18 --> 3049.04]  Ja, veel meer dan je denkt.
+[3049.34 --> 3050.04]  Ja, ja, ja, ja.
+[3050.64 --> 3054.18]  Aan de andere kant voelt e-mail ook niet als al...
+[3054.86 --> 3056.68]  Denk je niet groter dan e-mail?
+[3056.78 --> 3060.80]  Want ik, tot mijn frustratie, veel van de dingen die in mijn e-mail gebeurden zijn nu naar WhatsApp gegaan.
+[3060.92 --> 3061.56]  Dat merk ik heel erg.
+[3062.44 --> 3066.78]  Vroeger had ik een out-of-office op mijn mail en dan was het heerlijk rustig, niks aan de hand.
+[3067.18 --> 3069.16]  Nu zou ik bijna een out-of-office op mijn WhatsApp moeten.
+[3069.78 --> 3074.28]  En heel veel mensen hebben natuurlijk ook nog zakelijke chatdiensten die ze gebruiken, zoals Slack en zo.
+[3074.28 --> 3075.86]  Ja, wanneer gaat het scherm opnemen?
+[3075.86 --> 3078.84]  Toe van OS-niveau bijna.
+[3079.86 --> 3083.18]  Ja, ik denk dat daar denken we absoluut aan.
+[3083.40 --> 3091.22]  Dat een integratie met Slack en ook integratie met je calendar en gewoon meer tools die je gebruikt integreren.
+[3091.22 --> 3093.28]  Ik denk dat we eerst...
+[3093.28 --> 3094.28]  Niet gewoon het scherm opnemen?
+[3094.66 --> 3095.76]  Dit gaat toch een commodity worden?
+[3095.82 --> 3097.22]  Dit wordt toch een API straks voor je?
+[3097.22 --> 3101.04]  Waar je gewoon kan aftappen wat er op je scherm gebeurt en dan geef ik jou toestemming.
+[3101.14 --> 3102.12]  Je snapt maar, ik bedoel het toch, Ernst?
+[3102.14 --> 3102.60]  Ja, ja, ja.
+[3102.64 --> 3103.22]  En dan...
+[3104.08 --> 3105.44]  Gewoon rewind, maar dan...
+[3105.44 --> 3106.22]  Ja, maar dan als...
+[3106.78 --> 3106.80]  Goed.
+[3106.80 --> 3111.78]  Niet als tool op zich, maar gewoon als een achtergrondproces voor alle apps waar AI in betrokken wordt.
+[3113.00 --> 3113.22]  Ja.
+[3113.28 --> 3116.18]  Ga jij constateren waar ik allemaal depressief van ben geworden aan het leven?
+[3116.30 --> 3117.96]  Op basis van wat er bij komt.
+[3117.96 --> 3118.78]  Ja, precies, ja.
+[3119.14 --> 3123.22]  En dan ga je zeggen, nou als een mailtje van Ernst komt, dan weg.
+[3123.54 --> 3125.66]  Heel sympathiek en heel uitgelegd.
+[3125.66 --> 3126.10]  Slijmig.
+[3126.34 --> 3127.24]  Ja, slijmig.
+[3129.08 --> 3134.58]  Ik denk dat het heel interessant is om daarover na te denken.
+[3134.68 --> 3136.96]  Ik denk dat Cora daar op dit moment...
+[3138.16 --> 3143.78]  Dat we daar niet achteraan willen gaan, want dan verliezen we een beetje de focus op de e-mail.
+[3144.10 --> 3147.12]  Ik denk dat we juist moeten focussen op de e-mail en dat heel goed doen.
+[3147.96 --> 3153.94]  En op het moment dat dat gewoon waanzinnig werkt, gaan we dromen over Slack.
+[3154.72 --> 3157.32]  Want het is te makkelijk om nu in de...
+[3157.32 --> 3160.24]  We gaan een personal assistant worden te springen, want iedereen doet dat.
+[3160.44 --> 3163.96]  En je ziet dat met alle bedrijven die dat proberen te doen.
+[3164.38 --> 3165.74]  Het werkt een soort van.
+[3166.54 --> 3168.36]  Ja, moet betrouwbaar zijn en magisch.
+[3168.40 --> 3169.92]  Er is gewoon nog genoeg werk te doen.
+[3169.92 --> 3171.26]  Er is heel veel werk te doen.
+[3171.52 --> 3175.28]  En als wij e-mail fixen, we weten dat e-mail blijft.
+[3175.62 --> 3176.54]  E-mail gaat niet weg.
+[3176.90 --> 3179.08]  Dat dachten we toen Slack kwam.
+[3179.88 --> 3181.16]  Maar dat is er nog steeds.
+[3183.18 --> 3185.38]  Dus dat blijft een probleem dat mensen hebben.
+[3185.54 --> 3187.14]  Dus op dit moment e-mail.
+[3187.44 --> 3189.40]  En daar kan je heel veel magische dingen mee doen.
+[3189.62 --> 3191.62]  Wie weet doen we een andere integratie.
+[3191.62 --> 3196.64]  Maar ik denk calendar is wel een volgende stap ook.
+[3196.86 --> 3199.70]  Om daar kennis van te hebben wat er gebeurt in je dag.
+[3200.24 --> 3203.24]  Is er nou niet een deel van jou, Ernst, wat hier heel erg warm van wordt?
+[3203.52 --> 3203.62]  Dat je denkt...
+[3204.20 --> 3205.10]  Als gebruiker zeker.
+[3205.34 --> 3206.72]  Maar als ondernemer bedoel ik.
+[3207.04 --> 3210.80]  Ja, jij hebt veel meer de urt om dingen te bouwen dan ik.
+[3210.88 --> 3211.62]  Ik vind het vooral leuk om...
+[3212.18 --> 3213.30]  Volgens mij moet het gewoon zo doen.
+[3213.42 --> 3215.68]  Jij doet de product ventures van POM.
+[3215.74 --> 3217.34]  En ik doe de media ventures van POM.
+[3217.34 --> 3219.30]  Want ik vind het gewoon heel vet om media dingen te maken.
+[3219.94 --> 3222.12]  Ik haal er meer plezier uit om zo'n AI-rapport uit te bouwen.
+[3222.22 --> 3224.48]  Terwijl jij wil gewoon producten maken.
+[3224.72 --> 3227.74]  Dus doe jij het Entrepreneur Residency Programma.
+[3227.86 --> 3230.44]  En doe ik de media kant.
+[3230.54 --> 3232.40]  Ga ik lekker boeken produceren.
+[3232.58 --> 3233.92]  Want mijn vraag is wel van...
+[3233.92 --> 3235.24]  Waarom doen jullie dit niet?
+[3235.52 --> 3235.84]  Want...
+[3235.84 --> 3236.44]  Nou, je hoort het.
+[3236.52 --> 3237.32]  Meneer heeft er geen zin in.
+[3238.14 --> 3239.24]  En waarom heb je er geen zin in?
+[3239.64 --> 3241.12]  Het is gewoon puur persoonlijke voorkeur.
+[3241.12 --> 3242.12]  Ik vind zoals...
+[3242.12 --> 3243.38]  Hoe zei Dan?
+[3243.52 --> 3244.90]  De grote leider Dan dit ook alweer.
+[3245.24 --> 3246.30]  Admit the obvious.
+[3246.30 --> 3247.68]  Ik heb voor mezelf...
+[3247.68 --> 3248.74]  Admit the obvious.
+[3248.86 --> 3250.32]  Dat ik leuk vind om media dingen te maken.
+[3250.84 --> 3251.00]  Ja.
+[3251.22 --> 3252.68]  Boeken, nieuwsbrieven, podcast.
+[3253.62 --> 3254.68]  Dus ik voel...
+[3255.24 --> 3256.44]  Ik zie de kans.
+[3256.60 --> 3260.00]  En ik vind het ook heel vet dat Alexander en Wietse...
+[3260.00 --> 3262.34]  Wietse is een derde kompillon hierin.
+[3262.82 --> 3264.46]  Dat die dit heel erg graag willen doen.
+[3265.04 --> 3266.96]  Maar het moet wel uit hen komen.
+[3267.24 --> 3268.48]  Want dit is wel het moment.
+[3268.72 --> 3271.80]  Ik heb dit product in vier maanden in mijn eentje.
+[3271.88 --> 3272.62]  Nou ja, met hulp.
+[3272.76 --> 3274.22]  Maar gebouwd.
+[3274.22 --> 3274.68]  Ja.
+[3275.50 --> 3275.88]  Ja, nee.
+[3275.96 --> 3278.08]  Het is zeer aanlokkelijk.
+[3278.28 --> 3278.40]  Ja.
+[3278.50 --> 3280.08]  En het is een heel bijzondere tijd.
+[3280.20 --> 3283.90]  Want ik heb voor het eerst in mijn leven ook het gevoel dat ik het kan doen zonder anderen.
+[3284.44 --> 3284.56]  Ja.
+[3284.56 --> 3287.40]  En hiervoor had ik altijd een bataljon aan programmeurs om me heen.
+[3287.58 --> 3287.72]  Ja.
+[3287.72 --> 3291.58]  En kon ik met heel...
+[3291.58 --> 3293.58]  Weet je, het idee dat je nu...
+[3293.58 --> 3296.64]  De trial and error die jij beschrijft om tot prompts te komen.
+[3296.94 --> 3297.82]  Dat kan iedereen.
+[3298.06 --> 3298.18]  Ja.
+[3298.18 --> 3300.64]  En dat voelt allemaal heel abstract.
+[3300.88 --> 3303.26]  En ingewikkeld en eng en zo voor de meeste mensen.
+[3303.60 --> 3305.50]  Maar tot het moment dat je constateert...
+[3305.50 --> 3308.06]  Oh, ik moet uitleggen aan dingen wat belangrijk betekent.
+[3308.18 --> 3308.36]  Ja.
+[3308.36 --> 3309.98]  En ik ga dat nu typen.
+[3310.32 --> 3314.16]  En ik ga kijken hoe die reageert op mijn interpretatie daarvan.
+[3314.46 --> 3315.40]  Dat kan iedereen.
+[3315.40 --> 3315.80]  Ja.
+[3316.08 --> 3318.78]  En dat maakt het zo aantrekkelijk om nu dingen te doen.
+[3318.86 --> 3319.12]  Ja, nee.
+[3319.44 --> 3322.56]  Je formuleert het als een oproep van aan de stag.
+[3322.70 --> 3324.28]  En ik knoop hem in mijn oren.
+[3324.42 --> 3325.56]  Het volgende jaar begint bijna.
+[3326.00 --> 3326.98]  Je hoeft ook niet te typen.
+[3327.08 --> 3328.98]  Je kan gewoon voice met hem over.
+[3329.70 --> 3330.94]  Zelfs dat hoeft niet meer.
+[3332.10 --> 3333.12]  Leuk dat je er was.
+[3333.30 --> 3333.88]  Ja, dankjewel.
+[3333.98 --> 3336.24]  En dank voor je uitgebreide uitleg.
+[3336.32 --> 3337.54]  En je kijkt onder de motorkap.
+[3337.98 --> 3341.26]  En wat moeten mensen doen als ze de tool willen proberen?
+[3341.26 --> 3346.08]  We hebben een waitlist op cora.computer.
+[3346.52 --> 3351.58]  En als je ze daar inschrijft, dan omborden we tien mensen per dag.
+[3352.30 --> 3353.32]  Dat doe je met de hand.
+[3353.66 --> 3355.12]  Met de hand, superhuman style.
+[3355.26 --> 3356.90]  En every leader krijgt voorrang waarschijnlijk.
+[3356.98 --> 3358.14]  Every leader krijgt een voorrang.
+[3358.24 --> 3360.24]  Dus als je nog geen lid bent, oproep.
+[3360.44 --> 3360.94]  Doe dat.
+[3361.72 --> 3363.12]  We doen deze oproep al een jaar.
+[3363.12 --> 3363.48]  Oproep.
+[3364.14 --> 3364.98]  Twee jaar denk ik.
+[3365.54 --> 3366.62]  Heel erg bedankt voor je komst.
+[3366.70 --> 3367.00]  Dankjewel.
+[3367.00 --> 3371.34]  Dit was Pom, een podcast over mediatechnologie met Ernst Jan Pout en Alexander Klubbing.
+[3371.42 --> 3375.06]  Bedankt aan Sam Hengeveld voor de productie, Fur voor de vormgeving, Tammer voor de muziek en Podimo voor alles.
+[3375.88 --> 3378.28]  Wij hebben ook een media-imperium, want we hebben het veel over every gehad.
+[3378.38 --> 3381.96]  Maar oh jeetje, als je toch eens kijkt wat voor nieuwsbrief je op vrijdag kunt krijgen.
+[3382.06 --> 3384.94]  Met productiviteitshacks, gadgets en andere interessante artikelen.
+[3385.08 --> 3387.78]  Waaronder de tool die we vandaag in de show hebben besproken.
+[3387.78 --> 3390.70]  Dan ga je naar pom.show en neem je die nieuwsbrief.
+[3390.90 --> 3393.06]  Als je nou denkt, AI, AI, AI.
+[3393.06 --> 3397.48]  Er wordt veel over gezegd, maar echt toepassen in mijn werk vind ik toch nog lastig.
+[3398.10 --> 3399.34]  Ook daar komen we je te hulp.
+[3399.46 --> 3404.76]  Via AI-report.email krijg je twee keer per week praktische tips over hoe je AI kan gebruiken.
+[3404.86 --> 3408.20]  En dan kun je ook nog eens ervoor zorgen dat je op de hoogte bent van het nieuws.
+[3408.30 --> 3410.00]  Want dat doen we ook allemaal met de hand.
+[3410.76 --> 3412.56]  Enig wat eigenlijk nog ontbreekt zijn producten.
+[3413.52 --> 3414.08]  Eigenlijk wel.
+[3414.18 --> 3414.96]  Maar gelukkig ga jij dat doen.
+[3415.04 --> 3415.48]  Twee weken.
+[3415.48 --> 3417.84]  Bedankt voor deze motivering.
+[3418.68 --> 3420.12]  Tot de volgende keer.
+[3420.32 --> 3420.52]  Dag.
+[3423.06 --> 3440.84]  Mijn naam is Miljus Kavitsa-Hausen.
+[3440.84 --> 3447.44]  In mijn nieuwe podcast, Het Eerste Avondmaal, nodig ik twee bijzondere gasten uit voor een intiem diner bij mij thuis.
+[3448.10 --> 3450.32]  Samen blikken we terug op het afgelopen jaar.
+[3450.32 --> 3455.52]  We duiken in zoete overwinningen en onze bittere teleurstellingen van 2024.
+[3458.24 --> 3462.02]  Schuif bij mij aan en luister vanaf 20 december naar het Eerste Avondmaal.
+[3462.52 --> 3466.70]  Nu 60 dagen gratis via podimo.nl slash avondmaal.
+[3466.70 --> 3468.60]  Wo�.
+[3468.72 --> 3469.22]  Seker Insurance.
+[3469.24 --> 3470.48]  Schuif bij mij aan het werk.
+[3470.54 --> 3471.96]  Hoogte wij aan het Engineering Datree uitingen.
+[3472.44 --> 3473.20]  Ik ben erin.
+[3473.20 --> 3474.66]  Vaninner Michael het stuk of indage在 november.
+[3474.70 --> 3475.50]  Vannegtoets.

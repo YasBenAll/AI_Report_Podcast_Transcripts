@@ -1,0 +1,1444 @@
+Video title: Anthropic schudt AI-wereld op met update + Amazon's miljardenplan tegen Google + AI-ontwikkeling ...
+Youtube video code: SgJcjN6OwI4
+Last modified time: 2024-11-28 06:57:05
+
+------------------ 
+
+[0.00 --> 5.64]  Koffertijd voor Mannen, de podcast waarin drie onbezonde gasten je wekelijks een kijkje geven in hun zinderende studentenleven.
+[5.74 --> 8.82]  We gaan geen onderwerp uit de weg en helpen je op het gebied van liefde.
+[8.92 --> 11.28]  Zou je huilen tijdens een seks en een afknapper vinden?
+[11.72 --> 15.20]  Vriendschap en alle andere problemen die je tegenkomt in je studentenleven.
+[15.30 --> 16.80]  Ze misten een beetje vol.
+[18.76 --> 22.02]  Elke maandag om drie uur sharp op je favoriete podcastplatform.
+[22.10 --> 26.32]  Ik heb met zoveel meiden getongen en met vier verschillen.
+[26.32 --> 28.94]  Ik zei Bram, dat was vier keer dezelfde.
+[30.00 --> 31.66]  We luisteren deze podcast op eigen risico.
+[32.92 --> 36.68]  Welkom bij Poki, de Nederlandse podcast over kunstmatige intelligentie.
+[37.22 --> 41.30]  Waar we uitzoeken welke invloed AI gaat hebben op ons werk, ons leven en de samenleving.
+[42.00 --> 44.54]  Tegenover mij zit Wietsehagen, ik ben Alexander Klubbing.
+[44.70 --> 48.50]  En deze week gaan we het hebben over technologiebedrijven die een wedstrijdje verplast aan het doen zijn.
+[49.12 --> 52.40]  Wie kan de meeste AI-chips kwijt in één gebouw?
+[52.48 --> 53.08]  Dat is de race.
+[53.74 --> 54.70]  Wij onthullen het antwoord.
+[54.70 --> 61.54]  En daarnaast betaalbedrijf Klarna laat in de jaarcijfers zien precies hoeveel banen ze overbodig hebben gemaakt met AI.
+[63.06 --> 70.24]  Scenarioschrijvers van tv-series zijn daarnaast in paniek omdat AI medische series als House in één klap ongelofwaardig heeft gemaakt.
+[70.92 --> 72.02]  En er is ook nog zakelijk nieuws.
+[72.16 --> 78.30]  Amazon voelt de hete adem van Google en Microsoft in de nek en zet de volgende move op het schaakbord met een nieuwe miljardeninvestering.
+[78.30 --> 84.16]  En daarnaast neemt de concurrentie op het gebied van reasoningmodellen toe en dat is belangrijk omdat dit soort modellen goedkoper zijn om te ontwikkelen.
+[84.74 --> 89.76]  En alsof dat nog niet genoeg is, is Wietseh ook nog eens heel enthousiast over nieuwe functionaliteit van Anthropics Cloud.
+[90.16 --> 92.86]  En hij betoogt binnenkort is de chatbot dood.
+[93.14 --> 95.24]  Dat en meer in Bokeh. Veel plezier.
+[95.24 --> 109.20]  Ik had net dus een typisch moment in voorbereiding van deze podcastliedsen.
+[109.82 --> 112.78]  Ik zat Spotify te luisteren, althans dat dacht ik.
+[112.78 --> 118.64]  Want toen ik Spotify op pauze probeerde te zetten, speelde de muziek door.
+[118.78 --> 124.16]  Wat bleek, er stond een tap op de achtergrond open van Suno, de AI muziekgenerator.
+[124.16 --> 131.06]  En die was blijkbaar al een half uur lang met een soort autoplay blijkbaar, trending muziek aan het afspelen.
+[131.16 --> 132.16]  En ik had het niet door.
+[132.58 --> 137.84]  Nou ja, ik zat erbij op een gegeven moment en ik dacht, zit je hier nou een soort atmosferische ambient te draaien?
+[138.22 --> 140.14]  Oké, zo ken ik je nog niet. Prima.
+[141.14 --> 146.34]  Het is eigenlijk nog erger, want ik hoorde dus iets leuks en ik wilde het favoriten in Spotify.
+[146.70 --> 151.30]  En toen heb ik dus blijkbaar iets anders gefavoriten dan dat ik dacht, want ik wilde AI muziek favoriten.
+[151.30 --> 155.00]  Nou ben ik heel benieuwd wat jij nu het algoritme hebt geleerd van Spotify.
+[155.22 --> 155.74]  Ja, precies.
+[156.22 --> 160.18]  Maar is dat een ding, is dat een soort infinite music van Suno?
+[160.26 --> 167.20]  Ja, ik wist ook niet dat, ik was een beetje in de research, zat ik een nummertje te luisteren van V4, waar we het vorige week over hadden.
+[167.30 --> 171.48]  Maar ja, blijkbaar speelt dat ding, ik heb nooit een ding afgeluisterd.
+[171.58 --> 174.08]  Dat was niet het punt van Suno, om het af te luisteren eigenlijk.
+[174.32 --> 175.30]  Maar blijft hij nu gewoon doorspelen?
+[175.30 --> 180.08]  Ja, dat is gewoon doorspelen, alsof het een soort van background music dienst geworden is.
+[180.10 --> 182.30]  Maar die kan je dus niet favoriten ook al.
+[182.54 --> 185.00]  Misschien wel een Suno, maar niet door een Spotify knopje te drukken.
+[186.72 --> 188.46]  Grappig toch? Ik vind het veelzeggend.
+[188.60 --> 197.64]  Nee, ik ben nu benieuwd, als het wel een soort infinitely generated muziek op de achtergrond is, en je hoort iets moois, is het dan nu weg voor altijd?
+[198.30 --> 199.22]  Hoe bedoel je, is het nu weg?
+[199.68 --> 203.74]  Nou, ging hij daar afspelen wat al voorgegenereerd is door andere mensen van de playlist.
+[204.02 --> 204.08]  Ja, ja, ja.
+[204.08 --> 206.44]  Ah, oké, dus je had op het hartje kunnen drukken in Suno.
+[206.54 --> 209.92]  Ja, ja, hij had gewoon een trending playlist, en die was hij blijkbaar aan het spelen.
+[210.30 --> 212.50]  En dat was best wel chillers van country op de achtergrond.
+[213.38 --> 213.66]  Heerlijk.
+[214.68 --> 216.22]  Oké, laten we naar het nieuws gaan.
+[218.10 --> 223.32]  Amazon heeft haar investering in Anthropic verdubbeld, van 4 miljard dollar naar 8 miljard dollar.
+[224.12 --> 226.30]  Daarmee is dat bedrijf weer veel meer waard geworden.
+[226.30 --> 232.16]  Anthropic heeft in ruil daarvoor toegezegd 4 miljard te besteden aan Amazons cloud platform.
+[233.06 --> 234.78]  En dat is natuurlijk waar dit allemaal om gaat.
+[235.44 --> 238.58]  Amazon heeft zijn eigen cloud platform genaamd AWS.
+[239.60 --> 243.42]  En daar kun je allerlei diensten afnemen, waaronder AI diensten.
+[244.20 --> 254.58]  Microsoft heeft zijn eigen partnership met OpenAI natuurlijk, wat Azure, Microsoft's eigen AWS, een soort voorsprong geeft in AI cloud diensten.
+[254.58 --> 260.26]  En Google heeft natuurlijk ook Gemini, en ook dat bieden zij aan, middels APIs.
+[260.82 --> 264.38]  En Amazon heeft niet echt een goed eigen model.
+[264.52 --> 268.30]  Ze ontwikkelen wel een eigen model, dat heet Olympus, maar dat is nog niet zo goed.
+[268.40 --> 271.14]  En het heeft dus cloud nodig in de tussentijd.
+[271.14 --> 275.78]  En ik denk ook dat Antropic Amazon nodig heeft.
+[275.94 --> 281.68]  Want ik denk dat die kapitaalinjectie ook voortkomt uit dat ze geen capaciteit hebben bij Antropic.
+[281.82 --> 283.28]  Want ik gebruik cloud dagelijks.
+[283.72 --> 286.40]  En ik krijg constante meldingen, we gaan je kortere antwoorden geven.
+[286.62 --> 287.46]  Sorry, het loopt allemaal vast.
+[287.46 --> 288.64]  Het is inderdaad, sinds een paar weken.
+[288.64 --> 295.84]  Ja, maar ik denk dat door dat wij het in AI reports zoveel over cloud hebben gegaan.
+[296.48 --> 301.62]  Maar ik heb, goed, dat is een beetje, of er zijn een hoop servers kapot gegaan in de tussentijd.
+[301.88 --> 304.22]  Of er zijn een hoop mensen bijgekomen die cloud gebruiken.
+[304.30 --> 305.04]  Ik denk die laatste.
+[305.50 --> 307.86]  En zo'n kapitaalinjectie, ja, het is heel plat.
+[307.98 --> 314.10]  Dat is letterlijk om graafmachines en diesel en chips te kopen om die datacenters uit de grond te trekken.
+[314.10 --> 315.58]  Ja, ja, ja.
+[315.72 --> 318.28]  Dus hij werkt twee kanten op bedoel ik eigenlijk te zeggen, die investering.
+[319.02 --> 319.68]  Ja, precies.
+[320.66 --> 325.32]  En een ander deel daarvan is dat Amazon eigen AI chips heeft voor een cloud dienst.
+[325.48 --> 330.58]  En Antropic zegt nu dus ook dat ze als onderdeel van deze deal die chips ook gaan gebruiken.
+[331.22 --> 331.62]  Interessant.
+[332.14 --> 334.08]  Nou ja, dat is dan het tweede element eraan.
+[334.16 --> 338.84]  Maar het is inderdaad wel opvallend dat Claude, ook al zeg je, ik wil gewoon hele antwoorden, Claude.
+[338.84 --> 340.28]  Geen korte antwoorden.
+[340.28 --> 344.90]  Iedere keer als je refresh krijg je weer default naar korte antwoorden.
+[344.96 --> 350.48]  Ja, en ik zie ook zelfs als ik hem open, maar het kan ook zijn dat ik een van de drie Safari gebruikers in Nederland ben op desktop.
+[350.80 --> 355.22]  Maar dat hij heel even zegt, ik schakel nu over naar Haiku, want ik kan het niet aan.
+[355.48 --> 357.02]  Dat staat al in beeld.
+[357.44 --> 360.18]  En dan merkt hij, oh, ik kan het toch aan en dan swisht die vlucht toch naar soms.
+[360.76 --> 363.48]  Dus ze zitten wel te pielen met capaciteiten de laatste weken.
+[363.58 --> 364.28]  Beetje rommelig.
+[364.28 --> 369.84]  Er is grote concurrentie op het gebied van AI reasoning modellen.
+[370.42 --> 371.96]  Ja, god, hoe moeten we dat uitleggen?
+[372.16 --> 374.08]  Ja, eigenlijk een AI die zijn huiswerk nakijkt.
+[374.18 --> 379.40]  Dus hij bluft even dertig antwoorden en gaat dan rustig die antwoorden vergelijken en geeft dan pas jou het antwoord.
+[379.56 --> 379.96]  Juist.
+[380.20 --> 382.32]  Ik zeg hem even heel plat, maar daar komt het ongeveer op neer.
+[382.32 --> 387.20]  Maar complexe multi-step problemen kunnen daardoor opgelost worden.
+[387.40 --> 391.50]  En dat was met de introductie van O1 van OpenAI.
+[392.04 --> 397.94]  Ja, kreeg dat de spotlight en die ging opeens heel goed in allerlei rankings.
+[398.32 --> 404.18]  Kon het sommige vragen beter beantwoorden en bijvoorbeeld beter in programmeren waar wij het vorige week over hadden.
+[404.18 --> 413.94]  En er zijn nu een aantal nieuwe bedrijven die eigenlijk in de hele wapenwetloop met OpenAI lekker mee lijken te kunnen.
+[414.04 --> 419.96]  Wat opvallend is, want tot nu toe werd redelijk aangenomen dat OpenAI eigenlijk te verst was met O1.
+[419.96 --> 424.56]  En dat de rest een hele grote voorsprong had om in te halen.
+[424.64 --> 429.76]  Maar er zijn in de afgelopen tijd drie opvallende partijen bijgekomen.
+[430.00 --> 432.10]  Fireworks AI is een start-up uit Californië.
+[432.10 --> 439.78]  Er is ook een Chinese, zo'n quantbedrijf, zo'n soort van hedgefonds die dan op signalen trade, highflyer heet dat.
+[439.90 --> 443.30]  Dus een hedgefonds wat een reasoning model maakt.
+[443.30 --> 444.06]  Interessant, ja.
+[444.48 --> 447.16]  En Alibaba, de Chinese e-commerce gigant.
+[448.14 --> 456.92]  En eigenlijk zijn die reasoning modellen waarbij het lijkt alsof het moeilijk was om OpenAI van de troon te stoten,
+[456.92 --> 461.88]  blijkt het juist makkelijker te zijn voor kleinere AI-ontwikkelaars om de strijd aan te gaan met OpenAI.
+[462.10 --> 471.22]  Onder andere omdat onderzoekers van Stanford, Google, Meta en OpenAI de afgelopen jaren heel veel gepubliceerd hebben openbaar.
+[471.78 --> 478.56]  Papers hebben geschreven die gebruikt lijken te worden door die kleinere start-ups en dus daadwerkelijk helpen.
+[478.78 --> 479.96]  Wat altijd een grappige event.
+[479.96 --> 482.56]  Ja, de magie ligt een beetje op straat in dat opzicht.
+[482.82 --> 487.22]  Toen O1 uitkwam was ook een beetje de discussie, is het niet gewoon een hele goede prompt?
+[487.60 --> 488.64]  Even heel cynisch zeg maar.
+[488.72 --> 491.66]  Is het niet gewoon GPT-4O met een betere prompt?
+[491.66 --> 500.20]  Wat bleek is dat ze uiteindelijk ook logische reasoning stappen, dus logica, er wel in getraind hebben.
+[500.64 --> 504.70]  Maar dat trainen stelt niet zoveel voor, waardoor het best wel goedkoop is om die training rund te doen.
+[504.86 --> 510.84]  Ja, je hebt in ieder geval niet heel veel data nodig om je eigen modellen op te trainen.
+[510.84 --> 515.82]  Het is, zoals ik het las in die information, is het een vorm van post-training.
+[516.56 --> 522.98]  En daardoor is het goedkoper dan, het is bovenop bestaande modellen zoals Meta's Lama kun je het bouwen.
+[523.20 --> 523.30]  Ja.
+[523.92 --> 524.96]  Dus dat is interessant.
+[526.22 --> 530.82]  En de information had een lang stuk hierover, over dat reasoning modellen eigenlijk onderschat worden.
+[530.82 --> 539.76]  Dus dat er heel veel aandacht gaat naar O1 of naar GPT-4O en naar Claude van Anthropic.
+[539.76 --> 546.22]  Maar dat reasoning modellen eigenlijk een soort van onderschatte nieuwe golf zijn.
+[546.34 --> 548.48]  Maar merk je dat, kies jij vaak voor O1?
+[548.88 --> 549.08]  Ja.
+[549.48 --> 550.40]  En wanneer doe je dat?
+[550.52 --> 551.10]  Want dit is denk ik...
+[551.10 --> 551.92]  Als de katenbrieven.
+[552.22 --> 552.76]  Ja, precies.
+[552.88 --> 554.24]  Wat je vorige keer hebt uitgelegd.
+[554.32 --> 558.40]  Maar ik hoor wel vaak van mensen, als ik vraag van, joh, switch je wel eens naar O1?
+[558.40 --> 559.34]  Nee, die is langzaam.
+[559.44 --> 559.54]  Ja.
+[559.96 --> 560.70]  Dus ik zie niet echt.
+[560.78 --> 563.76]  Maar jij hebt wel use cases gevonden voor zo'n reasoning model.
+[563.82 --> 569.20]  Ik denk gewoon, als ik nu een vraag ga stellen waarbij ik een advocatenbrief schrijf,
+[569.20 --> 574.04]  dat is iets waarbij ik, als ik ook maar een kleine kans heb dat die iets beter gaat zijn,
+[574.78 --> 579.76]  dan gewoon GPT-4, dan ga ik die minuut wel nemen.
+[580.26 --> 580.38]  Ja.
+[580.72 --> 585.32]  Dus jij ziet het echt als het trage model die je voor belangrijke zaken gebruikt.
+[585.38 --> 585.46]  Ja.
+[585.68 --> 586.90]  Wanneer bluffen niet genoeg is.
+[586.94 --> 587.22]  Precies.
+[587.42 --> 588.14]  Ja, interessant.
+[588.26 --> 590.68]  Medische dingen zou ik ook vragen aan O1.
+[590.86 --> 591.02]  Ja.
+[591.02 --> 595.18]  Ik zou het wel prettig vinden om, want nu doet hij wel laten zien ook hoe hij door die
+[595.18 --> 596.08]  stappen heen gegaan is.
+[596.22 --> 597.60]  Maar ik zou er wel iets meer inzicht willen.
+[597.70 --> 599.52]  Van, joh, ik had deze dertig antwoorden of tien.
+[599.86 --> 601.02]  Toen heb ik getwijfeld over dat.
+[601.14 --> 602.64]  Maar goed, dat is misschien mijn wantrouwen.
+[602.64 --> 607.72]  Nou, Open Air zegt hierover dat ze dat expres niet doen voor veiligheidsredenen.
+[608.14 --> 613.16]  Dat weet ik niet of dat nou echt helemaal, maar belangrijker, competitieve redenen.
+[613.16 --> 613.26]  Ja.
+[613.88 --> 620.68]  En onderdeel van deze hele house is dat er dus High Flyer, dat is dat hedgefonds waar we
+[620.68 --> 626.44]  het net over had, die is wel transparant over dat model.
+[626.70 --> 630.84]  Ze hebben aangekondigd dat ze een open source versie van hun model beschikbaar gaan stellen.
+[631.32 --> 635.58]  En die information verwacht dan ook dat die hele open source community een boost zal krijgen,
+[635.58 --> 640.80]  omdat zij hier dus transparant over gaan zijn, over die denkstappen die dat ding doormaakt.
+[640.80 --> 644.36]  Ja, het geheim wat Open Air nog niet op straat heeft gelegd, komt dan ook op straat.
+[644.42 --> 644.68]  Precies.
+[644.96 --> 652.10]  En het is grappig, want zelfs Microsoft, die natuurlijk een miljardensamenwerking heeft met Open Air
+[652.10 --> 658.12]  en toegang heeft tot de broncode als onderdeel van die deal, lukte het niet een tijd lang
+[658.12 --> 661.98]  om die magie van dat O1 model te repliceren.
+[661.98 --> 667.58]  En information is altijd heerlijk met van die juicy dingetjes over hoe dingen op de achtergrond werken.
+[667.58 --> 673.80]  En zij schrijven dat Open AI dagelijkse sessies met Microsoft onderzoekers organiseerde om
+[673.80 --> 678.58]  hen te begeleiden bij het begrijpen van het model, O1 dus, waaronder de methode voor het
+[678.58 --> 679.68]  genereren van trainingsdata.
+[679.78 --> 683.46]  Maar Microsoft worstelde met de ontwikkeling van een eigen reasoning model en tot nu toe
+[683.46 --> 687.92]  is er nog steeds geen model van Microsoft wat reasoning doet.
+[688.24 --> 693.98]  En bij Google werden ze pas wakker nadat O1 preview werd gelanceerd en hebben ze het team
+[693.98 --> 697.54]  opgeschaald van enkele tientallen naar ongeveer 200 medewerkers.
+[698.44 --> 703.82]  En nou ja, ik denk het idee dat dit de open source community een boost kan geven, dat dat
+[703.82 --> 705.14]  relevant is.
+[705.46 --> 709.00]  Ja, en ik denk ook dat dat de grote vraag is wanneer die twee elkaar gaan passeren.
+[709.24 --> 713.12]  Of in ieder geval wanneer de open source modellen, de closed source modellen passeren.
+[713.52 --> 718.28]  Want dat wordt ook wel een bijzonder moment, want daarmee verliezen eigenlijk al die partijen
+[718.28 --> 722.96]  in ieder geval op model hun mode, oftewel de kristallen die zij hebben liggen.
+[723.52 --> 727.56]  Daarnaast, goed daar komen we straks op, kan je nog heel veel doen met interface eroverheen.
+[727.82 --> 732.32]  Zo lekker hoe Cloud werkt op het web en hoe mooi OpenAI Canvas is voor de mensen die
+[732.32 --> 733.02]  nog niet hebben gebruikt.
+[733.54 --> 738.14]  Dat kan misschien straks wel het bedrijf worden en dat het model een minder belangrijke rol
+[738.14 --> 742.32]  gaat spelen in wat OpenAI en Entropic zo bijzonder maakt.
+[742.32 --> 748.48]  Ik zal nog wel één grappig detail, dat is een laboratorium in Californië dat zich richt
+[748.48 --> 754.34]  op kernfusieonderzoek met, haal je vast, krachtige lasers en kleine brandstofcapsules.
+[754.84 --> 756.44]  Ze doen dus aan kernfusieonderzoek.
+[757.10 --> 761.76]  En die onderzoekers gebruiken OpenAI's O1 Preview om berekeningen uit te voeren over
+[761.76 --> 765.08]  de temperatuur en drukniveaus bij verschillende laservermogens.
+[765.34 --> 765.80]  Blijf erbij.
+[766.44 --> 772.30]  Het AI-model levert binnen 10 tot 60 seconden resultaten waarbij de onderzoekers normaal gesproken
+[772.30 --> 776.48]  30 minuten tot enkele dagen gedaan zouden hebben om tot dezelfde resultaten te komen.
+[777.18 --> 781.94]  En toekomstige versies zouden, zo is dan de gedachte, wetenschappelijke hypotheses kunnen
+[781.94 --> 790.08]  genereren en testen in verschillende vakgebieden waardoor ze direct onderzoeksapparatuur kunnen
+[790.08 --> 790.96]  aansturen.
+[790.96 --> 800.40]  En deze, ja, soort van, we hebben ChatGPT Plus, maar de gedachte is dus dat OpenAI een hele
+[800.40 --> 801.30]  dure versie.
+[801.44 --> 808.52]  Er wordt gesproken over abonnementen van 2000 dollar per maand om toegang te geven tot geavanceerdere
+[808.52 --> 809.98]  modellen voor dit soort toepassingen.
+[809.98 --> 810.84]  Ja, zeker weten.
+[811.06 --> 815.20]  Waarbij heel duidelijk is dat de tijd bespaart voor dit soort grote bedrijven.
+[815.40 --> 819.24]  Ja, ik zit zelf nog steeds te wachten op de programmeermodellen van 500 euro per maand.
+[819.82 --> 824.30]  Want als jij in IT bent met een bepaald uurtarief, dan ga je dat gewoon aanschaffen.
+[824.30 --> 826.24]  Ja, dan is 500 euro nog een koopje.
+[826.36 --> 826.52]  Ja.
+[826.82 --> 827.70]  Eigenlijk best gek, hè.
+[827.74 --> 829.72]  Hoe tot nu toe, alles kost 20 euro.
+[830.00 --> 832.72]  Dat is gewoon de standaard tarief blijkbaar voor AI.
+[832.72 --> 836.60]  Ja, ik denk dat een Entropic, waar we het net over hebben gehad, die moet dan nu een
+[836.60 --> 840.34]  best wel een diepe cash injectie krijgen of een grote cash injectie van Amazon om die
+[840.34 --> 841.34]  service te rijden te houden.
+[841.42 --> 842.64]  In ieder geval, dat verwacht ik.
+[843.20 --> 847.20]  Terwijl je ook zou kunnen zeggen, joh, Sonnet, de nieuwe, die zetten we gewoon achter 50 dollar.
+[847.38 --> 847.68]  Juist.
+[847.84 --> 852.80]  Je bent early, ik bedoel, ik praat nu even als een ultimate SaaS startup kapitalist.
+[852.80 --> 853.90]  Ja, ja, kapitalist.
+[854.02 --> 854.18]  Ja.
+[854.34 --> 855.04]  Zo kennen we je ook.
+[856.00 --> 857.02]  Zo sta jij je te boeken.
+[857.10 --> 857.44]  Ja, ja.
+[858.12 --> 861.64]  Maar ik denk dat ik, het verbaast me nog dat er weinig partijen zijn die zeggen, we gaan
+[861.64 --> 865.92]  hele dure premium models aanbieden aan de mensen die zo gek zijn om het ervoor te geven.
+[866.18 --> 866.24]  Ja.
+[868.36 --> 870.08]  Nou, we hadden het over die wedstrijd fairplassen.
+[870.18 --> 873.02]  Wie kan de meeste Nvidia chips op één plek verzamelen?
+[873.10 --> 874.84]  Dat noemen we dan superclusters.
+[875.10 --> 875.98]  Die kosten miljarden.
+[876.62 --> 879.24]  Elon Musk natuurlijk wil het verste plassen van allemaal.
+[879.40 --> 880.24]  Het lukt hem alleen niet.
+[880.24 --> 886.24]  Er zijn nu 100.000 Nvidia hopperchips in zijn kolosses supercluster.
+[887.30 --> 890.64]  Maar Mark Zuckerberg claimt het grootste cluster te hebben.
+[890.64 --> 896.12]  En die zegt dan niet hoeveel, maar zegt meer dan wat anderen publiekelijk gerapporteerd hebben.
+[896.22 --> 897.52]  A.k.a. Elon Musk.
+[898.22 --> 903.96]  Een paar jaar geleden gold nog dat 10.000 chips in één cluster heel groot was.
+[904.10 --> 908.00]  OpenAI bijvoorbeeld gebruikte 10.000 chips voor de eerste versie van ZGPT.
+[908.64 --> 911.58]  En nu wordt dus gesproken over clusters van honderdduizenden.
+[912.30 --> 919.32]  Musk wil nu 300.000 chips bij elkaar zetten.
+[919.32 --> 923.14]  Blackwell chips, dat is de opvolger van de huidige Nvidia chip.
+[923.22 --> 925.58]  Die dingen kosten 30.000 dollar per stuk.
+[926.28 --> 929.66]  Dus een cluster van 100.000 chips kost 3 miljard dollar.
+[929.84 --> 931.38]  En dat is dan exclusief de infrastructuur.
+[931.64 --> 934.16]  Dus ook allemaal gedoe bij het maken van die superclusters.
+[934.36 --> 935.94]  Dat is wel een grappig stuk wat ik zat te lezen.
+[936.54 --> 941.54]  Over dat er allerlei vloeibare koelingstechnieken gebruikt moeten worden om die dingen koel te houden.
+[941.54 --> 946.72]  De meta klaagt ook dat er regelmatig 10.000 chips tegelijkertijd ermee kappen.
+[947.08 --> 950.86]  Ik kan je aanraden als luisteraar, er staat op YouTube een video van mij van Surf the Home.
+[950.96 --> 955.04]  Maar je vindt hem wel, dat is een rondleiding in het datacenter van XAI, van Musk.
+[955.64 --> 958.38]  En dan, uiteindelijk is het materieel ergens.
+[958.54 --> 959.50]  De cloud bestaat niet.
+[959.98 --> 963.64]  En dan zie je dus inderdaad overal van die transparante buisjes met water erin.
+[963.76 --> 966.14]  Dat je denkt, dit in een datacenter.
+[966.28 --> 968.48]  Dat is geen water, het is echt koelvloeistof.
+[968.48 --> 971.02]  Ja, het is net als in een auto, net iets gunstiger.
+[971.48 --> 975.62]  Maar ja, uiteindelijk zitten er gewoon echt beesten van machines achter.
+[975.86 --> 978.62]  En dan is het ook nog zo, dat zie je heel mooi in die NVIDIA presentaties,
+[978.68 --> 980.04]  dat ze dan zeggen, ja we hebben hier een chip.
+[980.52 --> 981.86]  En dan doen we dan een chipplut van maken.
+[981.94 --> 983.16]  Dan hebben we vier chips op één chip.
+[983.28 --> 985.02]  En dan die chip weer met z'n achten in één doos.
+[985.08 --> 986.66]  En dan die doos weer met z'n tiende in één kast.
+[986.74 --> 988.10]  En die kast dan weer naast elkaar in de kast.
+[988.20 --> 990.22]  En dan een soort turtles all the way down.
+[990.66 --> 993.94]  En die clusters gaan we dan weer in de regio aan elkaar koppelen met fiber.
+[993.94 --> 996.52]  En uiteindelijk bouw je een soort computer in een computer in een computer.
+[996.84 --> 998.30]  Het is een enorme infrastructuur.
+[998.48 --> 1001.46]  Ja, en er zit natuurlijk één grote gok achter.
+[1001.60 --> 1005.76]  Namelijk dat je betere AI-modellen krijgt door grotere rekenkracht.
+[1005.88 --> 1010.88]  En er is op zich geen bewijs dat dit zal schalen naar een miljoen chips
+[1010.88 --> 1013.06]  en een systeem van honderd miljard dollar.
+[1013.40 --> 1015.20]  Dat las ik in de Wall Street Journal.
+[1015.74 --> 1019.72]  Maar er is wel de observatie dat ze buitengewoon goed geschaald hebben
+[1019.72 --> 1022.20]  van slechts tientallen chips naar honderdduizend.
+[1022.20 --> 1031.42]  En dat geeft deze ondernemers de moed en de hoop dat deze investeringskosten van dus drie miljard
+[1031.42 --> 1034.16]  in het geval van honderdduizend chips, en dat is dan nog niet eens het grootste cluster,
+[1035.02 --> 1037.36]  dat dat het waard gaat zijn.
+[1037.62 --> 1040.62]  Ja, ik ben vooral benieuwd in hoeverre je die, wanneer schrijf je dit af?
+[1040.84 --> 1042.26]  Is het twee jaar leuk of zo?
+[1042.32 --> 1045.26]  En kan je dan met een nieuwe chip een half zo groot datacenter bouwen?
+[1045.26 --> 1047.48]  Voordat Jensen Hang weer met een nieuwe...
+[1047.48 --> 1050.64]  Ja, want die gaat ook iedere 18 maanden een soort Moore's Law doen,
+[1050.78 --> 1052.56]  waardoor alles weer twee keer zo snel is.
+[1052.66 --> 1054.92]  Maar goed, dan kan je net zo goed wachten voor altijd en nooit bouwen.
+[1055.04 --> 1057.40]  Dus het blijft een beetje een maf tussenmoment.
+[1059.44 --> 1060.70]  Nou, nog twee korte nieuwtjes.
+[1060.82 --> 1062.58]  Klarna is een aanbieder van betaaldiensten.
+[1062.66 --> 1069.48]  Die hebben al eerder een beetje cool gedaan over dat zij met AI flinke kostenbesparingen kunnen doen in hun bedrijf.
+[1070.10 --> 1071.08]  Dat was een belofte.
+[1071.08 --> 1076.56]  En nu lijkt het alsof ze echt laten zien dat AI-implementatie zorgt voor kostenbesparingen,
+[1076.62 --> 1078.16]  a.k.a. ontslagen.
+[1079.00 --> 1085.08]  De CEO presenteerde resultaten van het bedrijf via een high-fast AI-gegenereerde avatar.
+[1085.26 --> 1085.50]  Wiet ze?
+[1085.92 --> 1086.70]  Toch licht cringe.
+[1087.12 --> 1090.20]  Helemaal om aan te kondigen dat je mensen ontslagen hebt, maar oké.
+[1090.22 --> 1093.94]  Ik denk dat we wel kunnen zeggen dat AI-avatars op dit moment licht cringe zijn.
+[1094.36 --> 1097.32]  Marketing en verkoopkosten daalden met 16%
+[1097.32 --> 1100.02]  ten opzichte van dezelfde periode vorig jaar.
+[1100.02 --> 1108.30]  Maar klantenservice en operationele kosten komt met 14% en dat wordt dan aan AI-introducties geweten.
+[1109.30 --> 1112.60]  Vertalingen en ander uitbesteed werk wordt nu door AI gedaan.
+[1113.16 --> 1114.94]  En Klarna is dus opvallend open.
+[1115.56 --> 1117.02]  Ja, dat is meteen mijn vraag aan jou ook.
+[1117.12 --> 1117.38]  Waarom?
+[1117.86 --> 1119.12]  Omdat zij naar de beurs gaan wietzen.
+[1119.12 --> 1121.78]  Ze willen gewoon die efficiëntie laten zien.
+[1121.98 --> 1124.12]  Kijk eens hoe die in deze operatie is die we hebben.
+[1124.20 --> 1124.36]  Precies.
+[1124.48 --> 1127.28]  Ze willen zich heel graag positioneren als een soort van unieke voorloper.
+[1128.04 --> 1132.98]  En ik las ook wel, de information zei, je moet er ook niet te zwaar aan tillen.
+[1133.14 --> 1136.62]  Want dit is dan besparing op het gebied van marketing en klantservice.
+[1136.76 --> 1137.56]  Dat ligt voor de hand.
+[1138.08 --> 1141.12]  Maar waarschijnlijk had de CEO het van de daken van Stockholm geschreeuw.
+[1141.12 --> 1150.88]  Zo schreeuwen ze, als ze daadwerkelijk waren gelukt om de leningen, dat is uiteindelijk hun product, als ze daar efficiënter mee waren geworden.
+[1151.00 --> 1154.24]  Dus het is voornamelijk besparing op de rand en niet op de kern.
+[1154.88 --> 1156.80]  Dus hoe serieus je dit nou allemaal echt moet nemen.
+[1157.12 --> 1162.26]  Nou ja goed, als je op de marketing of op de klantservice afdeling werkt, dan neem je het denk ik wel serieus.
+[1162.26 --> 1168.86]  Ja, het zou zo kunnen zijn dat er andere bedrijven zijn met soortgelijke gains vooruitgang die dat niet van de daken schreeuwen.
+[1168.86 --> 1171.54]  Omdat ze zoiets hebben, laten we dat gewoon intern houden.
+[1171.54 --> 1172.96]  Die niet beursgenoteerd zijn nodig.
+[1172.96 --> 1173.70]  Ja, dat zou kunnen.
+[1173.72 --> 1176.12]  Deze is waarschijnlijk een soort karikatuur van de realiteit.
+[1176.30 --> 1179.88]  Maar je hebt ook kans dat er andere realiteiten een beetje stilgehouden worden.
+[1179.90 --> 1181.22]  Ja, precies.
+[1181.66 --> 1189.04]  En tenslotte, de Wall Street Journal schreef best wel een grappig artikel over dat AI televisiemakers dwingt om verhaallijnen te herzien.
+[1189.04 --> 1194.58]  Veel bekende scenario's worden in één klap ongelofwaardig in een wereld waar AI alom vertegenwoordigd is.
+[1194.58 --> 1201.14]  Dus allerlei politiedrama's bijvoorbeeld, waarbij ze eindeloos op zoek zijn naar een of andere poppetje wat met gezichtsherkenning binnen een minuut te vinden zou zijn.
+[1201.78 --> 1204.12]  Zag ik een leuk ding over bij Evinek afgelopen week.
+[1204.56 --> 1210.24]  En medische mysteries zoals House, waar ze 55 minuten doen om een diagnose te doen.
+[1210.36 --> 1211.92]  Overigens altijd loepers, dus ik weet niet.
+[1212.32 --> 1215.68]  Maar dat is natuurlijk ook in één keer ongelofwaardig geworden.
+[1216.24 --> 1221.22]  Dus ze moeten aan de bak, schrijft de Wall Street Journal, nieuwe plotlijnen ontwikkelen die passen bij het AI tijdperk.
+[1221.60 --> 1223.72]  Of AI zelf vragen om scenario's te schrijven.
+[1223.78 --> 1225.30]  Dat is de oplossing die de schrijver meebrengt.
+[1225.46 --> 1226.22]  Ik ben nu wel benieuwd.
+[1226.34 --> 1230.88]  Heb jij, daar dacht ik nu aan, heb jij zelf al door, dat klinkt misschien een beetje als zuffenvraag,
+[1230.88 --> 1242.26]  maar dat je, AI wordt nu in de vorm van vaak tekstvoorspellen en plaatjes maken en audio maken, die drie, generatieve AI, toegepast door allerlei mensen al.
+[1242.48 --> 1247.76]  Als je het een beetje rondvraagt bij een lezing of gewoon in mijn familie en vriendengroep, dan wordt er best wel veel gebruik van gemaakt.
+[1248.68 --> 1251.36]  Ook in de werksfeer, ook in de creatieve industrie.
+[1251.60 --> 1251.62]  Ja.
+[1252.26 --> 1254.06]  Ben je al dingen tegengekomen?
+[1254.06 --> 1262.48]  Ik bedoel, je hebt duidelijk AI-slop in je feed ofzo, of slechte plaatjes op Twitter slash X van een overduidelijk AI-gegenereerd dingetje.
+[1262.78 --> 1263.10]  Zwa.
+[1263.58 --> 1271.06]  Maar dat je naar iets had te kijken of iets aan het lezen was in een krant, meer in klassieke media, dat je ineens dacht, dit voelt een beetje klaad, man.
+[1271.78 --> 1278.42]  Of, ik ben het nu een beetje, we hebben thuis een aantal fysieke kranten die we dan van vrienden krijgen als ze uitgelezen zijn, gewoon van de buurt eigenlijk.
+[1278.42 --> 1280.62]  En dan ga ik daar, ik ben een beetje aan het zoeken al.
+[1280.62 --> 1284.60]  Van, kan ik, bedoel, je kan zeggen, je kan iemand erop betrappen dat er staat, natuurlijk.
+[1284.90 --> 1287.44]  En dat je dan, bedoel, haha, maar ik bedoel meer.
+[1287.94 --> 1290.90]  In de toon ofzo, of in de vibe.
+[1291.06 --> 1295.94]  Gaat je AI-spidey-sense al tinkelen soms, terwijl je naar iets aan het kijken bent?
+[1295.94 --> 1297.10]  Niet in traditionele media.
+[1297.46 --> 1300.50]  Zal het daar gewoon nog niet gebruikt worden, of beter verstopt worden?
+[1301.06 --> 1302.90]  Ja, goede vraag.
+[1303.28 --> 1307.66]  Ik denk wel dat de tolerantie daar heel laag voor is, bij eindredacteuren, hoofdredacteur, et cetera.
+[1307.90 --> 1308.02]  Ja.
+[1308.02 --> 1316.24]  De volkskrant maakt nu een heel, maakt een onderdeel van de nieuwste campagne, is dat je, dat je, dat je laat leiden door je eigen interesses en niet door algoritmes.
+[1316.64 --> 1320.40]  Dus dat is bijna, het is wel een beetje anti-technologie houding.
+[1320.50 --> 1321.04]  Ja, counterculture.
+[1321.36 --> 1322.38]  Ja, het is counterculture.
+[1322.38 --> 1329.62]  Ik kan me niet voorstellen dat ze daar nou echt een soort van met AI schrijven als betaalde krant om dat te gaan omarmen.
+[1329.76 --> 1334.02]  Het lijkt me dat meer nadelen hebben om dat publiekelijk te claimen dan voordelen.
+[1334.16 --> 1337.74]  Ja, ik zit dus vooral na te denken dat het niet publiekelijk geclaimd wordt.
+[1338.06 --> 1338.94]  Niet iedereen is klar na.
+[1339.22 --> 1344.22]  Maar ik kan me wel voorstellen dat het eigenlijk al wel best ingezet wordt, maar dat we het gewoon niet doorhebben.
+[1344.22 --> 1355.22]  Ja, ik weet, DPG heeft best wel veel, eigenlijk met de introductie van JGBT hebben ze al allerlei interne tooling gemaakt om bijvoorbeeld koppen te helpen schrijven of te helpen met eindredactie om die interne processen efficiënter te maken.
+[1355.60 --> 1355.68]  Ja.
+[1355.68 --> 1362.34]  Maar ze lopen daar niet mee te koop, anders hadden ze al lang hierover van de torens geblazen.
+[1362.54 --> 1366.14]  Ik denk niet dat er per se een PR-voordeel is voor traditionele mediabedrijven.
+[1366.90 --> 1371.74]  Maar, weet je, en dus afgezien of je het gaat inzetten onder de oppervlakte, want dat zou alsnog kunnen.
+[1372.12 --> 1373.54]  Maar dan hebben we het niet door, dan doen ze het goed.
+[1373.76 --> 1374.56]  Dan doen ze het goed, ja.
+[1374.70 --> 1376.84]  Maar ik vind het op social media natuurlijk erger.
+[1377.24 --> 1378.16]  Dat is echt niet te doen.
+[1378.98 --> 1379.72]  Het is schaamteloos ook.
+[1379.74 --> 1380.68]  Het is echt schaamteloos.
+[1380.68 --> 1390.86]  Ja, en in dat opzicht denk ik dat als je kijkt naar, bijvoorbeeld ik ben een beetje getriggerd door het idee van tv-series, dat ik dacht, ja, die scripts gaan natuurlijk nu ook allemaal door die tools heen.
+[1391.22 --> 1398.72]  We hebben nu een soort rare tussenlimbo positie waarin de series nog geschreven zijn voor JGBT of in slechte versies van.
+[1399.36 --> 1403.28]  En de komende jaren gaan we pas op tv zien, want die scripts liggen best wel lang in de kast, denk ik.
+[1403.70 --> 1406.12]  Iets wat aangeraakt is door AI.
+[1406.26 --> 1407.84]  Dat hoeft niet per se negatief te zijn trouwens.
+[1407.84 --> 1412.04]  Het kan daardoor een house aflevering maken die op twintig dimensies klopt.
+[1412.54 --> 1419.08]  Waar echt een house MD kijker van denkt, dit is de meest vierdimensionale schaakpuzzel die ik ooit heb gezien.
+[1419.40 --> 1420.92]  Bedankt en jij dat jij het lef neemt.
+[1421.02 --> 1423.28]  Ik bedoel, ik wil hem maar, het is niet zo simpel natuurlijk.
+[1423.84 --> 1432.60]  Maar ik kan me ook voorstellen dat ik, ja, ik zit, ik merk het de laatste tijd wel als ik bijvoorbeeld video's kijk van tutorials die mensen maken om gewoon iets uit te leggen.
+[1432.60 --> 1437.46]  En als ze dan autocue werk doen, dus er is gewoon een cue, een schermpje bij waarop ze oplezen.
+[1437.98 --> 1442.44]  Dat ik een beetje voel dat die scripts die zij voorlezen door AI zijn gegaan.
+[1442.88 --> 1451.08]  Dat is een, ik kan het niet bewijzen, behalve dat in deze tijd, we hadden het er vanochtend nog met elkaar over, dat ChatGPT zo'n manier van schrijven heeft.
+[1451.08 --> 1455.40]  En Claude een andere manier van schrijven en dat die tweede vooral prettiger schrijft, dat is allemaal subjectief.
+[1455.56 --> 1461.70]  Maar dat ik dus merk in de scripts die in tutorials gebruikt worden en voorgelezen worden.
+[1461.72 --> 1462.88]  Je hoort OpenAI er doorheen.
+[1462.90 --> 1463.34]  Ja man.
+[1464.02 --> 1472.06]  En dat, ik ben dus benieuwd, misschien is dat ook een tijdelijk dingetje of zo, maar ik denk dat langzaam meer en meer om ons heen aangeraakt gaat worden door AI.
+[1472.06 --> 1482.28]  Ja, en dat we het ook niet meer door gaan hebben, want nu is het nog, nu is vooral, ik vind gewoon teksten van ChatGPT niet te lezen in de context van leesteksten.
+[1482.44 --> 1486.10]  Kijk, Wikipedia taal, daar is ChatGPT heel goed in.
+[1486.64 --> 1491.18]  Maar Wikipedia taal is een heel specifiek taaltje wat je alleen maar tolereert in die context.
+[1491.36 --> 1498.28]  En als je het opeens leest als onderdeel van uitlegtekst of voorgelezen tekst of marketingkopie, dan trek ik het gewoon niet.
+[1499.12 --> 1500.86]  En Claude is wel veel beter.
+[1500.86 --> 1504.74]  Nou ja, het is een kwestie van tijd lijkt me.
+[1504.92 --> 1507.78]  Ik geef dit nog een paar jaartjes en dan gaan wij het echt niet kunnen zien.
+[1508.46 --> 1516.32]  Ja, ik ben bijna nieuwsgierig nu om een plugin te installeren in mijn browser die me eind van de week vertelt hoeveel ik aan AI generated content tot me heb genomen zonder dat ik dat door had.
+[1516.44 --> 1519.38]  Omdat je een soort, ik bedoel, we hebben het over detectors gehad, die werken niet.
+[1519.50 --> 1522.82]  Maar tegelijkertijd gaan die bedrijven nu ook dingen inbouwen waardoor je het kan detecteren.
+[1523.46 --> 1525.74]  Dus het is misschien meer in een gedachte-experiment.
+[1526.38 --> 1530.14]  Het is wel grappig om een verloop over tijd te kunnen zien als je dit gaat bijhouden.
+[1530.14 --> 1539.26]  Ja, hoeveel van de content van de media die ik tot me neem begint in een soort paardgrafiek aangeraakt te worden en door AI pipelines heen geduwd te worden.
+[1539.26 --> 1549.28]  Ja, en daarnaast is natuurlijk ook de vraag, het kan dan zo zijn dat makers van teksten, media, zelf AI gebruiken om die te ontwikkelen.
+[1549.28 --> 1563.86]  Maar het is ook al regelmatig zo dat ik eerder de samenvatting heb gelezen of de aankijder van een stuk in een RSS feed dat ik zelf het prompt heb geschreven.
+[1564.10 --> 1568.34]  En dus de AI teksten te lezen even ongeacht hoe die tekst tot stand is gekomen.
+[1569.14 --> 1570.66]  Dat komt er natuurlijk nog bovenop.
+[1570.76 --> 1574.40]  Dat we heel veel teksten gaan lezen die gewoon hertaald zijn door AI.
+[1574.40 --> 1579.50]  Ja, dus misschien dat zij het niet eens door een of andere pijp hebben gehaald, maar dat jij het alsnog doet.
+[1579.62 --> 1580.58]  Ja, we doen het allebei.
+[1581.44 --> 1582.44]  Ja, denk ik wel, ja.
+[1583.22 --> 1585.40]  Ja, en in dat opzicht was dan natuurlijk de vraag.
+[1586.72 --> 1589.24]  Ik was nu, we zijn met van alles bezig.
+[1589.38 --> 1596.64]  En met web bedoel ik gewoon binnen POKI, binnen AI Report om te kijken hoe kunnen we meer informatie tot ons nemen binnen de beperkte menselijke tijd die er is.
+[1596.64 --> 1598.08]  En het aantal mensen die betrokken is.
+[1598.72 --> 1600.24]  Dus daar komen allerlei tooltjes uit.
+[1600.72 --> 1605.64]  Twitter scanners, AI report zoeken op tags en keywords.
+[1605.78 --> 1606.58]  Nou, allemaal dingetjes.
+[1607.58 --> 1609.18]  Bestaande diensten en experimenten.
+[1609.64 --> 1611.48]  En daarin zit heel vaak summarization.
+[1611.78 --> 1614.20]  Namelijk samenvatten, compressen van informatie.
+[1614.68 --> 1620.00]  Waarbij je, zeker nu, waar we het vorige week over hadden, een vijf uur durende video compressen naar vijf minuten.
+[1620.48 --> 1622.94]  Dat je dan denkt dat je daarna iets gegeten hebt.
+[1623.02 --> 1625.76]  Maar misschien heb je alle, is het een soort fruit juicer.
+[1625.76 --> 1626.42]  Ja, zeker.
+[1626.54 --> 1627.72]  Je moet die schil juist opeten.
+[1627.92 --> 1629.24]  Ja, dat is niet waard.
+[1629.70 --> 1631.12]  Je moet niet altijd de schil opeten.
+[1631.12 --> 1633.28]  Nee, maar er gaat heel veel verloren van de vitamines.
+[1633.72 --> 1635.50]  Ja, omdat je het hebt lopen wegjuicen zeg maar.
+[1636.00 --> 1641.44]  Dus als nu blijkt dat al die tooltjes die we aan het maken zijn, een soort informational fruit juicers zijn.
+[1641.52 --> 1642.86]  Oh, maar dit geloof ik helemaal niet.
+[1643.04 --> 1649.52]  Dit is, dat is, dat is, nee, dat is gewoon een kwestie van beter prompten.
+[1649.96 --> 1651.02]  Hier geloof ik niet meer in.
+[1651.24 --> 1652.88]  Nou, dit is ook wel een goede dat je dit zegt hoor.
+[1652.88 --> 1658.26]  Want in dat opzicht krijg ik ook wel vaak de vraag van, ja, maar is zo'n samenvatting wel goed dan?
+[1658.84 --> 1661.18]  Ja, eigenlijk kan je het woord samenvatten bijna niet gebruiken.
+[1661.30 --> 1667.94]  Dan ben je heel erg, hoe zeg je dat, lui geweest bij de opdracht die je aan het bouwmordel opgegeven.
+[1668.04 --> 1669.74]  Als het op, als het samenvatten was.
+[1670.46 --> 1671.08]  Want je kunt ook...
+[1671.08 --> 1675.02]  Vertalen is voor mij een prompt van, ik denk, minimaal tien zinnen.
+[1675.14 --> 1678.26]  Vertalen van Engels naar Nederlands of andersom.
+[1678.34 --> 1682.16]  Ja, omdat je daar ook heel erg specifiek wat vindt van wat een goede vertaling is.
+[1682.24 --> 1686.04]  Ja, en dat ik het elke keer bijschaaf als hij iets produceert wat mij niet zint.
+[1686.44 --> 1688.20]  Of iets weglaat wat mij niet zint.
+[1688.42 --> 1693.94]  Dus dat ding heeft de neiging bijvoorbeeld om quotes, in samenvatting een quotes weg te strepen.
+[1694.26 --> 1695.68]  Of details weg te strepen.
+[1695.98 --> 1697.78]  Waar ik die details juist wil weten.
+[1697.78 --> 1699.80]  Het is alsof hij de krent in de pap aan het blenden is.
+[1699.84 --> 1700.24]  Ja, precies.
+[1701.60 --> 1705.74]  Dus elke keer als dat gebeurt, dan ben ik dat prompt aan het verfijnen.
+[1706.28 --> 1708.34]  En zo heb ik inmiddels een prompt waar ik vrij trots op ben.
+[1709.12 --> 1710.68]  En dat is een geheim?
+[1710.76 --> 1711.48]  Ja, het is proprietary.
+[1711.84 --> 1714.10]  Dat is speciaal AI report plus model.
+[1715.00 --> 1715.56]  Dat is heel duur.
+[1715.96 --> 1716.68]  Daarover gesproken.
+[1718.82 --> 1721.40]  Poki is inmiddels de best beluisterde AI podcast van Nederland.
+[1721.80 --> 1722.50]  Dat doet ons goed.
+[1722.70 --> 1723.00]  Zeker.
+[1723.58 --> 1725.48]  En dat heeft ook wel een grappig bijverschijnsel.
+[1725.48 --> 1728.30]  Want dat merken we dus in de aanvragen voor adverteerders.
+[1728.66 --> 1730.98]  En we willen daarom iets nieuws proberen.
+[1731.16 --> 1735.12]  Het lijkt ons leuk om komend jaar niet veel adverteerders te hebben.
+[1735.54 --> 1737.34]  Maar één adverteerder te hebben.
+[1737.64 --> 1738.16]  Eén partner.
+[1738.36 --> 1740.26]  Eén exclusieve hoofdsponsor van de show.
+[1741.16 --> 1742.48]  En misschien is dat boeiend voor je.
+[1742.54 --> 1746.56]  Want Poki, weten we uit de reacties, wordt beluisterd door belangrijke beslissingsmakers.
+[1746.82 --> 1748.88]  Uit het Nederlands bedrijfsleven en uit de overheid.
+[1749.76 --> 1751.76]  En als jij een naam wil verbinden aan onze podcast.
+[1751.90 --> 1753.06]  En die doelgroep wil bereiken.
+[1753.06 --> 1755.00]  Dan heb je nu dus één kans voor komend jaar.
+[1755.68 --> 1756.82]  Nou ja, lijkt je dat interessant?
+[1756.94 --> 1757.80]  En wil je meer weten?
+[1758.00 --> 1761.12]  We hebben wat informatie op een rijtje gezet op poki.show.
+[1761.62 --> 1763.24]  Dan kun je je gegevens achterlaten.
+[1763.46 --> 1764.24]  Als je het leuk vindt.
+[1764.24 --> 1773.52]  Ik heb veel teruggedacht aan ons gesprek van vorige week, Wietse.
+[1775.52 --> 1779.50]  Jouw avontuur met een architectenmodel en een programmeur.
+[1779.54 --> 1783.08]  En ik heb ook niet vaak zoveel reacties gehad op een aflevering.
+[1783.10 --> 1784.22]  Dat is een goede reactie.
+[1784.22 --> 1786.56]  Er werd iets geraakt daar.
+[1787.64 --> 1788.26]  Dus dat is heel leuk.
+[1788.74 --> 1792.76]  Ja, ik denk dat mijn idee was daarmee.
+[1793.04 --> 1797.16]  Wat als we dit in de breedte gaan toepassen in veel meer domeinen dan alleen maar een science fiction boek schrijven.
+[1797.28 --> 1798.22]  Even buiten dat experiment.
+[1798.44 --> 1799.62]  En ik denk dat het daarom raakte.
+[1799.70 --> 1803.34]  Omdat het niet zo moeilijk was om door te fantaseren voor heel veel mensen binnen hun eigen werk.
+[1803.34 --> 1810.10]  Ja, vorige week vertelde jij over hoe je een science fiction boek schrijft met eigenlijk software die gemaakt is om mee te programmeren.
+[1810.32 --> 1812.24]  Ja, en een van jouw opmerkingen toen was.
+[1813.26 --> 1815.74]  Toen ik zei ja, normaal programmeer ik hiermee.
+[1816.14 --> 1818.00]  En dan zei jij, wat moet je dan nog heen en weer plakken?
+[1818.74 --> 1823.58]  En toen zei ik nou ja, als er een error is wanneer ik de code uitvoer, dan moet ik die error terug plakken.
+[1823.76 --> 1825.50]  En toen was jij eigenlijk een beetje verbaasd.
+[1825.56 --> 1826.68]  In ieder geval zo herinner ik het mij.
+[1826.78 --> 1827.64]  Het is alweer een week geleden.
+[1828.20 --> 1828.86]  Minder dan een week.
+[1829.06 --> 1830.84]  Waarom doet hij dat niet zelf is dan mijn vraag.
+[1830.84 --> 1835.36]  Als dat ding vastloopt, waarom moet ik dan die error gaan kopiëren en plakken en vragen los dit op?
+[1835.46 --> 1836.90]  Dat moet dat ding toch zelf kunnen doen?
+[1837.06 --> 1838.34]  Ja, en toen zat ik uit te leggen.
+[1838.42 --> 1840.74]  Ja, hij kan die code wel checken, maar hij kan die code niet draaien.
+[1841.10 --> 1843.22]  En dat hij de code niet kan draaien, dat heeft een reden.
+[1843.38 --> 1847.36]  Namelijk dat dat taalmodel draait niet lokaal.
+[1847.48 --> 1850.18]  In ieder geval, Cloud kunnen we nog niet zelf installeren.
+[1850.64 --> 1851.96]  Dus die draait ergens anders.
+[1852.38 --> 1855.38]  En dan zou je zeggen, nou dan maak je toch een bruggetje naar jouw lokale computer.
+[1855.52 --> 1857.84]  Dat is eigenlijk wat die tool Adr deels doet.
+[1857.84 --> 1862.08]  Want wat hij al wel mag via Adr is bestanden aanmaken.
+[1862.82 --> 1865.42]  Dat scheelt zoveel copy-pasten naar nieuwe lege bestanden.
+[1865.62 --> 1870.94]  En zelf dat dan Cloud, nu zou Cloud dan tegen zeggen, ik heb indexpunten HTML aangemaakt.
+[1871.04 --> 1875.66]  En dan ga jij die maken op je computer en dan dat stukje overplakken van Cloud.
+[1875.78 --> 1876.90]  Dat is allemaal niet prettig.
+[1876.90 --> 1883.44]  Ja, dus waar je een programma gebruikt om in te programmeren, die als het ware een mappenstructuur dan kan maken.
+[1883.58 --> 1888.08]  Want het programma draait op je computer, dus kan ook die mappenstructuur op je computer maken.
+[1888.20 --> 1891.94]  En gebruik dan via de Cloud het taalmodel om die bestanden te vullen.
+[1892.26 --> 1892.38]  Ja.
+[1892.62 --> 1895.08]  En misschien ook wat voor bestanden er aangemaakt moeten worden.
+[1895.08 --> 1900.28]  Daar heb je ook wel een mening over, maar het proces zelf gebeurt lokaal door die app.
+[1900.60 --> 1907.20]  Ja, en eigenlijk is het dus zo dat als je nu gewoon Sec Cloud gebruikt op de website van Entropic.
+[1907.40 --> 1911.76]  En daar samen aan een project gaat werken waar je allemaal artifacts creëert, oftewel bestandjes.
+[1912.26 --> 1914.88]  Dan zal je die nog steeds met de hand allemaal moeten gaan plakken.
+[1915.44 --> 1918.28]  Nou, Adr, die tool die ik gebruik, die lost dat deels op.
+[1918.28 --> 1921.98]  Want die zegt nou, bestanden aanmaken dat durf ik wel en een beetje mapjes en zo.
+[1922.50 --> 1924.94]  Maar ik ga dat niet uitvoeren, dat stukprogramma.
+[1925.14 --> 1927.54]  Dat zouden ze in essentie kunnen inbouwen in Adr.
+[1928.04 --> 1934.62]  Maar iedere programmeur die een beetje weet van sandboxing en security zou zeggen.
+[1935.32 --> 1940.26]  Je gaat een taalmodel wat ergens anders draait, dingen laten draaien op jouw computer.
+[1940.26 --> 1945.52]  Of bijvoorbeeld de keychain van je Mac kopiëren naar een FTP-service, zodat al jouw wachtwoorden ineens daar staan.
+[1945.92 --> 1946.80]  Als het goed is.
+[1946.80 --> 1951.28]  Je geeft echt de sleutels het handen en dat is niet zo'n prettig idee zelfs voor zo'n ingewikkelde tool als Adr.
+[1951.32 --> 1958.92]  Ja, zeg maar als er een serieuze security hazard is op iOS bijvoorbeeld, dan noemen ze dat remote code execution.
+[1959.64 --> 1964.74]  En dat is de ergste eigenlijk, want dat betekent dat iemand anders op jouw telefoon code kan draaien.
+[1965.18 --> 1966.44]  Ja, any code kan draaien.
+[1966.48 --> 1969.28]  Any, ja, echt gewoon alsof jij achter je toetsenbord zit.
+[1969.80 --> 1974.94]  Dus een taalmodel jouw computer laten besturen, zomaar, dat moet je eigenlijk niet doen.
+[1974.94 --> 1975.22]  Nee.
+[1975.90 --> 1976.68]  Los van bugs.
+[1976.76 --> 1979.62]  Het kan ook gewoon zijn dat hij iets verkeerd doet en je gewoon je hele schijf wist.
+[1979.82 --> 1981.06]  Ik maak hem even heel concreet.
+[1981.42 --> 1983.36]  Want dat is een heel kort commando, kan ik je vertellen.
+[1983.76 --> 1985.02]  Ik durf hem niet eens te zeggen.
+[1985.56 --> 1987.64]  Iemand dit ding nu door iets heen haalt.
+[1987.64 --> 1991.52]  Dat is een soort van, hé Siri, achter grapje.
+[1993.20 --> 1997.40]  Maar goed, Adr zegt, ik wil wel bestanden aanmaken, maar ik ga ze niet uitvoeren.
+[1997.76 --> 2001.22]  Waarop jij de vorige keer zei, maar dat is dan toch eigenlijk de logische volgende stap.
+[2001.80 --> 2002.76]  Nou, wat ze nu hebben...
+[2002.76 --> 2003.70]  Maar wat is het uitvoeren?
+[2003.80 --> 2004.52]  Waar doe je dat dan?
+[2004.86 --> 2006.16]  Normaal doe je dat in een terminal.
+[2006.36 --> 2009.30]  Dus dat is eigenlijk zoals je vroeger op een DOS computer hebt.
+[2009.30 --> 2014.92]  Als je oud genoeg bent of nu, als je op een Windows zit, open je gewoon je command prompt of op Mac je terminal.
+[2015.60 --> 2018.30]  En daarin kan jij commando's uitvoeren om van alles te doen.
+[2018.38 --> 2020.00]  Je hele computer te slopen in één commando.
+[2020.24 --> 2023.84]  Maar ook een soort van aan te zetten wat je net geprofd.
+[2023.84 --> 2026.12]  Ja, als we hem even heel concreet maken.
+[2026.24 --> 2029.14]  Als je aan Adr vraagt, kan je een Hello World voor mij maken.
+[2029.22 --> 2031.62]  Dan maakt hij HelloWorld.py in Python.
+[2031.84 --> 2034.10]  En dan moet je dat nog wel door de Python interpreter gooien.
+[2034.10 --> 2038.88]  Dus dan doe je Python spaatsie HelloWorld.py, enter en dan staat er in beeld HelloWorld.
+[2039.44 --> 2044.64]  En dat moment dat je hem uitvoert, zou Adr, dus Claude, op de achtergrond kunnen zeggen.
+[2045.08 --> 2046.32]  Hé, hier staat ook HelloWorld.
+[2046.42 --> 2047.28]  Dat bedoelde ik ook.
+[2047.44 --> 2051.22]  Maar als er dan staat, error in line to string mismatch of zo.
+[2051.34 --> 2053.88]  Dan zegt Claude, oh sorry, ik zie al wat ik verkeerd heb gedaan.
+[2054.28 --> 2055.28]  Voer hem nog een keer uit.
+[2055.28 --> 2058.90]  En op die manier krijg je dan eigenlijk de laatste schakel.
+[2059.26 --> 2061.86]  Namelijk een taalmodel die kan programmeren.
+[2061.86 --> 2067.20]  Zelf kan debuggen, aanpassen, testen en misschien zelfs wel online zetten uiteindelijk.
+[2067.48 --> 2070.36]  Je kan je voorstellen dat dat ook wel pittig is.
+[2070.96 --> 2074.68]  Het is pittig op het gebied van jouw eigen machine heel houden.
+[2075.40 --> 2077.82]  Die machine zou misschien binnen een bedrijfsnetwerk kunnen staan.
+[2078.14 --> 2083.12]  Als jouw machine toegang heeft tot de server van het bedrijf, dan heeft in essentie jouw taalmodel ook toegang.
+[2083.12 --> 2087.30]  Dus dat we deze deur dicht houden tot nu toe, begrijp ik wel.
+[2087.46 --> 2097.04]  En met we bedoel ik dan OpenAI, Microsoft en Antropic zelf bieden nu niet standaard tooling aan om zomaar jouw computer te besturen.
+[2097.40 --> 2101.88]  Tuurlijk hebben we operator en Antropic heeft een tooltje uitgebracht.
+[2102.12 --> 2104.02]  Maar dat is allemaal, wees voorzichtig.
+[2104.16 --> 2106.64]  Draai het in een virtual machine die helemaal kapot kan.
+[2106.64 --> 2110.76]  Want je geeft echt de sleutels tot het kingdom, tot de kingdom zeg maar.
+[2111.18 --> 2113.68]  Maar goed, daar gaan we nu natuurlijk naartoe.
+[2113.92 --> 2116.62]  Er is inmiddels wel een brug gebouwd, een slimme brug.
+[2117.78 --> 2121.02]  Want wat Antropic heeft gemaakt is eigenlijk een protocol.
+[2121.22 --> 2122.10]  Dat is een open protocol.
+[2122.28 --> 2125.32]  De hoop is natuurlijk dat OpenAI hetzelfde protocol gaat gebruiken.
+[2125.44 --> 2131.86]  En dit is een soort wereldwijd protocol gaat worden van hoe, als je nou een sandbox hebt.
+[2131.86 --> 2135.32]  Dus het is eigenlijk een afgesloten wereld waarin het taalmodel leeft.
+[2135.32 --> 2140.42]  Zodat het taalmodel ook niet zomaar het internet op kan om daar spam posts te gaan maken op X.
+[2140.60 --> 2142.80]  Of in te gaan breken bij de belastingdienst.
+[2143.18 --> 2143.78]  Dat hebben we nu.
+[2144.06 --> 2146.26]  We hebben nu een sandbox.
+[2146.92 --> 2148.66]  Dat ding zit onder een glazen stulp.
+[2149.24 --> 2149.64]  Gevangen.
+[2150.06 --> 2154.32]  Met een reden dat hij jouw computer niet sloopt en niet allemaal computers in de hele wereld kapot gaat maken.
+[2155.12 --> 2162.00]  Wat je dan, als je goed nadenkt over Secure die gaat doen, is een gat naar buiten maken.
+[2162.00 --> 2171.00]  Ja, misschien heb ik, ik weet niet of deze metafoor werkt, maar bij een couveuse baby heb je dan zo'n handschoen, waardoor je toch je kindje kan aanraken, maar dan wel door die handschoen heen.
+[2171.14 --> 2171.24]  Ja.
+[2171.44 --> 2177.48]  Je wil dus een interface maken naar de buitenwereld die gecontroleerd is, gezuiverd en hygiënisch.
+[2177.56 --> 2177.66]  Ja.
+[2178.00 --> 2181.48]  Nou, wat ze nu bij Antropic hebben gemaakt is het model context protocol.
+[2181.96 --> 2182.96]  Nou, wat geeft dat?
+[2183.28 --> 2184.46]  Dat is het model.
+[2184.58 --> 2185.26]  Modellen kennen we.
+[2185.34 --> 2187.04]  Dat zijn de O1's en de Sonnets.
+[2187.04 --> 2193.00]  Context is meer context geven over waar dat model zich bevindt, dus meer informatie.
+[2193.20 --> 2196.54]  Bijvoorbeeld, wat voor weer is het op dit moment in Amsterdam?
+[2196.86 --> 2197.14]  Oké.
+[2197.18 --> 2201.12]  Dus een model heeft in essentie geen toegang tot de huidige weerinformatie.
+[2201.34 --> 2203.08]  Die zou je moeten geven via een context.
+[2203.26 --> 2203.40]  Ja.
+[2203.50 --> 2205.00]  Dus model context.
+[2205.50 --> 2209.00]  Protocol als in een afspraak over hoe we met elkaar communiceren.
+[2209.00 --> 2213.14]  Dus als je modellen context wil geven, hebben we nu protocol afspraken over gemaakt.
+[2213.66 --> 2215.02]  Nou, wat staat er dan in het protocol?
+[2215.20 --> 2218.80]  Is eigenlijk dat jij zelf als programmeur, ze hebben allemaal demo's erbij geleverd, zodat
+[2218.80 --> 2219.74]  je dat niet hoeft te doen.
+[2220.54 --> 2223.50]  Of in ieder geval dat je een mooie duwtje in de rug krijgt.
+[2223.86 --> 2229.20]  Maar dat je eigenlijk een bruggetje kan maken met dezelfde taal tussen dat model en de wereld.
+[2230.22 --> 2231.02]  Heel erg concreet.
+[2231.02 --> 2236.32]  Als je nu naar Cloud gaat op de website van Antropic en je zegt, kan je even naar nu.nl gaan?
+[2236.46 --> 2239.56]  En voor mij het nieuws van vandaag samenvatten wat er op de frontpage staat.
+[2239.94 --> 2245.00]  Dan zegt Cloud, ik kan niet naar nu.nl, want ik heb geen verbinding meer buiten.
+[2245.68 --> 2248.04]  Hij zou eigenlijk moeten zeggen, ik zit in een glazen stulp, vriend.
+[2248.36 --> 2249.28]  Ik weet niks.
+[2249.44 --> 2251.52]  Ik weet alleen wat mij erin getraind is.
+[2252.02 --> 2255.78]  Nou, dan zou je nu in het geval van OpenAI op het bolletje kunnen drukken, search the web.
+[2256.14 --> 2258.04]  En dan zeg je eigenlijk, jij mag het web op nu.
+[2258.04 --> 2261.70]  Wat hij dan doet, is eigenlijk pagina's bekijken uit zijn index.
+[2261.86 --> 2264.78]  Nog steeds niet echt helemaal live, voor zover ik weet.
+[2265.04 --> 2268.78]  Oké, dus je bedoelt te zeggen, als je search van Chachibati gebruikt,
+[2269.00 --> 2273.22]  dan kan dat alleen maar bij specifieke pagina's.
+[2273.28 --> 2274.90]  En dat is niet het hele internet.
+[2275.06 --> 2275.84]  Is dat wat je zegt?
+[2276.02 --> 2276.78]  Nou, precies.
+[2276.82 --> 2279.58]  Want dat is eigenlijk wel alles wat geïndexeerd is binnen de index.
+[2279.78 --> 2281.80]  En hij gaat wel die pagina dan aanroepen.
+[2281.90 --> 2284.58]  Als je bijvoorbeeld wil weten wat de sneeuwhoogte in Valteran is of zo.
+[2284.58 --> 2288.76]  Dan gaat hij even, want je wil weten wat de sneeuwhoogte nu is, niet toen dat ding getraind is of geïndexeerd.
+[2288.86 --> 2289.54]  Moet ik eigenlijk zeggen.
+[2290.20 --> 2292.08]  Dus hij mag wat bezoeken, maar niet zomaar alles.
+[2292.30 --> 2300.32]  Ook, jij kan natuurlijk een URL maken waarin aan de andere kant iets zit wat dan een signaaltje opvangt en zegt,
+[2300.42 --> 2301.66]  hé, daar ga ik weer iets mee doen.
+[2301.66 --> 2309.20]  Er zitten allemaal, als je een beetje paranoie bent over beveiliging, moet je niet zomaar een taalmodel het internet opsturen.
+[2309.56 --> 2311.82]  Ook omdat je op het internet nog veel meer dingen kan doen.
+[2313.00 --> 2316.50]  Even tussendoor, dit kon je zelf al bouwen, zo'n brug.
+[2316.60 --> 2321.74]  Het is niet dat ze dat dicht konden gooien, maar standaard tooling werd niet geleverd.
+[2321.74 --> 2328.70]  Nu dat model context protocol kan je dus op het moment dat je dat activeert en voor de luisteraar,
+[2329.12 --> 2331.70]  je hebt een cloud desktop applicatie voor Mac en Windows.
+[2332.92 --> 2336.08]  Daarin kan je dan in de developer mode, zit allemaal nog een beetje verstopt, zeggen,
+[2336.18 --> 2339.38]  joh, ik heb op mijn machine draaien een MCP server.
+[2339.74 --> 2345.74]  Dat is dus een servertje wat voldoet aan dat taal protocol, wat door Entropic nu naar voren geduwd is de community in.
+[2345.74 --> 2348.36]  Een extra stuk software op de achtergrond draaien.
+[2348.40 --> 2358.14]  Ja, en in dat stukje software zitten dan afspraken over wat het taalmodel kan vragen en in welk formaat het taalmodel dat terugkrijgt.
+[2358.24 --> 2360.54]  En het kan dus niet meer vragen dan dat.
+[2360.98 --> 2363.92]  Dan kan je bijvoorbeeld een servertje maken, die leveren ze ook mee, die heet Fetch.
+[2364.22 --> 2370.12]  En het enige wat dat ding kan, is websites opvragen en de HTML van die website teruggeven aan het taalmodel.
+[2370.32 --> 2372.04]  Oké, maar dat staan wel alle websites.
+[2372.46 --> 2374.88]  Ja, maar op jouw computer, op jouw IP-adres.
+[2374.88 --> 2375.60]  Oké, ja.
+[2375.68 --> 2380.26]  En dat is dus al een hele belangrijke, want anders heb je een soort op het moment eigenlijk dat jij,
+[2381.10 --> 2385.46]  wat ik moet eerlijk zeggen, dat ik ook verwachtte destijds al met ChatGPT.
+[2385.56 --> 2389.84]  Ik heb best wel vaak in naïviteit gevraagd, kan je even deze website samenvatten?
+[2389.90 --> 2391.56]  En toen zei je, ja, ik kan't browse the web.
+[2391.88 --> 2399.70]  En dat ik na wat nadenken dacht, nee, tuurlijk kan je dat niet, want anders zou je soort via OpenAI nieuwswebsites kunnen gaan scrapen.
+[2400.06 --> 2402.42]  OpenAI wil helemaal niet browser spelen.
+[2402.42 --> 2411.34]  Eigenlijk leggen ze de verantwoordelijkheid voor jouw gedrag, leggen ze nu bij jou, omdat het lokaal op jouw computer gebeurt, het internet browsen.
+[2411.34 --> 2417.54]  En de inhoud van die pagina die je zelf op de achtergrond hebt opgehaald, die wordt doorgegeven aan het taalmodel.
+[2417.80 --> 2422.52]  Ja, en het is dan ook nog zo dat, nu is het dus, je bent in Cloud.
+[2422.80 --> 2428.08]  Zolang je nog niet die MCP hebt gekoppeld binnen die desktop applicatie, vraag jij, kan je naar nu.nl gaan?
+[2428.20 --> 2429.18]  Zegt die, nee, dat kan ik niet.
+[2429.66 --> 2430.90]  Dan ga je naar de settings toe.
+[2431.26 --> 2434.38]  Zeg je, ik heb een MCP lokaal, een klein servertje.
+[2434.70 --> 2436.00]  Die kan wel websites doen.
+[2436.00 --> 2440.80]  Dan restart je die desktop client, vraag je het nog een keer en dan krijg je doodleuktesnaamervatting van nu.nl.
+[2441.02 --> 2443.10]  Oké, dus ik kan, ja, dat is wel een ding al.
+[2443.20 --> 2450.70]  Dus dan kan ik als, want we komen dadelijk met wat je hier als programmeur aan hebt, maar ik kan hier als simpleziel, kan ik al dit op de achtergrond draaien, dat servertje.
+[2450.80 --> 2453.50]  Dat is gewoon een DMG die ik uitvoer.
+[2453.88 --> 2455.76]  Dit in dit geval kan van alles zijn.
+[2455.88 --> 2458.28]  Ik ben Python fan, dat hebben de luisteraars inmiddels wel door.
+[2458.40 --> 2460.04]  Ik heb een Python implementatietje gepakt.
+[2460.04 --> 2461.38]  Oké, maar iets wat ik begrijp, Witse?
+[2461.84 --> 2464.00]  Het is nog niet helemaal lekker genoeg daarvoor.
+[2464.00 --> 2464.40]  Oké.
+[2464.52 --> 2464.98]  Spijt me.
+[2465.06 --> 2467.00]  Nou, dan wacht nog twee dagen waarop iemand dat gemaakt heeft.
+[2467.08 --> 2470.14]  Maar oké, dan is er dus iets wat op de achtergrond draait, wat het internet voor mij op kan gaan.
+[2470.20 --> 2476.12]  Dan kan ik dus vragen, geef me al het nieuws over de conflict in het kabinet.
+[2476.40 --> 2477.80]  Enter van nu.nl.
+[2477.90 --> 2479.44]  En dan krijg ik dat in een samenvatting.
+[2479.54 --> 2481.20]  Ja, omdat hij even die hele website leegtrekt.
+[2481.22 --> 2481.80]  Dat is wel chill.
+[2481.80 --> 2487.48]  En als jij dan zelf programmeur bent of de inhoud van dat servertje in Cloud plakt,
+[2487.54 --> 2489.56]  dan hem laten verbeteren, want zo meta is dit allemaal.
+[2490.54 --> 2495.38]  Wat je bijvoorbeeld zou kunnen doen is zeggen, joh, die fetch server die zij hebben gebouwd,
+[2495.54 --> 2500.40]  dat is een reference implementatie, die doet domweg urls aanroepen, HTML pakken,
+[2500.50 --> 2502.34]  doorgeven aan het model en die gaat dan samenvatten.
+[2503.06 --> 2505.78]  Je zou ook kunnen zeggen, joh, klik even rond, klik even het artikel in.
+[2506.60 --> 2509.58]  Je kan het gedrag van dat browser beïnvloeden.
+[2509.58 --> 2510.58]  Je kan alles.
+[2510.58 --> 2513.68]  Je kan zeggen, als ik vraag om jou naar nu.nl te gaan,
+[2513.76 --> 2519.10]  moet je alle pagina's van nu.nl die met één klik bereikbaar zijn, allemaal erin laden.
+[2519.36 --> 2519.50]  Ja.
+[2519.86 --> 2520.18]  Oké.
+[2520.42 --> 2524.10]  En nu, en ik zit wel wat hierover hebben te denken aan, misschien nog een mooier voorbeeld,
+[2524.20 --> 2528.08]  want in alle eerlijkheid, toen dit protocol werd gelanceerd en ik zat het door te lezen,
+[2528.56 --> 2529.64]  het kostte me wel even tijd.
+[2529.74 --> 2533.16]  Het was een beetje alsof ik de Ethereum white paper aan het lezen was destijds.
+[2533.46 --> 2537.00]  Nou, toen ik die las, dacht ik ook, a world computer on a blockchain, waar gaat dit over?
+[2537.00 --> 2539.98]  Maar goed, ik ga dan gewoon naar voorbeeldcode kijken.
+[2539.98 --> 2543.22]  Als ik implementaties zie, snap ik vaak wel wat de theorie eigenlijk is.
+[2543.68 --> 2545.12]  Ik ga nog een concreet voorbeeld geven.
+[2545.22 --> 2546.46]  Ik heb thuis Shelly plugs.
+[2546.64 --> 2548.92]  Een Shelly plug is een plug die je in je muur doet.
+[2549.68 --> 2551.22]  Zo'n soort klik-aanklik-uit plug.
+[2551.38 --> 2553.42]  Die zit gewoon tussen je stekker en je stopcontact.
+[2553.76 --> 2555.18]  Zo'n cirkel met een gat.
+[2555.46 --> 2556.24]  Die klik je ertussen.
+[2556.66 --> 2558.98]  En een Shelly plug bevat een complete Linux computer.
+[2559.16 --> 2560.34]  Dat is totaal gestoord trouwens.
+[2560.68 --> 2561.66]  Dat is een computer op een chip.
+[2561.66 --> 2562.10]  Oké.
+[2562.12 --> 2566.68]  Dus die Shelly plug die zet je op je wifi en dan draait een hele computer in.
+[2567.22 --> 2572.68]  Het mooie daarvan is dat als jij naar de website van die Shelly plug gaat, lokaal binnen je eigen wifi netwerk,
+[2572.76 --> 2575.36]  dan krijg je dus een hele interface van die Shelly plug.
+[2575.48 --> 2577.88]  Waar ze hem hebben gestopt, die computer, ik weet het niet, maar die zit erin.
+[2578.32 --> 2581.30]  En dan kan je dus licht aan en uit zetten, stroomgebruik meten.
+[2581.30 --> 2581.54]  Op je computer.
+[2582.08 --> 2582.98]  Op je computer.
+[2583.40 --> 2585.82]  Maar het computertje zelf draait eigenlijk in die plug.
+[2585.82 --> 2591.60]  Maar als je dan zegt, oké leuk, maar nu wil ik het licht aan en uit zetten vanuit een taalmodel.
+[2592.74 --> 2598.62]  Het probleem is, en dat is eigenlijk geen probleem, die Shelly plug is niet bereikbaar vanuit het openbare internet.
+[2598.84 --> 2599.82]  Dat raad ik ook af.
+[2600.08 --> 2601.92]  Dat zou je kunnen doen, maar dat moet je niet doen.
+[2602.52 --> 2608.60]  Wat je eigenlijk nodig hebt is een brug die het internet van buiten naar binnen en dan dat lampje aan en uit zet.
+[2608.70 --> 2610.02]  Daar zijn allemaal dingetjes voor te krijgen.
+[2610.38 --> 2612.68]  Maar wat we nu willen is een taalmodel die dat doet.
+[2612.68 --> 2617.00]  Dus wat je dan zou schrijven is bijvoorbeeld, die noem je dan Shelly Bridge.
+[2617.46 --> 2623.48]  En dat is gewoon een stukje programmeercode die het signaal stuurt naar je lokale Shelly plug met aan of uit.
+[2623.96 --> 2626.54]  Dan voeg je die Shelly Bridge toe aan je Cloud desktop.
+[2627.24 --> 2629.64]  En het moment dat je dan aan Cloud vraagt, doe het licht eens uit.
+[2630.04 --> 2631.66]  Dan zegt hij, oh dat weet ik, dat kan ik.
+[2631.94 --> 2633.38]  En dan geeft hij de opdracht aan dat ding.
+[2633.84 --> 2640.58]  En dan heb je dus een model dat draait bij Entropic, die de lichten aan en uit aan zetten is in je lokale wifi netwerk op een veilige manier.
+[2640.58 --> 2641.12]  Dat is briljant.
+[2641.12 --> 2646.22]  En dude, de mogelijkheden zijn in dit opzicht eindeloos.
+[2646.68 --> 2652.66]  Als jij een bedrijf bent en je hebt interne APIs die je alleen wil exposen aan mensen die binnen je interne netwerk zijn.
+[2653.04 --> 2657.86]  Dan kan je in essentie dat taalmodel, doe dit niet zomaar overleg.
+[2657.98 --> 2659.12]  Kijk, want de data gaat wel.
+[2659.12 --> 2660.54]  Je gaat data naar Cloud sturen.
+[2660.78 --> 2662.06]  Dus dat is dan wel een ding.
+[2662.06 --> 2663.90]  Zeker, dus het is semi-lokaal.
+[2664.04 --> 2664.50]  Let goed op.
+[2664.86 --> 2673.98]  Maar het zorgt er wel voor dat alleen als Cloud aangeroepen wordt vanaf die specifieke machine die ook in het lokale netwerk toegang heeft tot die API van X of Y.
+[2673.98 --> 2676.40]  Kan Cloud ineens daarmee praten.
+[2676.50 --> 2679.96]  Dus je prikt eigenlijk een gaatje naar buiten uit die glazen stulp.
+[2680.30 --> 2685.24]  Nou en maakt het centraal bereikbaar via de Cloud interface.
+[2685.24 --> 2692.94]  Die niet verkeerd is, maar daarnaast ook nog eens één centrale plek met een fijn pratend taalmodel.
+[2693.08 --> 2693.22]  Ja.
+[2693.68 --> 2698.18]  Die je dus allerlei opdrachten opeens kan gaan geven.
+[2698.62 --> 2699.38]  Jeetjes, heb ik er nog?
+[2699.68 --> 2700.04]  Dat heb ik.
+[2700.16 --> 2700.56]  Oké.
+[2700.78 --> 2706.68]  Ja en het mooie dus van dat protocol is, want er zullen nu developers luisteren die zeggen, ja maar je had toch al function calling in OpenAI.
+[2706.78 --> 2709.48]  Dan kon je OpenAI een beetje vertellen wat voor functies die mocht aanroepen.
+[2709.62 --> 2711.84]  Bijvoorbeeld summarize of get news of zo.
+[2712.16 --> 2713.28]  Dit is niet per se nieuw.
+[2713.28 --> 2716.10]  Wat hier zo gaaf van is dat het een protocol is.
+[2716.22 --> 2718.60]  Dat er ons best wel goed over nagedacht is moet ik zeggen.
+[2718.98 --> 2720.92]  En dat er een infrastructuur is gebouwd van.
+[2721.32 --> 2724.52]  Hé als we nou die taalmodellen meer toegang geven tot de realiteit.
+[2724.74 --> 2727.34]  Om sensoren uit te lezen, om lampen aan en uit te zetten.
+[2728.24 --> 2731.84]  Zullen we dat dan doen op een manier waarbij er een security model is.
+[2731.94 --> 2734.06]  Met blokjes die via lijntjes met elkaar communiceren.
+[2734.18 --> 2737.24]  Die een beetje past bij wat we in de laatste 50 jaar met elkaar hebben uitgevonden.
+[2737.24 --> 2740.66]  En dat is eigenlijk nu wat die model context protocol is.
+[2740.66 --> 2743.88]  Een afspraak tussen bedrijven in potentie.
+[2743.94 --> 2745.88]  Maar in ieder geval tussen ontwikkelaars.
+[2746.24 --> 2747.78]  Zullen we het op deze manier met elkaar doen.
+[2747.92 --> 2749.82]  Als we dan zo'n taalmodel de wereld insturen.
+[2749.98 --> 2752.46]  Oké en jij maakte de brug naar programmeurs.
+[2752.56 --> 2754.26]  Wat maakt dit uit voor programmeurs?
+[2754.30 --> 2755.98]  Want de hele aanloop hier naartoe was.
+[2756.32 --> 2759.62]  Ik kan nog niet zelf code runnen.
+[2759.70 --> 2760.68]  Dat kan cloud nog niet.
+[2760.68 --> 2765.28]  Nou ja als je nu dus een MCP server implementatie maakt.
+[2765.36 --> 2766.54]  En die noem jij run.
+[2767.38 --> 2769.66]  En ik zou hem dan een beetje inkaderen.
+[2769.80 --> 2773.10]  En zeggen het enige wat jij mag draaien op mijn computer zijn Python scripts.
+[2773.88 --> 2774.78]  Uit deze map.
+[2775.10 --> 2776.22]  Dus je moet het met een heel erg.
+[2776.44 --> 2778.20]  Want voor het weet doet hij RMRF.
+[2778.44 --> 2779.20]  En het is over hè.
+[2779.42 --> 2780.32]  Dan ben je die hele map kwijt.
+[2780.38 --> 2780.94]  Toch gezegd.
+[2781.00 --> 2781.40]  Sorry man.
+[2781.50 --> 2782.08]  Sorry luisteraars.
+[2782.20 --> 2783.52]  Ik hoop dat niemand dit aan het doorsluis is.
+[2783.96 --> 2785.10]  Doe het in een virtual machine.
+[2785.12 --> 2785.28]  Is al gebeurd iets.
+[2785.40 --> 2785.90]  Laat maar zitten.
+[2786.10 --> 2787.74]  Maar ik kan ook niet meer weg.
+[2788.46 --> 2789.72]  Sam is ook al zijn opname.
+[2789.72 --> 2790.72]  Nee het is helder.
+[2792.02 --> 2792.64]  Maar goed.
+[2792.82 --> 2793.36]  Al met al.
+[2793.56 --> 2794.10]  Zou je dan.
+[2794.36 --> 2795.50]  Want dan is de cirkel rond.
+[2795.74 --> 2797.34]  Met waar we het de vorige keer over hadden.
+[2797.70 --> 2798.90]  Dan zou ik cloud kunnen zeggen.
+[2799.48 --> 2799.68]  Joh.
+[2799.98 --> 2801.44]  Ik heb nu wat code voor je gemaakt.
+[2801.78 --> 2803.46]  Ik heb het weggeschreven naar je harde schijf.
+[2803.90 --> 2805.06]  Ik ga het ook voor je uitvoeren.
+[2805.46 --> 2807.30]  En ik krijg daarna van dat servertje terug.
+[2807.42 --> 2808.30]  Wat de output was.
+[2808.52 --> 2809.54]  Ik ga daar weer op itereren.
+[2809.62 --> 2810.30]  Weer wegschrijven.
+[2810.50 --> 2811.86]  En dan krijg je de cirkel.
+[2811.94 --> 2814.44]  Waar jij de vorige keer eigenlijk een beetje over aan het fantaseren was.
+[2814.44 --> 2816.12]  Of eigenlijk dacht dat het misschien al zo was.
+[2816.72 --> 2818.82]  Is code die zichzelf gaat verbeteren.
+[2818.82 --> 2820.08]  En dan zou je.
+[2820.08 --> 2821.62]  En het licht aandoet als hij klaar is.
+[2822.32 --> 2822.68]  Bijvoorbeeld.
+[2823.04 --> 2824.04]  Nou ja dat is een mooie.
+[2824.16 --> 2825.12]  Want kijk nu.
+[2825.50 --> 2826.34]  Want ik wil nog wel een paar.
+[2826.54 --> 2827.66]  Een ander leuk voorbeeld maken.
+[2827.76 --> 2828.28]  Want nu had ik het.
+[2828.44 --> 2830.04]  Dat licht aan en uit zetten.
+[2830.60 --> 2831.60]  Dat is een actie.
+[2831.92 --> 2832.82]  Maar je zou ook kunnen zeggen informatie.
+[2833.48 --> 2834.96]  Dus als jij een slimme thermometer hebt.
+[2835.04 --> 2835.72]  Thermostaat hebt.
+[2836.02 --> 2837.00]  Met daarin wifi.
+[2837.00 --> 2839.34]  Die alleen lokaal te bereiken is.
+[2839.40 --> 2841.16]  Op een IP adres binnen je eigen netwerk.
+[2841.50 --> 2842.16]  En daar ga je dan naartoe.
+[2842.22 --> 2843.94]  En dan krijg je een cool dashboard met een zonnetje.
+[2844.06 --> 2845.62]  En dan komen de luchtdruk of zo.
+[2846.28 --> 2847.92]  Die pagina is nu in essentie.
+[2847.98 --> 2848.84]  Als je het goed aanpakt.
+[2848.96 --> 2850.20]  Ook beschikbaar voor cloud.
+[2850.64 --> 2851.84]  Alleen op jouw desktop.
+[2852.44 --> 2852.98]  Vooralsnog.
+[2853.24 --> 2854.24]  Want dat is even.
+[2855.50 --> 2856.66]  De volgende stap.
+[2857.34 --> 2860.22]  Dat protocol is niet een lokaal protocol.
+[2861.06 --> 2862.26]  Het kan ook zo zijn straks.
+[2862.36 --> 2864.12]  En dat is een beetje waar ze met Antropo naartoe willen.
+[2864.14 --> 2865.28]  Als nog in de cloud gaan draaien.
+[2865.52 --> 2865.92]  Natuurlijk.
+[2866.12 --> 2867.44]  En dan dat er bedrijven komen.
+[2867.54 --> 2868.00]  Die gaan zeggen.
+[2868.14 --> 2869.26]  Wij hebben MCP support.
+[2869.74 --> 2871.26]  Op onze eigen cloud diensten.
+[2871.44 --> 2871.88]  Dus als je.
+[2872.04 --> 2873.68]  Je kan cloud gaan doorkoppelen aan.
+[2874.14 --> 2875.58]  Allerlei andere API's.
+[2875.68 --> 2876.56]  Via dit protocol.
+[2877.08 --> 2877.96]  Want het internet.
+[2878.64 --> 2880.34]  En om dan ook te verkopen bijvoorbeeld.
+[2881.10 --> 2881.92]  Nou ik kan me voorstellen.
+[2881.92 --> 2882.74]  Als jij een.
+[2884.10 --> 2885.14]  Zo heb je het Lexus Nexus.
+[2885.34 --> 2886.76]  En je hebt een heel grote database.
+[2886.88 --> 2888.00]  Met proprietary data.
+[2888.26 --> 2889.34]  Ja het is ook wel hun.
+[2889.34 --> 2890.34]  Blogbericht.
+[2890.52 --> 2891.94]  Waar het hierin aangekondigd wordt.
+[2892.06 --> 2892.90]  Daarom vond ik het zelf.
+[2893.00 --> 2893.94]  Wat abstract beschreven.
+[2894.12 --> 2894.40]  Zeiden ze.
+[2894.96 --> 2895.78]  Giving models.
+[2896.12 --> 2898.06]  Access to the databases of the world.
+[2898.64 --> 2898.88]  Toen ik.
+[2899.06 --> 2899.52]  Wat?
+[2900.02 --> 2900.30]  Oh.
+[2900.54 --> 2901.82]  Je bedoelt dat je een brug hebt gebouwd.
+[2901.88 --> 2903.06]  Tussen eigenlijk alles.
+[2904.04 --> 2905.22]  Waaronder databases.
+[2905.70 --> 2906.32]  En dus.
+[2906.74 --> 2907.36]  Dat dan.
+[2907.92 --> 2909.12]  Weather Online.
+[2909.46 --> 2910.28]  Een API heeft.
+[2910.36 --> 2911.08]  Die ze nu al hebben.
+[2911.48 --> 2913.20]  Dan zou je een bridge tussen kunnen bouwen.
+[2913.20 --> 2914.20]  Die via MCP.
+[2914.50 --> 2915.56]  Weer kan opvragen.
+[2915.98 --> 2916.68]  Best wel vet.
+[2917.30 --> 2918.26]  En is het dan eigenlijk.
+[2918.26 --> 2919.40]  Een alternatief.
+[2919.60 --> 2919.94]  Voor.
+[2920.44 --> 2920.88]  Een API.
+[2922.48 --> 2923.24]  Het is een.
+[2923.62 --> 2924.56]  Extra laagje.
+[2924.94 --> 2926.14]  Waardoor je eigenlijk zegt.
+[2926.24 --> 2926.44]  Van.
+[2927.04 --> 2928.90]  Want wat nu heel veel ontwikkelaars doen.
+[2929.04 --> 2929.12]  Is.
+[2929.36 --> 2930.30]  Tegen openen jij.
+[2930.44 --> 2930.64]  Ik zeg.
+[2930.72 --> 2931.08]  Ik doe even.
+[2931.48 --> 2932.54]  Voor het gemak openen jij.
+[2932.60 --> 2932.78]  Zeg.
+[2932.84 --> 2932.96]  Joh.
+[2933.06 --> 2933.72]  Dit is mijn API.
+[2934.72 --> 2936.48]  Maak API request voor me.
+[2936.74 --> 2937.28]  Want dat kan die.
+[2937.38 --> 2938.40]  Want dat blufft die wel bij elkaar.
+[2938.72 --> 2938.94]  Oké.
+[2938.98 --> 2940.12]  En die voer je dan gewoon uit.
+[2940.24 --> 2941.06]  En krijgt die terug.
+[2941.40 --> 2942.26]  Maar dat is eigenlijk niet.
+[2942.86 --> 2943.20]  Zeg maar.
+[2943.20 --> 2944.50]  En heb je inmiddels.
+[2944.74 --> 2945.24]  Dat je tegen.
+[2945.64 --> 2946.88]  Je hoeft dit alleen maar aan te zetten.
+[2946.98 --> 2947.86]  Je hoeft ook helemaal niet echt.
+[2948.08 --> 2949.62]  Per se code ervoor te schrijven.
+[2949.94 --> 2950.70]  Nou het mooie is dat.
+[2950.82 --> 2951.90]  Doordat het een protocol is.
+[2952.02 --> 2953.40]  Kunnen taalmodellen ook makkelijker.
+[2953.54 --> 2955.18]  MCP implementatie schrijven.
+[2955.30 --> 2956.66]  Om het weer even heel erg merken te doen.
+[2957.06 --> 2957.40]  Maar wat.
+[2957.46 --> 2958.22]  Wat je ziet.
+[2958.66 --> 2958.78]  In.
+[2959.26 --> 2960.56]  De wereld van software.
+[2961.14 --> 2963.30]  Is op het moment dat je afspraken met elkaar gaat maken.
+[2963.66 --> 2964.64]  En dan moet ik wel voorbij zeggen.
+[2964.88 --> 2966.08]  En die afspraken zijn goed.
+[2966.22 --> 2968.34]  Want er worden ook hele dragonische afspraken gemaakt.
+[2968.34 --> 2969.48]  Van vreselijke protocollen.
+[2969.58 --> 2972.28]  Waar veel te veel mensen veel te lang over nabegedacht.
+[2972.68 --> 2973.90]  Je wil een dun.
+[2974.48 --> 2975.54]  Eenvoudig te begrijpen.
+[2977.12 --> 2978.26]  Simpel protocol hebben.
+[2979.06 --> 2980.60]  Waardoor iedereen het gaat adopteren.
+[2980.68 --> 2982.32]  En dan krijg je ook dat je bijvoorbeeld kan zeggen.
+[2982.98 --> 2984.04]  Is dit valide.
+[2984.84 --> 2985.78]  Volgens het protocol.
+[2985.98 --> 2988.68]  En dit klinkt echt als een soort vreselijke bureaucratie.
+[2988.82 --> 2990.44]  Maar als het om veiligheid gaat.
+[2990.54 --> 2991.34]  En om data gaat.
+[2991.50 --> 2992.22]  Dan is het wel prettig.
+[2992.22 --> 2992.98]  Als je met elkaar een beetje afspraken maakt.
+[2992.98 --> 2994.28]  Het is een soort firewall.
+[2994.56 --> 2997.12]  Waarbij je heel specifiek aangeeft.
+[2997.12 --> 3000.34]  Wat wel en niet richting het taalmodel mag gaan.
+[3000.50 --> 3001.18]  Ja heel specifiek.
+[3001.26 --> 3001.88]  Nou sterker nog.
+[3002.08 --> 3003.52]  Je geeft eigenlijk aan wat er wel mag.
+[3003.88 --> 3004.02]  Ja.
+[3004.38 --> 3005.34]  En dat is zo dun.
+[3005.46 --> 3006.02]  Ja precies.
+[3006.14 --> 3007.50]  Dus als je tegen dat ding zegt.
+[3007.66 --> 3009.08]  Ja ik wil niet het licht aanzetten.
+[3009.20 --> 3010.08]  Maar ik wil het huidige weer.
+[3010.20 --> 3010.56]  Zegt hij ja.
+[3010.70 --> 3012.24]  Dat kan ik niet.
+[3013.00 --> 3015.34]  Mijn enige taak hier is lichten aan en uitzetten.
+[3015.82 --> 3016.88]  Dus je kan wel gaan proberen.
+[3016.96 --> 3018.74]  Nu dieper dat netwerk in te komen via mij.
+[3018.80 --> 3018.98]  Oké.
+[3019.00 --> 3020.18]  Maar wat er dus gaat gebeuren.
+[3020.18 --> 3024.46]  Is dat alles wat nu data over mij verzamelt.
+[3024.64 --> 3027.18]  Zoals mijn horloge.
+[3028.00 --> 3029.56]  Wat mijn hartslag bijhoudt.
+[3029.70 --> 3031.36]  En weet ik veel.
+[3031.44 --> 3032.46]  Als je een warmtepomp hebt.
+[3032.54 --> 3033.48]  Wat die warmtepomp doet.
+[3033.60 --> 3034.48]  Of die zonnepanelen.
+[3035.48 --> 3038.20]  Of allerlei andere plekken.
+[3038.52 --> 3040.52]  Waar nu in apps.
+[3040.74 --> 3041.78]  Dat zijn allemaal losse apps.
+[3041.92 --> 3043.40]  Van de Tesla auto.
+[3043.96 --> 3044.80]  Of weet ik veel.
+[3044.90 --> 3045.64]  Alle losse apps.
+[3045.64 --> 3047.52]  Ze hebben allemaal hun eigen silo.
+[3047.70 --> 3048.46]  Waarbij je de app hebt.
+[3048.58 --> 3049.80]  Om dat te bedienen.
+[3050.06 --> 3050.94]  En in te zien.
+[3051.52 --> 3052.34]  Is dan het idee.
+[3052.48 --> 3053.36]  Dat die allemaal.
+[3053.68 --> 3053.86]  Met.
+[3054.56 --> 3055.88]  Dat entropic boxje.
+[3056.04 --> 3057.06]  Verbonden kunnen zijn.
+[3058.10 --> 3058.94]  En dat je dus.
+[3060.94 --> 3062.18]  Ook met spraak.
+[3062.42 --> 3063.14]  Neem ik dan aan.
+[3063.28 --> 3063.60]  Alles.
+[3064.06 --> 3066.10]  Alles kan bedienen.
+[3066.28 --> 3066.86]  Ja ik denk nu.
+[3066.96 --> 3067.84]  Ik vind jouw voorbeeld wel mooi.
+[3067.84 --> 3069.84]  Omdat je het had over health.
+[3070.02 --> 3070.32]  Zeg maar.
+[3070.44 --> 3071.50]  Over de medische data.
+[3071.64 --> 3072.28]  Van je horloge.
+[3072.76 --> 3074.12]  Als Apple dit had gedaan.
+[3074.38 --> 3075.14]  En Apple had het namelijk.
+[3075.14 --> 3076.00]  Iets beter vermarkt.
+[3076.08 --> 3077.98]  Dan had het AI kit geheten.
+[3078.40 --> 3078.80]  Namelijk.
+[3078.92 --> 3079.78]  Of LLM kit.
+[3080.10 --> 3080.96]  Of language kit.
+[3081.74 --> 3083.54]  Kijk wat health kit nu is.
+[3083.68 --> 3084.26]  Of iOS.
+[3084.50 --> 3085.28]  Is een afspraak.
+[3085.34 --> 3086.46]  Tussen alle health apps.
+[3086.68 --> 3087.52]  Dat ze jou.
+[3087.78 --> 3088.54]  Bijvoorbeeld jouw lengte.
+[3088.62 --> 3089.24]  Kunnen opvragen.
+[3089.38 --> 3090.08]  Aan health kit.
+[3090.18 --> 3090.78]  Want dat staat daarin.
+[3090.84 --> 3092.08]  Een gestandardiseerd formaat in.
+[3092.52 --> 3092.96]  Is prettig.
+[3093.00 --> 3093.66]  Hoef je niet overal.
+[3093.70 --> 3094.46]  Je lengte in te typen.
+[3094.52 --> 3095.36]  In al die health apps.
+[3095.72 --> 3096.16]  Dat is wat.
+[3096.44 --> 3097.52]  Waar dit in de buurt komt.
+[3097.84 --> 3098.24]  Namelijk.
+[3098.48 --> 3099.20]  Een kit.
+[3099.36 --> 3100.24]  Oftewel een toolkit.
+[3100.70 --> 3101.94]  Verzameling van afspraken.
+[3102.04 --> 3103.00]  En implementaties.
+[3103.60 --> 3104.68]  Hoe we nou met elkaar.
+[3104.68 --> 3105.88]  Al die verschillende dingen.
+[3106.02 --> 3106.80]  Aan elkaar koppelen.
+[3107.14 --> 3107.92]  Op zo'n manier.
+[3108.92 --> 3109.90]  Even voor de duidelijkheid.
+[3110.40 --> 3111.52]  Heel veel toepassingen.
+[3111.68 --> 3112.42]  Bestaan al.
+[3112.66 --> 3112.82]  Nu.
+[3113.38 --> 3113.90]  Maar dat is door.
+[3114.14 --> 3114.56]  Programmeurs.
+[3114.66 --> 3115.22]  En ontwikkelaars.
+[3115.28 --> 3116.54]  Zelf bij elkaar geraapt.
+[3116.62 --> 3117.28]  Met alle respect.
+[3117.42 --> 3118.12]  Zelf bedacht.
+[3118.50 --> 3119.24]  En later een beetje.
+[3119.30 --> 3120.16]  Aan elkaar getaped.
+[3120.56 --> 3121.08]  Door bijvoorbeeld.
+[3121.18 --> 3121.82]  Tegen open AI.
+[3121.94 --> 3122.24]  Te zeggen.
+[3122.32 --> 3123.20]  Als je een request doet.
+[3123.46 --> 3124.20]  Je mag alleen maar.
+[3124.28 --> 3125.20]  Jason teruggeven.
+[3125.40 --> 3126.16]  Anders zegt hij namelijk.
+[3126.50 --> 3127.36]  Here's your Jason.
+[3127.62 --> 3128.20]  En dan moet jij weer.
+[3128.20 --> 3128.92]  Die zin met die.
+[3128.98 --> 3129.66]  Here's your Jason.
+[3129.66 --> 3130.58]  Eruit gaan rippen.
+[3130.88 --> 3131.74]  Omdat hij weer.
+[3131.82 --> 3132.84]  Menselijk gaat lopen doen.
+[3132.94 --> 3133.58]  Of aan het einde zegt.
+[3133.94 --> 3135.08]  Tell me if you want more.
+[3135.58 --> 3136.98]  Dit heb ik allemaal gebouwd ooit.
+[3137.08 --> 3138.10]  Dit is super irritant.
+[3138.46 --> 3139.50]  Dus nu hebben ze al gezegd.
+[3139.54 --> 3140.20]  Je kan forsten.
+[3140.26 --> 3140.76]  Dat hij alleen maar.
+[3140.82 --> 3141.98]  Machine taal mag spreken.
+[3142.50 --> 3143.10]  Gelukkig maar.
+[3143.54 --> 3143.82]  En nu.
+[3143.94 --> 3145.02]  Nu zeggen we eigenlijk.
+[3145.12 --> 3146.10]  Zullen we nog een stap verder gaan.
+[3146.20 --> 3147.36]  En gewoon goede afspraken maken.
+[3147.36 --> 3148.30]  Over hoe taalmodellen.
+[3148.46 --> 3149.32]  Met de wereld gaan praten.
+[3149.42 --> 3151.44]  En wat vind jij nu de grootste.
+[3151.94 --> 3152.26]  Zeg maar.
+[3152.38 --> 3153.76]  Als je hierop doorredeneert.
+[3154.16 --> 3154.30]  Wat.
+[3155.72 --> 3156.12]  Waar.
+[3156.32 --> 3157.00]  Wordt je dan.
+[3157.38 --> 3158.84]  Wat vind je dan het interessantst?
+[3159.88 --> 3161.94]  Ik vind het een interessant idee.
+[3162.12 --> 3162.62]  Om te zeggen.
+[3163.96 --> 3165.04]  Als ik dan ook nog eens.
+[3165.14 --> 3166.48]  Mijn taalmodel lokaal draai.
+[3166.56 --> 3167.80]  Want dat is voor mij wel belangrijk.
+[3168.34 --> 3169.18]  En die gaat natuurlijk.
+[3169.26 --> 3170.58]  Die protocollen gewoon integreren.
+[3170.64 --> 3171.80]  Want het is allemaal open source.
+[3172.44 --> 3174.74]  Dat jij thuis hardware hebt.
+[3175.54 --> 3175.94]  Sensoren.
+[3176.14 --> 3177.22]  Bijvoorbeeld voor je smart home.
+[3178.22 --> 3178.82]  Of wat je zegt.
+[3178.88 --> 3179.76]  Je hebt een elektrische auto.
+[3179.88 --> 3180.78]  En die heeft ook een API.
+[3181.38 --> 3182.18]  Dat je eigenlijk.
+[3183.06 --> 3184.08]  Je taalmodel.
+[3184.26 --> 3185.92]  Veel meer context kan gaan geven.
+[3186.14 --> 3186.62]  Over de wereld.
+[3187.28 --> 3188.34]  En waarin we nou.
+[3188.60 --> 3189.82]  Waarin we nu merken.
+[3190.20 --> 3191.42]  En er wordt heel dat een beetje grappig gedaan.
+[3191.54 --> 3192.10]  In reviews.
+[3192.26 --> 3192.98]  Als het gaat om.
+[3193.58 --> 3195.06]  Pixel telefoons met AI.
+[3195.26 --> 3196.20]  En Apple intelligence.
+[3197.02 --> 3198.00]  Dat jij kan zeggen.
+[3198.44 --> 3198.94]  Kan je me.
+[3199.06 --> 3201.40]  ESMC2 van Einstein uitleggen.
+[3201.40 --> 3202.12]  In een metafoor.
+[3202.20 --> 3203.12]  Voor een kind van vijf.
+[3203.20 --> 3204.38]  En gebruik maken van Alfred.
+[3204.74 --> 3205.34]  Je dokes kwak.
+[3205.44 --> 3206.02]  Dan doet hij dat.
+[3206.02 --> 3206.92]  En dan zeg je.
+[3207.00 --> 3207.78]  Kan je een timer zetten.
+[3207.86 --> 3208.34]  Voor 10 minuten.
+[3208.42 --> 3208.78]  En dan zegt hij.
+[3208.84 --> 3209.10]  Nee sorry.
+[3209.16 --> 3209.90]  Ik kan geen timer zetten.
+[3210.04 --> 3210.14]  Ja.
+[3210.24 --> 3211.80]  Dit is een realistische weergaaf.
+[3211.80 --> 3211.92]  Ja.
+[3211.92 --> 3213.58]  Van hoe de taalmodellen werken.
+[3213.58 --> 3215.62]  Dan ben ik zo'n irritante nerd.
+[3215.70 --> 3216.14]  Dat ik zeg.
+[3216.62 --> 3217.32]  Dat snap ik wel.
+[3217.94 --> 3219.14]  Want die timer zetten.
+[3219.14 --> 3220.88]  Dat vereist een brug.
+[3221.10 --> 3222.40]  Naar de lokale operating system.
+[3222.42 --> 3222.88]  Die is er niet.
+[3223.04 --> 3223.28]  Nee.
+[3223.80 --> 3224.22]  Nu wel.
+[3224.80 --> 3226.86]  Door met Google Assistant te gaan praten.
+[3227.12 --> 3227.24]  Ja.
+[3227.36 --> 3227.66]  En nu.
+[3227.82 --> 3229.42]  Want Google heeft.
+[3229.66 --> 3230.32]  En Apple ook.
+[3230.76 --> 3231.24]  Gezegd.
+[3231.64 --> 3233.08]  Die generatieve taalmodellen.
+[3233.26 --> 3234.82]  Gaan wij niet zomaar toegang geven.
+[3234.90 --> 3235.82]  Tot ons operating system.
+[3235.84 --> 3236.14]  Juist.
+[3236.42 --> 3236.76]  Ik bedoel.
+[3237.60 --> 3238.46]  Apple kennende.
+[3239.18 --> 3241.98]  Zullen zij dit MCP ding niet gaan integreren.
+[3242.20 --> 3242.54]  Maar AI.
+[3242.54 --> 3243.66]  Maar om dezelfde redenen.
+[3243.66 --> 3244.74]  Zijn ze er voorzichtig mee.
+[3244.98 --> 3246.40]  Als jij zegt.
+[3246.40 --> 3247.04]  En dan kan je zeggen.
+[3247.12 --> 3247.32]  Joh.
+[3247.98 --> 3248.30]  Boeien.
+[3248.40 --> 3249.26]  Een timertje zetten.
+[3249.90 --> 3250.24]  Oké.
+[3250.28 --> 3252.32]  Maar dan moet je wel ergens een afspraak hebben gemaakt.
+[3252.46 --> 3253.62]  Dat er een timer zet.
+[3254.14 --> 3254.76]  Functie is.
+[3255.30 --> 3256.58]  En dat taalmodel moet dan weten.
+[3256.76 --> 3257.70]  Als ik timers wil zetten.
+[3257.80 --> 3259.86]  Moet ik tegen het operating system zeggen.
+[3260.04 --> 3261.34]  Op technisch niveau.
+[3261.78 --> 3263.18]  Zet timer 10 minutes.
+[3263.54 --> 3264.68]  En die afspraak.
+[3264.78 --> 3265.42]  En wat je mag.
+[3265.56 --> 3266.44]  En hoe je dat moet zeggen.
+[3266.64 --> 3267.84]  Dat zit in het protocol.
+[3267.88 --> 3268.04]  Nou.
+[3268.12 --> 3270.92]  En gaat daarom waarschijnlijk ook nog wel eventjes duren.
+[3270.92 --> 3271.88]  En de eerste.
+[3272.60 --> 3273.64]  Eerste stappen.
+[3274.20 --> 3275.96]  Waar we dit waarschijnlijk dan gaan zien.
+[3275.96 --> 3277.80]  En het zijn juist die open source dingen.
+[3278.04 --> 3278.14]  Ja.
+[3278.34 --> 3280.74]  Omdat dit is waarom jij die Shelly natuurlijk aanhaalt.
+[3280.84 --> 3281.48]  Die die plug.
+[3281.70 --> 3281.86]  Ja.
+[3282.00 --> 3283.74]  Dat is van open source nerds.
+[3283.82 --> 3283.96]  Nou.
+[3284.08 --> 3285.48]  Waarschijnlijk is het er nu al.
+[3285.60 --> 3287.06]  Die integratie met deze.
+[3287.52 --> 3288.36]  Met dit protocol.
+[3288.62 --> 3290.24]  En anders dan is het er over twee dagen.
+[3290.44 --> 3293.06]  Als je de protocol documentatie in Cloud plakt.
+[3293.22 --> 3293.38]  Even.
+[3293.82 --> 3294.14]  Ja.
+[3294.28 --> 3294.92]  Dat is gewoon zo.
+[3294.98 --> 3295.56]  En dan zegt.
+[3295.94 --> 3297.24]  Dit is de huidige Shelly API.
+[3297.24 --> 3298.32]  Kun je een rug maken.
+[3298.32 --> 3298.50]  Ja.
+[3298.94 --> 3299.06]  Maar.
+[3299.56 --> 3299.84]  Ja.
+[3299.92 --> 3301.06]  Je kan dit niet doen met.
+[3301.66 --> 3303.14]  Je Google of je iOS.
+[3304.76 --> 3305.56]  Operating system.
+[3305.70 --> 3305.72]  Nee.
+[3305.72 --> 3307.04]  Dus het werkt nu met al.
+[3307.14 --> 3308.04]  Al die nerds.
+[3308.10 --> 3308.92]  Die hun huis.
+[3309.06 --> 3309.64]  Of wat dan ook.
+[3309.72 --> 3310.74]  Of hun apps hebben uitgerust.
+[3310.80 --> 3312.20]  Met juist die open source dingen.
+[3312.52 --> 3313.60]  Die kunnen nu als eerste.
+[3314.54 --> 3315.16]  Echt leuke dingen.
+[3315.16 --> 3315.66]  Gaan klooien.
+[3315.72 --> 3316.50]  Echt leuke dingen gaan doen.
+[3316.84 --> 3317.16]  Zeker.
+[3317.70 --> 3318.86]  Want dat is eigenlijk wat je.
+[3319.96 --> 3320.82]  Ik had laatst.
+[3321.52 --> 3322.38]  Misschien ook nog wel.
+[3322.52 --> 3324.28]  Want ik probeer even zoveel mogelijk voorbeelden te geven.
+[3324.36 --> 3326.30]  Voor de mensen die nu nog steeds vooruit zitten te staren.
+[3326.38 --> 3327.28]  Met waar gaat dit over.
+[3327.36 --> 3328.56]  Het is zo abstract en vaag.
+[3329.52 --> 3331.12]  Ik heb een telegram bot gemaakt.
+[3331.32 --> 3331.72]  Voor POM.
+[3332.36 --> 3334.00]  Zodat wij met elkaar kunnen zeggen.
+[3334.26 --> 3334.94]  Slash summary.
+[3335.46 --> 3337.54]  En dan doe je spaatsie YouTube URL.
+[3337.64 --> 3338.40]  En dan krijg je een summary.
+[3338.58 --> 3339.00]  Super leuk.
+[3339.08 --> 3339.88]  Handig voor de redactie.
+[3340.52 --> 3341.70]  Maar ik merk dus nu.
+[3341.80 --> 3343.80]  Dat dat slash summary spaatsie.
+[3343.80 --> 3345.24]  Binnen een team.
+[3345.78 --> 3348.42]  Dat is een soort old school met bots praten.
+[3348.58 --> 3348.88]  Zeg maar.
+[3348.96 --> 3350.24]  Je moet een soort commando geven.
+[3350.54 --> 3351.90]  Als je slash summary typt.
+[3352.02 --> 3352.88]  Dan doet die het ook niet.
+[3353.44 --> 3356.76]  Terwijl het paradigma waar we nu in leven van taalmodellen is.
+[3356.76 --> 3358.64]  Geef me een samenvatting van www.com.
+[3358.80 --> 3359.36]  Jij snapt hem.
+[3359.54 --> 3359.62]  Ja.
+[3359.86 --> 3361.06]  Nou nu dankzij dit.
+[3361.16 --> 3362.40]  Kan ik dit dus gaan integreren.
+[3362.58 --> 3362.68]  Ja.
+[3363.14 --> 3363.88]  Dit ga ik nu doen.
+[3364.16 --> 3364.28]  Ja.
+[3364.70 --> 3365.84]  En ik hoef weinig te doen.
+[3366.16 --> 3367.44]  Ik moet een paar trucjes doen nu.
+[3367.52 --> 3369.44]  En dan kan je straks gewoon tegen POM bot zeggen.
+[3369.98 --> 3370.16]  Joh.
+[3370.42 --> 3371.08]  Hé man.
+[3371.46 --> 3373.62]  Gooi even een samenvatting van deze YouTube video.
+[3373.80 --> 3374.00]  Ja.
+[3374.12 --> 3374.74]  En dan snapt hij.
+[3374.88 --> 3375.92]  Ik kan samenvatten.
+[3376.30 --> 3378.70]  Want Wietse heeft een summary bridge voor mij gebouwd.
+[3378.74 --> 3378.84]  Ja.
+[3378.92 --> 3379.50]  In MS.
+[3379.56 --> 3380.62]  Met het MCP protocol.
+[3380.86 --> 3381.02]  Ja.
+[3381.82 --> 3382.98]  En ik kan het prompt aanpassen.
+[3383.12 --> 3383.86]  Dus ik kan dan zeggen.
+[3384.50 --> 3385.30]  Maak de tekst.
+[3385.80 --> 3386.04]  Ja.
+[3386.12 --> 3386.54]  Wordt leuk.
+[3386.62 --> 3387.38]  Twintig minuten.
+[3387.58 --> 3388.36]  Om te lezen.
+[3389.36 --> 3389.76]  Ja.
+[3389.76 --> 3389.88]  Oké.
+[3392.58 --> 3393.06]  Jeetje.
+[3393.06 --> 3398.00]  Ik ben er stil van.
+[3398.00 --> 3398.40]  Ja.
+[3398.40 --> 3398.80]  Ja.
+[3398.86 --> 3399.76]  Want hij is heel groot.
+[3399.96 --> 3400.04]  Ja.
+[3400.04 --> 3400.48]  En ik denk.
+[3402.82 --> 3403.18]  Samenvattend.
+[3403.72 --> 3404.32]  Is het zo.
+[3404.82 --> 3405.62]  Dat taalmodellen.
+[3406.26 --> 3407.36]  Die online draaien.
+[3407.58 --> 3408.02]  Vooralsnog.
+[3408.22 --> 3409.88]  Weinig toegang hadden tot de realiteit.
+[3410.08 --> 3410.38]  Als in.
+[3410.46 --> 3411.22]  Hoe laat is het.
+[3411.42 --> 3412.60]  Kan je deze website even bezoeken.
+[3412.76 --> 3413.96]  En wat is de temperatuur nu.
+[3414.34 --> 3414.46]  In.
+[3415.24 --> 3415.56]  Saalbog.
+[3415.56 --> 3416.06]  Interglem.
+[3416.92 --> 3418.32]  Dat is nu deels opgelost.
+[3418.38 --> 3419.06]  Door programmeurs.
+[3419.14 --> 3421.04]  Die zelf bruggetjes zijn gaan fabriceren.
+[3421.24 --> 3422.10]  Want dat kon je al doen.
+[3422.20 --> 3423.10]  Niemand hield je tegen.
+[3423.62 --> 3425.48]  Alleen iedereen deed op zijn eigen manier.
+[3425.94 --> 3428.28]  En er werd minder goed nagedacht over veiligheid.
+[3428.60 --> 3429.60]  Ik spreek even voor mezelf.
+[3429.72 --> 3430.22]  Ik deed mijn best.
+[3430.32 --> 3431.00]  Maar dat is niet makkelijk.
+[3431.08 --> 3431.78]  Met een taalmodel.
+[3431.90 --> 3433.74]  Die random teksten kan gooien naar jou.
+[3433.82 --> 3434.94]  Je moet best wel goed opletten.
+[3435.62 --> 3437.12]  Daar hebben we nu een protocol voor.
+[3437.12 --> 3438.90]  Waardoor eigenlijk de wereld open gaat.
+[3439.06 --> 3440.32]  Langzaam voor die taalmodellen.
+[3440.52 --> 3441.96]  Om steeds meer te gaan interacteren.
+[3442.24 --> 3443.40]  Wat ook best wel spannend is.
+[3443.48 --> 3444.76]  Want in essentie is het zo.
+[3444.76 --> 3447.34]  Dat moment dat wij taalmodellen computers laten besturen.
+[3447.52 --> 3448.44]  Muizen en keyboards.
+[3448.82 --> 3450.62]  Toen gooiden we het al open.
+[3451.48 --> 3452.56]  En tropic zegt nu ook.
+[3452.86 --> 3454.18]  Wij hebben nu aan jullie laten zien.
+[3454.38 --> 3455.32]  Hoe wij iets hebben gemaakt.
+[3455.40 --> 3456.58]  Dat je computer kan besturen.
+[3457.16 --> 3459.04]  Dat is onderdeel van dit MCP.
+[3459.22 --> 3461.42]  Namelijk ook daar moeten we afspraak maken.
+[3461.64 --> 3462.70]  Als je daar bijvoorbeeld zei.
+[3463.54 --> 3466.74]  Kan jij voor mij comments plaatsen op X.
+[3466.74 --> 3467.58]  Dan deed hij het niet.
+[3467.82 --> 3469.38]  Omdat er een tussenlaag in zit.
+[3469.48 --> 3469.74]  Die zegt.
+[3470.04 --> 3473.52]  Ik wil best wel opzoeken waar jij in Londen lekker koffie kan drinken.
+[3473.52 --> 3475.50]  Maar we gaan niet samen met elkaar dingen lopen.
+[3475.50 --> 3475.78]  Spammen.
+[3476.02 --> 3476.28]  Spammen.
+[3476.28 --> 3476.84]  Dat gaan we niet doen.
+[3477.28 --> 3479.36]  En open source ontwikkelaar kan het natuurlijk uitslopen.
+[3479.48 --> 3480.04]  En het alsnog doen.
+[3480.18 --> 3480.36]  Ja.
+[3480.48 --> 3481.06]  We zijn niet naïef.
+[3481.56 --> 3481.86]  Maar goed.
+[3482.06 --> 3486.74]  De grote partijen gaan gesloten gecontroleerde bruggen bouwen.
+[3487.62 --> 3487.80]  Ja.
+[3488.92 --> 3492.22]  Er zijn heel veel afslagen die je kan nemen.
+[3492.38 --> 3492.96]  Omdat het zo.
+[3493.36 --> 3495.34]  Omdat het een universeel protocol is.
+[3495.42 --> 3496.80]  Is dat wat je erbij cadeau krijgt.
+[3496.86 --> 3499.02]  Maar dat maakt het ook moeilijk om het echt voor te stellen.
+[3499.14 --> 3500.48]  Dat hier naar de implicaties van zijn.
+[3500.48 --> 3501.76]  Ik zit te denken.
+[3504.10 --> 3506.20]  Op dit moment zijn heel veel nieuwsites.
+[3506.26 --> 3508.12]  Die sluiten eigenlijk OpenAI buiten.
+[3508.60 --> 3513.80]  Omdat ze zo'n faal op hun server hebben gezet.
+[3514.02 --> 3515.48]  Waar ze OpenAI laten weten.
+[3515.56 --> 3517.02]  Je mag niet onze site bezoeken.
+[3517.12 --> 3517.22]  Ja.
+[3517.22 --> 3517.66]  Robots.
+[3517.90 --> 3518.20]  Ja.
+[3518.70 --> 3521.56]  En bijvoorbeeld DPG.
+[3521.74 --> 3523.56]  De grootste uitgever in Nederland doet dat.
+[3524.22 --> 3526.70]  Waardoor OpenAI de volkskrant niet kan lezen.
+[3526.70 --> 3529.90]  Maar als je het lokaal doet.
+[3530.40 --> 3533.14]  Dan gaat jouw computer naar de site van de volkskrant.
+[3533.36 --> 3534.06]  Nou het is zo.
+[3534.32 --> 3536.22]  Of meteen een super mooie opmerking dit.
+[3536.90 --> 3538.94]  Bij die MCP server fetch.
+[3539.26 --> 3541.94]  Dus dat is een server die alleen maar websites kan fetchen.
+[3542.26 --> 3543.48]  Kan je de user agent zelf meegeven.
+[3543.48 --> 3544.04]  Aanpassen.
+[3544.40 --> 3544.54]  Ja.
+[3544.64 --> 3545.86]  En hoe jij hem nu beschreef.
+[3546.12 --> 3548.96]  Is als je eigenlijk cloud computer gebruikt.
+[3549.30 --> 3550.82]  Die jouw browser opent.
+[3551.00 --> 3552.18]  Waar jouw koekjes in zitten.
+[3552.50 --> 3553.54]  En gaat rondklikken.
+[3553.62 --> 3554.04]  Ook jouw paywall.
+[3554.38 --> 3555.24]  Alsof jij het bent.
+[3555.24 --> 3556.26]  Ja.
+[3557.04 --> 3557.76]  By the way.
+[3558.10 --> 3559.60]  Dat is misschien een leuke voor luisteraars.
+[3560.24 --> 3562.34]  Die captchas die je wel eens moet invullen.
+[3562.68 --> 3563.44]  Are you a robot?
+[3563.66 --> 3565.60]  Nu worden die nog relevanter.
+[3565.72 --> 3567.28]  Dit is waarom die captchas gebouwd zijn.
+[3567.50 --> 3569.60]  Niet alleen maar voor spamboeren.
+[3569.78 --> 3571.94]  Maar ook mensen die gaan proberen om dingen te bestellen.
+[3572.04 --> 3572.74]  Met cloud samen.
+[3573.02 --> 3573.14]  Ja.
+[3573.46 --> 3575.22]  De manier waarop die werken.
+[3575.80 --> 3578.42]  Is ik dacht op basis van welke plaatjes je aanklikt.
+[3578.78 --> 3579.04]  Ook.
+[3579.44 --> 3581.18]  Maar vooral hoe jij je muis beweegt.
+[3582.26 --> 3582.52]  Ja.
+[3582.52 --> 3584.38]  Want een mens gaat met een heel erg.
+[3584.60 --> 3586.00]  Zie je hem even voor je als een grafiek.
+[3586.08 --> 3587.94]  Wij bewegen onze vingers op schermen.
+[3588.04 --> 3588.70]  En onze muizen.
+[3589.24 --> 3590.96]  Op een hele chaotische manier.
+[3591.48 --> 3593.72]  Dat kan je blijkbaar analyseren.
+[3593.92 --> 3594.76]  In een algoritme zetten.
+[3594.76 --> 3597.38]  Toen die tijd dacht ik dat ik goed was in puzzeltjes oplossen.
+[3597.50 --> 3600.16]  Maar het blijkt mijn muisbeweging naar het puzzeltje toe te zijn.
+[3600.22 --> 3601.46]  Als jij het te snel doet.
+[3601.46 --> 3601.62]  Ja.
+[3601.62 --> 3602.48]  Dan gaat het vaak niet goed.
+[3602.56 --> 3605.68]  Omdat hij dan niet genoeg data heeft van jouw menselijke muisbeweging.
+[3605.88 --> 3606.80]  Maar met andere woorden.
+[3607.36 --> 3608.90]  Er komen meer captchas.
+[3609.38 --> 3610.84]  Die dit gedrag overbodig.
+[3611.10 --> 3614.38]  Of die dit gedrag gaan proberen te beperken.
+[3614.62 --> 3614.82]  Nou ja.
+[3614.92 --> 3615.32]  Daarin.
+[3615.68 --> 3617.54]  Dat is een zijspoortje.
+[3617.58 --> 3620.14]  Wat ik verder even ongeëxploreerd laat.
+[3620.14 --> 3623.04]  Maar er zijn heel veel voorstellen nu.
+[3623.44 --> 3626.22]  Hoe bewijs jij aan een bedrijf.
+[3626.30 --> 3627.56]  Of aan een partij op internet.
+[3627.64 --> 3629.10]  Dat jij een mens bent zonder captcha.
+[3629.18 --> 3630.32]  En niet een AI computer.
+[3630.70 --> 3630.84]  Ja.
+[3631.86 --> 3632.34]  Jeetje.
+[3633.92 --> 3634.20]  Nou.
+[3634.76 --> 3636.38]  Je hebt mijn ogen weer geopend.
+[3636.46 --> 3636.74]  Wietse.
+[3637.12 --> 3637.70]  Wat een tijd.
+[3638.58 --> 3640.34]  De ogen van het taalmodel zijn geopend.
+[3640.38 --> 3640.58]  Ja.
+[3640.70 --> 3641.24]  Precies ja.
+[3641.66 --> 3643.32]  In ieder geval kan hij het licht aandoen.
+[3643.44 --> 3644.10]  Maar dat is fijn.
+[3645.38 --> 3646.94]  Dank aan Sam Hengeveld.
+[3647.06 --> 3648.36]  Voor de edit van deze podcast.
+[3648.36 --> 3650.00]  Als je een lezing wil.
+[3650.38 --> 3652.10]  Van Wietse of van mij.
+[3652.20 --> 3652.58]  Over AI.
+[3652.68 --> 3653.16]  Dan kan dat.
+[3653.34 --> 3656.00]  Mijl ons dan op lezing.poki.show
+[3656.00 --> 3660.32]  Als je dus meer wil weten over de exclusieve sponsor worden.
+[3660.46 --> 3661.40]  Van Poki volgend jaar.
+[3661.66 --> 3663.54]  Dan kun je naar poki.show gaan.
+[3664.18 --> 3666.18]  En als je al het laatste AI nieuws wil hebben.
+[3666.34 --> 3667.06]  Twee keer per week.
+[3667.36 --> 3669.60]  Gratis en voor niks in je mailbox.
+[3669.84 --> 3672.44]  Dan ga je naar AIreport.email
+[3672.44 --> 3673.62]  Tot volgende week.
+[3673.72 --> 3673.94]  Dag.
+[3673.94 --> 3703.92]  TV Gelderland 2021

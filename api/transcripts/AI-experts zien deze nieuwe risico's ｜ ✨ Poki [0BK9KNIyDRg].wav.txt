@@ -1,0 +1,1670 @@
+Video title: AI-experts zien deze nieuwe risico's ｜ ✨ Poki
+Youtube video code: 0BK9KNIyDRg
+Last modified time: 2024-06-06 21:47:59
+
+------------------ 
+
+[0.00 --> 4.52]  Van het koude Nova Zembela naar het warme Suriname en van Rembrandt naar Judith Leister.
+[4.88 --> 11.76]  Ik ben Hubert Totan en in de podcast In het Rijksmuseum praat ik met specialisten over de verhalen achter mijn favoriete kunstwerken.
+[12.22 --> 14.94]  Nieuwsgierig? Beluister nu de nieuwe afleveringen.
+[15.18 --> 17.20]  Laat me je voorstellen aan Pim Verlaan.
+[17.32 --> 19.30]  Ik begin op een hele jonge leeftijd met beleggen.
+[19.48 --> 22.76]  Die horizon die jij hebt gaat zoveel voordeel opleveren.
+[22.88 --> 24.54]  Pim is een man met een missie.
+[24.90 --> 27.44]  Iedereen veilig en verantwoord leren beleggen.
+[27.44 --> 30.96]  Als je echt iets wil leren, leer dat van iemand die één stapje vooruit loopt.
+[31.02 --> 33.16]  Hij legt je uit op welke manieren je kan beleggen.
+[33.24 --> 36.60]  Elke bank heeft eigenlijk zijn eigen beleggingsfonds. Ik hou daar helemaal niet van.
+[36.66 --> 39.18]  Op welke manieren je beter kan beleggen.
+[39.44 --> 41.98]  En hij rekent je voordeel op de euro nauwkeurig uit.
+[43.00 --> 45.38]  192.000 euro minder rendement.
+[45.50 --> 46.60]  Zelf leren beleggen.
+[46.70 --> 47.56]  Niemand vertelt dit.
+[47.62 --> 49.76]  Pim dus wel. In Jong Beleggen, de podcast.
+[50.06 --> 51.04]  Nou, dat is toch fantastisch?
+[57.44 --> 69.02]  Welkom bij Poki.
+[69.24 --> 71.30]  Een podcast over kunstmatige intelligentie.
+[71.46 --> 74.94]  Waarin Alexander Klubbing, Wietse Hagen en ik, Milo Brandt,
+[74.94 --> 77.14]  hierbij praat over de wonderwereld van AI.
+[78.06 --> 80.78]  Dit keer ontbreekt Wietse even, maar Alexander is terug.
+[80.78 --> 84.66]  Hij was wasmachine spotten bij Samsung in Sejoel en doet verslag.
+[84.66 --> 90.90]  Verder, er is een brandbrief geschreven door een aantal werknemers en oud-gedienden bij OpenAI en Google.
+[91.64 --> 92.84]  Dat gaat over veiligheid.
+[93.14 --> 95.32]  De wereld gaat eraan en niemand doet iets.
+[95.58 --> 96.12]  Dat een beetje.
+[96.92 --> 98.74]  En voorts is er ophef in de VS.
+[99.08 --> 100.60]  Journalisten schreeuwen moord en brand,
+[100.74 --> 106.40]  want nadat ze de vorige digitaliseringsslag van de krant naar online ter nauwernood hebben overleefd,
+[107.06 --> 109.94]  nou ja, net weer eindelijk een beetje droge kleren hebben, zou je kunnen zeggen,
+[110.46 --> 112.82]  dreigt de volgende vloedgolf hun verdienmodel te slopen.
+[112.82 --> 117.04]  Hoe gaat AI de algehele nieuwsvoorziening beïnvloeden?
+[117.72 --> 119.76]  Ja, nou daarvoor vliegen we een expert in.
+[119.94 --> 125.90]  En niet tenminste, Jaap van Zesse, de man die het AD opstuwde tot grootste nieuwssite van Nederland.
+[126.42 --> 128.72]  En oh ja, we hebben nieuws over een eigen nieuwsbrief.
+[129.02 --> 132.10]  Dus spits uw oren, veel plezier met deze aflevering.
+[132.10 --> 137.38]  Ja, we hebben je gemist vorige week.
+[137.44 --> 137.62]  Ja.
+[137.86 --> 138.60]  Je was een CEO.
+[138.82 --> 139.42]  Ik was een CEO.
+[139.54 --> 141.00]  Wat was je daar aan het doen?
+[141.12 --> 142.50]  Elke week voor drie dagen of zo.
+[143.36 --> 146.84]  Ik was op uitnodiging van Samsung in Zuid-Korea.
+[147.56 --> 149.58]  Samsung doet ook dingen met AI.
+[149.80 --> 150.00]  Nee.
+[150.00 --> 153.06]  Dat wilde zij graag laten zien aan de internationale media.
+[153.90 --> 163.10]  Tot mijn spijt ging het erg veel over AI in wasmachines, AI in kookplaten, AI in ovens, AI in luchtverversers.
+[163.68 --> 164.96]  Het was wel erg veel van dat.
+[165.36 --> 168.74]  Dus dat vond ik eerlijk gezegd niet bijster interessant.
+[168.98 --> 170.42]  Ook omdat dat oude technologie was.
+[170.74 --> 175.30]  En dat je vooral het idee hebt dat het een bedrijf dat heel graag wil laten zien in de buitenwereld.
+[175.72 --> 177.60]  Wij doen ook echt wel dingen met AI.
+[177.60 --> 179.66]  Maar dan vooral in de huishoudelijke sfeer.
+[179.96 --> 180.88]  Een soort eigen huis en tuin.
+[180.90 --> 181.40]  Ja, met alles.
+[181.46 --> 182.92]  Samsung maakt natuurlijk van alles.
+[183.20 --> 192.52]  Dus het is niet alleen maar mobiele telefoons waarbij je kan zeggen dat de forefront is met hoe we met AI communiceren.
+[192.60 --> 195.46]  Maar zij zeggen in onze tg zit ook AI.
+[195.64 --> 200.36]  Want als het beeld stoort dan gebruiken wij AI om de storing weg te halen.
+[200.62 --> 203.30]  Nou ja goed, daar kun je heel lang over praten.
+[203.40 --> 204.30]  Het is maar gebleken.
+[204.30 --> 206.66]  Ik denk wat ik wel relevant vond.
+[206.78 --> 208.60]  Want er is daadwerkelijk ook wel.
+[209.74 --> 211.88]  Ik vond dat daar ook wel echt iets interessants gebeurde.
+[212.44 --> 215.86]  Samsung is natuurlijk de grootste mobiele telefoonmaker.
+[217.30 --> 221.56]  Niet alleen van devices die wij in onze handen houden.
+[222.02 --> 223.90]  En gebruiken waar het Samsung logo op staat.
+[224.02 --> 229.04]  Maar ook omdat er Samsung onderdelen in heel veel andere telefoons en andere producten zitten.
+[229.04 --> 233.62]  Dus het is een relevant bedrijf en met eigen semiconductor business.
+[234.10 --> 235.52]  Het is gigantisch.
+[237.18 --> 238.56]  Maar dat gezegd hebben we er.
+[238.70 --> 241.06]  Wat doen zij met AI en wat echt relevant is.
+[241.28 --> 244.22]  We hadden gesprek met de baas van Samsung Research.
+[244.36 --> 248.66]  Dat is de TAC die haar eigen foundational model maakt.
+[249.38 --> 252.72]  En dat gebruikt Samsung nu zeggen zij voor interne tooling.
+[252.86 --> 254.40]  Dus ze hebben een eigen chat GPT gemaakt.
+[254.40 --> 257.24]  Die bijvoorbeeld kan helpen met programmeren.
+[257.36 --> 262.58]  Zoals programmeurs in de landen überhaupt overal chat GPT gebruiken.
+[262.76 --> 263.78]  Om te helpen met programmeren.
+[263.84 --> 264.60]  Maar Samsung zegt ja.
+[265.08 --> 268.28]  Wij gaan natuurlijk niet bij OpenAI onze eigen source code invoeren.
+[268.38 --> 270.80]  Of bij Google onze eigen source code invoeren.
+[270.88 --> 271.86]  Want dat zijn concurrenten.
+[271.94 --> 274.92]  Dus daarom maken wij onze eigen foundational model daarvoor.
+[275.16 --> 276.14]  Nogal een flex.
+[276.36 --> 277.32]  Zo'n soort power move.
+[278.38 --> 279.68]  Maar dat snap je ook.
+[279.68 --> 284.66]  Maar is het pure flex of is het ook echt een slimme move om dat zelf te doen?
+[285.02 --> 285.62]  Het is een beetje.
+[286.28 --> 287.98]  Ik vind dat een beetje ingewikkeld.
+[288.12 --> 290.18]  Want ze zeggen dus.
+[290.32 --> 296.08]  Wij vertrouwen Google niet genoeg om onze source code daarin te dumpen.
+[296.72 --> 298.68]  Maar tegelijkertijd zeggen ze wel tegen onze consumenten.
+[299.88 --> 304.06]  Gebruik AI om al je problemen op te lossen.
+[304.22 --> 304.52]  Oh ja.
+[304.52 --> 310.32]  Ik ga ervan uit dat dan die Samsung AI straks ook onderdeel wordt van de Samsung assistent.
+[310.40 --> 312.70]  De AI assistent die er natuurlijk gaat komen.
+[312.98 --> 316.30]  Nu wordt die nog gedreven door OpenAI en Google.
+[316.50 --> 317.62]  Ze hebben deals met allebei.
+[318.06 --> 321.70]  Om die spraakassistent in het Samsung operating systeem te krijgen.
+[322.04 --> 323.26]  Wat een versie is van Android.
+[324.12 --> 328.18]  Maar zij zeggen wij willen het beste AI aanbidden aan onze gebruikers.
+[328.18 --> 330.60]  Of die nou van OpenAI is of die nou van Google is.
+[330.64 --> 331.58]  Dat maakt ons niets uit.
+[331.58 --> 335.46]  Maar het zou ook wij denken dat we alle papieren hebben om zelf de beste te maken.
+[335.66 --> 337.48]  Oftewel ze zeggen het nu nog niet.
+[337.62 --> 340.52]  Maar er gaat een moment komen waarop zij hun eigen AI naar voren schuiven.
+[340.64 --> 344.20]  En dan niet meer ook kosten hoeven te maken bij OpenAI en Google.
+[344.32 --> 345.94]  En dan zeggen ze dus eigenlijk ook.
+[346.72 --> 348.06]  Ja gebruik ons maar.
+[348.14 --> 350.06]  Gebruik ons maar want wij zijn te vertrouwen.
+[350.30 --> 355.16]  Terwijl ze zelf geen AI van Google willen nemen voor hun eigen shit.
+[355.30 --> 356.54]  Wij maken ons erg zorgen.
+[356.62 --> 358.50]  Maar jij hoeft je nergens zorgen over te maken.
+[358.50 --> 359.80]  Dat vond ik een beetje een apart moment.
+[359.80 --> 360.48]  Hoe dan ook.
+[361.00 --> 365.04]  Ze zijn bezig met hun eigen taalmodel.
+[365.58 --> 368.46]  En dat is toch interessant.
+[368.60 --> 371.12]  En ze zeggen het niet zo hard dat ze willen mee concurreren.
+[372.22 --> 373.58]  Sterker nog ze zeggen heel hard.
+[373.78 --> 377.30]  We willen dat niet concurreren met Google en OpenAI.
+[377.74 --> 378.98]  Maar je merkt aan alles.
+[379.64 --> 380.74]  Dat willen ze wel degelijk.
+[381.04 --> 382.08]  Het is alleen nog vroeg.
+[382.50 --> 384.76]  En dit is allemaal nog in aanbouw.
+[384.76 --> 385.06]  Ja.
+[386.48 --> 388.28]  We zijn het aan het kweken in een kastje.
+[388.46 --> 390.44]  En op een gegeven moment mag het dan de tuin in.
+[390.64 --> 391.12]  Zo is dat.
+[391.24 --> 392.68]  En dan wordt het misschien opgegeten door slakken.
+[392.78 --> 393.98]  Want daar schijnen we erg last van te hebben.
+[394.84 --> 395.16]  Goed.
+[395.20 --> 399.22]  We beginnen na deze mooie introductie van jou over jouw ervaring in Seoul.
+[399.48 --> 400.28]  Met het nieuws.
+[401.36 --> 401.96]  Ten eerste.
+[402.36 --> 402.78]  Er is een.
+[403.16 --> 403.30]  Ja.
+[403.44 --> 405.58]  Ik kan het niet anders dan een soort brandbrief noemen.
+[405.58 --> 410.76]  Van dertien huidige en voormalige werknemers van OpenAI en Google DeepMind.
+[411.68 --> 417.78]  En daarin uiten zij grote zorgen eigenlijk over het gebrek aan veiligheidsmaatregelen bij die bedrijven.
+[418.00 --> 420.34]  En openheid over wat er allemaal gaande is.
+[421.06 --> 426.74]  En dat heeft natuurlijk allemaal te maken met de risico's die zij zien dat er zijn bij de ontwikkeling van AI.
+[427.82 --> 429.06]  En die zorgen kennen we.
+[429.10 --> 432.96]  Dat gaat natuurlijk van het vergroten van ongelijkheid tot toegang tot kwalitatieve informatie.
+[432.96 --> 435.66]  Tot uiteindelijk misschien zelfs het uitsterven van de mens.
+[436.46 --> 437.60]  Dat is allemaal heel gevaarlijk.
+[437.70 --> 438.82]  Dus wat willen ze met die brief?
+[439.24 --> 439.58]  Ja.
+[439.80 --> 441.18]  Zonder angst eigenlijk.
+[441.30 --> 441.70]  Dat zeggen ze.
+[441.76 --> 444.28]  We willen niet bang hoeven te zijn dat onze kop eraf gaat.
+[444.42 --> 446.52]  Als wij alarm slaan ergens over.
+[446.64 --> 447.98]  Of als wij kritiek leveren.
+[448.24 --> 449.42]  Of we er nou nog werken.
+[449.48 --> 450.50]  Of dat we er al weg zijn.
+[450.98 --> 454.16]  Zolang dus eigenlijk er geen goede regulering is.
+[454.22 --> 457.34]  En die bedrijven er zelf niet goed voor zorgen dat die veiligheid op orde is.
+[457.92 --> 459.08]  Doen we het zelf wel.
+[459.38 --> 459.54]  Ja.
+[459.66 --> 460.62]  Dat zeggen ze dus eigenlijk.
+[460.62 --> 460.78]  Natuurlijk.
+[461.42 --> 465.10]  En ze zeggen met name twee dingen in die brief die ze dus hebben geschreven.
+[465.58 --> 469.92]  AI bedrijven hebben bergen informatie over de risico's en beperkingen van hun systemen.
+[469.98 --> 471.32]  Maar ze delen dit nauwelijks.
+[471.62 --> 473.60]  Dus dat is een groot probleem.
+[473.98 --> 477.94]  En we kunnen niet vertrouwen op vrijwillige transparantie van die bedrijven.
+[478.70 --> 481.00]  En tegelijkertijd ontwijken zij effectief toezicht.
+[481.22 --> 484.38]  Dus dat zijn de grote problemen die ze constateren.
+[484.44 --> 486.00]  En daarom hebben ze een lijstje met eisen.
+[486.00 --> 486.50]  Ja.
+[486.96 --> 489.46]  Om dat beter te maken.
+[489.82 --> 494.88]  Ja, ik denk dat er eigenlijk geen enkele sector waar zoveel zorgen de hele tijd worden geuit.
+[494.96 --> 496.78]  Door de mensen die zelf in die sector zitten.
+[497.02 --> 497.28]  Ja.
+[497.82 --> 500.04]  Ja, er gebeuren hier een hele hoop dingen inderdaad.
+[500.30 --> 501.26]  En dit is er één van.
+[501.82 --> 503.02]  Maar laat me eerst zeggen.
+[503.38 --> 508.88]  Volgens mij is dit een soort van naetterende wond van de koep die bij OpenAI is gepleegd.
+[508.88 --> 513.42]  Een half jaar geleden waarbij de boord en opstand kwam en Sam Altman eruit zette.
+[513.98 --> 518.72]  En Sam Altman kwam daarna natuurlijk als een soort van Romeinse strijder terug.
+[518.84 --> 522.72]  En verstevigde zijn zetel alleen nog maar heftiger.
+[522.84 --> 523.90]  Ik krijg alleen maar meer macht.
+[523.96 --> 525.42]  Ook een tumor, zo kun je het ook zien.
+[525.54 --> 527.14]  Oh ja, dat is wel een beetje voor.
+[527.54 --> 531.10]  Maar er is in ieder geval iets wat daar heel erg mis ging.
+[531.10 --> 538.42]  En waarbij een deel van dat bedrijf zich grote zorgen maakten over de macht van het eigen bedrijf.
+[539.12 --> 544.00]  En er komt steeds meer naar buiten over wat daar nou precies aan de hand was.
+[544.18 --> 547.58]  En deze open brief van een aantal OpenAI mensen.
+[547.84 --> 549.14]  Sommige ex-OpenAI.
+[549.42 --> 552.02]  En die dus met naam en toenaam naar buiten komen.
+[552.14 --> 554.58]  Maar ook een aantal anonieme OpenAI medewerkers.
+[554.64 --> 558.12]  Die hun naam niet willen delen omdat ze bang zijn voor hun werkgever.
+[558.12 --> 560.40]  En hoe die daarop zouden reageren.
+[561.10 --> 566.64]  Die inderdaad helemaal in dit frame zitten van AI is heel erg gevaarlijk.
+[566.74 --> 567.74]  En dat gaat best wel ver.
+[568.30 --> 571.36]  Die Daniel Cocotilo.
+[571.74 --> 575.80]  Dat is de grote aanjager van deze brandbrief.
+[575.90 --> 579.32]  Die onder andere in de New York Times gerapporteerd werd.
+[579.80 --> 583.98]  Dat is een voormalig onderzoeker van de OpenAI Governance Divisie.
+[583.98 --> 588.24]  En deze man, even om te schetsen wat zijn ideeën zijn.
+[588.24 --> 597.66]  Hij gelooft dat AI de mensheid zal vernietigen of catastrofaal zal beschadigen.
+[598.88 --> 601.42]  Dat de kans er op 70% is.
+[601.66 --> 602.22]  Oké.
+[603.10 --> 610.68]  In zijn vorige baan bij OpenAI was hij nog aan het voorspellen dat Advanced General Intelligence,
+[610.68 --> 614.74]  dus een geavanceerde versie van AI in 2050 kwam.
+[614.86 --> 623.62]  Maar toen hij eenmaal zag hoe snel het allemaal beter ging, dacht hij nou volgens mij is de kans dat AGI er is 50% in 2027.
+[623.88 --> 624.46]  Dus in drie jaar.
+[624.46 --> 631.64]  En hij gelooft erin dat OpenAI eigenlijk veel te weinig doet om dat risico te managen.
+[631.64 --> 639.64]  Maar even belangrijk om neer te zetten dat dit is in die soort van facties die je hebt in de AI gemeenschap.
+[640.38 --> 643.60]  Dit is een all-out AI doemer.
+[643.82 --> 645.26]  Dat is belangrijk om erbij te zeggen.
+[646.02 --> 651.42]  Dit hoort bij het groepje mensen die dus vindt dat het helemaal mis kan gaan.
+[651.42 --> 661.72]  En dat zit in een traditie, want ik zat een beetje terug te zoeken naar wat Sam Altman zelf al heeft gezegd over dit gevaar van AI voordat JTBD uitkwam.
+[662.20 --> 664.70]  En toen was hij daar heel hard over.
+[664.84 --> 673.10]  Dus bijvoorbeeld OpenAI's baas Sam Altman zei, AI zal waarschijnlijk hoogstwaarschijnlijk leiden tot het einde van de wereld,
+[673.20 --> 677.22]  maar in de tussentijd zullen er geweldige bedrijven zijn, grapte die in een interview in 2015.
+[677.44 --> 677.86]  Een grapje.
+[677.86 --> 683.16]  AI zal ons waarschijnlijk allemaal doden, grapte die rond diezelfde tijd op een evenement in Nieuw-Zeeland.
+[683.66 --> 690.98]  Kort daarna vertelde hij aan een New Yorker reporter over zijn plannen om met zijn vriend Peter Thiel te vluchten naar Nieuw-Zeeland.
+[691.16 --> 693.70]  Voor het geval er een apocliptische gebeurtenis zou zijn.
+[693.86 --> 699.42]  Hij heeft overigens ook een groot stuk land in Big Sur waar hij naartoe kan vliegen voor zo'n gebeurtenis.
+[699.42 --> 706.80]  Vervolgens schrijft Altman op zijn persoonlijke blog dat superintelligente machines waarschijnlijk de grootste bedreiging vormen voor het bestaan van de mentheid.
+[707.38 --> 716.06]  Om dan vorig jaar te zeggen, het slechte scenario, ik denk dat het belangrijk is om te zeggen, is dat het licht uitgaat voor ons allemaal.
+[717.86 --> 720.90]  Maar wanneer waren het grapjes en wanneer was hij serieus?
+[720.90 --> 731.94]  Er was dus een tijd waarin AI bedrijven dit heel erg aan het benadrukken waren.
+[732.22 --> 740.20]  En OpenAI, recentelijk nog toen ze in de Senaat aan het, hoe zeg ik dat, zo'n hearing, dat ze aan het getuigen waren voor de Amerikaanse Senaat.
+[740.20 --> 754.74]  Want vooral Sam Altman, die was heel erg bezig met het punt maken, het gevaar is gigantisch en wij zijn de beste kans die jullie hebben om het gevaar te beteugelen, want wij zijn heel voorzichtig.
+[755.76 --> 757.16]  Dus laat ons het doen.
+[758.04 --> 760.84]  Dus eigenlijk het probleem en de oplossing tegelijkertijd aandragen.
+[760.84 --> 768.96]  En de cynische manier om hier naar te kijken volgens mij, want Sam Altman is sindsdien heeft zijn toon gematigd hoor.
+[769.08 --> 772.50]  Inmiddels is het alleen maar, hij praat niet echt meer over dit soort dingen.
+[772.86 --> 783.34]  En sterker nog, hij wil, dat hele veiligheidspunt is inmiddels een soort van corporate speak geworden, waarin hij eigenlijk niks echt meer zegt hierover.
+[783.56 --> 785.38]  Dus die toon is gewoon veranderd.
+[785.38 --> 793.72]  Maar ze hadden die ophef, als je het cynisch wil zien, die ophef hadden ze nodig om geld op te halen.
+[793.98 --> 799.04]  Dus eigenlijk zeiden ze tegen investeerders in een tijd dat AI nog helemaal niet zo boeiend was, voor Chachypti.
+[799.04 --> 815.64]  Ze zeiden tegen investeerders, luister wij hebben een soort van een plan voor een bedrijf met AI wat wereldveranderend is, met onbeperkte potentieel voor winst.
+[816.70 --> 822.84]  Weet je, er is geen technologie in de geschiedenis geweest die zoveel geld gaat genereren voor de mensheid als AI.
+[822.84 --> 829.54]  Want alles wordt gerobotiseerd en we gaan werkgelegenheid totaal op zijn gat gooien en straks hebben we geen banen meer nodig.
+[829.70 --> 831.24]  En productiviteit gaat enorm omhoog.
+[831.26 --> 833.44]  Productiviteit gaat door het dak en wij zijn degene die dit gaan brengen.
+[833.68 --> 836.86]  Dus als je ergens ooit in had willen investeren, dan zijn wij het wel.
+[836.98 --> 842.50]  En daarvoor heb je dat soort van doomer frame eigenlijk nodig.
+[842.60 --> 848.38]  Die existentiële angst creëren van er is echt niemand anders die dit schip door deze storm kan sturen.
+[848.38 --> 851.44]  Ja, één, het is definiëren dat er een storm aankomt.
+[851.94 --> 855.22]  Dus dat is nogal wat om dat te claimen.
+[855.50 --> 858.98]  Dat is een mening, laten we wel wezen.
+[860.02 --> 862.18]  Ja, die je mede zelf gecreëerd hebt.
+[862.64 --> 867.08]  Maar daar dus ook een belang bij hebt om dat frame te creëren, van dat het allemaal heel erg gaat zijn.
+[867.24 --> 867.58]  Marketing.
+[867.98 --> 870.62]  Ja, marketing om reuring te veroorzaken.
+[870.76 --> 873.90]  En nu is die reuring eigenlijk mainstream geworden.
+[873.90 --> 880.96]  Dus bedrijven praten de hele tijd over veiligheid en dat allemaal in de context van het einde van de wereld is daar.
+[882.20 --> 887.80]  Dus en inmiddels is het niet meer nodig, denk ik, om die ophef te creëren.
+[888.30 --> 891.90]  Dus gaat het nu veel meer over alle voordelen die het gaat bieden.
+[892.08 --> 894.90]  En dat het zo fijn is dat onze productiviteit omhoog gaat.
+[894.96 --> 901.00]  Maar het zit nog in de breinen van de mensen die er gewerkt hebben, ingeprint eigenlijk, dat het levensgevaarlijk is.
+[901.00 --> 903.60]  En daarom deze brief, zeggen we, past in die traditie.
+[903.60 --> 908.40]  Ja, ik denk dat heel veel mensen die bij die bedrijven werken, dit ook wel echt geloven.
+[908.54 --> 915.54]  Dit is niet, ik denk voor, dus je kan zeggen, Sam Altman is een soort van briljant verkoper.
+[915.82 --> 920.36]  En het moet zo ook gezegd worden, Sam Altman zelf is geen AI onderzoeker.
+[920.52 --> 922.20]  Het is een verkoper en investeerder.
+[922.62 --> 930.82]  Dus ja, Sam Altman heeft er op dit moment niet echt meer belang bij om dit verhaal op te houden.
+[930.82 --> 931.78]  En is daarmee gestopt.
+[931.90 --> 938.26]  Maar dat betekent niet dat er niet allemaal mensen zijn in die wereld die wel degelijk dat geloven.
+[938.42 --> 939.42]  Dat het einde daar is.
+[939.50 --> 944.10]  En die denken, we moeten iets doen.
+[944.10 --> 950.54]  Want Sam Altman is de hele tijd dingen aan het doen die de veiligheid niet, hij zet de veiligheid niet voorop.
+[950.66 --> 956.18]  En dat beargumenteert deze groep die die open brief heeft aangekondigd.
+[956.24 --> 960.08]  Door bijvoorbeeld te zeggen, wij hebben een safety board.
+[960.82 --> 963.88]  Als wij nieuwe AI uitrollen, dan moet het eerst langs dat safety board.
+[963.88 --> 977.20]  Maar, zo blijkt uit het nieuws van gisteren, in India is GPT-4 getest in Bing zonder dat dat al aangekondigd was.
+[977.68 --> 984.14]  Dus ze zijn op eigen houtje, hebben ze gewoon GPT-4 eigenlijk zonder dat te benoemen, gelanceerd in India.
+[984.24 --> 987.24]  In een kleine groep om te kijken, hoe gaat het? Gaat dit mis?
+[987.24 --> 993.50]  En het ging heel erg mis met GPT-4, want dat was die versie waar die journalist, die verliefd werd op die journalist, weet je dat nog?
+[993.62 --> 993.78]  Ja.
+[994.60 --> 1000.02]  Dus die AI die zijn vrouw, die de journalist en zijn vrouw uit elkaar probeerde te praten.
+[1000.20 --> 1000.40]  Ja, ja.
+[1000.50 --> 1002.20]  Een opvallend verschijnsel was dat.
+[1002.36 --> 1003.04]  Geweldig verhaal.
+[1003.22 --> 1005.86]  Vroege versie van GPT-4 waarvan alles mis mee was.
+[1006.92 --> 1015.08]  Die waarvan, nou ja, deze mensen uit deze brand brief dus zeggen, dat is nou typisch een voorbeeld wat langs ons safety board had moeten gaan.
+[1015.08 --> 1018.34]  En wat Microsoft en OpenAI gewoon erlangs gerommeld hebben.
+[1018.46 --> 1022.40]  En Microsoft heeft gisteren nog ontkend dat dit gebeurd is.
+[1022.64 --> 1025.52]  En is nu erop teruggekomen dat dat toch klopt.
+[1026.54 --> 1029.08]  En dat er inderdaad een kleine test heeft plaatsgevonden.
+[1029.94 --> 1032.92]  Wat weer bijzonder, vind ik.
+[1033.12 --> 1039.24]  Wat ook uitgekomen is dat Helen Toner, dat was zo'n board member die opgestapt is of eruit gezet is.
+[1039.24 --> 1041.34]  In die hele koepoging.
+[1041.42 --> 1046.64]  Dat zij niet wisten, dat de board niet wist dat ChatGPT aangekondigd zou worden.
+[1046.76 --> 1048.28]  Zij wisten niet dat het in de pijplijn was.
+[1048.38 --> 1049.60]  Zij wisten niet dat het niet geland.
+[1049.64 --> 1053.60]  Ze moesten via Twitter erachter komen dat ChatGPT bestond.
+[1054.30 --> 1061.82]  Hoe kan je als board controleren op veiligheid als je niet eens weet dat fucking ChatGPT gelanceerd gaat worden.
+[1061.82 --> 1069.36]  En een deel van die medewerkers gelooft, en dit is denk ik de kern van hun angst.
+[1069.76 --> 1074.26]  Die geloven dat hoe meer computerkracht je AI geeft, hoe beter het gaat worden.
+[1074.88 --> 1078.18]  We hebben gezien wat de computerkracht die ons ChatGPT2 bracht.
+[1079.82 --> 1082.06]  Dat was bijzonder.
+[1082.18 --> 1084.14]  Dat was een soort van basisschoolleerling.
+[1084.24 --> 1086.86]  Die kon heel aardig zinnen achter elkaar zetten.
+[1086.96 --> 1089.14]  Die was niet bijster intelligent.
+[1089.14 --> 1093.82]  Maar dat was wel indrukwekkend in de zin dat hij gewoon zinnen kon schrijven.
+[1094.02 --> 1095.74]  Die op elkaar voortbouwden.
+[1096.20 --> 1100.58]  En wat leek op een menselijke gedachte van een zesjarige ofzo.
+[1102.18 --> 1107.74]  Gooi daar een aantal jaren computertijd, de serverkracht en training tegenaan.
+[1108.20 --> 1110.14]  En drie jaar later heb je opeens...
+[1110.76 --> 1111.50]  Een volwassen model.
+[1111.52 --> 1113.56]  Ja, ik zou zeggen een middelbare scholier.
+[1113.64 --> 1115.04]  Een hele slimme middelbare scholier.
+[1115.12 --> 1118.38]  Die kan programmeren en die goede wiskundeopdrachten kan doen.
+[1118.38 --> 1119.46]  Nou, daar zijn we nu een beetje.
+[1119.54 --> 1120.72]  De slimme middelbare scholier.
+[1121.30 --> 1124.90]  En heel veel van die mensen die daar werken, die geloven...
+[1124.90 --> 1127.80]  Nou, pak die computerkracht van de afgelopen drie jaar.
+[1128.06 --> 1129.10]  Dat doen we nog drie jaar.
+[1129.22 --> 1129.90]  Dat doen we nog drie jaar.
+[1129.98 --> 1130.66]  Dat doen we nog drie jaar.
+[1130.74 --> 1132.98]  En inmiddels is er ook heel veel geld beschikbaar.
+[1133.04 --> 1134.64]  Omdat al die doemerverhalen zijn opgehangen.
+[1134.84 --> 1138.50]  En NVIDIA het meest waardevolle bedrijf ter wereld is geworden gisteren.
+[1138.54 --> 1140.28]  Omdat iedereen opeens helemaal gek aan het worden is.
+[1140.28 --> 1145.30]  En het geld uit alle kanten van de wereld opeens in dit soort...
+[1145.30 --> 1153.62]  Weet je, wanneer komen we op het moment dat er energiegebruik is van een klein land?
+[1153.80 --> 1158.88]  Wanneer is het energiegebruik van een groter land?
+[1158.98 --> 1161.40]  Wanneer is het energiegebruik van een grote kerncentrale?
+[1161.56 --> 1161.92]  Wanneer...
+[1161.92 --> 1164.28]  Zeg maar, als wij gewoon energiegebruik toe gaan voegen...
+[1164.28 --> 1169.46]  En computers laten toenemen omdat we die NVIDIA chips blijven inkopen.
+[1169.52 --> 1170.84]  Het wordt groter en groter en groter.
+[1170.96 --> 1172.86]  Waar zijn we dan over een paar jaar?
+[1173.04 --> 1173.96]  Gaat die...
+[1173.96 --> 1176.64]  En deze mensen geloven dat hoe meer computers je hebt...
+[1176.64 --> 1177.86]  Als je dat gewoon maar meer hebt.
+[1178.00 --> 1178.80]  En dat is beperkt nu.
+[1178.86 --> 1179.98]  Maar als je daar meer van hebt.
+[1180.40 --> 1182.92]  Dan kom je dus op het moment dat...
+[1182.92 --> 1185.34]  Ja, hebben we nog werk over drie jaar.
+[1185.34 --> 1188.02]  En er zijn dit soort onderzoekers.
+[1188.10 --> 1189.46]  Ook hoog in de boom bij Anthropic.
+[1189.80 --> 1192.04]  Die geloven dat ze de komende drie jaar nog werk hebben.
+[1192.10 --> 1193.28]  En dat het daarna klaar is.
+[1193.28 --> 1195.58]  Omdat programmeurs dan vervangen zijn.
+[1195.88 --> 1198.76]  En mensen in fabrieken vervangen zijn door robots.
+[1198.96 --> 1202.50]  En dat de geopolitieke gevolgen dusdanig zullen zijn.
+[1202.92 --> 1203.26]  Weet je?
+[1203.52 --> 1207.10]  Ik hoorde een YouTube interview waarin China gaat sowieso...
+[1207.10 --> 1209.60]  Amerikaanse AI bedrijven willen infiltreren.
+[1209.70 --> 1211.76]  Want dit zit op het niveau van...
+[1211.76 --> 1215.18]  Amerikaanse leger is 700 miljard.
+[1216.38 --> 1219.30]  Wat is oorlog nog?
+[1219.30 --> 1226.52]  Dus die extrapoleren zo ver door op basis van die ene aanname van die compute.
+[1226.84 --> 1231.56]  Die computetijd en het energiegebruik en de trainingstijd.
+[1232.02 --> 1235.30]  Die denken gewoon, als we zijn nu hier, we trekken dat lijntje door.
+[1235.40 --> 1237.22]  Dan zijn we over drie of vijf jaar daar.
+[1238.12 --> 1242.76]  Ja, we moeten ons iets meer zorgen maken over de gevolgen.
+[1242.76 --> 1245.26]  En ik denk dat die mensen dat wel echt geloven.
+[1245.58 --> 1247.68]  Ja, nou en ik denk dat jij het ook wel echt gelooft.
+[1247.78 --> 1248.38]  Dus ik juist hoor.
+[1249.60 --> 1250.86]  Nee, ik weet het niet.
+[1250.86 --> 1251.08]  Of dat je het kan voorstellen.
+[1251.54 --> 1253.22]  Nee, ik weet dat oprecht niet.
+[1253.90 --> 1257.74]  Want ik denk ook, er zijn grote belangen.
+[1257.90 --> 1261.76]  En het is op dit moment voor de korte termijn een soort van geldmachine...
+[1261.76 --> 1264.08]  door dit verhaal op te houden.
+[1264.42 --> 1267.08]  Al het geld ter wereld stroomt nu naar jou toe.
+[1267.32 --> 1270.18]  Als jij geloofwaardig bent op dit onderwerp.
+[1270.20 --> 1271.02]  Maar ja, oké.
+[1271.14 --> 1273.76]  Ja, dat vind ik nogal een perverse prikkel in waarheidsvinding.
+[1274.62 --> 1278.78]  Maar los van of we uiteindelijk naar inderdaad menselijke uitsterving toegaan.
+[1278.98 --> 1282.72]  En op zich, ik denk dat de wereld het prima vindt.
+[1282.82 --> 1284.62]  Ja, het zou eens tijd worden.
+[1284.62 --> 1285.66]  De aarde vindt het prima.
+[1285.66 --> 1286.48]  De diertjes.
+[1286.48 --> 1287.10]  De aarde kan zo...
+[1287.10 --> 1289.24]  Kunnen die slakken eindelijk gewoon leven?
+[1289.24 --> 1290.06]  Kunnen ze ervoor gaan, ja.
+[1290.52 --> 1292.24]  Nee, de aarde kan op zich natuurlijk zonder ons.
+[1292.38 --> 1295.78]  Maar los van of dat überhaupt dat stadium ooit bereid gaat worden...
+[1295.78 --> 1299.06]  of iedereen zijn baan kwijt is en we alleen nog maar de politiek in kunnen...
+[1299.06 --> 1300.72]  omdat er gewoon geen enkele andere baan meer open is.
+[1300.78 --> 1301.66]  En misschien zelfs dat niet.
+[1303.24 --> 1305.36]  Het is wel de eerste die we eraan brengen hoor, politiek.
+[1305.36 --> 1309.02]  Maar er zijn onderweg natuurlijk wel veel van die andere problemen...
+[1309.02 --> 1310.18]  waar je dus tegen aanloopt.
+[1310.30 --> 1312.48]  Zoals mensen die verliefd worden op een chatbot...
+[1312.48 --> 1314.48]  of informatie die gewoon niet klopt.
+[1314.62 --> 1318.16]  Er zijn allemaal hele kleine problemen waar we nu eigenlijk al mee te maken hebben.
+[1318.44 --> 1323.52]  Dus het zou wel helpen als er nu al mensen zich serieuzer bezig zouden gaan houden...
+[1323.52 --> 1324.92]  met de veiligheid van die producten.
+[1325.34 --> 1327.72]  Omdat, ja, het is misschien niet zo groot.
+[1327.84 --> 1330.76]  Stel dat het niet zo groot is, hebben we het nog steeds wel degelijk.
+[1331.28 --> 1331.46]  Ja.
+[1332.10 --> 1333.60]  Ondervinden we de gevolgen van...
+[1333.60 --> 1336.78]  Ik denk dat Sam Altman denkt, als je dit tegen hem zou zeggen...
+[1336.78 --> 1339.18]  denk ik dat hij denkt, wat een gelul allemaal.
+[1339.52 --> 1341.06]  We zijn bezig om...
+[1341.06 --> 1344.46]  Ja, dag, die man heeft geen recht te spreken, maar die heeft het hele verhaal zelf de wereld in gehoord.
+[1344.48 --> 1346.48]  Ja, nee, maar...
+[1347.16 --> 1352.28]  Ik denk dat hij zich gewoon niet zorgen maakt over dit klein bier wat jij nu beschrijft.
+[1352.28 --> 1352.58]  Nee, natuurlijk niet.
+[1352.58 --> 1355.16]  Namelijk verliefd worden op een chatbot en desinformatie.
+[1355.28 --> 1357.50]  Ja, hij heeft zijn eiland of zo.
+[1358.00 --> 1363.50]  Nee, maar ook dat hij denkt, de soort van de voordelen voor de mensheid van AGI...
+[1363.50 --> 1366.86]  moet je nu niet in de weg staan door nu moeilijk te gaan doen.
+[1366.92 --> 1367.04]  Nee.
+[1367.30 --> 1373.50]  Door die paar woke medewerkers van mij die zich druk maken over...
+[1373.50 --> 1380.82]  die elkaar gek aan het maken zijn met een effective altruism soort van filosofie.
+[1381.58 --> 1385.84]  Zij gaan mij niet in de weg staan om nu als eerste AGI te bereiken.
+[1385.98 --> 1390.50]  Want de mensheid, weet je, dit wordt een groot hoofdstuk in de geschiedenisboeken van de toekomst.
+[1391.50 --> 1395.34]  Ga mij niet wijs maken dat ik nu ook maar een centimeter moet vertragen...
+[1395.34 --> 1397.76]  omdat we ons druk maken over desinformatie.
+[1397.76 --> 1401.22]  Want de belangen zijn wel ietsje groter voor de mensheid dan dit.
+[1401.32 --> 1402.60]  Ik denk dat hij dat denkt.
+[1403.28 --> 1403.38]  Ja.
+[1404.12 --> 1405.74]  Nou, heeft hij misschien ook best wel een punt.
+[1405.84 --> 1408.66]  Oké, nou ja, het was in ieder geval een groot hoofdstuk in deze aflevering.
+[1408.92 --> 1411.38]  Het was de bedoeling dat we het een beetje beknopt zouden behandelen.
+[1411.40 --> 1412.16]  Ja, sorry, dat is mislukt.
+[1412.18 --> 1416.02]  Nee, maar het blijkt altijd toch weer veel interessanter dan je van tevoren denkt.
+[1416.42 --> 1418.94]  De vraag is natuurlijk, zullen de grote AI-bazen gaan luisteren?
+[1419.02 --> 1420.98]  Nou, we gaan het meemaken of niet.
+[1421.10 --> 1421.56]  Dat zijn we allemaal uitgestorven.
+[1421.56 --> 1422.64]  Natuurlijk gaan we niet luisteren.
+[1422.74 --> 1423.66]  Nee, natuurlijk niet.
+[1423.72 --> 1425.04]  Maar je moet de vraag toch opwerpen.
+[1425.04 --> 1428.92]  Dan Google AI Overviews.
+[1429.12 --> 1431.14]  Waar de laatste tijd best wel veel...
+[1431.14 --> 1434.32]  Als je het een beetje hebt gevolgd, dan heb je wel wat leuke dingetjes kunnen lezen.
+[1435.74 --> 1438.20]  Google heeft natuurlijk al gezegd in mei...
+[1438.20 --> 1440.28]  Google gaat het googlen voor jou doen.
+[1440.88 --> 1443.04]  En dan heb je dus die nieuwe functie AI Overviews.
+[1443.08 --> 1448.12]  Als je dus iets googelt, komt er bovenaan de pagina een soort overzichtje met een antwoord op je vraag.
+[1448.12 --> 1450.02]  In plaats van dat je zelf nog naar een link hoeft te gaan.
+[1450.86 --> 1452.22]  En dat ging niet helemaal vlekkeloos.
+[1452.22 --> 1456.70]  Want Google ging rare adviezen geven als je een rare vraag ook stelde.
+[1456.70 --> 1457.66]  Wat was je favoriet?
+[1458.24 --> 1459.32]  Ik vond...
+[1460.98 --> 1465.12]  Nou, dat je ook glorinegas in je eten kon doen.
+[1465.52 --> 1468.60]  Om het een beetje een extra pit te geven.
+[1468.76 --> 1471.42]  Dat kun je goed serveren op een tuinfeestje.
+[1471.92 --> 1473.24]  Dat vond ik wel een leuke.
+[1473.24 --> 1475.92]  Maar ze hadden het ook over lijm.
+[1476.70 --> 1479.22]  Hoe zorg je dat je kaas niet van je pizza valt?
+[1479.34 --> 1480.34]  Nou, dat doe je dan met lijm.
+[1480.46 --> 1482.58]  Of wat stenen je per dag moet eten.
+[1483.52 --> 1486.24]  Dus ja, een beetje vrij bizarre dingetjes.
+[1486.92 --> 1489.04]  Je snapt natuurlijk meteen dat is onzin.
+[1489.72 --> 1491.72]  Maar de hele wereld gaat dan wel zeggen...
+[1491.72 --> 1493.08]  Google, jullie kunnen helemaal niks.
+[1493.66 --> 1494.50]  Wat een sukkels.
+[1494.56 --> 1496.04]  Ze schaamden zich volgens mij ook een beetje.
+[1496.04 --> 1502.28]  Ja, het was ook een beetje een herhaling van die plaatjesgenerator...
+[1502.28 --> 1503.36]  die ze in Gemini uitbracht.
+[1503.52 --> 1508.00]  Waarbij je een heel divers landschap aan nazi-officieren tekende.
+[1508.24 --> 1511.12]  Op het moment dat je vroeg om hoe zagen nazi's eruit.
+[1511.66 --> 1514.16]  Dat je dan ook een Aziatische nazi kreeg.
+[1514.28 --> 1515.98]  En een donkere nazi.
+[1516.66 --> 1518.10]  Dus daar was heel veel gedoe over.
+[1518.20 --> 1520.06]  En eigenlijk gebeurt hier weer precies hetzelfde.
+[1520.06 --> 1523.48]  En dit is een soort van hallucinaties die...
+[1523.48 --> 1528.28]  of verkeerd geprompte situaties...
+[1528.28 --> 1531.34]  die bij andere AI-bedrijven niet tot ophef zouden leiden...
+[1531.34 --> 1532.70]  maar bij Google wel tot ophef leiden.
+[1532.78 --> 1534.80]  Omdat we Google aan een hogere standaard houden.
+[1535.04 --> 1535.70]  Oh ja.
+[1535.90 --> 1537.56]  Google is ons beste kind.
+[1538.26 --> 1541.00]  Dat het eigenlijk altijd alleen maar A-tienen haalt.
+[1541.44 --> 1544.14]  En nu het een keer verprutst.
+[1544.26 --> 1545.36]  En dan denk je, hoe kan dit nou?
+[1545.48 --> 1547.44]  Ik denk dat je als Zetje Petit fout zegt...
+[1547.44 --> 1549.48]  dan halen we nog een beetje schouders erover op.
+[1549.48 --> 1551.08]  Maar op het moment dat Google gaat zeggen...
+[1551.08 --> 1552.68]  je moet lijm op je pizza doen...
+[1552.68 --> 1554.28]  dan vinden we dat schandalig...
+[1554.28 --> 1556.32]  omdat we Google associëren met de waarheid.
+[1556.42 --> 1556.54]  Ja.
+[1556.78 --> 1558.20]  Maar het geeft ook iets interessants aan.
+[1558.48 --> 1560.48]  Want bijvoorbeeld dat stenen eten.
+[1560.54 --> 1561.76]  Hoeveel stenen moet je eten op een dag?
+[1561.86 --> 1563.34]  Nou, minimaal één kleine steen.
+[1563.96 --> 1566.46]  Dat had hij gehaald uit een artikel van The Onion.
+[1566.76 --> 1568.62]  Dat is een beetje een Amerikaanse speld.
+[1569.56 --> 1571.30]  Dus wat je hier wel ziet...
+[1571.30 --> 1572.84]  en dat is een beetje een juridisch dingetje...
+[1572.84 --> 1576.58]  is dat Google nu dus informatie van plekken gaat halen...
+[1576.58 --> 1577.98]  maar die presenteert het als ware...
+[1577.98 --> 1579.06]  het informatie van Google.
+[1579.48 --> 1581.40]  Dus het is opeens...
+[1581.40 --> 1582.78]  zij zijn de auteur.
+[1582.78 --> 1582.84]  De afzender.
+[1583.16 --> 1583.30]  Ja.
+[1583.52 --> 1583.64]  Ja.
+[1584.36 --> 1586.48]  En dat is natuurlijk wel...
+[1586.48 --> 1588.58]  Ja, ik ben wel benieuwd hoe ze daar in de toekomst...
+[1588.58 --> 1590.50]  met hun overviews mee om zullen gaan.
+[1590.96 --> 1593.08]  Want dan is het net alsof zij dat vinden...
+[1593.08 --> 1593.92]  of zij dat zeggen.
+[1595.08 --> 1598.08]  Als Google het googlen voor je gaat doen...
+[1598.08 --> 1601.38]  dan zie je meteen de bronnen ook natuurlijk niet meer...
+[1601.38 --> 1602.66]  en dan is het die informatie.
+[1602.76 --> 1603.24]  Nee, zeker.
+[1603.48 --> 1607.18]  En ik denk dat dit een soort van intellectueel argument is...
+[1607.18 --> 1609.56]  wat veel mensen zullen aanhouden om te zeggen...
+[1609.56 --> 1611.26]  ja, ik wil het nieuws...
+[1611.26 --> 1612.58]  als ik nieuws ga lezen bijvoorbeeld...
+[1612.58 --> 1614.38]  wil ik het altijd nog bij de Volkskrant halen...
+[1614.38 --> 1615.38]  of bij de Telegraaf...
+[1615.38 --> 1616.04]  wat dan ook je...
+[1616.04 --> 1617.18]  de soort van smaakjes die je vertrouwt.
+[1617.18 --> 1621.24]  Omdat ik dat vertrouw.
+[1621.38 --> 1622.54]  Die merken vertrouw ik.
+[1622.92 --> 1624.60]  En als ik het nieuws ga lezen bij Google...
+[1624.60 --> 1625.76]  dan is me dat te vaag.
+[1626.06 --> 1627.36]  Wat nou precies de...
+[1627.36 --> 1629.18]  Maar ik vraag me ook wel af...
+[1629.18 --> 1632.90]  of dat voor heel veel mensen boeiend is.
+[1633.10 --> 1635.18]  Ik denk dat er heel veel mensen zijn die...
+[1636.88 --> 1638.18]  wat weet ik veel...
+[1638.18 --> 1641.66]  tips willen voor de beste rugzak...
+[1641.66 --> 1642.36]  en daar op googlen...
+[1642.36 --> 1644.22]  en dan gewoon de eerste paar sites openen...
+[1644.22 --> 1646.32]  en dan wel geloven wat daar staat.
+[1646.32 --> 1648.08]  Of de Coolblue aanbeveling...
+[1648.08 --> 1649.32]  of de Amazon aanbeveling...
+[1649.90 --> 1652.06]  wat natuurlijk ook niet neutrale aanbevelingen zijn.
+[1652.22 --> 1654.12]  Daar zijn commerciële belangen...
+[1654.12 --> 1654.94]  zitten daarachter.
+[1656.14 --> 1656.32]  Dus...
+[1657.22 --> 1657.32]  Ja.
+[1659.18 --> 1661.18]  Ik denk dat er heel veel mensen zijn...
+[1661.18 --> 1662.66]  die dat toch ook wel accepteren.
+[1663.20 --> 1664.08]  De soort van...
+[1664.08 --> 1666.32]  wat betekent vertrouwen nog...
+[1666.32 --> 1667.78]  ook voor jongere generaties.
+[1668.14 --> 1669.32]  Ik denk dat dat überhaupt allemaal heel...
+[1670.18 --> 1670.72]  fluide.
+[1670.74 --> 1671.34]  Diffuus is.
+[1671.86 --> 1672.06]  Ja.
+[1672.42 --> 1673.06]  Ja, dat denk ik.
+[1673.40 --> 1674.28]  Nou, dat zou dus kunnen.
+[1674.78 --> 1675.66]  Ik zou ook kunnen zeggen van...
+[1675.66 --> 1677.48]  ja, normaal moet er een redacteur op zitten...
+[1677.48 --> 1678.56]  voordat je iets kan stellen.
+[1678.66 --> 1679.66]  Maar wie gaat dat dan doen?
+[1679.74 --> 1681.18]  En wie gaat dan bepalen wat erin komt?
+[1681.28 --> 1682.40]  Maar het is waarschijnlijk ook...
+[1682.40 --> 1683.76]  heel commercieel ingestoken.
+[1683.84 --> 1684.00]  Ja.
+[1684.60 --> 1684.76]  Ja.
+[1685.04 --> 1687.24]  Nou, en nu bij die AI-overviews...
+[1687.24 --> 1689.76]  is er een grote beroepsgroep...
+[1689.76 --> 1690.84]  en dat is gerelateerd...
+[1690.84 --> 1691.74]  aan wat we net zeiden...
+[1691.74 --> 1694.38]  die zich het meest zorgen maken op het moment...
+[1694.38 --> 1695.54]  en dat zijn journalisten.
+[1695.90 --> 1697.78]  Dit is in Amerika echt opgeblazen.
+[1699.06 --> 1700.38]  Heel veel discussie over...
+[1700.38 --> 1702.10]  over dat Google nu het einde van de journalistiek...
+[1702.10 --> 1702.86]  aan het inleiden is.
+[1703.46 --> 1703.92]  Daar wordt...
+[1703.92 --> 1706.42]  Dit is een heel heftige discussie op dit moment...
+[1706.42 --> 1707.60]  in de Verenigde Staten.
+[1708.00 --> 1708.92]  Op hoog niveau.
+[1709.10 --> 1709.92]  In alle grote tijdschriften...
+[1710.50 --> 1712.04]  en alle grote kranten...
+[1712.04 --> 1714.60]  worden echt vlammende opiniestukken geschreven.
+[1714.70 --> 1715.92]  En dat zit in de context van...
+[1715.92 --> 1719.08]  een aantal grote deals die gesloten zijn.
+[1721.04 --> 1722.32]  Met uitgevers.
+[1722.50 --> 1725.14]  Dus de afgelopen half jaar of zo...
+[1725.14 --> 1726.92]  zijn er deals gesloten met...
+[1726.92 --> 1729.10]  The Wall Street Journal...
+[1729.10 --> 1730.14]  met Lumbonde...
+[1730.14 --> 1732.24]  met Axel Springer hier in Europa...
+[1732.24 --> 1734.16]  met Vox recentelijk...
+[1734.16 --> 1736.14]  met The Atlantic recentelijk.
+[1736.70 --> 1738.40]  Een aantal grote uitgevers...
+[1738.40 --> 1740.00]  waarbij Google of OpenAI...
+[1740.00 --> 1742.48]  als het ware hun content licenseert...
+[1742.48 --> 1744.48]  om te dealen met...
+[1744.48 --> 1745.82]  ja, met die AI.
+[1745.96 --> 1747.88]  Want die bedrijven die zijn...
+[1747.88 --> 1748.92]  soort van boos...
+[1748.92 --> 1751.06]  dat hun content gebruikt is.
+[1751.38 --> 1751.88]  Rechtzaak, hè?
+[1751.92 --> 1754.06]  Ja, New York Times heeft een rechtszaak aangespannen...
+[1754.06 --> 1755.08]  dus die kiest een andere route.
+[1755.94 --> 1757.80]  En andere uitgevers die zeggen nu...
+[1757.80 --> 1759.86]  oké, ja, we gaan samenwerken met deze AI's...
+[1759.86 --> 1762.20]  want het is een soort van businessmodel...
+[1762.20 --> 1763.56]  wat we...
+[1763.56 --> 1765.84]  ja, dit wordt gewoon onderdeel van ons businessmodel...
+[1765.84 --> 1768.58]  dat we voor een deel betaald gaan worden door OpenAI en Google...
+[1768.58 --> 1770.36]  die dan onze content mogen gebruiken.
+[1770.84 --> 1772.84]  En dat komt allemaal omdat...
+[1772.84 --> 1775.08]  nu onder druk staat...
+[1775.08 --> 1778.06]  hoe mensen in de toekomst nieuws gaan consumeren.
+[1778.06 --> 1780.06]  En de verwachting die...
+[1780.06 --> 1782.18]  grote techbedrijven hebben...
+[1782.18 --> 1784.06]  is dus in navolging van die AI overviews...
+[1784.06 --> 1786.06]  je zoekt op iets...
+[1786.06 --> 1787.66]  en Google geeft het resultaat...
+[1787.66 --> 1790.16]  in plaats van dat je op een link klikt...
+[1790.16 --> 1793.92]  dat heeft hele grote gevolgen voor uitgevers.
+[1794.10 --> 1796.52]  Omdat die nu nog gewend zijn...
+[1796.52 --> 1798.58]  heel veel traffic te krijgen van Google...
+[1798.58 --> 1800.44]  omdat mensen doorklikken via linkjes.
+[1801.08 --> 1804.60]  Maar als Google of OpenAI of Apple straks...
+[1804.60 --> 1807.30]  als die overal die spraakassistent voorgooien...
+[1807.30 --> 1808.24]  als jij iets zoekt...
+[1808.24 --> 1809.32]  of als jij kenbaar maakt...
+[1809.32 --> 1810.46]  ik wil nieuws lezen...
+[1810.46 --> 1812.08]  en we leven straks in een toekomst...
+[1812.08 --> 1815.02]  waarin er minder aandacht is voor apps...
+[1815.02 --> 1816.62]  maar er meer aandacht is voor bijvoorbeeld...
+[1816.62 --> 1817.58]  een knop als...
+[1817.58 --> 1819.60]  ik wil het nieuws weten, Siri...
+[1819.60 --> 1821.28]  en wij gaan dat vertrouwen...
+[1821.28 --> 1823.40]  en nou ja, dan gaat Apple het voor ons uitkiezen.
+[1823.88 --> 1826.00]  Hoe gaan uitgevers dan nog geld verdienen?
+[1826.08 --> 1827.70]  Want je gaat niet naar de website toe...
+[1827.70 --> 1829.00]  waar een bannertje te zien is.
+[1829.00 --> 1830.20]  Dat is nu het businessmodel.
+[1830.86 --> 1832.28]  Maar je gaat gewoon bij Google...
+[1832.28 --> 1833.96]  of bij Apple of bij OpenAI...
+[1833.96 --> 1835.18]  blijven in die app...
+[1835.18 --> 1836.90]  of dat deel van het opbreidingssysteem.
+[1836.92 --> 1838.68]  Door dus zo'n deal te sluiten dan...
+[1838.68 --> 1840.04]  Nou, dat is dan het alternatief.
+[1840.04 --> 1841.66]  Door dan zo'n deal te sluiten...
+[1841.66 --> 1845.14]  en ja, eigenlijk het opgeven.
+[1845.32 --> 1846.50]  Want dat is dan een beetje...
+[1846.50 --> 1847.60]  hoe ik dat dan zou noemen.
+[1847.72 --> 1849.18]  Dan zeg je dus eigenlijk...
+[1849.18 --> 1850.68]  wij vertrouwen er niet meer op...
+[1850.68 --> 1852.78]  dat mensen naar onze website komen.
+[1853.46 --> 1854.50]  Zijn de...
+[1854.50 --> 1855.66]  nou ja, The Atlantic bijvoorbeeld...
+[1856.18 --> 1857.66]  of Bild in Duitsland...
+[1858.28 --> 1859.26]  een Axel Springer krant.
+[1859.86 --> 1862.04]  Wij denken dat mensen in de toekomst...
+[1862.04 --> 1863.74]  het nieuws van Siri gaan krijgen...
+[1863.74 --> 1866.66]  en we willen geld van OpenAI.
+[1866.66 --> 1867.38]  van OpenAI.
+[1867.60 --> 1869.28]  Maar misschien is dat toch ook wel efficiënter...
+[1869.28 --> 1870.34]  als je er zo over nadikt...
+[1870.34 --> 1871.18]  voor die bedrijven zelf...
+[1871.18 --> 1871.82]  dan hoeven ze niet meer...
+[1871.82 --> 1872.98]  die website in de lucht te houden.
+[1873.62 --> 1875.00]  Waarom zou je daar aan vasthouden...
+[1875.00 --> 1877.08]  als het ook efficiënter kan...
+[1877.08 --> 1878.68]  waardoor het makkelijker bij de mensen komt?
+[1878.74 --> 1880.48]  Ja, ik denk dat dat in veel...
+[1880.48 --> 1881.28]  met veel gevallen...
+[1882.28 --> 1883.28]  als het over informatie gaat...
+[1883.28 --> 1884.50]  dat het ook inderdaad prima is.
+[1884.56 --> 1885.62]  Als jij nu een website runt...
+[1885.62 --> 1886.52]  waar je een overzicht maakt...
+[1886.52 --> 1887.12]  van de beste rugzakken...
+[1887.12 --> 1889.06]  dan is het misschien niet erg...
+[1889.06 --> 1891.02]  dat je geld verdient...
+[1891.02 --> 1892.64]  doordat je het geld van OpenAI krijgt...
+[1892.64 --> 1894.52]  in plaats van via bannertjes op je website.
+[1895.30 --> 1897.40]  Maar in het geval van journalistiek...
+[1897.40 --> 1899.96]  waar we in de democratie...
+[1899.96 --> 1901.24]  er belang aan hechten...
+[1901.24 --> 1903.12]  dat dat onafhankelijke bedrijven zijn...
+[1903.86 --> 1908.22]  die zonder te beïnvloeden worden...
+[1908.22 --> 1909.12]  door commercie...
+[1909.70 --> 1911.36]  ook kritisch nieuws brengen...
+[1911.36 --> 1912.12]  over bedrijven.
+[1912.58 --> 1914.12]  Hoeveel vertrouwen hebben we er dan in...
+[1914.12 --> 1916.10]  hoeveel vertrouwen gaan we leggen...
+[1916.10 --> 1918.80]  in soort van drie grote bedrijven...
+[1918.80 --> 1920.30]  die dan voor ons gaan selecteren...
+[1920.30 --> 1920.86]  welk nieuws.
+[1921.94 --> 1923.40]  Kijk, we komen uit een tijd...
+[1923.40 --> 1925.28]  dat social media al soort van...
+[1925.28 --> 1926.20]  algoritmes hadden...
+[1926.20 --> 1927.80]  en dan beïnvloed waar we op gaan klikken.
+[1928.52 --> 1929.18]  Maar dat is in ieder geval...
+[1929.18 --> 1930.62]  om mensen die naar nu.nl gaan...
+[1930.62 --> 1932.14]  of naar de NRC-app openen...
+[1932.14 --> 1933.78]  of naar Telegraaf.nl gaan...
+[1933.78 --> 1935.86]  om gewoon het overzicht te krijgen...
+[1935.86 --> 1937.76]  zoals dat bedacht is door een redactie.
+[1938.76 --> 1940.50]  Als je denkt...
+[1940.50 --> 1941.92]  nou, dat boeit ons eigenlijk niet...
+[1941.92 --> 1943.26]  dat kijk maar even...
+[1943.26 --> 1944.96]  we gaan gewoon journalistiek maken...
+[1944.96 --> 1945.76]  en dan kijken we wel even...
+[1945.76 --> 1947.42]  of OpenAI dat gaat doorgeven...
+[1947.42 --> 1948.20]  aan gebruikers.
+[1948.88 --> 1950.32]  Ja, ik denk dat...
+[1950.32 --> 1952.48]  je kan wel een aantal nadelen verzinnen...
+[1952.48 --> 1953.76]  daarvan...
+[1953.76 --> 1953.92]  voor...
+[1953.92 --> 1956.48]  voor de journalistiek...
+[1956.48 --> 1957.22]  in de eerste plaats...
+[1957.22 --> 1958.52]  maar in de democratie...
+[1958.52 --> 1959.16]  toch wel...
+[1959.16 --> 1959.32]  Ja.
+[1959.48 --> 1960.16]  Ja, dat nee...
+[1960.16 --> 1962.16]  informatie is nogal een dingetje...
+[1962.16 --> 1963.60]  in een democratie natuurlijk.
+[1964.10 --> 1964.24]  Ja.
+[1964.38 --> 1964.80]  Als er een...
+[1964.80 --> 1965.58]  valt of staat erbij.
+[1966.44 --> 1967.20]  Nee, en dan...
+[1967.20 --> 1967.76]  ja, precies.
+[1967.82 --> 1969.04]  Als een techbedrijf...
+[1969.04 --> 1969.92]  daartussen gaat zitten...
+[1969.92 --> 1971.16]  dan kun je je afvragen...
+[1971.16 --> 1971.96]  of dat goed afloopt.
+[1971.96 --> 1972.96]  en sowieso of ze niet...
+[1972.96 --> 1973.56]  al niet...
+[1973.56 --> 1974.76]  überhaupt teveel macht hebben.
+[1975.20 --> 1976.42]  En dan gaan we ze nog meer macht...
+[1976.42 --> 1976.86]  dus eigenlijk...
+[1976.86 --> 1977.64]  Ja, dus dat...
+[1977.64 --> 1979.32]  en gewoon het businessmodel...
+[1979.32 --> 1980.64]  want nu is het zo dat...
+[1980.64 --> 1982.16]  weet je, je gaat naar het nu.nl...
+[1982.16 --> 1983.54]  en dan heel nu.nl...
+[1983.54 --> 1984.80]  daar betaal je natuurlijk niet voor...
+[1984.80 --> 1986.52]  en de manier waarop nu.nl kan leven...
+[1986.52 --> 1987.94]  is omdat daar advertenties op staan.
+[1988.52 --> 1989.98]  Maar ja, dat bestaat bij de gratie...
+[1989.98 --> 1991.40]  van dat mensen die site bezoeken.
+[1991.82 --> 1991.96]  Ja.
+[1991.96 --> 1992.58]  En als dat...
+[1992.58 --> 1993.64]  als er dus een toekomst...
+[1993.64 --> 1994.62]  in het verschiet ligt...
+[1994.62 --> 1996.32]  en die verwachting is er...
+[1996.32 --> 1997.24]  waarin mensen geen reden hebben...
+[1997.24 --> 1998.46]  om die site te gaan bezoeken...
+[1998.46 --> 2000.66]  ja, hoe betalen we dan journalistiek?
+[2000.90 --> 2002.54]  Dat is dan mensen die abonnement nemen...
+[2002.54 --> 2003.32]  op de Volkskrant...
+[2003.32 --> 2004.24]  en op de Telegraaf.
+[2004.32 --> 2005.18]  Oké, dat kan.
+[2005.82 --> 2006.46]  Maar laten we wel wezen...
+[2006.46 --> 2007.60]  dat is een kleine groep.
+[2007.88 --> 2008.02]  Ja.
+[2008.26 --> 2010.78]  Dus daarom is er nu zoveel ophef...
+[2010.78 --> 2011.58]  in de vreugde staat...
+[2011.58 --> 2012.88]  van journalisten die zeggen...
+[2012.88 --> 2014.18]  dit is...
+[2014.18 --> 2015.92]  ik weet niet hoe dit...
+[2015.92 --> 2017.44]  hoe je dit probleem moet gaan oplossen...
+[2017.44 --> 2019.24]  want deze golf komt op ons af.
+[2019.24 --> 2022.84]  Maar dit is een...
+[2022.84 --> 2024.08]  een bijl...
+[2024.08 --> 2025.88]  aan de wortel van het verdienmodel...
+[2025.88 --> 2027.56]  en daarmee aan de hoeveelheid journalisten...
+[2027.56 --> 2028.36]  die we hebben rondlopen.
+[2028.74 --> 2028.88]  Ja.
+[2029.36 --> 2031.58]  Het leeft natuurlijk enorm voor onszelf.
+[2031.76 --> 2032.86]  Ik noem mezelf ook journalist.
+[2032.98 --> 2034.02]  Ik werk in de journalistiek.
+[2034.12 --> 2035.50]  Dus het raakt mij zeker.
+[2035.58 --> 2036.88]  Ik heb ook wel ideeën over...
+[2036.88 --> 2039.04]  maar ik ben niet dé expert op dit gebied.
+[2039.04 --> 2040.04]  We hebben wel iemand die...
+[2040.76 --> 2042.26]  media-expert is.
+[2042.34 --> 2044.00]  Een digitaal stratege.
+[2044.04 --> 2044.96]  Die gaan we straks bellen.
+[2045.04 --> 2045.80]  Jaap van Zessen.
+[2046.48 --> 2048.04]  En we zijn heel benieuwd naar wat hij...
+[2048.04 --> 2048.66]  hierover te zeggen heeft.
+[2048.66 --> 2050.32]  en hoe hij deze ontwikkeling ziet.
+[2050.82 --> 2051.82]  Maar eerst...
+[2051.82 --> 2052.88]  moeten we even naar de reclame.
+[2053.44 --> 2054.18]  Ja, wil je dat ik...
+[2054.18 --> 2055.36]  het reclame-muziekje instart?
+[2055.84 --> 2056.14]  Doe maar.
+[2056.52 --> 2057.12]  Dat vind ik wel leuk.
+[2057.18 --> 2058.70]  Kun jij een keer met reclame-muziek doen?
+[2058.76 --> 2059.04]  Ben je er klaar voor?
+[2059.04 --> 2060.10]  Dat heb ik nog nooit eerder gedaan.
+[2060.26 --> 2061.20]  Kijk, nou heel veel plezier.
+[2061.34 --> 2061.64]  Dank je wel.
+[2062.76 --> 2064.80]  Poki wordt gesponsord door Squarespace.
+[2065.34 --> 2066.36]  Ben jij een ondernemer...
+[2066.36 --> 2067.40]  die zich wil onderscheiden...
+[2067.40 --> 2068.76]  en online succes wil boeken?
+[2069.14 --> 2069.96]  Let dan even op.
+[2070.54 --> 2072.44]  Een beetje ondernemer heeft een website...
+[2072.44 --> 2074.64]  maar maak je al gebruik van Squarespace...
+[2074.64 --> 2075.90]  om op eenvoudige wijze...
+[2075.90 --> 2077.66]  de meest prachtige websites te maken...
+[2077.66 --> 2080.08]  In een wereld waar iedereen op Instagram...
+[2080.08 --> 2081.68]  rijk lijkt te worden van het verkopen...
+[2081.68 --> 2083.16]  van online cursussen...
+[2083.16 --> 2084.74]  hoef jij niet achter te blijven.
+[2085.34 --> 2087.02]  Squarespace biedt je de mogelijkheid...
+[2087.02 --> 2088.80]  om je expertise en content...
+[2088.80 --> 2090.28]  eenvoudig om te zetten...
+[2090.28 --> 2091.78]  in een stabiele inkomstenstroom.
+[2092.76 --> 2094.66]  Met Squarespace's lidmaatschapsfunctie...
+[2095.34 --> 2097.10]  kun je exclusieve toegang verkopen...
+[2097.10 --> 2099.40]  tot online cursussen, betaalde nieuwsbrieven...
+[2099.40 --> 2101.00]  video's, communities en meer.
+[2101.00 --> 2102.72]  Of je nu een chef-kok bent...
+[2102.72 --> 2104.54]  die culinaire geheimen deelt...
+[2104.54 --> 2105.84]  of een financieel adviseur...
+[2105.84 --> 2107.28]  met waardevolle inzichten...
+[2107.28 --> 2108.86]  Squarespace geeft je de tools...
+[2108.86 --> 2110.62]  om je content veilig te delen...
+[2110.62 --> 2111.54]  en te gelden te maken.
+[2112.08 --> 2113.36]  Ik heb het geprobeerd...
+[2113.36 --> 2115.28]  en het opzetten van een lidmaatschapssite...
+[2115.28 --> 2116.64]  was verrastend eenvoudig.
+[2117.08 --> 2119.30]  Ik kon snel exclusieve toegang bieden...
+[2119.30 --> 2120.94]  tot digitale netwerkevents...
+[2120.94 --> 2122.88]  en bijvoorbeeld één-op-één coachingsessies.
+[2123.62 --> 2124.98]  Squarespace maakt het je makkelijk...
+[2124.98 --> 2126.52]  om je eigen website te maken...
+[2126.52 --> 2127.64]  zodat je je kan focussen...
+[2127.64 --> 2129.18]  op het gedeelte wat je leuk vindt...
+[2129.18 --> 2130.64]  het verkopen van je product.
+[2131.04 --> 2132.36]  Realiseer je passie met Squarespace.
+[2132.84 --> 2134.08]  Speciaal voor pokieluisteraars...
+[2134.08 --> 2135.36]  heb ik een speciale kortingscode.
+[2135.84 --> 2137.72]  Ga naar squarespace.com.pokie...
+[2137.72 --> 2138.74]  voor een gratis trial.
+[2139.20 --> 2141.18]  En ben je klaar om je website te lanceren...
+[2141.18 --> 2142.54]  dan krijg je met de pokie...
+[2142.54 --> 2144.04]  code pokie10...
+[2144.04 --> 2146.66]  10% korting op je eerste aankoop.
+[2147.32 --> 2148.00]  Terug naar de show.
+[2148.72 --> 2151.78]  Oh, dat sneuvelde ik toch een beetje op het einde.
+[2152.20 --> 2153.28]  Het was er bijna.
+[2153.46 --> 2154.68]  Ik vond dat je het heel goed deed.
+[2155.02 --> 2156.62]  De code is dus pokie10.
+[2156.86 --> 2157.30]  Pokie10.
+[2157.42 --> 2159.10]  Ja, dat kun je invullen.
+[2159.18 --> 2160.22]  En dan gaan we nu terug naar de show.
+[2161.18 --> 2161.94]  Het grote onderwerp.
+[2162.00 --> 2162.44]  Ik zei het al.
+[2162.74 --> 2164.56]  We gaan even bellen met iemand die hier...
+[2164.56 --> 2165.54]  wel verstand van heeft.
+[2165.66 --> 2166.90]  Of in ieder geval meer verstand.
+[2167.40 --> 2169.00]  Want jij zit hier natuurlijk ook wel behoorlijk in...
+[2169.00 --> 2170.36]  in digitale verdienmodellen.
+[2170.52 --> 2171.00]  Ja, ja, ja.
+[2171.06 --> 2172.16]  Maar ik heb ook een belang.
+[2172.32 --> 2175.14]  Dus het is heel goed dat we een onafhankelijk expert gaan inbellen.
+[2175.48 --> 2176.86]  Ja, dat is Jaap van Zessen.
+[2177.40 --> 2178.20]  Digitaal stratege.
+[2178.24 --> 2179.78]  Hij heeft heel lang gewerkt voor het FD.
+[2180.16 --> 2180.66]  Het AD.
+[2180.90 --> 2181.32]  Het AD.
+[2181.64 --> 2182.14]  Die andere.
+[2183.02 --> 2183.34]  Ja, ja.
+[2183.34 --> 2184.68]  Jij zit er helemaal in, in het FD.
+[2184.80 --> 2185.34]  Maar het is AD.
+[2185.34 --> 2187.70]  Ja, de wereld is voor mij niet groter dan het FD.
+[2188.16 --> 2190.12]  Hij heeft voor het AD gewerkt.
+[2190.48 --> 2193.30]  En hij heeft daar de hele digitale strategie ontwikkeld.
+[2193.48 --> 2195.14]  En ja, niet onverdienstelijk kan ik wel zeggen.
+[2195.26 --> 2196.92]  Dit is zo'n naam die altijd rondgaat hoor.
+[2197.00 --> 2198.32]  In uitgeverscircles.
+[2198.32 --> 2200.32]  Jaap van Zessen is wel zo iemand die dan...
+[2201.22 --> 2204.32]  Ja, die heeft het AD tot de grootste krant van Nederland gemaakt.
+[2204.94 --> 2205.16]  Ja.
+[2205.54 --> 2205.94]  Online.
+[2206.36 --> 2207.90]  En hij wil ons te woord staan.
+[2208.02 --> 2208.56]  We zijn vereerd.
+[2209.28 --> 2212.10]  Nou ja, fijn dat je even tijd voor ons hebt kunnen maken.
+[2213.38 --> 2214.10]  Ja, leuk om hier te zijn.
+[2214.32 --> 2217.06]  Je bent lange tijd chef van AD Digitaal geweest.
+[2217.06 --> 2223.44]  Je hebt de krant door die eerste grote golf van digitalisering eigenlijk weten heen te loodsen.
+[2225.38 --> 2228.02]  AD Digitaal, dat is ongeveer de grootste nieuwssite.
+[2228.02 --> 2229.52]  Hij is volgens mij van Nederland geworden.
+[2229.70 --> 2230.58]  De grootste toch?
+[2230.74 --> 2231.98]  Ja, misschien wel de grootste hè?
+[2233.18 --> 2234.32]  Ja, natuurlijk niet alleen gedaan.
+[2234.44 --> 2235.70]  Het was misschien de tweede golf.
+[2235.80 --> 2237.62]  Maar inderdaad qua unieke bezoekers.
+[2237.66 --> 2238.70]  En daar wordt vaak naar gekeken.
+[2239.00 --> 2240.86]  Ja, was AD unieke bezoekers per maand.
+[2241.20 --> 2242.92]  En was AD op een gegeven moment de grootste site van Nederland.
+[2243.08 --> 2245.06]  Dus dat was het doel en het lukte.
+[2245.16 --> 2245.56]  Dus dat was leuk.
+[2245.56 --> 2248.42]  Ja, dus waar iedereen worstelde met hoe gaan we dit doen?
+[2248.52 --> 2250.98]  Hoe gaan we verdienen aan internet?
+[2251.92 --> 2254.80]  Mensen willen gewoon niet betaalmuren en willen gratis kunnen lezen.
+[2254.98 --> 2256.46]  En hoe worstel je je daardoor heen?
+[2256.46 --> 2259.72]  En dat heb jij met glas en wimpel gedaan.
+[2260.80 --> 2267.10]  En nu zien we van, ja, eigenlijk komt er weer nog een grote golf met digitalisering nu langs.
+[2267.22 --> 2271.10]  En op zo'n manier dat AI eigenlijk een hele grote invloed gaat hebben.
+[2271.18 --> 2273.34]  Waarschijnlijk ook weer op hoe wij nieuws consumeren.
+[2273.46 --> 2274.56]  En hoe we het tot ons krijgen.
+[2275.52 --> 2279.50]  En wij waren als eerste wel heel erg benieuwd naar hoe jij dat ziet.
+[2279.50 --> 2284.40]  Is het een tsunami of is het een golfje waarvan je denkt, hé, daar kunnen we wel mee over weg?
+[2285.64 --> 2288.00]  Nou, in eerste instantie kunnen we er mee over weg, maar het wordt wel echt een tsunami.
+[2288.20 --> 2292.10]  Het is bizar om te realiseren, tot vorige februari was het als chef digitaal, zeg maar.
+[2292.20 --> 2294.40]  En op dat moment had ik ChatGPT nog nooit gebruikt.
+[2294.70 --> 2296.64]  Maar als je ziet waar we nu staan en hoe snel dat gaat.
+[2296.64 --> 2301.68]  Dat is bizar en dat gaat zo snel en daar kun je zoveel dingen mee.
+[2303.14 --> 2304.62]  Ja, dit gaat al heel veel veranderen.
+[2304.74 --> 2306.90]  Goeie kanten en slechte kanten, als ik het ook zo wil.
+[2306.90 --> 2307.10]  Beide.
+[2307.78 --> 2308.34]  Ja, zeker.
+[2308.58 --> 2312.44]  Want waar wij op aansloegen, Google gaat nu voor ons googlen.
+[2312.58 --> 2313.90]  Dus dat hoeven we dan zelf niet meer te doen.
+[2314.10 --> 2317.18]  Nou, een gevolg daarvan is dat we niet meer op een link hoeven te klikken.
+[2318.00 --> 2321.62]  Maar dat Google het bij elkaar verzamelt voor ons.
+[2321.68 --> 2323.52]  Dus we hoeven die omgeving van Google niet uit.
+[2323.52 --> 2327.84]  Dat leidt natuurlijk tot minder verkeer voor die websites van kranten bijvoorbeeld.
+[2328.00 --> 2330.76]  Of andere nieuwsmakers of informatieverschaffers.
+[2331.44 --> 2332.44]  Is dat een probleem, denk je?
+[2332.50 --> 2333.90]  Hoe kijk jij er tegenaan?
+[2334.54 --> 2336.36]  Ja, als je een model hebt gebouwd op pageviews.
+[2336.40 --> 2337.82]  Dus het aantal artikelen dat gelezen wordt.
+[2337.92 --> 2338.92]  Ja, dan heb je wel een probleem.
+[2339.08 --> 2341.00]  En de ene site zal harder getroffen worden dan de ander.
+[2341.40 --> 2344.20]  Dus ja, het aantal artikelen dat gelezen wordt door verschillende mensen.
+[2344.20 --> 2346.50]  Die unique visitors, zeg maar, waar het over ging.
+[2346.86 --> 2347.78]  Die zal naar beneden gaan.
+[2349.22 --> 2352.48]  En dat heeft soms gevolgen voor het aantal advertenties dat je uitserveert.
+[2352.48 --> 2355.16]  Aan de andere kant is het wel een beweging die je al een paar jaar ziet natuurlijk.
+[2355.28 --> 2358.00]  Daarom zie je ook bijna bij elke site betaalmuren.
+[2358.62 --> 2360.32]  Dus dat het om een trouwer en loyale publiek gaat.
+[2360.40 --> 2361.88]  Waar mensen wel willen betalen.
+[2362.04 --> 2363.04]  Dus dan maar minder mensen.
+[2363.22 --> 2364.82]  Als ze maar betalen, dan verdien je op die manier geld.
+[2365.52 --> 2368.48]  Maar er zijn nog steeds heel veel sites, ook in Nederland, toch gebouwd op pageviews.
+[2369.10 --> 2370.92]  Dus laat maar zoveel mogelijk mensen artikelen zien.
+[2371.46 --> 2373.10]  En die worden wel hard geraakt nu.
+[2373.44 --> 2374.96]  En je ziet in Amerika ze omvallen.
+[2375.08 --> 2380.00]  Maar je ziet in Nederland ook wel echt cijfers dat websitebezoek aan het afnemen is.
+[2380.00 --> 2390.82]  Kun je dat op een of andere manier duidelijk maken wat de consequenties zijn voor die sites die gratis zijn voor de meeste mensen?
+[2390.88 --> 2393.92]  Dan denken we aan nos.nl, rtlnews.nl.
+[2394.02 --> 2395.64]  Een aantal soort van gratis nieuws sites.
+[2396.56 --> 2397.70]  Je kunt een beetje een percentage.
+[2398.74 --> 2401.74]  Het gemiddelde is dat zeg maar één op de drie van alle sites.
+[2401.90 --> 2402.60]  Dus dat is wel een verschil.
+[2402.68 --> 2404.14]  Maar één op de drie bezoekers komt via Google.
+[2404.38 --> 2405.40]  Eén op de drie via social.
+[2405.40 --> 2406.70]  En één op de drie komt direct.
+[2407.06 --> 2408.54]  Je tikt het zelf in of die heeft een app.
+[2409.16 --> 2411.34]  Die laatste categorie, dat zijn veel loyalere gebruikers.
+[2411.42 --> 2412.50]  Die komen elke dag wel tien keer.
+[2412.62 --> 2413.38]  Die komen veel vaker.
+[2414.04 --> 2415.54]  En die andere groep, die komt veel minder vaak.
+[2415.60 --> 2416.86]  Maar die komt per toeval binnen.
+[2417.38 --> 2418.38]  En die een derde is een gemiddelde.
+[2418.44 --> 2420.08]  Want bij de grote nieuws sites ligt het wel lager.
+[2421.90 --> 2425.46]  Maar ja, die bezoekers die dus af en toe komen en die je voorbij zagen komen via Facebook.
+[2425.62 --> 2426.98]  Nou, dat is al een beetje aan het instorten.
+[2427.06 --> 2428.54]  Via Google, dat gaat instorten.
+[2428.54 --> 2432.66]  Dat betekent dat die toevallige gebruikers, die worden minder.
+[2432.84 --> 2437.18]  En dat, nou ja, voor een NOS.nl is dat niet per se erg.
+[2437.86 --> 2441.54]  Maar het betekent wel dat ze andere manieren moeten bedenken hoe mensen op die site uit zichzelf gaan komen.
+[2441.64 --> 2442.78]  Want ze krijgen minder doorverwijzing.
+[2443.64 --> 2443.74]  Denk ik.
+[2443.96 --> 2446.84]  Maar in ieder geval NOS, wat maakt dat voor hun eigenlijk uit?
+[2446.92 --> 2448.90]  Want ze hebben sowieso geen reclameinkomsten.
+[2449.06 --> 2450.78]  Als ik naar die site ga, dan zie ik toch geen reclame?
+[2450.90 --> 2451.02]  Of wel?
+[2451.04 --> 2451.72]  Je beheld is sterk.
+[2451.76 --> 2452.22]  Nee, ja.
+[2453.32 --> 2455.60]  Ja, daar is ook een discussie over of ze dat wel mogen of niet.
+[2455.60 --> 2458.48]  Dus daar worden ook gesprekken over gevoerd.
+[2458.62 --> 2461.84]  Dus ja, kijk, voor de NOS zal het niet zozeer gevolgen hebben, denk ik.
+[2463.10 --> 2464.86]  Behalve dat, ja, ze zullen minder bezoekers trekken.
+[2465.48 --> 2467.76]  En zij zullen gaan zeggen, ja, maar we hebben een groep die veel meer leest.
+[2467.80 --> 2469.26]  En het zijn de mensen die echt geïnteresseerd zijn.
+[2469.68 --> 2471.60]  Maar ja, het doel is ook om mensen zoveel mogelijk te informeren.
+[2471.70 --> 2473.60]  Dus om het nieuws bij zoveel mogelijk mensen te brengen.
+[2474.26 --> 2478.14]  Dat doen ze hier onder andere via Insta, met NOS Stories, NOS op 3 en zo.
+[2480.28 --> 2484.20]  Maar ja, die echte bijvangst, zeg maar, via Facebook en Google, die vervalt.
+[2484.20 --> 2491.14]  Ja, eigenlijk hoor ik jou zeggen, er zijn nu twee derde van de traffic komt eigenlijk via Google en via Social.
+[2491.80 --> 2494.76]  Dat staat onder grote druk, als ik jou goed begrijp.
+[2495.14 --> 2498.30]  Ja, het gaat dus om de traffic van een unieke per maand.
+[2498.42 --> 2500.08]  Dus op een dag zijn het er minder.
+[2501.24 --> 2503.88]  Maar goed, die unieke per maand, dat is wel het lijstje waar veel naar gekeken wordt.
+[2504.02 --> 2505.00]  Die vaak gedeeld wordt.
+[2505.10 --> 2506.32]  Je noemt net grote site AD.
+[2506.48 --> 2507.50]  Ja, dat is het in dat lijstje.
+[2507.70 --> 2509.50]  Als je op dagbasis kijkt, is NOS weer groter.
+[2509.50 --> 2510.50]  Ja, oké.
+[2510.78 --> 2514.58]  Maar even, dus dan hebben we het over twee derde van de unieke bezoekers.
+[2515.14 --> 2518.00]  Daar zou ik van zeggen, dat is gigantisch.
+[2518.16 --> 2519.52]  Dat dat onder druk staat.
+[2519.64 --> 2522.02]  Dat is een heel groot deel.
+[2522.40 --> 2524.06]  Maar jij maakt je er niet zoveel zorgen over.
+[2524.18 --> 2530.60]  Omdat je zegt, waarschijnlijk zullen uitgevers gewoon ervoor gaan zorgen dat ze die mensen op andere manieren bereiken.
+[2530.70 --> 2531.20]  Maar hoe dan?
+[2531.20 --> 2534.30]  Ja, daar zijn ze al een paar jaar mee bezig.
+[2534.50 --> 2539.18]  Door te zorgen dat mensen, ja, e-mail, alhoewel het een klein deel is.
+[2539.26 --> 2541.12]  Maar te zorgen dat, ja, het gaat een keer afnemen.
+[2541.26 --> 2542.20]  Genieten van zolang het kan.
+[2542.28 --> 2543.76]  Was ook altijd een beetje het credo.
+[2543.90 --> 2546.20]  Van ja, je weet dat er veel verkeer zit, maar het gaat een keer instorten.
+[2546.32 --> 2547.44]  Het algoritme heb je niet in de hand.
+[2548.36 --> 2552.88]  Dus zorg ervoor dat als er veel mensen op je site zitten bij je artikel, dat ze zich ingeschrijven naar een nieuwsbrief.
+[2552.96 --> 2554.26]  Dat er bijvoorbeeld een browserpush komt.
+[2554.40 --> 2555.28]  Weet je wel, zo'n pushbericht.
+[2555.36 --> 2557.56]  Als je de app niet hebt, dat je zo op je laptop.
+[2557.56 --> 2558.66]  Dat zijn ook best wel veel mensen.
+[2558.66 --> 2562.34]  Ja, en je moet dus kwaliteit bieden waarvoor mensen ook willen betalen.
+[2562.50 --> 2563.64]  Waarvoor ze uit zichzelf terugkomen.
+[2563.88 --> 2565.38]  Wat Google niet kan brengen.
+[2566.26 --> 2571.18]  Ja, dus ik snap dat voor betaalde, voor uitgevers die een betaald abonnement hebben.
+[2571.44 --> 2574.60]  Dat daar zit er een, ja weet je, die hebben een alternatief.
+[2574.80 --> 2576.70]  Ook voor de dalende advertentieinkomsten.
+[2576.78 --> 2578.74]  Die natuurlijk gerelateerd zijn aan minder sitebezoek.
+[2579.60 --> 2580.44]  Dat is helder.
+[2580.66 --> 2585.08]  Maar er is een heel erg groot deel van Nederland wat niet een abonnement heeft op een site.
+[2585.08 --> 2586.40]  Op nieuws.
+[2586.66 --> 2588.34]  En ook niet van plan is om dat te nemen.
+[2588.66 --> 2590.50]  Wat betekent dat dan voor hen?
+[2591.70 --> 2596.16]  Nou ja, voor de vaste bezoeker van NOS.nl, die zal er niet zoveel van merken.
+[2596.26 --> 2599.98]  Alleen ja, er zullen minder mensen zomaar via Google op die pagina's terechtkomen.
+[2600.80 --> 2604.94]  En dat is denk ik voor die model van NOS niet zo, ja niet per se heel erg of zo.
+[2605.04 --> 2607.10]  Maar bijvoorbeeld Nu.nl heeft een veel grotere app.
+[2607.20 --> 2609.18]  Dus die heeft veel loyale publiek.
+[2609.24 --> 2610.46]  Die worden weer minder hard geraakt.
+[2610.46 --> 2615.26]  Omdat die, ja die hebben gewoon veel vast terugkerend verkeer uit zichzelf al zeg maar.
+[2615.36 --> 2618.12]  De mensen die dus veel via Facebook en Google binnenhaalden.
+[2618.18 --> 2620.46]  Ja die gaan minder binnenkrijgen aan bezoek.
+[2621.24 --> 2623.88]  Ja en dat raak je misschien in je portemonnee als je pageviews.
+[2623.88 --> 2631.22]  En verwacht je dan dat die bezoekers, want je zegt die gaan minder komen via Google door die AI overviews.
+[2631.74 --> 2638.90]  Verwacht je dan dat mensen dat nieuws dan gaan blijven, dat ze op Google blijven, dat ze op google.com het nieuws gaan lezen.
+[2639.02 --> 2647.14]  Of hoe gaan dan die mensen die nu in twee derde van gevallen via andere sites terechtkomen bij NOS.nl bijvoorbeeld.
+[2647.14 --> 2652.00]  Hoe verwacht je dan dat die over een jaar aan hun nieuws komen?
+[2653.18 --> 2654.20]  Ja het lijkt er ook wel op.
+[2654.34 --> 2655.74]  In Amerika is het natuurlijk gestart.
+[2655.82 --> 2657.26]  Als ik weer via VPN een beetje proberen.
+[2657.34 --> 2658.70]  Dat het nieuws nog niet zo geraakt wordt.
+[2658.78 --> 2659.82]  Dus het echte nieuws van de dag.
+[2659.96 --> 2663.24]  Die wordt nog steeds getoond in de carousel zeg maar van artikelen.
+[2663.50 --> 2665.84]  Zo bovenin de zoekresultaten bedoel je?
+[2665.92 --> 2668.06]  Ja als je googelt dan krijg je daar een heel duidelijk overzicht.
+[2668.12 --> 2670.44]  Dan klik je nog steeds op een linkje en dan ga je nog steeds naar die site.
+[2670.76 --> 2671.46]  Dus het echte nieuws.
+[2671.52 --> 2672.76]  Alleen je hebt ook een categorie verhalen.
+[2673.24 --> 2675.16]  Een beetje de servicejournalistiek genoemd.
+[2675.16 --> 2678.28]  Bijvoorbeeld van wanneer is het zomertijd of wanneer is het wintertijd.
+[2678.40 --> 2679.32]  In mijn tijd heet AD.
+[2679.94 --> 2683.42]  Haal die op zo'n zoekvraag gewoon 300.000 bezoekers binnen zeg maar in een half jaar.
+[2684.28 --> 2685.18]  Dat zijn van die artikelen.
+[2685.36 --> 2687.18]  Ja dat was heel simpel.
+[2687.50 --> 2689.62]  Maar die kwam nooit hoog op de site te staan zeg maar.
+[2689.70 --> 2690.62]  Dus voor de normale bezoeker niet.
+[2690.68 --> 2692.40]  Maar dan wist je gewoon ja dat is een stroom die komt binnen.
+[2692.74 --> 2693.42]  Die gaat dat lezen.
+[2693.54 --> 2694.58]  Lees daarom misschien wel meer.
+[2694.62 --> 2695.96]  Hoe krijg ik slak uit mijn tuin?
+[2697.00 --> 2697.84]  Ja dat soort dingen.
+[2697.96 --> 2698.88]  En dat doen wel steeds meer.
+[2698.94 --> 2699.74]  Dat doet niet alleen AD.
+[2699.84 --> 2701.16]  Dat doen ook alle andere sites nu wel.
+[2701.26 --> 2702.36]  Ja wij helpen lezers.
+[2702.48 --> 2703.36]  Ja die categorie.
+[2703.56 --> 2704.60]  Die ben je wel straks kwijt.
+[2705.16 --> 2705.96]  Ik wil zelf beantwoorden.
+[2706.22 --> 2707.82]  Maar het echte harde nieuws is er straks.
+[2709.12 --> 2710.84]  Ja als er groot nieuws is of er is een aanslag.
+[2710.94 --> 2712.76]  Dan zal er nog steeds naar nieuws verwezen worden denk ik.
+[2713.14 --> 2715.66]  Dus eigenlijk wordt een beetje het kaf ook wel.
+[2715.92 --> 2719.00]  Als we dan het nieuws over slakken of over het weer.
+[2719.42 --> 2720.16]  Een beetje het kaf noemen.
+[2720.24 --> 2721.18]  Van het koren gescheiden.
+[2721.36 --> 2723.24]  Dat die site zich juist kunnen gaan richten op.
+[2723.56 --> 2725.32]  Wat is nou echt belangrijk en inhoudelijk.
+[2725.68 --> 2729.10]  En wat doet er echt toe.
+[2729.18 --> 2731.84]  Los van gewoon de consumenten rubriekjes eigenlijk.
+[2732.58 --> 2733.76]  Ja dus in die zin zal het nieuws zijn.
+[2733.76 --> 2734.64]  Ze redden zichzelf wel.
+[2734.64 --> 2735.66]  Maar ben je bijvoorbeeld een blogger.
+[2735.76 --> 2738.92]  En heb je de afgelopen drie jaar elke speeltuin van Nederland beschreven.
+[2739.02 --> 2739.80]  Voor je kinderen of zo.
+[2740.30 --> 2741.04]  Dan word je.
+[2741.38 --> 2742.60]  Dat zijn geen vaste bezoekers.
+[2742.68 --> 2743.62]  Daar kom je toevallig op uit.
+[2743.66 --> 2745.62]  Als je zegt van hé wat zijn de leukste speeltuinen van Utrecht.
+[2746.48 --> 2747.50]  Je hebt daar een blog over geschreven.
+[2747.58 --> 2748.74]  Ja dat gaat Google straks voor je doen.
+[2748.74 --> 2749.02]  Ja.
+[2749.02 --> 2749.06]  Ja.
+[2750.06 --> 2751.88]  Dus in die zin pakt het de kleine sites wel aan.
+[2751.96 --> 2752.62]  En de kleine bloggers.
+[2752.70 --> 2753.44]  Dat is wel jammer.
+[2753.44 --> 2757.58]  En jij verwacht dus niet dat mensen over een jaar aan hun spraakassistent gaan vragen.
+[2757.58 --> 2758.82]  Vertel met nieuws.
+[2758.82 --> 2762.12]  Of dat er een vertel met nieuws knopje zit in je spraakassistent.
+[2762.12 --> 2765.82]  Die gewoon een samenvatting geeft van het nieuws.
+[2766.78 --> 2773.20]  Zoal en wat lekkerder wordt om doorheen te gaan dan dat het door nu.nl of door nos.nl heen te gaan is.
+[2773.28 --> 2775.78]  Dat soort van dat snelle checken van het nieuws.
+[2775.86 --> 2777.70]  Wat mensen natuurlijk duizend keer op een dag doen.
+[2778.14 --> 2781.30]  Jij verwacht niet dat dat naar AI functies gaat.
+[2781.46 --> 2785.30]  In plaats van dat mensen zoals nu dat gewoon op de website van de uitgever bezoeken.
+[2786.02 --> 2787.14]  Nou ik denk dat zeker wel.
+[2787.24 --> 2788.02]  Want dat heb je nu ook al.
+[2788.12 --> 2789.10]  Dat je inderdaad kan zeggen.
+[2789.20 --> 2790.34]  Nou hoe lang wil je dat je nieuws is.
+[2790.44 --> 2791.46]  Eén minuut of vijf minuten.
+[2791.72 --> 2792.56]  Wat zijn je interesses.
+[2792.66 --> 2793.78]  Dat is nu nog Amerikaans.
+[2793.84 --> 2794.68]  Maar dat krijg je toch ook in Nederland.
+[2795.00 --> 2797.48]  En dan krijg je gewoon binnen die tijd het nieuwsbericht.
+[2797.48 --> 2799.12]  Dus ik verwacht dat mensen op gaan starten de dag.
+[2799.20 --> 2800.68]  Dat ze op een knop drukken.
+[2801.36 --> 2804.18]  En dat je dan het belangrijkste nieuws te horen krijgt in één of vijf minuten.
+[2804.26 --> 2805.38]  Ja dan ga je niet meer naar de site toe.
+[2805.40 --> 2805.92]  Maar dan hoor je dat.
+[2805.92 --> 2807.66]  Dus curatie zal ook wel heel belangrijk zijn.
+[2808.46 --> 2808.94]  Dus van ja.
+[2809.62 --> 2811.62]  Het maakt mij niet uit of het op nu.nl of nos staat.
+[2811.76 --> 2814.24]  Maar geef me gewoon het laatste nieuws wat ik in geïnteresseerd ben.
+[2815.34 --> 2817.18]  En hoe vaker die gedrag volgt.
+[2817.26 --> 2818.54]  En hoe vaker die weet wat jij leest.
+[2818.64 --> 2819.38]  Ja dan zal die gewoon zeggen.
+[2819.46 --> 2822.48]  Van al deze sites heb ik hier het nieuws voor jou gefilterd.
+[2822.64 --> 2823.78]  En dat zal in geluid zijn.
+[2823.78 --> 2825.98]  Dat kan ook in video zijn of in een nieuwsbulletin.
+[2826.54 --> 2826.86]  Mag ik?
+[2826.86 --> 2827.18]  Je hebt nu bij.
+[2827.76 --> 2827.94]  Sorry.
+[2828.08 --> 2829.06]  Nou ja sorry ik onderbreek.
+[2829.16 --> 2830.00]  Ja maar ik dacht gewoon.
+[2830.04 --> 2832.02]  Het maakt toch wel een beetje uit waar je het leest.
+[2832.16 --> 2833.74]  Want als ik iets van de Volkskrant lees.
+[2834.02 --> 2835.72]  Dan verwacht ik er iets anders.
+[2835.72 --> 2837.20]  Dan wat ik in de Telegraaf lees.
+[2838.08 --> 2838.24]  Ja.
+[2838.56 --> 2839.30]  Dus nou ja.
+[2839.32 --> 2839.94]  De vraag is wel van.
+[2840.00 --> 2840.88]  Wil je dan het nieuws horen?
+[2841.02 --> 2842.82]  Of wil je onzoeksjournalistiek van de Volkskrant?
+[2843.00 --> 2844.46]  Of er wordt altijd wel gedacht.
+[2844.58 --> 2847.30]  Dat de Telegraaf ad-achtige sites echt het nieuws brengen.
+[2847.42 --> 2848.20]  En Volkskrant niet.
+[2848.26 --> 2848.90]  Maar betekent dat.
+[2849.28 --> 2850.34]  Als er een aanslag is ergens.
+[2850.38 --> 2851.32]  Dat je dat dan niet wil weten.
+[2851.32 --> 2851.62]  Of.
+[2851.84 --> 2853.54]  En hoe kort moet het dan samengevat worden?
+[2854.36 --> 2855.72]  Dus daar zit wel verschil in.
+[2856.14 --> 2857.24]  Maar je kan natuurlijk ook zeggen van.
+[2857.34 --> 2859.32]  Hé breng me alleen het nieuws van NRC en Volkskrant.
+[2859.60 --> 2860.66]  Of alleen Telegraaf en ad.
+[2861.58 --> 2862.82]  En vat het voor mij samen.
+[2863.56 --> 2864.58]  Of alleen van die journalist.
+[2864.70 --> 2865.74]  Of alleen over die onderwerpen.
+[2865.94 --> 2867.20]  Dat zal veel verder gaan.
+[2867.58 --> 2869.48]  Maar dat is toch heel significant wat je zegt.
+[2869.56 --> 2871.18]  Want we hebben het over onderzoeksjournalistiek.
+[2871.26 --> 2873.72]  Dat zullen mensen bij de site van de uitgever blijven halen.
+[2873.82 --> 2874.40]  Is jouw verwachting.
+[2874.46 --> 2876.22]  Want dan ga je niet een samenvatting van lezen.
+[2876.68 --> 2877.14]  Misschien wel.
+[2877.14 --> 2878.70]  Maar daar zullen een hoop mensen over blijven.
+[2878.78 --> 2879.82]  Die het hele verhaal willen lezen.
+[2880.36 --> 2881.48]  Maar voor het snelle nieuws.
+[2881.62 --> 2882.34]  Laten we wel wezen.
+[2882.52 --> 2885.48]  Een heel erg groot deel van ons huidige nieuwsconsumptie.
+[2885.64 --> 2887.14]  Is gewoon even snel checken.
+[2887.22 --> 2887.92]  Wat er aan de hand is.
+[2888.00 --> 2889.74]  Of misschien even vermaakt worden.
+[2889.84 --> 2890.70]  Of een update krijgen.
+[2890.78 --> 2893.98]  Over wat er nu weer met een of andere realityster gebeurd is.
+[2894.06 --> 2896.30]  Dat is natuurlijk een groot deel van hoe we nieuws consumeren.
+[2896.80 --> 2898.54]  Verwacht je dat dat over een jaar.
+[2898.62 --> 2899.58]  Helemaal bij Google.
+[2899.76 --> 2901.98]  En bij andere AI bedrijven ligt.
+[2902.38 --> 2904.06]  Of denk je dat dat nog steeds.
+[2904.06 --> 2905.64]  Wel een groot deel blijft.
+[2905.68 --> 2907.10]  Van het werk van uitgevers.
+[2907.14 --> 2909.58]  Nou ik denk wel dat.
+[2909.84 --> 2911.00]  Op zich zoals het er nu staat.
+[2911.24 --> 2912.46]  En niemand heeft een deal gesloten.
+[2912.68 --> 2915.08]  Dan blijft het verkeer verdeeld worden.
+[2915.24 --> 2915.62]  Over iedereen.
+[2915.80 --> 2917.32]  Maar in Duitsland heb je Axel Springer.
+[2917.40 --> 2919.06]  En die heeft een deal gesloten voor miljoenen.
+[2919.62 --> 2921.00]  Als je dan het nieuws gaat vragen aan Google.
+[2921.16 --> 2922.64]  Dan krijg je alleen maar die Axel Springer sites.
+[2923.02 --> 2924.50]  En in Frankrijk heb je Le Monde.
+[2925.08 --> 2925.66]  Die hebben ook een deal.
+[2926.20 --> 2927.74]  Ja dan gaat het nieuws dus uitgeserveerd worden.
+[2927.82 --> 2928.96]  Door die specifieke uitgever.
+[2929.08 --> 2930.34]  Die is er in de Benelux nog niet.
+[2930.46 --> 2931.42]  Maar ja je kan wel raden.
+[2932.04 --> 2933.70]  Of daar zullen ongetwijfeld gesprekken mee gaan.
+[2933.70 --> 2935.30]  En als jij dan degene bent die dat hoort.
+[2935.40 --> 2936.24]  Dan krijg je en miljoenen.
+[2936.24 --> 2937.72]  En redelijk wat verkeerd.
+[2938.44 --> 2940.08]  En als je misschien niet diegene bent.
+[2940.16 --> 2941.00]  Ja dan verlies je nog meer.
+[2941.14 --> 2942.22]  Dus het is ook een beetje kijken.
+[2942.26 --> 2943.62]  Hoe gaat die deal in Nederland.
+[2944.00 --> 2945.20]  En hoe denk je dat dat gaat?
+[2946.54 --> 2947.18]  Ik ben benieuwd.
+[2947.66 --> 2948.28]  Ik weet het nog niet.
+[2948.38 --> 2949.48]  Niet van Insight in ieder geval.
+[2949.58 --> 2950.68]  Ik verwacht wel dat er gesprekken gaan.
+[2950.90 --> 2953.08]  Maar wat zou je een uitgever adviseren.
+[2953.44 --> 2955.26]  Als zij twijfelen.
+[2955.34 --> 2956.54]  Of ze een deal met OpenAI.
+[2956.78 --> 2957.96]  Of met Google moeten sluiten.
+[2958.16 --> 2960.40]  Om samenvattingen van hun nieuwsartikelen.
+[2960.72 --> 2963.18]  Op te nemen in hun spraakassistenten.
+[2963.18 --> 2964.08]  Of het OS.
+[2964.32 --> 2965.94]  Of wat voor AI functie dan ook.
+[2966.72 --> 2967.94]  Ik zou in ieder geval om tafel gaan zitten.
+[2968.28 --> 2970.42]  En kijken van Axel Springer is ook niet gek.
+[2970.54 --> 2971.88]  Want je haalt zoveel miljoenen binnen.
+[2971.98 --> 2974.52]  Daar kun je heel wat redacteuren voor aanstellen.
+[2975.14 --> 2976.50]  Dus hoe lang is je contract?
+[2976.60 --> 2977.26]  Wat doen ze daarmee?
+[2977.90 --> 2978.94]  Ben je dan exclusief?
+[2979.14 --> 2980.14]  Wat doet je concurrentie?
+[2980.42 --> 2981.56]  Daar wordt wel heel erg naar gekeken.
+[2981.64 --> 2982.90]  Ik ken het verdienmodel niet precies.
+[2983.44 --> 2985.92]  Maar ik zag wel dat het om tientallen miljoenen ging per jaar.
+[2986.78 --> 2987.98]  Maar daar kun je heel veel dingen voor doen natuurlijk.
+[2987.98 --> 2989.82]  Dus ja.
+[2990.32 --> 2990.48]  Ja.
+[2991.58 --> 2992.82]  Over die deals gesproken.
+[2993.12 --> 2995.14]  We hebben gelezen wat Jessica Lessin.
+[2995.22 --> 2997.68]  Dat is de bestuursvoorzitter van die information daarover zegt.
+[2997.76 --> 3002.74]  En die maakt zich wel een beetje zorgen over dat er nu best wel veel bedrijven zijn.
+[3002.80 --> 3003.42]  Ook die Atlantic.
+[3003.86 --> 3005.36]  En Reddit is natuurlijk ook al voorbij gebreid.
+[3005.36 --> 3006.54]  Niet dat het echt een nieuw site is.
+[3006.72 --> 3008.04]  Maar daar wordt natuurlijk gediscussieerd.
+[3008.04 --> 3012.08]  Dat al die data die zorgvuldig vaak tot stand is gekomen.
+[3012.24 --> 3015.68]  Nu eigenlijk gewoon wordt weggegeven aan die hongerige taalmodellen.
+[3015.82 --> 3017.46]  Die meer en meer informatie moeten hebben.
+[3017.60 --> 3021.72]  En dat op die manier dus eigenlijk nemen ze dat gewoon helemaal over.
+[3021.94 --> 3023.54]  En daar maakt zij zich wel zorgen over.
+[3024.62 --> 3026.10]  Ja nee dat is ook heel terecht natuurlijk.
+[3026.20 --> 3028.76]  Er zit natuurlijk ook heel veel slechte kanten aan dit verhaal.
+[3028.76 --> 3030.26]  En de concurrentie.
+[3030.50 --> 3031.80]  En wat gebeurt er?
+[3031.82 --> 3033.68]  En wat gebeurt er met juridische rechten?
+[3033.76 --> 3035.04]  Er komt nog heel veel bij kijken.
+[3035.28 --> 3036.54]  Nu is alles nog redelijk open.
+[3036.54 --> 3040.52]  Nou ik probeerde gisteren een artikel te copypasten van een regionale website in Nederland.
+[3040.70 --> 3042.00]  En dan kreeg ik een melding van nee copyright.
+[3042.16 --> 3043.02]  Of weet je daar kun je dan niet bij.
+[3043.22 --> 3045.20]  Dus er gaat ook heel veel afgesloten worden.
+[3045.56 --> 3047.76]  En er gaan heel veel deals ook op databases gesloten worden.
+[3047.90 --> 3049.72]  Van ja wat is het weer vandaag?
+[3049.82 --> 3051.10]  Nou als je met weer online samenwerkt.
+[3051.14 --> 3051.58]  Dan is het handig.
+[3051.64 --> 3052.20]  Dan kun je dat.
+[3052.58 --> 3056.10]  Of nou ja er zitten heel wat deals die gesloten gaan worden met databases.
+[3056.62 --> 3057.16]  Denk ik.
+[3057.64 --> 3062.48]  Zodat je exclusief toegang krijgt tot een bepaalde database via een nieuw site of zo.
+[3063.50 --> 3065.90]  Tenminste ik weet niet of dat het bruggetje een beetje logisch is.
+[3065.98 --> 3066.28]  Jawel.
+[3066.28 --> 3067.42]  Ja ik moet gewoon.
+[3067.56 --> 3068.66]  Zelf heb ik ook een beetje het gevoel van.
+[3068.72 --> 3070.56]  Het is een beetje een dealsluiten met de duivel.
+[3070.76 --> 3071.80]  Op een bepaalde manier van.
+[3071.94 --> 3073.16]  We gaan alles van je overnemen.
+[3073.56 --> 3074.74]  En ja.
+[3075.00 --> 3076.38]  We sluiten een lekker dealtje met je.
+[3076.48 --> 3079.18]  Maar vervolgens duw je je wel als een soort koelkoeksjong het nest uit.
+[3079.34 --> 3079.44]  Van.
+[3079.88 --> 3081.06]  En nu gaan wij het wel even doen.
+[3081.94 --> 3082.10]  Ja.
+[3082.32 --> 3083.80]  We hebben nog steeds mensen nodig.
+[3083.80 --> 3086.60]  Die daar het harde handwerk gaan zitten doen.
+[3086.60 --> 3092.90]  Niet alleen maar machines die ja een beetje elkaars content zitten te circuleren.
+[3093.12 --> 3093.26]  Ja.
+[3093.50 --> 3096.86]  Dus moet je inderdaad iets maken wat niet rondgepompt kan worden.
+[3096.86 --> 3098.00]  Waarvan je altijd de bron bent.
+[3098.10 --> 3098.94]  Waarvan ze niet kunnen zeggen.
+[3099.08 --> 3100.00]  Dit nemen wij over of zo.
+[3100.08 --> 3101.64]  Dus dan ga je juist die kwaliteit krijgen.
+[3102.18 --> 3103.92]  Of een journalist als autoriteit.
+[3104.00 --> 3104.24]  Dat je zegt.
+[3104.32 --> 3105.98]  Maakt me niet uit wat er daar gebeurt.
+[3106.02 --> 3107.92]  Ik wil gewoon weten wat iemand ervan vindt.
+[3107.96 --> 3108.88]  En diegene ga ik volgen.
+[3108.96 --> 3109.74]  En daar wil ik voor betalen.
+[3110.48 --> 3110.60]  Ja.
+[3110.60 --> 3112.04]  Het kan voor journalisten natuurlijk ook heel interessant zijn.
+[3112.10 --> 3113.38]  Dat ze daardoor zelfstandig verder kunnen.
+[3113.48 --> 3114.64]  En niet bij een uitgever hoeven te zitten.
+[3114.74 --> 3114.86]  Ja.
+[3115.18 --> 3116.44]  Zie je ook al met nieuwsbrieven veel.
+[3116.62 --> 3118.70]  Dat is ook een heel populair medium aan het worden.
+[3119.38 --> 3119.56]  Ja.
+[3119.68 --> 3121.14]  Dat iemand voor jou cureert of zo.
+[3121.24 --> 3121.42]  Van ja.
+[3121.44 --> 3122.34]  Er is zoveel.
+[3122.94 --> 3123.62]  Geef het maar.
+[3123.84 --> 3123.94]  Ja.
+[3124.18 --> 3125.08]  En zou je zeggen.
+[3125.26 --> 3125.86]  Ten slotte hoor.
+[3126.00 --> 3129.36]  Zou je zeggen dat Nederlandse uitgevers hier klaar voor zijn.
+[3129.36 --> 3135.84]  Voor het idee dat een heel groot deel van de bezoekers die iedere dag langskomen.
+[3135.98 --> 3136.88]  Op dit moment.
+[3136.88 --> 3140.96]  Over een pak en beet twee jaar.
+[3141.08 --> 3142.82]  Ik noem maar een afslag.
+[3143.76 --> 3146.82]  Via AI tools komen van grote techbedrijven.
+[3146.92 --> 3149.30]  Dat ze daar de samenvattingen van content lezen.
+[3150.38 --> 3152.90]  En niet op de sites van de uitgevers zelf.
+[3152.98 --> 3155.24]  Heb je het idee dat ze cultureel er klaar voor zijn?
+[3156.00 --> 3157.36]  Ik denk dat dat.
+[3157.64 --> 3159.72]  Er komt een beetje bewustzijn.
+[3159.88 --> 3161.42]  Maar er hangt nog wel iets bovenaan.
+[3161.50 --> 3162.08]  Het valt wel mee.
+[3162.36 --> 3163.90]  En het loopt wel los in Nederland.
+[3164.34 --> 3165.00]  Ze zien in Amerika.
+[3165.12 --> 3166.42]  Van de harde nieuwssites komen nog steeds.
+[3166.42 --> 3167.64]  Er komt veel bezoek binnen en zo.
+[3168.20 --> 3169.40]  Tot je zo'n deal krijgt misschien.
+[3169.48 --> 3170.50]  Waardoor je wel veel gaat verliezen.
+[3171.60 --> 3172.38]  Dat hangt er vanaf.
+[3172.44 --> 3172.90]  Maar je ziet ook.
+[3173.30 --> 3174.30]  Enerzijds verlies je wat verkeer.
+[3174.40 --> 3175.92]  Anderzijds kun je ook veel meer produceren.
+[3176.06 --> 3176.86]  Zeg maar aan artikelen.
+[3177.20 --> 3177.26]  Ja.
+[3177.40 --> 3177.96]  Dus als je.
+[3178.62 --> 3178.82]  Nou ja.
+[3178.86 --> 3181.26]  Op een ad.nl slash een bepaalde gemeente kijkt.
+[3181.50 --> 3182.60]  Volgens mij heb je het er ook wel eens over gehad.
+[3182.60 --> 3184.10]  Dan zie je daar het weerbericht.
+[3184.24 --> 3186.08]  Dan zie je daar voetbaluitslagen.
+[3187.12 --> 3188.70]  Drie van de vijf berichten komen gewoon.
+[3189.00 --> 3190.00]  Zijn geschreven door AI.
+[3190.44 --> 3191.82]  Omdat er een deal is gesloten met.
+[3192.14 --> 3192.84]  Bijvoorbeeld de KNVB.
+[3192.84 --> 3194.06]  Dat ze alle voetbaluitslagen krijgen.
+[3194.14 --> 3194.90]  Die een ander niet heeft.
+[3195.80 --> 3196.58]  En zo weet je.
+[3196.66 --> 3197.64]  Als je voetballer bent.
+[3197.96 --> 3198.80]  Heel wel een wedstrijdverslag.
+[3198.88 --> 3199.74]  Dan ga je naar ad.nl.
+[3199.82 --> 3200.30]  Dus in die zin.
+[3200.86 --> 3202.40]  Pak je dat verlies aan Googleverkeer.
+[3202.48 --> 3203.50]  Misschien wel op die manier weer mee.
+[3203.62 --> 3204.26]  Omdat gewoon mensen.
+[3204.36 --> 3205.82]  Dat je gewoon veel meer kan maken.
+[3206.50 --> 3207.50]  Je kan veel meer maken ja.
+[3207.58 --> 3207.76]  En dat.
+[3207.84 --> 3208.00]  Nou ja.
+[3208.00 --> 3208.96]  Dat compenseert een beetje.
+[3209.24 --> 3209.44]  En dat.
+[3209.84 --> 3211.10]  Die gaan mensen niet vinden via Google.
+[3211.22 --> 3211.72]  Maar misschien wel.
+[3211.82 --> 3213.00]  Als je bij de KNVB zit.
+[3213.16 --> 3214.46]  En zo heb je natuurlijk nogal heel veel.
+[3215.00 --> 3215.24]  Ja.
+[3215.24 --> 3216.20]  Van die databronnen.
+[3216.28 --> 3217.26]  Waarbij jij de enige kan zijn.
+[3217.34 --> 3218.70]  Want dat heeft de telegraaf bijvoorbeeld weer niet.
+[3218.72 --> 3219.98]  Ik vind het nogal wat hoor.
+[3220.04 --> 3220.46]  Dit allemaal.
+[3220.80 --> 3221.40]  Dat we dat dus.
+[3221.62 --> 3224.76]  Het positieve nieuws is dat we meer AI nieuws gaan lezen.
+[3226.06 --> 3226.50]  Nou ja.
+[3227.00 --> 3227.56]  Nou ja.
+[3228.50 --> 3229.12]  Sommig nieuws.
+[3229.26 --> 3229.38]  Weet je.
+[3229.44 --> 3230.72]  ANP is ook gewoon een soort van bron.
+[3230.82 --> 3233.60]  Waar heel veel nieuwsmedia uit putten.
+[3233.84 --> 3234.90]  En alles wat ANP schrijft.
+[3234.96 --> 3236.44]  Kun je door ChatGPT gooien.
+[3236.54 --> 3237.78]  En dan maak je er zelf een artikel van.
+[3237.86 --> 3237.94]  Ja.
+[3238.86 --> 3239.76]  Die rechten hebben ze.
+[3239.82 --> 3241.06]  Dat hebben ze gewoon afgekocht bij ANP.
+[3241.56 --> 3242.30]  Dat mogen ze doen.
+[3242.38 --> 3242.98]  Doen ze nu nog niet.
+[3243.08 --> 3243.28]  Maar ja.
+[3243.36 --> 3244.16]  Dan is de bron ANP.
+[3244.16 --> 3244.92]  Ja ja ja ja.
+[3245.12 --> 3246.02]  Ja daarvan zeggen we nu ook.
+[3246.08 --> 3246.74]  Die is betrouwbaar.
+[3246.82 --> 3247.66]  Alleen je schrijft dat iets.
+[3248.52 --> 3249.66]  Dus je kunt veel meer doen.
+[3249.96 --> 3251.48]  En je kunt veel meer ook een belofte vervullen.
+[3251.58 --> 3251.88]  Denk ik.
+[3252.00 --> 3252.12]  Van.
+[3253.94 --> 3254.16]  Van ja.
+[3254.22 --> 3254.58]  Waar sta je.
+[3255.06 --> 3256.46]  Welk nieuws kun je eigenlijk bij ons vinden.
+[3256.72 --> 3256.84]  Ja.
+[3257.14 --> 3258.16]  Nou interessant hoor Jaap.
+[3258.28 --> 3260.12]  En ook sowieso jouw vakgebied.
+[3260.20 --> 3261.58]  Ik denk dat het wel handig is dat jij.
+[3262.58 --> 3263.94]  Sinds 2023 dus.
+[3264.50 --> 3264.78]  Ja.
+[3265.78 --> 3267.18]  Digitaal stratege bent geworden.
+[3267.18 --> 3267.74]  Voor je.
+[3267.86 --> 3268.38]  Voor jezelf.
+[3268.88 --> 3270.26]  Als zelfstandig ondernemer.
+[3271.02 --> 3271.64]  Je hebt goed werk.
+[3271.64 --> 3271.66]  Je hebt goed werk.
+[3271.66 --> 3271.68]  Je hebt goed werk.
+[3272.96 --> 3273.28]  Ja.
+[3273.28 --> 3273.60]  Ja nee.
+[3273.86 --> 3274.76]  Er is heel veel werk.
+[3274.86 --> 3276.10]  En veel vragen naar data.
+[3276.20 --> 3276.72]  Was al nieuw.
+[3276.82 --> 3277.90]  En nu komt dit er ook nog een keer bij.
+[3278.20 --> 3278.98]  Je merkt dat dat gewoon.
+[3279.08 --> 3280.04]  Ja voor mij is het handig.
+[3280.08 --> 3280.68]  Want ik heb veel werk.
+[3280.84 --> 3280.88]  Ja.
+[3281.06 --> 3282.20]  Nou en voor ons de rest van ons.
+[3282.56 --> 3283.40]  Of van ons land.
+[3283.76 --> 3285.16]  De samenleving breder.
+[3285.26 --> 3286.08]  Mieloevroeg aan het begin.
+[3286.20 --> 3286.88]  Is het een klein golfje.
+[3286.92 --> 3287.66]  Is het een groot golfje.
+[3287.76 --> 3288.00]  Ik kan.
+[3288.14 --> 3288.78]  Ik zou zeggen.
+[3288.98 --> 3290.58]  De antwoord is wel gegeven in dit gesprek.
+[3290.86 --> 3291.14]  Tuurlijk.
+[3291.38 --> 3292.30]  Dank je wel Jaap.
+[3292.30 --> 3293.30]  Dat je even wilde inbellen.
+[3293.96 --> 3294.82]  Nou dat was Jaap.
+[3294.82 --> 3296.38]  Wil je nu meer volgen over.
+[3297.18 --> 3298.04]  Jaap en zijn werk.
+[3298.18 --> 3300.08]  In deze zich ontwikkelende wereld.
+[3300.56 --> 3303.78]  Dan kun je gaan naar jaapvanzessen.nl slash nieuwsbrief.
+[3303.88 --> 3305.04]  En dan kun je je ook inschrijven.
+[3305.36 --> 3306.24]  Voor zijn nieuwsbrief.
+[3307.00 --> 3307.96]  Blijf een beetje op de hoogte.
+[3308.58 --> 3309.20]  Ja wat is nou.
+[3309.56 --> 3310.82]  Wat blijft hangen na dit gesprek.
+[3311.56 --> 3312.86]  Ik begrijp dat we.
+[3313.18 --> 3313.28]  Nou ja.
+[3313.34 --> 3315.10]  Stel dat je een nieuwsplatform bent.
+[3315.48 --> 3316.82]  Met een goed eigen verdienmodel.
+[3317.02 --> 3317.70]  Een eigen smoel.
+[3317.94 --> 3319.06]  Een onderzoeksjournalistiek.
+[3319.14 --> 3319.46]  En weet ik wat.
+[3319.54 --> 3320.68]  Dan hoef je gewoon niet heel erg.
+[3320.68 --> 3321.26]  Ja.
+[3321.26 --> 3321.96]  Voorgen te maken.
+[3322.04 --> 3323.16]  Gaat niet heel veel veranderen.
+[3323.52 --> 3323.68]  Ja.
+[3323.86 --> 3324.62]  Ik vraag me wel.
+[3325.34 --> 3326.28]  Echt ook een beetje af.
+[3326.34 --> 3327.74]  Ik noemde al even dat koekoeksjong.
+[3327.90 --> 3328.82]  We maken het nieuws.
+[3328.90 --> 3331.44]  We zorgen dat we goed door vrochten stukken schrijven.
+[3331.94 --> 3333.14]  En we sluiten nu een soort deal.
+[3333.30 --> 3335.44]  Waardoor we uit het nest uiteindelijk geduwd zullen worden.
+[3335.54 --> 3337.26]  Want waarom zouden we nog die stukken schrijven.
+[3337.32 --> 3339.42]  Als het toch alleen maar gaat rondsingen.
+[3339.74 --> 3340.82]  Op een bepaalde manier.
+[3341.00 --> 3341.40]  Stel dat je een beetje.
+[3341.64 --> 3342.04]  Ja zeker.
+[3342.04 --> 3342.68]  Het voelt wel een beetje alsof je.
+[3344.06 --> 3346.32]  Ja daar schuilt toch wel een gevaar in denk ik.
+[3346.76 --> 3347.56]  Nou ik denk dat.
+[3348.46 --> 3349.06]  Ik denk.
+[3349.06 --> 3353.76]  Kijk mijn soort van basis aanname over hoe we informatie gaan consumeren in de toekomst.
+[3354.08 --> 3355.48]  Breder dan alleen journalistiek.
+[3356.10 --> 3360.62]  Is dat alles wat we gaan consumeren op een of andere manier synthetisch gegenereerd is.
+[3360.70 --> 3361.32]  Op een manier.
+[3361.62 --> 3361.84]  Dus.
+[3361.84 --> 3364.44]  Ik geloof dat alles.
+[3364.80 --> 3366.22]  Alle informatie die we tot ons krijgen.
+[3366.36 --> 3367.24]  Of het nou podcast.
+[3367.50 --> 3367.86]  Video.
+[3368.52 --> 3369.22]  Tekst is.
+[3369.40 --> 3371.44]  Dat het op een of andere manier aangepast is aan ons.
+[3371.52 --> 3372.52]  Dus of ingekoord.
+[3372.74 --> 3374.52]  Of smeuiger gemaakt.
+[3374.80 --> 3377.28]  Of gewoon alles is door een taalmodel getrokken.
+[3377.54 --> 3377.68]  Ja.
+[3377.84 --> 3380.00]  Ook die grote onderzoeksverhalen waar jij het over hebt.
+[3380.08 --> 3380.26]  Ja.
+[3380.26 --> 3380.32]  Ja.
+[3380.88 --> 3381.78]  Dus dat is één.
+[3381.78 --> 3390.60]  Ik denk dat we naar een toekomst gaan waarin we sowieso al gewend gaan raken aan het feit dat alles aangepast is aan ons.
+[3391.68 --> 3392.22]  Nou als je dat.
+[3392.48 --> 3393.58]  Dat is één aanname.
+[3394.22 --> 3397.06]  En als je dat eenmaal gelooft.
+[3397.34 --> 3400.60]  Dan is het dus voor het koekoeksjongwerk.
+[3400.78 --> 3403.08]  Of de noeste arbeid van gewoon nieuwsgaring.
+[3403.16 --> 3404.42]  Zoals we dat van het ANP verwachten.
+[3404.54 --> 3405.34]  Of van nu.nl.
+[3405.42 --> 3405.62]  Of zo.
+[3405.70 --> 3407.12]  Gewoon een snel overzicht van het nieuws.
+[3407.20 --> 3407.84]  Wat is er gebeurd?
+[3407.92 --> 3409.02]  Wat heeft de minister gezegd?
+[3409.02 --> 3409.70]  Blablabla.
+[3410.00 --> 3410.14]  Ja.
+[3410.86 --> 3414.60]  Dan verwacht ik dat het werk van de journalist anders gaat worden.
+[3414.86 --> 3420.10]  Namelijk dat zij gewoon een soort van input gaan leveren aan een database.
+[3420.48 --> 3421.74]  Zoals inderdaad wat Jaap zegt.
+[3421.84 --> 3423.62]  Wat het ANP nu doet voor kranten.
+[3423.62 --> 3431.16]  Namelijk je hebt een soort van bron die je op eigen inzicht kan hergebruiken.
+[3432.04 --> 3435.16]  Zo verwacht ik dat eigenlijk het met al het nieuws zal gaan.
+[3435.48 --> 3438.50]  Dus je hebt bronnen die je gelicenseerd hebt.
+[3438.50 --> 3441.46]  Dus wat Open R en Google dan ook gelicenseerd hebben.
+[3442.02 --> 3443.44]  Dat mag je gebruiken als bron.
+[3444.28 --> 3446.98]  En dan maak je daar eindeloze hoeveelheid eigen werk van.
+[3447.90 --> 3449.76]  Gepersonaliseerd voor iedere losse lezer.
+[3450.76 --> 3454.26]  En dat betekent dat je dus als journalist niet meer hele stukken hoeft te schrijven.
+[3454.48 --> 3459.04]  Dat betekent dat je een soort van snippets toevoegt aan een database.
+[3459.04 --> 3461.60]  Het is alsof je quotes van mensen die je hebt interviewt.
+[3461.60 --> 3462.32]  Ja, quotes gaat halen.
+[3462.66 --> 3466.44]  Je kan ook perspectieven aan de telefoon halen van experts.
+[3466.78 --> 3470.32]  Je kan ergens bij zijn op reportage.
+[3470.64 --> 3470.74]  Ja.
+[3471.24 --> 3476.02]  Maar dan lever je eigenlijk niet meer het werk wat journalisten nu zien als af.
+[3476.18 --> 3478.50]  Namelijk ik heb een stuk geschreven en ik druk op publish.
+[3478.50 --> 3479.24]  Nee.
+[3479.36 --> 3481.46]  Nee, je levert eigenlijk gewoon de...
+[3482.26 --> 3487.18]  Alsof je de ingrediënten bent en de chef kok is het taalmodel.
+[3487.36 --> 3487.52]  Ja.
+[3487.88 --> 3489.46]  En die kookt voor iedereen individueel.
+[3490.12 --> 3491.18]  Dat is mijn verwachting.
+[3491.26 --> 3494.52]  Dus ik denk dat het werk van journalisten heel erg gaat veranderen.
+[3494.52 --> 3497.88]  In de zin dat je gewoon de vorm van je werk verandert.
+[3497.98 --> 3505.34]  Maar ook dat het heel plat en cynisch gezegd ook een stuk efficiënter wordt.
+[3505.52 --> 3506.28]  Dat hoeft maar...
+[3506.28 --> 3506.30]  Ja.
+[3506.94 --> 3509.84]  Want dat aanleveren van die brokjes.
+[3510.42 --> 3512.54]  Ja, daar heb je misschien ook minder mensen voor nodig.
+[3512.82 --> 3514.60]  Of als je dezelfde hoeveelheid mensen gebruikt.
+[3514.60 --> 3517.62]  Dan kunnen die bij meer verschillende dingen aanwezig zijn.
+[3519.00 --> 3519.12]  Ja.
+[3519.32 --> 3520.50]  Ik weet niet of het goed of slecht is.
+[3520.54 --> 3522.60]  Het verandert gewoon echt heel erg fundamenteel.
+[3522.60 --> 3525.20]  Ja, het kan ook feitelijker worden.
+[3525.82 --> 3526.22]  Het zou kunnen.
+[3526.30 --> 3528.72]  Omdat ik, als ik soms zelf zo'n column aan het schrijven ben.
+[3528.86 --> 3529.80]  Hoe zat het eigenlijk?
+[3529.90 --> 3531.80]  Met welke bedrijven zaten er toen eigenlijk in die tijd?
+[3531.90 --> 3533.18]  Maak er hoeveel rendement en zo.
+[3533.22 --> 3534.68]  En dan denk ik van nou, dat is wel heel veel uitzoekwerk.
+[3535.18 --> 3536.50]  Laat maar, ik schrijf wel iets anders, weet je wel.
+[3536.82 --> 3537.84]  Maar dat wordt nu heel makkelijk.
+[3538.16 --> 3539.18]  Gewoon zoek dat even uit.
+[3539.94 --> 3540.24]  Ja.
+[3540.46 --> 3541.12]  Misschien, ja.
+[3541.28 --> 3541.76]  Ja, zeker.
+[3541.76 --> 3542.66]  Ja, zeker.
+[3542.96 --> 3545.16]  En dus al dat wat ik...
+[3545.16 --> 3546.30]  Sommige journalisten vinden dat leuk.
+[3546.48 --> 3548.84]  Maar sommige mensen vinden dat ook een beetje handwerk.
+[3548.98 --> 3550.70]  Want ook heel veel tijd kost.
+[3550.84 --> 3550.94]  Ja.
+[3550.94 --> 3552.86]  Misschien wordt dat makkelijk.
+[3553.00 --> 3556.82]  En wordt het voor mij dus ook makkelijker om dat te integreren in mijn stukken.
+[3557.08 --> 3560.70]  Ja, en ik vermoed dat jij niet eens hoeft na te denken om dat erbij te halen.
+[3560.78 --> 3566.72]  Omdat de AI voor de lezer, individuele lezer gaat bepalen dat hij of zij die context nodig heeft.
+[3566.88 --> 3567.10]  Ja.
+[3567.10 --> 3569.64]  En dan zelf wel bepaalt of het die cijfers erbij gaat halen.
+[3569.74 --> 3569.96]  Ja.
+[3570.64 --> 3571.24]  Ja, kijk.
+[3571.32 --> 3571.92]  Bepalen het zelf wel.
+[3571.94 --> 3573.20]  Het hangt natuurlijk allemaal van af.
+[3573.78 --> 3574.74]  Kijk, mijn...
+[3574.74 --> 3576.86]  Ik denk onderliggend bij gewoon...
+[3576.86 --> 3577.16]  Als we...
+[3577.16 --> 3582.90]  Gewoon het punt, wat vinden we van AI-bedrijven die deals sluiten met uitgevers?
+[3583.16 --> 3585.04]  Ik denk, mijn belangrijkste bezwaar is...
+[3585.04 --> 3591.02]  AI-bedrijven hebben er niet een belang bij om goede journalistiek te stimuleren.
+[3591.02 --> 3599.90]  Als we iets geleerd moeten hebben van afgelopen tien jaar mediabedrijven die meebewegen met Facebook en Google en al aan social media bedrijven.
+[3600.04 --> 3610.04]  Die natuurlijk, weet je, we hebben zoveel gehad afgelopen jaren aan instant articles en deals sluiten om YouTube video's te genereren.
+[3610.24 --> 3619.62]  Er zijn zoveel soort van manieren geweest waarop uitgevers zich nu al hebben aangepast aan de wensen van die social media bedrijven.
+[3619.62 --> 3621.24]  Met vallen en opstaan allemaal.
+[3622.56 --> 3625.62]  Bij al die tijd had je nog kunnen denken...
+[3627.16 --> 3630.48]  Die technologiebedrijven willen dat er meer nieuws geconsumeerd wordt.
+[3630.56 --> 3631.94]  Dat was toen nog geloofwaardig.
+[3632.76 --> 3642.54]  Maar ik geloof in mijn kern niet dat AI-bedrijven echt bezig zijn om goede journalistiek leven te houden.
+[3642.54 --> 3649.84]  Al deze deals zijn gewoon schikkingen zonder dat daar een rechter aan te pas komt.
+[3650.42 --> 3651.54]  Dat is hoe ik dit...
+[3652.26 --> 3657.22]  Het is gewoon de dreiging van rechtszaken omdat het evident copyright infringement is.
+[3658.22 --> 3661.82]  En om dat te bezweren worden nu vooraf licentie deals gesloten.
+[3662.06 --> 3663.46]  Dat is hoe ik dit zie.
+[3663.46 --> 3664.98]  Het is heel leuker, maar niet iedereen gaat er aan mee natuurlijk.
+[3665.10 --> 3665.84]  Maar dat zullen we zien.
+[3665.88 --> 3668.82]  Nee, dat is gewoon even snel geld ophalen voor uitgevers.
+[3671.50 --> 3678.46]  Maar weet je, lange termijn geloven uitgevers er nou echt in dat OpenAI en Google het beste voor hebben met ze.
+[3678.68 --> 3679.82]  Ik geloof er geen reent van.
+[3679.82 --> 3685.84]  Al die taalmodellen van OpenAI en Google gebruiken gewoon de hele wereld om zich heen.
+[3685.98 --> 3690.74]  Is het nou geschreven stukken of kunst of wat je ook maar maakt.
+[3691.08 --> 3692.76]  Dat is gewoon een soort all you can eat buffet.
+[3693.26 --> 3694.64]  Ja, zo beschouwen ze het wel.
+[3694.76 --> 3699.44]  Maar het mag niet, laten we wel wezen.
+[3699.66 --> 3700.46]  Nee, inderdaad.
+[3700.76 --> 3703.84]  Fijn dat er wat reuring en ophef over bestaat.
+[3704.48 --> 3706.08]  Ja, je moet gewoon abonnement nemen op je kranten.
+[3706.36 --> 3708.10]  Dat is de conclusie die we hier kunnen trekken.
+[3708.10 --> 3710.04]  Neem een abonnement op een krant.
+[3710.28 --> 3712.64]  Ja, en zo kun je activistisch zijn met je eigen portemonnee.
+[3712.74 --> 3714.14]  Dat is maar weer in z'n meer bewezen.
+[3715.08 --> 3716.92]  En dan hebben we nog zelf een kort nieuwtje.
+[3717.80 --> 3718.70]  De nieuwsbrief.
+[3719.08 --> 3720.36]  Ja, want Poki gaat uitbreiden.
+[3720.48 --> 3721.68]  We hebben onze eerste medewerker.
+[3721.96 --> 3722.78]  Dat is heel erg leuk.
+[3723.16 --> 3723.92]  En ze is geweldig.
+[3724.06 --> 3724.86]  Ze is geweldig.
+[3725.16 --> 3728.02]  Ze heet Xiang en ze maakt voor ons een nieuwsbrief.
+[3728.10 --> 3733.34]  Een gratis wekelijkse nieuwsbrief die je kunt nemen met de belangrijkste painpoint, denk ik,
+[3733.38 --> 3735.08]  wat veel mensen ervaren rondom AI.
+[3735.08 --> 3736.74]  Namelijk het is helemaal niet bij te houden.
+[3736.74 --> 3738.50]  Al het nieuws wat uitkomt.
+[3738.96 --> 3739.84]  Dat is voor ons al zo.
+[3739.94 --> 3742.92]  Moet je nagaan als je niet een wekelijke podcast maakt over AI nieuws.
+[3743.00 --> 3745.10]  Het is gewoon niet te doen om dat bij te houden.
+[3745.16 --> 3746.68]  En de Nederlandse kranten doen het ook niet.
+[3746.78 --> 3747.84]  En de Nederlandse kranten doen het niet.
+[3748.42 --> 3749.78]  Dus iemand moet het doen.
+[3749.78 --> 3750.02]  Ja.
+[3750.26 --> 3754.80]  Dus wij dachten we beginnen een gratis wekelijkse nieuwsbrief met het belangrijkste nieuws uit de wereld van AI.
+[3755.18 --> 3759.10]  Daar kun je je voor aanmelden op www.ai-report.email.
+[3760.10 --> 3761.20]  Dat is dus van ons.
+[3761.52 --> 3764.94]  En we doen ook een betaalde versie.
+[3765.02 --> 3766.26]  Dan krijg je er twee keer zoveel.
+[3766.36 --> 3767.52]  Dus dan krijg je hem twee keer per week.
+[3767.52 --> 3770.42]  En dan houden we niet alleen het nieuws voor je bij.
+[3770.60 --> 3772.58]  Maar gaan we het ook veel praktischer maken.
+[3772.70 --> 3774.16]  Dus hoe kan je toepassen in je werk.
+[3774.54 --> 3775.50]  Praktische adviezen.
+[3776.00 --> 3776.30]  Tools.
+[3776.42 --> 3778.06]  Nieuwe AI tools die uitkomen.
+[3778.34 --> 3779.90]  Die we recenseren voor je.
+[3780.38 --> 3781.52]  Voorbeelden van prompts.
+[3781.86 --> 3783.24]  Die je direct kunt toepassen.
+[3783.38 --> 3783.70]  Oftewel.
+[3784.06 --> 3786.22]  Hoe pas je AI toe in je dagelijks werk.
+[3786.76 --> 3788.68]  En daarop kun je je abonneren.
+[3788.76 --> 3789.84]  Het kost 120 euro per jaar.
+[3789.96 --> 3792.08]  En daarmee betalen we dan weer die redacteur.
+[3792.08 --> 3793.38]  Die gaat nieuwe brieven maken.
+[3793.52 --> 3794.80]  Dus dat is het idee.
+[3794.80 --> 3799.66]  Als je dat leuk vindt dan kun je gaan naar www.ai-report.email.
+[3800.12 --> 3802.56]  Dat moet de autoriteit worden op AI nieuws in Nederland.
+[3802.82 --> 3804.84]  Nou moet je kijken hoe deze podcast aan het uitbreiden is.
+[3804.98 --> 3808.86]  Ja ik denk dat we onze taak serieus hebben opgevat.
+[3809.22 --> 3814.50]  En dat we nu nog helderder voorwaarts kunnen.
+[3814.98 --> 3815.48]  Ik hoop het.
+[3816.40 --> 3817.24]  Dat zijn mijn slotwoorden.
+[3817.24 --> 3820.06]  Zo zie je maar hoezeer wij onze taak serieus opvatten.
+[3820.18 --> 3822.94]  Om iedereen toch wel echt goed te informeren over AI.
+[3823.28 --> 3823.70]  Zo is dat.
+[3823.70 --> 3824.92]  Ja ons kan niks verweten worden.
+[3825.58 --> 3827.38]  Als het straks het eind van de wereld daar is.
+[3827.72 --> 3828.48]  Wij hebben het.
+[3828.88 --> 3831.66]  Wij hebben zo lang hierover al gepraat.
+[3831.82 --> 3832.02]  Ja.
+[3832.52 --> 3833.56]  We hebben ons best gedaan.
+[3833.68 --> 3834.46]  We hebben ons best gedaan.
+[3835.04 --> 3835.98]  Dank voor het luisteren.
+[3836.20 --> 3838.36]  En we danken ook Sam Hengeveld voor de edit.
+[3838.86 --> 3840.74]  En dan zijn wij er weer volgende week.
+[3840.96 --> 3841.36]  Dag.
+[3841.52 --> 3841.66]  Doei.
+[3841.66 --> 3844.48]  half u uw esteem.
+[3844.48 --> 3846.56]  Bye.
+[3852.90 --> 3861.46]  đã een suspect.

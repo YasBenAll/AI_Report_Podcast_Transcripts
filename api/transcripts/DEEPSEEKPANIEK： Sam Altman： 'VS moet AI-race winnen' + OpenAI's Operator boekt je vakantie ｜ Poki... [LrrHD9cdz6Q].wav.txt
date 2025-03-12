@@ -1,0 +1,1805 @@
+Video title: DEEPSEEKPANIEK： Sam Altman： 'VS moet AI-race winnen' + OpenAI's Operator boekt je vakantie ｜ Poki...
+Youtube video code: LrrHD9cdz6Q
+Last modified time: 2025-01-30 07:10:34
+
+------------------ 
+
+[0.00 --> 3.56]  Welkom bij Poki, de Nederlandse podcast over kunstmatige intelligentie.
+[3.66 --> 8.08]  Waar we uitzoeken welke invloed AI gaat hebben op ons werk, ons leven en de samenleving.
+[8.30 --> 10.04]  Tegenover mij zit Wietsehagen.
+[11.12 --> 11.62]  Kijk Wietse.
+[11.88 --> 18.92]  Als luisteraar van deze podcast kwam die hele deep-seek saga natuurlijk niet als een verrassing.
+[19.20 --> 25.00]  Maar wat wel degelijk als een verrassing voor mij kwam, is de mate waarin de pleuris is uitgebroken.
+[25.00 --> 29.44]  Op beurzen, de voorpagina's van kranten en familie-apps.
+[30.00 --> 31.46]  Ik zeg niks overdrevens, toch?
+[31.66 --> 33.18]  Nee, mijn familie-app stond vol.
+[33.64 --> 40.02]  Ik denk dat niet sinds de introductie van ChatGPT er een AI-techniek is geweest die voor zoveel ophef zorgde.
+[40.96 --> 45.66]  We bespreken deep-seek als cultureel fenomeen en belichten wat er tot nu toe onderbelicht is gebleven.
+[45.94 --> 51.88]  En je zou het bijna vergeten, maar OpenAI presenteerde deze week hun lang verwachte operator-agent.
+[51.88 --> 53.94]  Een AI die zelfstandige websites kan bedienen.
+[54.68 --> 58.02]  Dat en nog heel veel meer bij Poki. Veel plezier.
+[60.00 --> 72.44]  Witse, wat vond je ervan om bij het televisieprogramma Eva te zijn?
+[72.52 --> 75.90]  Want gisteren was jij mee achter de schermen. Ik mocht praten over Humanoids.
+[76.74 --> 79.62]  Een geoliede operatie.
+[79.92 --> 82.70]  Het is echt bizar, omdat het ook live is natuurlijk.
+[82.70 --> 84.68]  Het moet gewoon goed gaan.
+[85.02 --> 91.20]  En ik ben daar heel erg van, want dat creëert authenticiteit en een soort van iedereen voelt die soort echte stress.
+[91.50 --> 96.40]  Het is gewoon niet zo gelikt en daarom goed, maar ik voelde wel een beetje die stress ook daar.
+[96.60 --> 98.80]  Dingen moesten ook goed gaan. Robots staan daar.
+[99.64 --> 100.98]  De wifi moet werken.
+[101.22 --> 104.54]  Ja, en tijdens de repetitie deden veel robots, deden het niet.
+[104.54 --> 105.04]  Ja.
+[105.52 --> 108.28]  En dat was wel echt zielig, want er was een bedrijf uit Eindhoven.
+[108.58 --> 109.64]  Laten we dat nu maar even zeggen.
+[110.12 --> 110.52]  Manus.
+[111.10 --> 112.58]  En zij maken het best wel vet.
+[112.86 --> 119.60]  Een handschoen waar sensoren in zitten, waar je dus robots mee kan trainen.
+[119.74 --> 119.88]  Ja.
+[119.94 --> 126.30]  Want die sensoren zijn zo nauwkeurig, dat dus hele specifieke kleine handbewegingen opgepikt kunnen worden.
+[126.30 --> 134.22]  En ze hadden dus een handschoen en een robothand naast elkaar, waardoor ik dan, ik zou een demonstratie geven, waardoor me met mijn vingers te bewegen en dat die robothand dat dan nadoet.
+[136.14 --> 137.76]  Maar dat ding raakte oververhit.
+[137.94 --> 149.42]  En dat is echt jammer, want daarmee hadden we het punt kunnen maken dat Elon Musk deze handschoenen van dit Nederlands bedrijf uit Eindhoven gebruikt om de Optimus robots te trainen hoe ze dingen moeten pakken.
+[150.16 --> 152.18]  Maar ja, dat heeft het publiek dus moeten mis, omdat ze oververhit raken.
+[152.18 --> 157.18]  In deze tijd van AI voelt dat dan als een beetje raar.
+[157.26 --> 158.60]  Alles wordt anders, maar het is wel overhit.
+[158.72 --> 159.94]  Ja, het is wel overhit gewoon.
+[160.10 --> 163.72]  Ik kreeg nog wel een berichtje van mijn vader na de aflevering, want die wist dat ik daar ook zat.
+[163.82 --> 165.04]  Hij zo, wat was nou die hand?
+[165.22 --> 166.60]  Waarom gingen jullie die hand niet gebruiken?
+[166.88 --> 167.06]  Oh ja.
+[167.26 --> 168.72]  Dus het is wel een soort geteased.
+[169.28 --> 170.46]  Mensen hebben die hand zien staan.
+[171.08 --> 172.44]  Het zij zo, het zij zo.
+[172.76 --> 177.08]  Oké, we gaan naar het nieuws, maar niet voordat we eerst wat nieuws over onszelf gedeeld hebben, Witsen.
+[177.08 --> 179.84]  Want Poki krijgt een nieuwe naam.
+[179.84 --> 182.74]  Ja, dit zorgt natuurlijk voor donderwolken bij de luisteraar.
+[182.76 --> 183.72]  Ja, ze hebben nu al buikpijn.
+[183.84 --> 184.02]  Ik wel.
+[184.04 --> 184.84]  Nu al buikpijn.
+[185.18 --> 188.00]  Een nieuwe naam, maar wees gerust.
+[188.64 --> 189.60]  Ja, wees eigenlijk niet gerust.
+[189.66 --> 190.40]  Het is verschrikkelijk.
+[191.00 --> 193.06]  Het gaat heel erg wennen zijn.
+[193.16 --> 193.82]  Dat is wat het is.
+[194.56 --> 195.76]  Poki wordt AI report.
+[195.88 --> 200.32]  Het is voor ons heel handig, want inmiddels is ons nieuwsbrief groter geworden dan deze podcastwitsen.
+[200.36 --> 201.28]  Met alle respect voor ons.
+[201.40 --> 204.98]  Maar er zijn heel veel mensen die stiekem die nieuwsbrief hebben genomen.
+[204.98 --> 208.98]  Ja, en er zijn ook heel veel mensen die in Spotify zoeken op AI en niet op Poki.
+[209.10 --> 209.24]  Ja.
+[209.48 --> 210.34]  Dus het helpt ook.
+[210.44 --> 211.46]  Slecht voor SEO bedoel je.
+[211.58 --> 212.50]  Ja, dan moeten gewoon meer luisteraars.
+[212.52 --> 214.92]  Je moet aan je SEO denken, je moet meer luisteraars hebben.
+[215.66 --> 219.12]  Nee, we zijn, ja, die nieuwsbrief is uit de hand gelopen.
+[219.28 --> 220.02]  Dat zou je kunnen zeggen.
+[220.12 --> 222.44]  En we willen dat dat samenvalt met deze podcast.
+[222.88 --> 226.72]  Ja, en we willen wel jullie als luisteraars serieus nemen.
+[226.84 --> 228.48]  Dus wij houden ook van de naam Poki.
+[228.60 --> 229.78]  Wij vinden het ook ingewikkeld.
+[229.94 --> 231.28]  Ik heb er best wel even over gedaan.
+[231.38 --> 232.08]  Doe het ook een beetje bij.
+[232.08 --> 236.68]  Veel over gediscussieerd, maar het staat je vrij om het Poki te blijven noemen.
+[237.20 --> 238.20]  Ja, zoals Twitter.
+[238.38 --> 239.26]  Ja, doe je ding.
+[239.62 --> 244.78]  En ik denk dat we uiteindelijk onder AI Report niet zo heel veel verandering zullen merken.
+[245.06 --> 247.18]  Behalve een aantal punten die we nu nog gaan opnoemen.
+[247.32 --> 249.76]  Ja, nee, kijk, uiteindelijk verandert er natuurlijk niks.
+[249.88 --> 253.26]  Anders dan een andere naam en een nieuwe look.
+[253.42 --> 255.58]  Daar zijn we overigens ook voor op de foto geweest.
+[255.64 --> 257.44]  Bij de fotograaf van het Koninklijk Huis.
+[257.44 --> 262.62]  Wietsenhaag is op de foto geweest bij de fotograaf van het Koninklijk Huis, dames en heren.
+[262.96 --> 263.86]  Dat is heel bijzonder.
+[263.98 --> 264.66]  Bijzondere ervaring.
+[264.88 --> 267.50]  Super cringe, nerdy, de akkoord te zijn.
+[267.60 --> 268.82]  Maar het was echt een hele leuke middag.
+[268.92 --> 271.70]  Nou, die foto is in onze fantastische nieuwe huisstijl.
+[272.06 --> 273.26]  Is vanaf volgende week te zien.
+[273.34 --> 275.66]  En je ziet dan een klein glitch.
+[275.66 --> 278.18]  Kun je al zien in de vormgeving van deze week.
+[278.68 --> 280.24]  Dan is er nog meer nieuws.
+[280.34 --> 283.82]  Want je bent van ons gewend dat er allemaal reclame om deze podcast heen zit.
+[283.92 --> 285.38]  En dat is sinds een tijdje niet meer zo.
+[285.46 --> 287.50]  Want we zijn gestopt met losse adverteerders.
+[288.14 --> 291.82]  En wat we vanaf nu gaan doen is werken met één hoofdsponsor.
+[292.24 --> 294.06]  En we zijn er heel trots op dat dat Debt is.
+[294.16 --> 295.30]  Dat is een digital agency.
+[295.58 --> 299.20]  Die bedrijven helpt om qua tech en marketing voorop te blijven lopen.
+[299.34 --> 300.48]  Gigantische bedrijven overigens.
+[300.48 --> 303.42]  Met 2500 specialisten in vijf continenten.
+[303.42 --> 305.84]  Dus laten we zeggen er is nog ruimte voor groei.
+[306.04 --> 307.00]  Met bedrijving tot AI.
+[308.28 --> 314.10]  Zij werken voor Google, Bol, Philips, Eneco, Just Eat, TKW.
+[314.20 --> 315.82]  En nu dus ook met ons.
+[316.06 --> 317.04]  Dat vinden we heel erg leuk.
+[317.58 --> 320.32]  En dat is goed nieuws ook voor de luisteraar.
+[320.52 --> 324.58]  Debt zorgt er dus eigenhandig voor dat de podcast vrij beschikbaar blijft.
+[325.24 --> 326.64]  En dat is belangrijk in deze tijden.
+[326.64 --> 331.60]  Want AI heeft veel invloed op ons allemaal als gewone mensen.
+[331.78 --> 332.68]  Maar ook op bedrijven.
+[332.68 --> 336.02]  Debt helpt bedrijven door die woeste zee te navigeren.
+[336.14 --> 338.26]  En in de tussentijd komen zij lessen tegen.
+[339.30 --> 343.84]  En die lessen gaan ze voortaan wekelijks in een speciaal segment in deze podcast delen.
+[344.42 --> 346.64]  Dus ik kijk daar zeer naar uit.
+[346.90 --> 348.56]  Poki blijft gratis.
+[348.66 --> 349.74]  Maak je daar geen zorgen over.
+[350.22 --> 351.18]  Onder een andere naam.
+[351.70 --> 353.34]  Dan een vraag die ik vaak krijg.
+[353.58 --> 354.52]  Waar is Milou gebleven?
+[354.62 --> 355.66]  Ja, waar is Milou gebleven?
+[356.32 --> 357.82]  Ja, dat is een goede vraag.
+[357.82 --> 360.86]  En wij doen deze podcast nu een jaar.
+[361.68 --> 364.60]  En dat is een eeuwigheid in AI termen.
+[364.70 --> 367.18]  Want er is nogal veel gebeurd het afgelopen jaar.
+[367.40 --> 369.10]  Maar je zou ook kunnen zeggen.
+[369.60 --> 370.26]  Het is een jaar.
+[370.44 --> 371.08]  Het is best wel kort.
+[371.20 --> 373.14]  En in die tijd hebben we veel dingen geprobeerd.
+[373.24 --> 375.46]  Want deze podcast zijn we eigenlijk nu nog steeds pas aan het opzetten.
+[375.46 --> 379.12]  En in het begin dachten we doen met z'n tweeën.
+[379.20 --> 381.10]  Toen dachten we, moet er niet iemand bij?
+[381.56 --> 382.96]  Dus dat werd Milou.
+[383.32 --> 384.86]  Moeten niet iedere week gast bij?
+[384.98 --> 385.78]  Dachten we op een gegeven moment.
+[385.88 --> 387.20]  Toen werden we ook weer een beetje een soort van...
+[387.20 --> 389.18]  Dus we zijn heel erg aan het zoeken geweest naar de vormen.
+[389.28 --> 390.42]  En we hebben...
+[390.42 --> 393.52]  Ons gevoel is, we moeten de kern met z'n tweeën houden.
+[393.90 --> 399.32]  En daar dan steeds af en toe iemand bij halen als dat nodig is.
+[399.38 --> 400.62]  Dat kan bijvoorbeeld zijn als wij ziek zijn.
+[400.62 --> 402.66]  Of op vakantie willen of zo.
+[403.08 --> 404.68]  Of als we bepaalde expertise willen.
+[404.68 --> 406.96]  Dan schuivelt een van ons eruit.
+[407.08 --> 407.94]  En komt er een ander in.
+[408.14 --> 410.70]  En Milou is bijvoorbeeld bereid om dat te doen.
+[410.86 --> 411.64]  En dat is heel erg fijn.
+[411.76 --> 412.86]  Een pak van ons hart eerlijk gezegd.
+[413.50 --> 416.38]  En goed nieuws als je meer van Milou wil horen.
+[416.48 --> 420.16]  Want dan kun je namelijk iedere week luisteren naar de podcast AI Je Nieuwe Collega.
+[420.92 --> 423.06]  Daar is hij namelijk sinds kort ook bij aangeschoven.
+[423.22 --> 426.00]  Dus hoe je nagaan, dan kun je ook gewoon dat erbij doen.
+[426.28 --> 427.64]  Dat is nog vrolijk nieuws.
+[429.02 --> 429.94]  TLDR wiet ze.
+[430.90 --> 432.12]  Alle loswattestenties eruit.
+[432.64 --> 433.38]  Dept komt erin.
+[433.38 --> 435.14]  De podcast blijft vrij beschikbaar.
+[435.38 --> 435.98]  Nou, ik zou zeggen.
+[436.46 --> 438.12]  Dat is genoeg administratie voor deze week.
+[438.24 --> 438.64]  Let's go.
+[438.94 --> 439.30]  Oké.
+[440.30 --> 443.16]  Want OpenAI lanceerde vorige week Operator.
+[443.74 --> 446.90]  Een AI-agent die zelfstandig taken kan uitvoeren.
+[447.00 --> 448.22]  Je zou het bijna zijn vergeten.
+[448.36 --> 451.04]  Het is een soort van pre-deep-sfeek wereld.
+[451.12 --> 452.40]  Die voelt als een eeuwigheid geleden.
+[452.46 --> 453.58]  Maar dit is één week geleden.
+[453.58 --> 454.44]  Dat is goed hoor, luisteraars.
+[454.66 --> 454.80]  Ja.
+[456.24 --> 457.72]  Voor de mensen die dat gemist hebben.
+[457.84 --> 462.22]  Er is een research preview beschikbaar gekomen voor Amerikaans gebruikers in het Chatsypti Pro-abonnement.
+[462.34 --> 466.24]  Oftewel voor Amerikanen die 200 euro per maand betalen voor hun Chatsypti-abonnement.
+[466.84 --> 469.90]  Later voor Plus en Team en Enterprise gebruikers.
+[470.08 --> 473.54]  En volgens Sam Altman zal de uitrol in Europa een tijdje duren.
+[474.10 --> 474.74]  Oftewel wiet ze.
+[475.04 --> 475.72]  We kijken wel even.
+[476.36 --> 477.10]  Wat is het?
+[477.76 --> 480.16]  Het is de agent die we al heel lang verwachten.
+[480.42 --> 484.24]  Namelijk een browser die zichzelf kan bedienen.
+[484.60 --> 486.00]  Na het invoeren van een prompt.
+[486.34 --> 487.82]  Een voorbeeld die dan genoemd worden.
+[487.94 --> 488.86]  Zijn al een beetje uitgekoud.
+[488.96 --> 490.08]  Namelijk vliegtickets boeken.
+[490.20 --> 490.62]  Een van de andere.
+[490.78 --> 493.02]  Dat moet niet te spannend zijn.
+[493.82 --> 494.78]  Online winkelen.
+[494.90 --> 495.34]  Dat is wat hij kan.
+[495.46 --> 496.62]  Restaurantreserveringen maken.
+[496.86 --> 498.40]  Werkt in een soort van browservenster.
+[498.50 --> 499.58]  Binnen een browservenster.
+[499.70 --> 500.68]  Een weespeest in ervaring.
+[501.26 --> 505.44]  En je ziet dan hoe langzaam een muis klikt op alle knopjes voor jou.
+[505.86 --> 506.88]  Als hij zijn taak uitvoert.
+[506.98 --> 508.26]  Op het moment dat hij een kapja tegenkomt.
+[508.32 --> 509.02]  Of een wachtwoordveld.
+[509.12 --> 509.96]  Dan zegt hij keurig.
+[510.12 --> 512.06]  In een soort van JGBT stijl.
+[512.08 --> 513.28]  Wil je het even overnemen?
+[513.66 --> 515.26]  En dan gaat hij zelf weer verder.
+[516.30 --> 517.04]  Wat vind je ervan, Witsen?
+[517.32 --> 518.10]  Nou, ik denk dat.
+[518.78 --> 520.46]  Voor de mensen die nog zich afvragen.
+[520.86 --> 523.14]  Hoe word ik dan straks precies vervangen?
+[523.26 --> 524.70]  Of in dit geval in eerste instantie.
+[524.78 --> 526.12]  Hoe word ik straks geholpen?
+[526.56 --> 527.26]  Door AI.
+[527.26 --> 529.70]  Op mijn eigen computer thuis en op werk.
+[530.16 --> 531.92]  Dat is dus in zo'n operatorvorm.
+[532.30 --> 535.38]  Een soort co-pilot die ook je muis en toetsenbord overneemt.
+[535.72 --> 537.58]  En allerlei taken voor jou gaat uitvoeren.
+[537.98 --> 540.58]  Die kan je natuurlijk tijdelijk even macht geven op jouw computer.
+[540.98 --> 541.98]  Of misschien wel een nachtje.
+[542.28 --> 545.26]  Of misschien wel meerdere tegelijk op meerdere computers.
+[545.86 --> 547.68]  En dit zijn de baby steps van.
+[548.22 --> 549.78]  Oké, hoe ziet het er dan uit?
+[549.88 --> 550.30]  En vooral.
+[550.96 --> 555.16]  Hoe zorg je er dan voor dat zo'n systeem geen gekke dingen gaat doen?
+[555.56 --> 557.42]  En snap wat je eigenlijk bedoelt.
+[558.16 --> 561.06]  Extra tapjes openen en daar ook jouw creditcard gegevens invullen.
+[561.06 --> 563.22]  Maar je zegt baby steps.
+[563.60 --> 566.86]  Hoor ik daarmee tussen de regels door je het eigenlijk meest saai vindt inmiddels?
+[567.12 --> 571.14]  Nou, dat komt ook een beetje door Cloud Computer Use.
+[571.40 --> 573.36]  Die zijn niet zo goed in branding bij Entropic.
+[573.62 --> 574.72]  Operator is beetje.
+[574.98 --> 577.32]  Maar ook dat is moeilijk te installeren.
+[577.40 --> 578.22]  Kunnen wij ook niet bij.
+[578.36 --> 579.54]  Dus de vergelijking gaat daar ook op.
+[580.08 --> 585.84]  Maar ik denk, nee, dit is denk ik een logisch gevolg van het aan elkaar koppelen van allerlei soorten modellen.
+[585.84 --> 589.58]  Die kunnen kijken, die kunnen horen, die kunnen schrijven en nu ook kunnen typen en muizen.
+[590.72 --> 593.84]  Maar het is allemaal nog heel erg versie 0.1.
+[594.42 --> 598.34]  En dus als je dan je vraag is, wanneer ben je wat meer onder de indruk?
+[598.72 --> 600.06]  Is als het wat sneller gaat.
+[600.18 --> 602.60]  Want het is een heel traag systeem.
+[602.78 --> 604.48]  Als in die muis beweegt letterlijk traag.
+[604.56 --> 605.92]  Ja, dit is allemaal op te lossen.
+[606.00 --> 608.02]  Maar daardoor vind ik hem nog niet zo indrukwekkend.
+[608.02 --> 611.54]  En als het echt lange taken zijn.
+[611.66 --> 617.28]  Dus dat hij snel dingen doet waar ik normaal 10 apps tegelijk open en door elkaar klik.
+[617.34 --> 619.14]  Dus echt multitaskend.
+[619.58 --> 620.84]  Tien keer zo snel als een mens.
+[621.14 --> 623.66]  Een bestaande taak die ik wekelijks uitvoer.
+[623.80 --> 626.96]  Dan ga ik wel meer onder de indruk zijn.
+[627.12 --> 628.34]  En toch nog even die voorbeelden.
+[628.42 --> 630.94]  Want het is inmiddels echt volstrekt uitgekoud.
+[631.24 --> 632.34]  Namelijk vliegtickets boeken.
+[632.48 --> 637.02]  Wat mij een beetje de laatste use cases zijn waar ik het mezelf kan zien gebruiken.
+[637.02 --> 640.96]  Want ik vind dat een heel ingewikkeld ding.
+[641.04 --> 642.74]  Waar ik volledige controle over wil.
+[643.50 --> 646.24]  En dat ik echt niet uit handen ga geven aan die computer.
+[646.74 --> 649.40]  Maar oké, zelfs restaurantreserveringen of zo.
+[650.14 --> 652.08]  Dit wordt dan gebruikt als voorbeeld.
+[652.52 --> 656.74]  Maar ik zie mezelf gewoon dat niet doen.
+[656.86 --> 657.64]  Heel eerlijk gezegd.
+[657.84 --> 659.60]  Zoals dit systeem nu werkt.
+[660.02 --> 660.84]  Hoe bedoel je het doen?
+[662.40 --> 664.26]  Eén, het levert geen tijdswinst op.
+[664.26 --> 666.00]  Het is op dit moment gewoon echt.
+[666.00 --> 667.20]  Het is een research demo.
+[667.70 --> 669.38]  En dat blijft het ook.
+[669.44 --> 671.12]  Als het zo is zoals het nu is.
+[671.70 --> 673.18]  Kan jij je voorstellen dat zoals het nu is.
+[673.24 --> 674.80]  Dat je het ergens voor zou gebruiken vandaag?
+[675.32 --> 675.56]  Nee.
+[675.88 --> 679.72]  Nee, ik denk ook niet dat wij meer mee gaan kijken.
+[679.88 --> 681.26]  Op de manier dat je nu meekijkt.
+[681.74 --> 684.12]  Dit voelt ook echt meer als iets voor ontwikkelaars.
+[684.12 --> 690.56]  Concreet gaat het zijn dat jij een e-mail stuurt naar iets of iemand tussen aanhalingstekens.
+[690.64 --> 696.46]  Een niet bestaande collega die dan toegang heeft die nieuwe AI agent.
+[697.42 --> 699.44]  Tot een computer met software erop.
+[699.50 --> 703.60]  Die operator gebruikt en jou dan een pdf terug mailt anderhalf uur later.
+[704.00 --> 705.12]  Dan heb je dit helemaal niet gezien.
+[705.50 --> 706.74]  Of een berichtje stuurt.
+[706.74 --> 708.32]  Ik ben al een heel end.
+[708.50 --> 710.30]  Maar ik ben nu met betaalgegevens bezig.
+[710.40 --> 711.04]  Kijk je even mee.
+[711.40 --> 713.54]  En dan doe jij wat stukjes en dan laat je hem weer los.
+[714.36 --> 715.48]  Dus een korte interventie.
+[715.88 --> 717.02]  Maar misschien dat voor dingen is.
+[717.16 --> 719.66]  Bijvoorbeeld stel je stuurt soms bloemen naar mensen.
+[720.72 --> 723.24]  En je doet altijd hetzelfde.
+[723.82 --> 725.70]  Dan kan ik me wel voorstellen dat je tegen chat-up die zegt.
+[725.86 --> 726.74]  Stuur bloemen aan wietse.
+[727.14 --> 729.04]  En dat die dan de rest wel echt fixt allemaal.
+[729.28 --> 730.22]  Dat kan ik me wel voorstellen.
+[730.34 --> 731.76]  Dat moet ook helemaal op de achtergrond gebeuren.
+[731.76 --> 732.86]  En dan wil ik verder niet over nadenken.
+[733.14 --> 733.58]  Nou het kan er.
+[733.64 --> 734.98]  En ik kan me ook voorstellen dat.
+[735.80 --> 739.12]  Zeker omdat er best wel wat open source software beschikbaar is.
+[739.24 --> 741.12]  Dus het scheelt heel veel gedoe qua licenties.
+[741.40 --> 742.96]  Ik ga ergens naartoe met dit verhaal.
+[743.82 --> 745.78]  Is dat jij een hele.
+[746.38 --> 749.96]  Ik kijk wel eens mee met mensen die de chat-up die app gebruiken.
+[750.54 --> 752.02]  En dan kijk ik in hun.
+[752.18 --> 753.40]  Mag ik zeg mag ik even in je history kijken.
+[753.56 --> 754.24]  Dat doe ik niet zomaar.
+[755.20 --> 756.08]  En dan zie ik best wel.
+[758.30 --> 759.18]  Intense vragen.
+[759.32 --> 759.68]  Dat ik denk.
+[759.68 --> 763.20]  Ik denk dan zelf zeg maar als techneut denk ik.
+[763.76 --> 765.56]  Dacht je echt dat hij dit kon ofzo.
+[765.76 --> 766.64]  En dat is voor.
+[766.74 --> 767.08]  Laat ik zo zeggen.
+[767.20 --> 770.90]  Voor de niet per se technisch onderlegde chat-up die gebruiker.
+[771.08 --> 773.38]  Is het soms heel vreemd wat chat-up die wel kan.
+[773.58 --> 774.02]  En wat chat-up die.
+[774.02 --> 774.66]  Noem eens een voorbeeld.
+[774.84 --> 775.82]  Nou dan zeg jij bijvoorbeeld.
+[776.40 --> 777.76]  Ik heb hier een Excel sheet.
+[778.40 --> 780.78]  Ik wil dat je alle deze data eruit haalt.
+[780.88 --> 782.54]  En daar een pdf van maakt voor mij ofzo.
+[782.66 --> 782.80]  Ja.
+[782.96 --> 784.74]  En dan dat lukt dan heel vaak niet.
+[784.74 --> 788.50]  Want hij kan wel een soort printje maken in pdf van die Excel.
+[788.50 --> 790.22]  Maar niet een soort analyse doen.
+[790.68 --> 792.10]  Zoals jouw collega dat zou kunnen doen.
+[792.42 --> 794.40]  Of voeg deze vier Excel sheets samen.
+[794.88 --> 797.14]  En maak er een pdf van met een paar mooie grafieken erin.
+[797.46 --> 798.60]  Kijk ik kan me voorstellen.
+[798.86 --> 800.96]  Wat chat-GPT nu mag soms.
+[801.38 --> 802.84]  Is dat hij iets mag programmeren.
+[802.94 --> 803.70]  En dat doet hij ook wel eens.
+[803.80 --> 805.90]  Dus dan gaat hij op de achtergrond vlug een programmaatje maken.
+[806.12 --> 807.94]  Je ziet het nu ook heel erg in chat-GPT Canvas.
+[808.18 --> 809.60]  Die laatste geüpdate is van OpenAI.
+[810.28 --> 811.34]  In Canvas zie je ook.
+[811.40 --> 812.12]  Jij vraagt dan.
+[812.98 --> 814.02]  Kan je dit en dat voor me doen?
+[814.12 --> 814.32]  Dan zegt hij.
+[814.38 --> 815.60]  Ja ik ga wel even software bouwen.
+[815.60 --> 817.32]  Nu ter plekke voor jou om te doen.
+[817.60 --> 819.48]  En jij krijgt dan het resultaat uit die software.
+[820.18 --> 821.80]  Wat je denk ik straks zal zien.
+[822.16 --> 824.92]  Is dat die operator mag callen op de achtergrond.
+[825.06 --> 826.96]  Die hebben dan een machientje draaien ergens.
+[827.04 --> 828.36]  Met allemaal open source software erin.
+[828.42 --> 829.10]  Open source Word.
+[829.20 --> 829.90]  Open source Excel.
+[829.98 --> 830.62]  Die bestaan allemaal.
+[830.78 --> 831.46]  Ik zeg open source.
+[831.50 --> 832.88]  Omdat ze dan Microsoft niet hoeven te betalen.
+[833.32 --> 834.70]  Dus gewoon een volledige desktop computer.
+[834.70 --> 835.78]  in de cloud van OpenAI.
+[836.36 --> 838.28]  Die die taak op de achtergrond uitvoert.
+[838.52 --> 839.54]  Zonder dat jij dat ziet.
+[839.70 --> 841.32]  Dus het zijn heel veel woorden om te zeggen.
+[842.04 --> 847.68]  De skillset van chat-GPT zal de komende maanden, het komende jaar uitgebreid gaan worden.
+[847.92 --> 851.26]  Omdat chat-GPT op de achtergrond een computer aan kan sturen.
+[851.54 --> 853.38]  Om jouw vragen op te lossen.
+[854.18 --> 855.52]  Het ligt toch helemaal in de lijn der verwachting.
+[855.58 --> 858.34]  Dat hij daadwerkelijk Microsoft Word gaat gebruiken.
+[858.70 --> 859.24]  In OpenAI.
+[859.24 --> 860.68]  Gezien de deals die er zijn.
+[860.80 --> 861.76]  Denk dat Microsoft gaat zeggen.
+[861.84 --> 863.24]  Doe nou gewoon echt onze software.
+[863.38 --> 866.84]  Ik zag Sam Altman alweer selfies delen.
+[866.96 --> 868.78]  Met lachende CEO van Microsoft erop.
+[868.86 --> 869.84]  Deze week.
+[870.02 --> 872.22]  Volgens mij is dit soort meuk er eerder aan te komen.
+[872.24 --> 872.96]  Op is 365.
+[873.54 --> 874.06]  Ja precies.
+[875.52 --> 876.34]  Meer OpenAI nieuws.
+[876.44 --> 877.70]  Hij lanceerde deze week.
+[877.82 --> 879.02]  Chat-GPT-Gov.
+[879.40 --> 881.38]  Een speciale editie voor de Amerikaanse overheid.
+[882.06 --> 883.04]  En wat doet dat dan?
+[883.04 --> 885.34]  Meer beveiliging voor gevoelige gegevens.
+[885.62 --> 887.52]  Die ingevoerd moeten worden door ambtenaren.
+[887.52 --> 889.14]  In de modellen van OpenAI.
+[889.52 --> 891.02]  Binnen beveiligde hostingomgeving.
+[891.14 --> 892.80]  Die dan voldoet aan van die overheidseisen.
+[893.70 --> 897.14]  En waar gebruiken ambtenaren het nou voor?
+[897.30 --> 900.04]  Nou dat wil OpenAI al zeggen in een persbericht.
+[900.14 --> 902.06]  Namelijk het vertalen en samenvatten van documenten.
+[902.12 --> 903.24]  Het schrijven van beleidsmemo's.
+[903.30 --> 904.14]  Het genereren van code.
+[904.24 --> 905.22]  En het bouwen van applicaties.
+[905.34 --> 905.96]  Nou jip jip jip jip.
+[907.02 --> 909.74]  De mogelijke bezwaren zijn eindeloos.
+[909.74 --> 910.60]  Zou je kunnen zeggen.
+[910.82 --> 915.46]  In een tijd waarin Sam Altman openlijke steun heeft betuigd aan president Trump.
+[915.46 --> 916.42]  Zo heeft hij gezegd.
+[916.48 --> 919.28]  Trump zal in veel opzichten ongelooflijk zijn voor het land.
+[919.68 --> 921.48]  Hij steekt het niet echt onder stoelen of banken.
+[921.98 --> 925.94]  En blijft benadrukken dat de Verenigde Staten de AI-race wint van China.
+[926.14 --> 929.54]  En daar ligt natuurlijk sinds die psych weer extra nadruk op.
+[929.66 --> 931.78]  En ik zag in deze context zag ik een.
+[932.82 --> 934.72]  Nou toch enigszins verontrustende video.
+[934.72 --> 937.98]  Een moment uit de persconferentie van Stargate.
+[938.08 --> 940.10]  Waar Larry Ellison, de baas van Oracle.
+[940.24 --> 942.58]  Die dus meedoet aan dat grote investeringsproject.
+[942.68 --> 947.02]  Voor meer Amerikaanse datacentra investeringen.
+[947.50 --> 951.78]  Over de potentie van het gebruik van AI binnen de Amerikaanse overheid.
+[951.86 --> 953.86]  Luister even mee wat hij daar over te zeggen heeft.
+[953.86 --> 957.30]  En bijvoorbeeld excuses voor de dramatische muziek die hieronder zit.
+[957.30 --> 960.16]  De politie zal zijn op hun beste behaviorie.
+[961.00 --> 965.42]  Want we're constantly recording, watching en recording everything that's going on.
+[965.88 --> 967.74]  Citizens zal zijn op hun beste behaviorie.
+[968.38 --> 972.26]  Want we're constantly recording en reporting everything that's going on.
+[973.84 --> 976.52]  En het is unimpeachbaar.
+[976.52 --> 980.14]  De auto's hebben camera's op.
+[980.44 --> 982.58]  Ik denk dat we een squad car hier in een plaats.
+[982.58 --> 985.34]  Maar dat soort appels gebruiken,
+[985.54 --> 990.42]  We're using AI to monitor de video.
+[990.74 --> 991.58]  En als er een problemen,
+[992.10 --> 993.42]  AI zal de probleem en reporten het probleem.
+[993.56 --> 995.62]  En dan reporten het aan de probleem.
+[995.82 --> 998.68]  Wanneer het de sheriff of de chief of whomever.
+[999.04 --> 1000.10]  We moeten...
+[1000.10 --> 1003.44]  ...take controle van de situatie.
+[1003.86 --> 1005.60]  We hebben drones.
+[1005.60 --> 1008.06]  We hebben een soort van een shoppinge.
+[1008.06 --> 1008.74]  En ik stop.
+[1009.22 --> 1010.44]  Een drone gaat er door.
+[1010.48 --> 1011.92]  We gaan er way faster dan een police car.
+[1012.58 --> 1014.28]  Er is nooit een reden voor...
+[1014.28 --> 1015.32]  ...by the way, high speed chases.
+[1015.50 --> 1017.66]  You shouldn't have high speed chases between cars.
+[1018.28 --> 1020.00]  You just have a drone follow the car.
+[1020.40 --> 1021.80]  I mean, it's very, very simple.
+[1022.34 --> 1024.60]  A new generation of autonomous drones.
+[1025.08 --> 1026.26]  Nou, dat vind ik heel gezellig klinken.
+[1026.68 --> 1029.76]  Ja, het is altijd verfrissend als iemand het stille gedeelte hard op zegt.
+[1030.16 --> 1031.82]  Met een dramaat muziekje eronder.
+[1032.16 --> 1034.22]  Ik heb deze zonder dat muziekje gezien.
+[1035.36 --> 1036.12]  Voegt veel toe.
+[1036.12 --> 1039.32]  Ja, ik denk als wij deze toekomst niet willen,
+[1039.66 --> 1041.28]  dan hebben we daar wat keuzes in te maken.
+[1041.28 --> 1042.06]  Ja, maar het is natuurlijk...
+[1042.06 --> 1042.36]  Ja, god.
+[1042.48 --> 1044.10]  Kijk, ik koppel deze twee dingen nu aan elkaar.
+[1044.24 --> 1046.04]  Want het heeft in principe niks met elkaar te maken.
+[1046.16 --> 1049.74]  Het feit dat OpenAI een speciale versie voor de Amerikaanse overheid lanceert,
+[1049.78 --> 1051.40]  is ook weer niet helemaal...
+[1051.40 --> 1052.46]  Ja, het is niet raar.
+[1053.24 --> 1056.98]  Maar in deze tijden van Trump en laten we zeggen de...
+[1057.70 --> 1058.90]  Hoe zouden ze dat bij NSC zeggen?
+[1059.00 --> 1060.78]  De rechtsstaatelijkheid die onder druk staat.
+[1060.78 --> 1067.92]  En deze alignment met al deze AI-bazen die ook nog eens nu een extra motief hebben gekregen
+[1067.92 --> 1069.50]  om meer geld te krijgen van de Amerikaanse overheid.
+[1069.58 --> 1070.86]  Namelijk defensie.
+[1071.64 --> 1075.34]  En hier gaat het dan nog ook over het serveren van de Amerikaanse burgers.
+[1075.46 --> 1076.46]  Nou, pik dat er lekker bij.
+[1076.66 --> 1078.78]  Dat is ook nog een aardige hap uit het budget.
+[1079.36 --> 1079.78]  Er is hier...
+[1080.50 --> 1084.58]  Ja, je hoeft geen complotgekkie te zijn, denk ik,
+[1084.58 --> 1091.00]  om hier te kunnen fantaseren hoe deze technologie misbruikt kan worden.
+[1091.22 --> 1092.26]  Ja, en ik denk dat...
+[1092.26 --> 1095.52]  Ik bedoel, we zijn al beland en belanden steeds meer in een wereld
+[1095.52 --> 1097.24]  waarvan alles technisch mogelijk is.
+[1097.62 --> 1099.72]  En de vraag is, moeten we dat willen?
+[1099.80 --> 1100.88]  En ten koste van wat?
+[1101.38 --> 1105.86]  Want ja, een samenleving zonder enig incident waarin niemand meer iets durft te zeggen.
+[1106.10 --> 1107.10]  Ik weet niet of dat klopt.
+[1107.28 --> 1108.36]  Klaar afweging.
+[1109.48 --> 1111.26]  Nou, doe er mee wat je veel luisteraar.
+[1111.26 --> 1114.94]  En dan ten slotte, vorige week was er een medewerker van OpenAI
+[1114.94 --> 1117.38]  die wij in deze podcast aanhaalden.
+[1117.42 --> 1121.32]  Omdat hij opzienbaar door te stellen dat we met AI een god aan het scheppen zijn.
+[1121.42 --> 1122.92]  Ik weet niet of je dit nog kan herinneren, Witser.
+[1122.96 --> 1123.20]  Zeker.
+[1123.74 --> 1125.06]  Een beetje voorspelbaar.
+[1125.20 --> 1127.46]  Hij was op dat moment al opgestapt, zegt hij nu.
+[1127.88 --> 1130.08]  Some personal news, begon die tweet.
+[1130.18 --> 1130.78]  Nou, dan weet je het wel.
+[1131.26 --> 1133.24]  Honestly, I'm pretty terrified, schrijft hij,
+[1133.34 --> 1135.26]  by the pace of AI development these days.
+[1135.40 --> 1138.18]  When I think about where I'll raise a future family
+[1138.18 --> 1140.40]  or how much to save for retirement.
+[1140.40 --> 1144.30]  I can't help but wonder, will humanity even make it to that point?
+[1144.80 --> 1149.24]  In my opinion, the AGI race is a very risky gamble with a huge downside.
+[1149.56 --> 1152.90]  No lab has a solution to AI alignment today.
+[1153.72 --> 1159.22]  The faster we race, the less likely that anyone finds one in time.
+[1160.02 --> 1163.08]  Today, it seems like we're stuck in a really bad equilibrium.
+[1163.08 --> 1167.88]  Even if a lab truly wants to develop AGI responsibly,
+[1168.08 --> 1171.44]  others can still cut corners to catch up, maybe disastrally.
+[1172.08 --> 1174.86]  And this pushes us all to speed up.
+[1175.08 --> 1179.84]  I hope that labs can be candid about real safety rights needed to stop this.
+[1179.84 --> 1182.12]  Nou, I don't know if you're here, what you want to say.
+[1182.34 --> 1185.82]  It's a sort of alarmism is now complete in this podcast.
+[1186.00 --> 1188.98]  Nee, but I think that what you see is that best well people who are
+[1188.98 --> 1192.60]  diep betrokken are by the development of this technology,
+[1192.86 --> 1194.74]  a substantial deal of there is an opportunity to take off.
+[1194.74 --> 1223.66]  being with distance when it
+[1223.66 --> 1226.66]  Deze opzomming die ik nu maak, heb ik ook een beetje expres zo.
+[1226.74 --> 1228.32]  Ja, je zit me wel lekker neer te zetten hier.
+[1228.88 --> 1232.24]  Nou ja, en dit geeft jou natuurlijk ook een kans om terug te duwen.
+[1232.32 --> 1233.76]  En te zeggen, doe niet zo alarmistisch.
+[1234.22 --> 1236.30]  Eerlijk gezegd dacht ik dat gisteren in Jinek ook.
+[1236.36 --> 1239.98]  Dan heb je een heel item over, voor mensen die dat niet gezien hebben, over humanoids.
+[1240.28 --> 1243.18]  Een item wat wij in deze podcast natuurlijk ook al bespraken.
+[1244.10 --> 1246.60]  En dan, je kan heel veel kanten op daarmee.
+[1246.72 --> 1248.40]  Je kan het heel erg gezellig maken.
+[1248.72 --> 1251.22]  En ik kies er dan toch voor om het ongezellig te maken.
+[1251.22 --> 1257.60]  Ja, maar je zei ook heel mooi tegen mij, als ik merk in een groep met mensen ben die het niet zo serieus nemen, dan word ik een alarmist.
+[1257.76 --> 1261.66]  En als ik in een groep van alarmisten zit, dan ga ik uitleggen waarom het ook mooi is.
+[1261.86 --> 1263.16]  En dat voelde je gisteren daar niet.
+[1263.64 --> 1265.02]  Nu zit je met een mede alarmist.
+[1265.22 --> 1266.34]  Dus dat is toch een beetje ingewikkeld.
+[1266.56 --> 1268.24]  Maar ik wil hem wel omdraaien hoor.
+[1268.30 --> 1269.08]  Zal ik het eens proberen?
+[1269.44 --> 1272.44]  Ja, maar deze hè, wat wij nu gedaan hebben qua nieuws.
+[1272.56 --> 1272.84]  Zeker.
+[1273.24 --> 1277.14]  Kijk, op het moment dat je, pak een drone.
+[1277.14 --> 1281.26]  Je kan je een granaat onderhangen, maar ook een doosje met een hart erin.
+[1281.34 --> 1283.38]  Wat bezorgd moet worden bij een ziekenhuis binnen 10 minuten.
+[1283.72 --> 1284.28]  Ah, een echt hart.
+[1284.28 --> 1284.50]  Sorry.
+[1284.82 --> 1285.58]  Een donorhart.
+[1285.78 --> 1292.12]  Ja, ze worden nu een nog een, ja, levend is dan misschien het woord, maar geschikt voor transplantatie zijn hart.
+[1292.24 --> 1295.22]  Wat normaal over een snelweg gereden wordt met 200 kilometer per uur.
+[1295.54 --> 1296.40]  En dat kan nu door de lucht.
+[1296.48 --> 1298.78]  En dat wordt dan getropt in een speciale B op een ziekenhuis.
+[1298.78 --> 1302.40]  Volgens mij zeggen de meeste mensen, wauw, wat een mooie technologie.
+[1302.72 --> 1304.40]  Laten we die drones inderdaad daarvoor inzetten.
+[1304.94 --> 1308.58]  Op het moment dat je een zelfrijende auto hebt die 1200 verkeersongelukken per jaar,
+[1308.90 --> 1310.30]  dodelijke ongelukken voorkomt.
+[1310.48 --> 1313.22]  En daar zitten ook vrienden, familie en kinderen bij.
+[1313.56 --> 1314.52]  Zegt iedereen, ja, doen.
+[1314.86 --> 1315.60]  Top technologie.
+[1316.08 --> 1320.00]  Dus uiteindelijk heb je allemaal, dit is wat dan het dual use probleem heet.
+[1320.12 --> 1323.20]  Dus al die technologie hebben een minimaal dubbel gebruik, zeg maar.
+[1323.42 --> 1327.80]  Ik kan het voor duizenden dingen gebruiken, maar de dual use is, het is net zo goed een wapen
+[1327.80 --> 1330.34]  als dat het iets is wat de samenleving een stukje mooier maakt.
+[1330.88 --> 1333.44]  En als je aan mij vraagt, wat bedoel je met mooier, zeg ik altijd.
+[1334.16 --> 1335.66]  Onnodig lijden verminderen.
+[1335.96 --> 1338.04]  Ga ik nog wel een keer langer over praten wat ik daarmee bedoel.
+[1338.32 --> 1340.30]  Maar dat is voor mij waar veel mensen het wel over eens zijn.
+[1340.40 --> 1341.54]  Het is niet zo leuk als mensen lijden.
+[1341.80 --> 1343.20]  Laten we dat een beetje verminderen met elkaar.
+[1343.74 --> 1345.64]  Dus dat mensen niet overlijden door een auto.
+[1346.06 --> 1347.74]  En dat een hart eerder aankomt in een ziekenhuis.
+[1347.90 --> 1350.74]  Dat is voorkomen van heel veel onnodig lijden.
+[1351.66 --> 1355.52]  Maar je kunt ook heel veel lijden creëren met die precies diezelfde technologieën.
+[1355.52 --> 1363.14]  En waar mijn persoonlijke zorg zit, is dat als we daar niet met elkaar hardop voor strijden
+[1363.14 --> 1366.28]  en keuzes in maken en zeggen dit willen we wel en dit willen we niet.
+[1366.64 --> 1369.22]  Het gaat dan in mijn ogen niet vanzelf goed.
+[1369.42 --> 1371.80]  Dat we alleen maar leuke AI dingen krijgen.
+[1372.16 --> 1375.42]  En dat alle stomme en minder prettige AI dingen vanzelf niet gebeuren.
+[1375.82 --> 1379.16]  Weet je wat ik aan jouw voorbeeld ingewikkeld vind?
+[1379.16 --> 1382.20]  Ik was vorige week bij een lezing van Timothy Schneier.
+[1383.18 --> 1390.28]  Dat is een professor aan Yale die een boek heeft geschreven over...
+[1390.28 --> 1393.20]  Die is een expert op het gebied van authoritarianism.
+[1393.28 --> 1394.26]  Hoe zeg je dat in het Nederlands?
+[1395.32 --> 1395.82]  Wat ben je dan?
+[1396.24 --> 1398.28]  Over autoritaire leiders zou ik zeggen.
+[1398.46 --> 1398.56]  Mooi.
+[1398.56 --> 1401.58]  En hij schrijft heel veel over Rusland, over Poetin.
+[1403.06 --> 1405.44]  We gaan met wat er in Oekraïne is gebeurd.
+[1405.78 --> 1410.96]  En schrijft in zijn meest recente boek ook over de opkomst van social media en technologie.
+[1411.22 --> 1416.12]  En de manier van de nieuwe oligarchen om ons ermee eronder te houden.
+[1416.12 --> 1420.12]  En hij zegt vrijheid is ook iets...
+[1420.64 --> 1424.48]  Staat op een bepaalde manier haaks op efficiëntie.
+[1424.72 --> 1429.28]  Hij zegt in veel autoritaire regimes het volk eronder gehouden kan worden...
+[1429.28 --> 1435.00]  Is als het volk zich voorspelbaar gedraagt.
+[1435.66 --> 1438.68]  En hij zegt dat is jammer, want dat zie je nu ook gebeuren.
+[1438.88 --> 1441.48]  Mensen gaan allemaal bubbels in, vinden allemaal hetzelfde.
+[1441.94 --> 1443.56]  En er worden hoeken ingedreven.
+[1444.02 --> 1445.36]  Er is weinig verrassing meer.
+[1445.36 --> 1448.94]  En dat op een bepaalde manier kost dat ons vrijheid.
+[1449.66 --> 1454.36]  En werken naar een weg met meer efficiëntie doordat er meer levens gered worden.
+[1454.50 --> 1456.76]  Door zelfrijdende auto's of door...
+[1456.76 --> 1462.64]  Zou je zeggen dat lever dus iets op aan tijdswinst en andere vormen van efficiëntie.
+[1462.72 --> 1464.08]  En zelfs het redden van levens.
+[1464.34 --> 1464.70]  Oké.
+[1465.20 --> 1470.28]  Maar daar staat dus ook tegenover dat daarmee de wereld voorspelbaarder en daarmee minder vrij wordt.
+[1470.48 --> 1472.54]  Ja, maar ik zou hem dan iets scherper maken.
+[1472.54 --> 1474.18]  Want het woord efficiëntie ja.
+[1474.18 --> 1477.76]  Ik bedoel het hele efficiëntie en innovatie denken uit Silicon Valley is...
+[1477.76 --> 1481.48]  De hele samenleving is een soort software systeem wat we moeten optimaliseren.
+[1481.74 --> 1483.42]  De machine kan beter lopen.
+[1483.62 --> 1484.58]  Dit kunnen wij beter.
+[1485.18 --> 1488.54]  Ik denk dat daar ook een heel deel risicovermijding bij zit.
+[1488.68 --> 1491.06]  Dus een risicovermijdende samenleving.
+[1491.18 --> 1492.16]  Risk averse society.
+[1492.30 --> 1493.36]  Daar is ook veel over geschreven.
+[1493.86 --> 1497.18]  Wij zeker als Nederlanders, het zal vast een culturele oorsprong hebben...
+[1497.18 --> 1498.72]  zijn best wel risicovermijdend.
+[1498.80 --> 1501.96]  Aan de ene kant zeggen we we zijn stoer, we innoveren en we doen van alles.
+[1502.30 --> 1505.88]  Maar aan de andere kant vinden we het toch ook wel heel prettig als alles mooi in baan geleid wordt...
+[1505.88 --> 1507.02]  en dingen niet te spannend worden.
+[1507.70 --> 1512.76]  En de vraag is of het zin heeft om een samenleving...
+[1512.76 --> 1515.92]  Uiteindelijk wil je een samenleving beschermen.
+[1516.36 --> 1518.52]  Die wil je beschermen in de breedste zin van het woord.
+[1518.82 --> 1521.20]  Daar heb je allerlei instituten voor en methodieken voor.
+[1521.36 --> 1523.38]  Om te zorgen dat dingen goed lopen.
+[1523.52 --> 1524.88]  Dat een kind veilig naar school kan.
+[1525.28 --> 1526.56]  Dat een ambulance aankomt.
+[1526.70 --> 1527.44]  Je noemt het maar op.
+[1528.00 --> 1532.76]  Allemaal om daarmee te zeggen dat we al die onnodige problematiek...
+[1533.32 --> 1539.04]  die we zouden kunnen oplossen door het beter af te vangen in processen, software systemen en andere technologieën...
+[1539.04 --> 1542.30]  dat wat we kunnen verbeteren, verbeteren.
+[1542.56 --> 1546.04]  Maar op een gegeven moment is de prijs van die systemen...
+[1546.96 --> 1548.42]  tot antifraude systemen.
+[1548.50 --> 1549.08]  Even heel concreet.
+[1549.18 --> 1553.16]  Je hebt het antifraude systeem en dat antifraude systeem heb je ingesteld dat je zegt...
+[1553.16 --> 1554.92]  over drie jaar hebben wij 0% fraude.
+[1555.12 --> 1555.80]  Dat is het doel.
+[1556.34 --> 1559.12]  Om die laatste 5% fraude weg te halen...
+[1559.12 --> 1562.56]  is de prijs van de controle, zeg maar de KYC, know your customer...
+[1562.56 --> 1565.20]  zoals dat heet in het bankwezen, is gigantisch groot.
+[1565.26 --> 1567.10]  Want je gaat enorme datasets maken.
+[1567.10 --> 1568.34]  Je gaat iedereen controleren.
+[1568.34 --> 1570.18]  En je gaat mogelijk ook mensen in je netje vangen.
+[1571.14 --> 1571.50]  Toeslagenaffaire.
+[1571.86 --> 1573.66]  Die niet in dat netje gevangen hadden moeten worden.
+[1574.12 --> 1577.26]  Kijk, ik ben met mijn naïviteit, ik zeg het er maar even bij...
+[1577.26 --> 1580.62]  van mening dat we nooit zouden moeten praten over 0% van iets...
+[1580.62 --> 1582.40]  maar over hoeveel kunnen we accepteren.
+[1582.64 --> 1584.46]  Zoals creditcard maatschappijen dat doen...
+[1584.46 --> 1586.36]  die in x procent fraude accepteren.
+[1586.38 --> 1588.84]  Omdat ze zeggen die laatste procent is het niet waard.
+[1589.14 --> 1590.98]  Want op een gegeven moment hebben we dan allemaal boze klanten...
+[1590.98 --> 1591.98]  en een kapotte reputatie.
+[1592.08 --> 1593.68]  En hebben we niks meer aan het fraude bestrijden.
+[1593.68 --> 1597.70]  Nou, op precies diezelfde manier geloof ik dat wij als samenleving...
+[1597.70 --> 1599.08]  en dat is een hele moeilijke discussie...
+[1599.08 --> 1601.22]  die moeten we niet alleen hebben, die moeten we met elkaar hebben.
+[1601.74 --> 1605.68]  Wat zijn wij bereid te accepteren aan risico binnen onze samenleving...
+[1606.36 --> 1607.72]  waar we van zeggen...
+[1607.72 --> 1610.50]  We gaan de technologieknop in de breedste zin van het woord...
+[1610.50 --> 1611.72]  systemen, processen en instituten...
+[1612.40 --> 1615.72]  niet zo ver omhoog draaien, zo hard dat volume aanzetten...
+[1616.56 --> 1618.64]  dat we proberen nul verkeersdoden.
+[1618.80 --> 1620.48]  Ik zeg het is even heel cru wat ik nu zeg.
+[1620.84 --> 1621.78]  We gaan naar nul verkeersdoden.
+[1622.44 --> 1623.80]  En dan zijn...
+[1623.80 --> 1624.74]  Omdat je uiteindelijk...
+[1624.74 --> 1626.70]  Ik sla nu even een paar stappen over...
+[1626.70 --> 1629.20]  dan krijgt operatie geslaagd.
+[1629.36 --> 1630.54]  Patiënt overleden.
+[1630.90 --> 1635.00]  Oftewel, er is geen enkel risico meer in onze samenleving...
+[1635.00 --> 1636.96]  maar die samenleving is er eigenlijk ook niet meer.
+[1636.96 --> 1638.22]  Dus als jij mij vraagt...
+[1638.22 --> 1640.00]  Moeten we nou die tech wel of niet inzetten?
+[1640.32 --> 1642.04]  Moet AI nou doorontwikkeld worden of niet?
+[1642.16 --> 1644.26]  Niet jouw vraag, maar als zij dat vragen...
+[1644.26 --> 1646.90]  dan zou ik zeggen dat we met elkaar moeten afspreken...
+[1646.90 --> 1648.86]  met welk doel en tot hoever.
+[1649.02 --> 1650.96]  We worden nu zo vaak beschermd door gewoon...
+[1652.28 --> 1655.24]  incompetentie en technische onmogelijkheid...
+[1655.24 --> 1656.42]  om dingen voor elkaar te krijgen.
+[1657.12 --> 1660.34]  En nu zitten er straks in Amerika in ieder geval...
+[1660.34 --> 1663.96]  mensen aan de knoppen die de grootste techbedrijven leiden...
+[1663.96 --> 1668.34]  en ook heel erg bereid zijn om dat in de overheid te verweven.
+[1670.34 --> 1674.18]  Nee, maar bedoel, dat is het laatste wat ik er dan over zeg...
+[1674.18 --> 1675.16]  voor deze aflevering.
+[1675.58 --> 1677.80]  Als je kijkt naar Das Leben der Anderen film...
+[1677.80 --> 1681.22]  over afluistertechnologieën, afluisterpraktijken...
+[1681.22 --> 1684.98]  tijdens de vooral van de muur, Oost- en West-Duitsland.
+[1685.68 --> 1687.06]  Kijk, dat is niet zo lang geleden.
+[1687.48 --> 1689.96]  Als dat regime daar toegang had gehad tot de technologie...
+[1689.96 --> 1692.32]  die we nu al hebben, nog los van wat er ontwikkeld wordt.
+[1692.50 --> 1693.56]  Dat is best wel spannend.
+[1693.66 --> 1695.12]  En dat is gewoon niet zo lang geleden.
+[1695.60 --> 1698.06]  Zijn wij dan nu ineens radicaal psychologisch veranderd...
+[1698.06 --> 1700.44]  allemaal als mens in 50 jaar of in 70 jaar?
+[1700.52 --> 1701.36]  Ik geloof dat gewoon niet.
+[1702.40 --> 1703.84]  Nou, heb je nog iets gezelligs te vertellen?
+[1704.70 --> 1707.96]  Ja, nou, dat ik wel geloof...
+[1708.74 --> 1709.50]  en dat is...
+[1709.50 --> 1711.96]  ik ben een disciple van mijn opleiding in Enschede...
+[1712.90 --> 1714.96]  dat technologisch determinisme...
+[1715.74 --> 1717.64]  dus het idee dat alles toch wel gaat gebeuren...
+[1717.64 --> 1719.44]  en dat we daar weinig over te zeggen hebben...
+[1719.44 --> 1720.12]  dat is gewoon niet waar.
+[1720.72 --> 1721.36]  Dat is alleen maar...
+[1721.36 --> 1723.20]  dat is sowieso waar als je dat gelooft...
+[1723.20 --> 1724.06]  want dan doe je er gewoon aan mee...
+[1724.06 --> 1725.18]  en dan wordt het waar door wat je gelooft.
+[1725.28 --> 1726.88]  Maar het is gewoon niet waar...
+[1726.88 --> 1729.12]  omdat we in het verleden nee hebben gezegd tegen dingen...
+[1729.12 --> 1730.66]  en we kunnen ook dingen terugdraaien.
+[1730.98 --> 1734.64]  Maar we beginnen nu ons wel langzaam...
+[1734.64 --> 1736.66]  wat dan een iron cage heet, zoek er eens op...
+[1736.66 --> 1737.60]  er is veel over geschreven...
+[1737.60 --> 1739.50]  in een soort stalen kooi...
+[1739.50 --> 1740.96]  die we aan het bouwen zijn voor onszelf.
+[1741.08 --> 1743.14]  Ja, oké, maar dan moeten we hier ook niet aan meegaan doen...
+[1743.14 --> 1744.30]  aan dat technologisch determinisme.
+[1744.44 --> 1745.06]  Maar betekent dat...
+[1745.06 --> 1746.30]  is dat een oproep aan jezelf...
+[1746.30 --> 1748.02]  om optimistisch te blijven...
+[1748.02 --> 1749.86]  of om te blijven zoeken waar de gaten zitten...
+[1749.86 --> 1751.48]  waarbij je het voor het goede kan inzetten.
+[1751.54 --> 1752.72]  Mijn optimisme is...
+[1752.72 --> 1754.08]  dat we er vorm aan kunnen geven.
+[1754.66 --> 1756.76]  Ik denk dat ik nu...
+[1756.76 --> 1758.24]  en dat klopt misschien niet...
+[1758.24 --> 1760.78]  mensen uitnodig om urgentie te voelen...
+[1760.78 --> 1761.94]  om er actie van...
+[1761.94 --> 1762.56]  Ja, precies, dat is stap één.
+[1762.76 --> 1763.90]  Ja, maar het moeilijke daarvan is...
+[1763.90 --> 1764.92]  is wat we dan doen...
+[1764.92 --> 1766.68]  is alarmisme gebruiken...
+[1766.68 --> 1768.08]  om urgentie te creëren...
+[1768.08 --> 1769.02]  Om positieve dingen te creëren.
+[1769.02 --> 1771.28]  Ja, en ik merk dat dit ding...
+[1771.28 --> 1773.24]  hij lijkt niet helemaal lekker te werken nog.
+[1773.38 --> 1773.60]  Nee.
+[1773.76 --> 1774.94]  Misschien is het niet het juiste.
+[1774.94 --> 1776.66]  Alleen dan te zeggen...
+[1776.66 --> 1778.22]  je moet mensen betrekken...
+[1778.22 --> 1781.32]  bij het technologie vormgeven...
+[1781.32 --> 1782.26]  in de breedste zin...
+[1782.26 --> 1783.46]  door ze enthousiast te maken.
+[1783.74 --> 1783.90]  Ja.
+[1784.40 --> 1785.14]  Ook misschien.
+[1785.36 --> 1786.66]  Ja, en het is ook ergens...
+[1786.66 --> 1788.40]  denk ik heel beperkt aan ons...
+[1788.40 --> 1790.50]  om mensen...
+[1790.50 --> 1792.50]  alarmist...
+[1793.10 --> 1793.92]  zeg maar om...
+[1793.92 --> 1795.38]  ik vind het ergens ook een beetje kom...
+[1795.38 --> 1796.50]  dat we alarmistischer...
+[1797.38 --> 1798.82]  over dingen zouden doen.
+[1798.82 --> 1800.16]  Ik geloof niet echt dat we dat doen.
+[1800.42 --> 1802.30]  Maar alarmistischer zouden doen...
+[1802.30 --> 1803.22]  dan dat we echt denken...
+[1803.22 --> 1804.32]  om mensen wakker te schudden.
+[1804.38 --> 1806.62]  Want daarmee sla je ook je geloofwaardigheid...
+[1806.62 --> 1807.68]  nou ja...
+[1807.68 --> 1808.68]  werp je...
+[1808.68 --> 1809.32]  ten grabbel.
+[1809.76 --> 1811.28]  Nou ja, er is sowieso veel cynisme...
+[1811.28 --> 1812.52]  rondom het hele alarmisme...
+[1812.52 --> 1813.54]  dus het werkt gewoon niet zo goed.
+[1814.20 --> 1815.96]  Alleen, er is ook heel veel cynisme...
+[1815.96 --> 1816.32]  om...
+[1816.32 --> 1817.74]  er wordt mij de wereld beloofd...
+[1817.74 --> 1819.58]  en Silicon Valley gaat de hele wereld genezen...
+[1819.58 --> 1820.68]  van alle ailments...
+[1820.68 --> 1821.80]  die er zijn nog.
+[1821.80 --> 1825.82]  Dus ik denk dat het voor ons nu hard op puzzelen is...
+[1825.82 --> 1829.94]  hoe zorg je ervoor dat mensen gaan geloven...
+[1829.94 --> 1831.72]  dat ze invloed kunnen hebben...
+[1831.72 --> 1833.72]  op hoe technologie zich vormt...
+[1834.32 --> 1836.72]  in, op, bij en met een samenleving...
+[1836.72 --> 1839.28]  en hoe zorg je ervoor dat mensen snappen...
+[1839.28 --> 1842.32]  dat je dat vormen al vrij vroeg moet doen...
+[1842.32 --> 1843.86]  want achteraf nog iets vormen...
+[1843.86 --> 1844.86]  wat al geïntegreerd is...
+[1844.86 --> 1846.34]  is wel heel moeilijk gebleken.
+[1846.50 --> 1846.58]  Ja.
+[1847.34 --> 1849.64]  Nou luisteraar, we doen dit ook voor jou...
+[1849.64 --> 1851.40]  dus als je denkt...
+[1851.40 --> 1852.56]  mag allemaal...
+[1852.56 --> 1854.08]  jullie missen dit element...
+[1854.08 --> 1855.08]  het mag allemaal wat gezelliger...
+[1855.08 --> 1855.92]  laat het vooral weten.
+[1856.34 --> 1857.14]  Je weet hebben we er wat aan.
+[1858.62 --> 1859.84]  De afgelopen twee jaar...
+[1859.84 --> 1861.82]  heerste er in de technologiesector de overtuiging...
+[1861.82 --> 1863.48]  dat voor de ontwikkeling van AI...
+[1863.48 --> 1865.02]  alleen de allerbeste chips...
+[1865.02 --> 1866.48]  de grootste datacenters...
+[1866.48 --> 1868.36]  en de meeste en kwalitatieve data...
+[1868.36 --> 1870.68]  en heel veel geld...
+[1870.68 --> 1871.72]  je naar de top zouden brengen.
+[1872.16 --> 1873.00]  En daardoor leek het...
+[1873.00 --> 1875.12]  alsof alleen de grootste en rijkste techbedrijven...
+[1875.12 --> 1877.36]  in staat waren om echt te concurreren...
+[1877.36 --> 1878.50]  qua AI-ontwikkeling.
+[1878.50 --> 1881.34]  Maar toen was daar DeepSeek.
+[1881.94 --> 1884.92]  En dat hadden we op zich al een tijdje in de gaten.
+[1885.10 --> 1888.26]  Maar het moment dat het helemaal uit de klauwen liep...
+[1888.26 --> 1889.74]  was toen DeepSeek opeens...
+[1889.74 --> 1891.40]  de meest gedownloaden gratis applicaties...
+[1891.40 --> 1892.62]  in Apples App Store was.
+[1892.84 --> 1896.26]  En sinds de lancering van Chattieptie eind 22...
+[1896.26 --> 1898.20]  is er geen AI-product geweest...
+[1898.20 --> 1900.94]  met zo'n intense wereldwijde reactie.
+[1901.36 --> 1902.76]  Beleggers zagen in DeepSeek...
+[1902.76 --> 1903.94]  een soort keerpunt...
+[1903.94 --> 1906.46]  voor de manier waarop we tot nu toe omgaan...
+[1906.46 --> 1908.12]  met AI-investeringsplannen...
+[1908.12 --> 1909.38]  van grote technologiebedrijven.
+[1909.78 --> 1911.32]  De Nasdaq crashte.
+[1912.42 --> 1914.72]  En nou ja...
+[1914.72 --> 1917.06]  ondanks dat dat dinsdag enigszins herstelde...
+[1917.06 --> 1918.32]  is er wel een soort van...
+[1918.32 --> 1919.68]  vibe-shift geweest, zou ik zeggen.
+[1920.30 --> 1922.52]  Donald Trump benadrukte dat...
+[1922.52 --> 1925.36]  Amerikaanse bedrijven uiterst gefocust moeten zijn...
+[1925.36 --> 1926.64]  op concurrentie aangezien...
+[1926.64 --> 1928.22]  de VS nu het risico loopt...
+[1929.06 --> 1930.60]  de voorsprong op het AI-gebied...
+[1930.60 --> 1933.48]  te verliezen aan rivaal China.
+[1933.48 --> 1936.84]  Laten we beginnen, Witsen, met de heftigheid van de reactie.
+[1937.16 --> 1938.74]  Nog even voordat we het over DeepSeek...
+[1938.74 --> 1939.62]  verder technisch gaan hebben.
+[1939.90 --> 1940.48]  Maar...
+[1940.48 --> 1943.04]  verbaas je dat dit het...
+[1943.04 --> 1944.46]  zeg maar sinds Chattieptie...
+[1944.46 --> 1946.00]  toen iedereen in rap en roer was...
+[1946.00 --> 1947.66]  dat dit het ding zou zijn...
+[1947.66 --> 1950.78]  waarop iedereen opnieuw in rap en roer zou raken?
+[1951.30 --> 1952.14]  Hoe begrijp je het wel?
+[1952.40 --> 1953.74]  Nou, nu begrijp ik het.
+[1954.18 --> 1955.74]  Maar toen dit gebeurde...
+[1955.74 --> 1957.96]  en ik vanuit allerlei hoeken in mijn omgeving...
+[1957.96 --> 1959.48]  van mensen die zich niet zo druk maken om AI...
+[1959.48 --> 1961.70]  allemaal appjes kreeg met...
+[1961.70 --> 1963.32]  jij bent toch met AI bezig...
+[1963.32 --> 1965.06]  heb je dit DeepSeek ding al gelezen?
+[1965.20 --> 1966.14]  Wat ik altijd heel lief vind...
+[1966.14 --> 1967.64]  want het zijn eigenlijk mensen die gewoon zeggen...
+[1967.64 --> 1968.90]  we willen met jou verbinden.
+[1970.22 --> 1971.06]  Dan voel ik...
+[1971.06 --> 1972.76]  ja, dat is gewoon mijn soort...
+[1972.76 --> 1974.80]  intuïtie ding...
+[1974.80 --> 1975.18]  dat ik denk...
+[1975.18 --> 1976.52]  hé, wat is hier ineens aan het gebeuren?
+[1976.60 --> 1977.54]  Nou, dan ga ik naar NOS...
+[1977.54 --> 1978.70]  helemaal vol met DeepSeek...
+[1978.70 --> 1980.16]  en Nu.nl vol met DeepSeek.
+[1980.48 --> 1980.98]  En toen dacht ik...
+[1980.98 --> 1982.92]  hé, dit heeft op een of andere manier...
+[1982.92 --> 1984.86]  is die hele grote ijsberg...
+[1984.86 --> 1985.70]  onder water...
+[1985.70 --> 1986.30]  waar jij en ik...
+[1986.30 --> 1987.46]  heel de tijd omheen aan het varen zijn...
+[1987.46 --> 1988.44]  met een onderzeer...
+[1988.44 --> 1990.60]  die prikt blijkbaar nu boven het water uit...
+[1990.60 --> 1992.14]  en mensen zijn er allemaal over aan het praten.
+[1992.38 --> 1993.66]  Het is zichtbaar geworden...
+[1993.66 --> 1995.26]  voor de meeste mensen.
+[1995.40 --> 1996.40]  Toen dat gebeurde...
+[1996.40 --> 1998.44]  was ik wel een beetje verbaasd...
+[1998.44 --> 1999.66]  maar nu...
+[1999.66 --> 1999.84]  we...
+[1999.84 --> 2000.72]  en ik ben niet de enige...
+[2000.72 --> 2002.30]  er zijn allemaal analisten geweest...
+[2002.30 --> 2004.00]  die hebben proberen achteraf te begrijpen...
+[2004.00 --> 2005.20]  wat gebeurde hier nou?
+[2005.34 --> 2006.98]  Want het was een soort perfect storm ook wel...
+[2006.98 --> 2007.88]  van verschillende dingen.
+[2007.88 --> 2010.60]  En dit is mijn lezing tot nu toe...
+[2010.60 --> 2011.86]  die ik bij elkaar heb kunnen rapen.
+[2012.66 --> 2013.60]  Ten eerste...
+[2013.60 --> 2014.26]  nee, niet ten eerste.
+[2014.60 --> 2016.04]  Een van de dingen die zo is...
+[2016.04 --> 2018.32]  is dat er een app in de App Store staat...
+[2018.32 --> 2019.58]  die gratis is...
+[2019.58 --> 2021.30]  die even slim is...
+[2021.30 --> 2023.48]  als O1 van ChatGPT...
+[2023.48 --> 2024.58]  waar jij en ik...
+[2024.58 --> 2025.72]  al aan gewend zijn geraakt.
+[2025.78 --> 2026.98]  We hebben afleveringen...
+[2026.98 --> 2028.06]  achter elkaar opgenomen...
+[2028.06 --> 2029.36]  over Chain of Thought...
+[2029.36 --> 2030.70]  en O1 kan nadenken...
+[2030.70 --> 2032.10]  en controleert zijn eigen huiswerk.
+[2032.46 --> 2033.64]  Maar dat was alleen beschikbaar...
+[2033.64 --> 2034.68]  voor de Plus gebruikers.
+[2035.12 --> 2036.34]  Dus net als de vorige keer...
+[2036.34 --> 2037.86]  toen we Poki begonnen...
+[2037.86 --> 2038.82]  AI Report...
+[2038.82 --> 2039.78]  ik moet nog wennen...
+[2039.78 --> 2040.24]  aan dat we redden...
+[2040.24 --> 2041.24]  het podcast begonnen...
+[2041.96 --> 2042.92]  is dat...
+[2042.92 --> 2044.24]  toen iedereen...
+[2044.24 --> 2045.20]  na onze lezingen...
+[2045.20 --> 2046.52]  en afleveringen zei...
+[2046.52 --> 2048.02]  ja, ik heb ChatGPT nog gebruikt...
+[2048.02 --> 2048.42]  het is niks.
+[2048.50 --> 2048.98]  En dat wij zeiden...
+[2048.98 --> 2050.42]  ja, je moet wel vier gebruiken...
+[2050.42 --> 2051.44]  want vier is beter.
+[2051.56 --> 2053.24]  Nou, dat is nu weer gebeurd met O1.
+[2053.68 --> 2054.82]  Wat gebeurt er bij DeepSeq?
+[2054.90 --> 2055.72]  Die is gratis.
+[2055.88 --> 2057.24]  Het is O1-achtig...
+[2057.80 --> 2059.52]  en nog veel belangrijker...
+[2059.52 --> 2061.22]  het laat expliciet zien hoe het denkt.
+[2061.62 --> 2062.24]  Dus want ik heb letterlijk...
+[2062.88 --> 2064.36]  mensen in mijn omgeving opgebeld...
+[2064.36 --> 2064.86]  en gezegd...
+[2064.86 --> 2066.48]  wil je me alsjeblieft uitleggen...
+[2066.48 --> 2067.48]  waarom jij ineens...
+[2067.48 --> 2069.26]  die DeepSeq app zo cool vindt...
+[2069.26 --> 2071.12]  want ik ben zo disconnected...
+[2071.12 --> 2072.16]  als supernerd...
+[2072.16 --> 2072.96]  ik snap het gewoon niet.
+[2073.02 --> 2073.56]  En zij zei...
+[2073.56 --> 2074.60]  ja, maar hij denkt.
+[2075.26 --> 2075.76]  Hij denkt.
+[2075.88 --> 2077.00]  En dan moet ik me echt inhouden...
+[2077.00 --> 2078.32]  om niet zo'n snop te zijn...
+[2078.32 --> 2079.34]  die dan zegt van...
+[2079.34 --> 2080.30]  oh, wist je dat nog niet?
+[2080.44 --> 2080.80]  Weet je wel?
+[2080.84 --> 2081.16]  En ik zei...
+[2081.16 --> 2081.84]  hoe bedoel jij het denkt?
+[2081.88 --> 2083.04]  Nee, ik kan gewoon helemaal meelezen.
+[2083.14 --> 2084.72]  Ik vind eigenlijk het denken...
+[2084.72 --> 2085.76]  nog leuker dan de antwoorden.
+[2086.18 --> 2087.12]  Dus daar is een soort...
+[2087.12 --> 2088.32]  cultureel fenomeen.
+[2088.44 --> 2089.48]  Dus de...
+[2089.48 --> 2091.26]  gratis beschikbaarheid...
+[2091.26 --> 2093.12]  van expliciet nadenkende...
+[2093.12 --> 2094.16]  chain of thought modellen...
+[2094.16 --> 2096.34]  voor de gemiddelde mens...
+[2096.34 --> 2096.54]  Ja, natuurlijk.
+[2096.72 --> 2098.32]  Voor mensen die niet 20 dollar...
+[2098.32 --> 2099.70]  willen betalen van een kut app.
+[2099.88 --> 2100.84]  Ja, mega revolutie.
+[2100.98 --> 2101.34]  Dus...
+[2101.34 --> 2103.10]  en dan dat gekoppeld nog aan...
+[2103.10 --> 2104.52]  het is een Chinees bedrijf.
+[2104.76 --> 2105.20]  Spannend.
+[2105.20 --> 2105.64]  China.
+[2105.86 --> 2107.06]  Dus dat creëert nog een soort...
+[2107.06 --> 2108.36]  extra boost, heb ik het idee.
+[2109.30 --> 2109.92]  Voor mensen.
+[2110.04 --> 2111.14]  En dan ook nog de media...
+[2111.14 --> 2112.20]  die er op springt en zegt...
+[2112.20 --> 2113.34]  dit is gemaakt in een garage...
+[2113.34 --> 2114.44]  voor 30 euro in de Mars.
+[2114.82 --> 2116.84]  En het is veel beter en slimmer.
+[2116.96 --> 2118.12]  En haha, die Amerikanen.
+[2118.18 --> 2119.24]  Dat ga ik wel nuanceren.
+[2119.42 --> 2120.42]  Dat is gewoon niet helemaal waar.
+[2120.66 --> 2121.44]  Maar het is zo gek...
+[2121.44 --> 2123.30]  want het duurde...
+[2123.30 --> 2124.66]  een paar dagen sowieso...
+[2124.66 --> 2126.74]  maar eigenlijk in de praktijk langer...
+[2126.74 --> 2127.74]  voordat...
+[2127.74 --> 2130.78]  wat de kern van het verhaal...
+[2130.78 --> 2132.12]  economisch lijkt te zijn...
+[2132.12 --> 2132.78]  is...
+[2132.78 --> 2134.04]  het kan heel goedkoop.
+[2134.04 --> 2136.36]  Dit is een soort van...
+[2136.36 --> 2138.14]  factor 10 tot 100...
+[2138.14 --> 2139.36]  goedkoper dan hoe...
+[2140.22 --> 2141.14]  OpenAI dit doet.
+[2141.26 --> 2142.24]  En daarmee vervalt...
+[2142.24 --> 2143.54]  het hele businessmodel...
+[2143.54 --> 2144.86]  van die grote techbedrijven...
+[2144.86 --> 2146.02]  zoals ze ons dat voorspiegelen.
+[2146.08 --> 2146.98]  Dus de beurs stort in.
+[2147.32 --> 2148.32]  Maar dat feit...
+[2148.32 --> 2149.76]  ik verwacht van beleggers...
+[2149.76 --> 2150.88]  dat zij erop zitten...
+[2150.88 --> 2152.12]  als het ons over geld gaat.
+[2152.20 --> 2153.32]  En hij viel pas bij de app.
+[2153.52 --> 2154.76]  En het viel pas bij de app.
+[2154.84 --> 2156.12]  Dus het is alsof die app...
+[2156.12 --> 2157.18]  en dat mensen daar dan...
+[2157.18 --> 2158.14]  over gaan praten...
+[2158.14 --> 2159.50]  dan pas het moment is...
+[2159.50 --> 2161.22]  waarop die hele Nesdeck...
+[2161.22 --> 2163.72]  beleggers wakker worden...
+[2163.72 --> 2165.36]  of in ieder geval gaan reageren erop.
+[2165.80 --> 2167.02]  Ik vond het gewoon zo raar.
+[2167.14 --> 2169.04]  Maar het is wel zo dat...
+[2169.04 --> 2170.62]  het is wel zo...
+[2170.62 --> 2171.94]  wat zo zou kunnen zijn...
+[2171.94 --> 2173.22]  is dat...
+[2173.22 --> 2174.04]  kijk, ik begreep...
+[2174.96 --> 2178.26]  het is al een aantal maanden de meme...
+[2178.26 --> 2180.04]  dat de hele techsector...
+[2180.04 --> 2181.04]  omhoog gehouden wordt...
+[2181.04 --> 2181.96]  door NVIDIA stock.
+[2182.36 --> 2183.70]  Dus als jij nu een ETF hebt...
+[2183.70 --> 2185.50]  een verzameling van allemaal techaandelen...
+[2185.50 --> 2186.90]  dan zit NVIDIA daartussen...
+[2186.90 --> 2188.98]  waardoor jouw hele portfolio stijgt...
+[2188.98 --> 2190.56]  maar eigenlijk wordt het hele schip...
+[2190.56 --> 2192.44]  omhoog getrokken door één superaandeel.
+[2192.62 --> 2193.46]  En nog een paar van die...
+[2193.46 --> 2194.72]  maar NVIDIA is wel een opvallende.
+[2194.84 --> 2196.24]  Keer 8 in anderhalf jaar of zo.
+[2196.30 --> 2196.72]  Niet normaal.
+[2197.92 --> 2199.02]  Dat maakt het dus ook...
+[2199.02 --> 2200.46]  een heel erg fragiel aandeel...
+[2200.46 --> 2202.50]  want dat is zo opge...
+[2202.50 --> 2203.76]  dat is zo'n plofkip inmiddels.
+[2203.86 --> 2204.84]  Dat kan natuurlijk eigenlijk niet.
+[2205.12 --> 2206.62]  Er zit heel veel lucht in die kip.
+[2206.72 --> 2207.84]  Of heel veel water in dit geval.
+[2208.00 --> 2208.12]  Sorry.
+[2208.50 --> 2209.24]  Dus het schiet niet op.
+[2209.56 --> 2212.12]  Dus dat was al een vrij wankel aandeel.
+[2212.12 --> 2213.12]  Wat je dan nu ziet...
+[2213.72 --> 2216.12]  omdat het voor zoveel beleggers...
+[2216.94 --> 2219.12]  en daar zijn heel veel particuliere beleggers bij tegenwoordig...
+[2219.74 --> 2221.84]  heel moeilijk is om echt te begrijpen...
+[2221.84 --> 2223.46]  wat die fundamentele technologie nou is.
+[2223.58 --> 2225.62]  Wij zitten hier te horten en te stotteren...
+[2225.62 --> 2226.92]  iedere week om het zelf uit te leggen.
+[2227.02 --> 2227.94]  Het is best wel complex.
+[2228.16 --> 2229.08]  Met allemaal lagen.
+[2229.18 --> 2230.94]  Hele spekkoek aan lagen en infrastructuur.
+[2231.54 --> 2233.12]  En dan blijkt dus...
+[2233.90 --> 2237.12]  dat pas op het moment dat alles samenkomt...
+[2237.12 --> 2238.70]  het is een typische last mile ding.
+[2238.82 --> 2239.92]  De last mile was crossed.
+[2240.02 --> 2241.52]  Namelijk hier heb je een gratis app...
+[2241.52 --> 2243.10]  op je iPhone die iedereen kan downloaden...
+[2243.10 --> 2243.88]  in de Apple App Store.
+[2244.24 --> 2245.94]  En Android tegelijk gelanceerd.
+[2246.08 --> 2247.84]  En dan valt het kwartje bij iedereen ineens.
+[2248.08 --> 2248.86]  Wat krijgen we nou?
+[2249.28 --> 2250.72]  Dit is even goed als chat GPT...
+[2250.72 --> 2252.74]  maar dan gratis en leest nog leuker.
+[2253.18 --> 2254.72]  En dan valt dat kwartje.
+[2254.96 --> 2257.52]  Wat gek is, want het R1 model...
+[2258.44 --> 2259.92]  wat ook nog eens open source is...
+[2259.92 --> 2260.68]  gaan we straks over praten.
+[2261.14 --> 2262.88]  Laten we dat nog even naar buiten deze discussie houden.
+[2262.90 --> 2263.62]  Er is meer aan de hand.
+[2264.60 --> 2266.52]  R1 van DeepSeek is inmiddels...
+[2267.04 --> 2268.84]  uit mijn hoofd anderhalf week oud.
+[2268.84 --> 2269.64]  Niet zo heel lang.
+[2269.64 --> 2271.86]  Dat wij hem op Hugging Face konden downloaden.
+[2272.40 --> 2274.22]  En dat hij beschikbaar was...
+[2274.22 --> 2276.10]  in de API van DeepSeek op de website.
+[2276.60 --> 2277.64]  Pas toen de app uitkwam...
+[2278.24 --> 2279.56]  brak de pleuris uit.
+[2279.68 --> 2280.84]  Ik zeg het maar even op z'n Rotterdams.
+[2281.66 --> 2282.64]  Maar V3...
+[2283.68 --> 2286.98]  het model waarop R1 eigenlijk een variant is...
+[2286.98 --> 2287.78]  is van kerst.
+[2288.42 --> 2290.80]  En daarvan werd toen al gezegd...
+[2290.80 --> 2292.92]  hé, dit is gewoon GPT-4 getraind...
+[2292.92 --> 2295.70]  voor 25 keer zo snel...
+[2295.70 --> 2297.18]  tien keer zo weinig hardware voor gebruikt.
+[2297.44 --> 2298.80]  Oh, en by the way...
+[2298.80 --> 2299.96]  dit is in China getraind.
+[2300.28 --> 2301.84]  Die mochten die GPU's niet eens hebben.
+[2302.16 --> 2302.64]  Hoe hebben ze...
+[2302.64 --> 2303.52]  Dit was met kerst, hè?
+[2303.64 --> 2305.30]  Hoe hebben ze dit nou weer voor elkaar gekregen?
+[2305.72 --> 2308.52]  Maar toch moesten er wat extra druppels in die emmer...
+[2308.52 --> 2310.52]  moesten er wat gewichtjes op dat balansje gezet worden.
+[2310.52 --> 2311.52]  Maar laten we hem dan toch omdraaien.
+[2311.74 --> 2313.76]  Waarom heb jij toen niet aan de bel getrokken...
+[2313.76 --> 2314.74]  als je dit allemaal wel wist?
+[2314.86 --> 2315.56]  Nou, ik heb het...
+[2315.56 --> 2316.52]  in deze podcast.
+[2317.46 --> 2319.46]  Ik wil allereerst even mijn excuses aanbieden.
+[2319.70 --> 2320.76]  En de luisteraar.
+[2320.90 --> 2321.62]  Ja, godverdomme.
+[2321.62 --> 2321.82]  Jammer.
+[2322.04 --> 2322.92]  Ik word verwacht...
+[2322.92 --> 2323.70]  Dit is dan met onze ETF's.
+[2323.90 --> 2324.70]  Ja, jammer.
+[2325.30 --> 2326.50]  Had je bij kunnen zijn.
+[2326.96 --> 2328.82]  Had je dat longs moeten zetten...
+[2328.82 --> 2329.28]  of hoe heet dat...
+[2329.28 --> 2330.28]  Nou ja, je shorts moeten zetten.
+[2330.30 --> 2330.74]  Short moeten gaan.
+[2331.74 --> 2333.42]  Voordat dit BNR wordt...
+[2333.42 --> 2335.28]  Maar als ik shorts en longs naar elkaar hou...
+[2335.28 --> 2336.74]  weet je dat je niet naar mij moet luisteren.
+[2336.74 --> 2338.64]  En je moet zeker niet naar mij luisteren...
+[2338.64 --> 2339.56]  als het om investering gaat.
+[2341.44 --> 2343.14]  Waarom heb jij het niet gezegd met de kerst?
+[2343.46 --> 2343.82]  Oké.
+[2343.82 --> 2346.78]  Ik ga proberen te analyseren wat hier misgegaan is.
+[2346.92 --> 2347.20]  Bij mij.
+[2348.34 --> 2349.68]  Ik ga eerst even flexen...
+[2349.68 --> 2351.34]  dat ik DeepSeq natuurlijk al veel langer ken.
+[2351.40 --> 2352.72]  Nou, mijn probleem wel en me erger.
+[2352.88 --> 2353.02]  Ja.
+[2353.36 --> 2354.36]  Dus ik had het moeten weten.
+[2354.92 --> 2357.40]  Ik gebruikte DeepSeq soms...
+[2357.40 --> 2359.42]  omdat er een DeepSeq V2-coder was.
+[2359.52 --> 2360.98]  Dus dat is het model voor die V3...
+[2360.98 --> 2362.12]  waar je mee kon programmeren.
+[2362.56 --> 2364.60]  Die echt cheap was om te gebruiken.
+[2364.84 --> 2366.32]  Niet zo goed als wat ik normaal gebruikte...
+[2366.32 --> 2367.60]  maar echt een tiende van de prijs.
+[2367.66 --> 2368.68]  Dus ik was toen al...
+[2368.68 --> 2370.04]  de Nederlander die ik ben...
+[2370.04 --> 2371.66]  soms aan het switchen naar hun API.
+[2371.66 --> 2374.08]  Want ik denk, ja, hier gaat toch geen persoonlijke informatie in.
+[2374.12 --> 2374.98]  Dus mijn eigen software...
+[2374.98 --> 2375.92]  ik vind het allemaal niet zo spannend.
+[2376.38 --> 2378.52]  Dus ik kende, met alle respect...
+[2379.18 --> 2381.52]  DeepSeq als het goedkope alternatieve modelletje...
+[2382.18 --> 2383.64]  op Cloud 3.5 zond het.
+[2383.64 --> 2383.74]  Ja.
+[2383.74 --> 2385.14]  In de V2-vorm.
+[2385.54 --> 2386.80]  Toen kwam de V3 uit.
+[2386.92 --> 2388.40]  Daar stond, ja, dat heeft een beetje...
+[2388.40 --> 2389.96]  GPT-4-achtige kwaliteit.
+[2390.06 --> 2392.70]  En toen dacht ik, ja, dat heeft Lama 3.3 ook van Meta.
+[2393.22 --> 2395.00]  En het verschil was toen al...
+[2395.00 --> 2396.46]  daar had ik beter op moeten letten.
+[2396.60 --> 2397.24]  Ben ik met je eens.
+[2397.40 --> 2400.72]  Dat Soekenberg met miljarden heeft lopen strooien...
+[2400.72 --> 2402.04]  om Lama 3.3 te maken.
+[2402.12 --> 2402.28]  Ja.
+[2402.28 --> 2403.80]  Om in de buurt te komen van GPT-4.
+[2403.80 --> 2405.10]  Toen had er een belletje moeten gerekelen.
+[2405.10 --> 2406.76]  Ja, en toen kwam het kerst V3 uit...
+[2406.76 --> 2408.02]  van DeepSeq die dat ook deed.
+[2408.36 --> 2410.28]  Terwijl er een exportverborst is op die chips.
+[2410.48 --> 2410.60]  Ja.
+[2410.60 --> 2412.70]  En ze ook in de paper heel trots zeggen...
+[2412.70 --> 2414.08]  we hebben dit gemaakt met een aardappel.
+[2414.18 --> 2414.66]  Dat is niet waar.
+[2415.04 --> 2415.72]  Het is niet waar.
+[2415.98 --> 2416.26]  Het is wel...
+[2416.26 --> 2417.02]  Ja, je moet toch even zeggen.
+[2417.14 --> 2417.86]  Het is gewoon niet waar.
+[2417.98 --> 2419.12]  Het is gemaakt met een aardappel.
+[2419.20 --> 2420.14]  Dat is wat ik ga onthouden.
+[2420.50 --> 2420.82]  Ja.
+[2421.14 --> 2422.68]  Een aardappel van Nvidia.
+[2423.00 --> 2423.74]  Even voor de duidelijkheid.
+[2423.78 --> 2424.34]  Ja, precies.
+[2424.40 --> 2425.78]  Niet speciale chips daarop.
+[2425.78 --> 2426.92]  Nee, gewoon Nvidia chips.
+[2427.34 --> 2427.76]  Alleen de H...
+[2427.76 --> 2428.50]  Meer kriltjes.
+[2428.62 --> 2429.18]  Ja, precies.
+[2429.38 --> 2430.20]  Nvidia kriltjes.
+[2430.68 --> 2433.88]  Maar iedereen kan dan kopen in de hele wereld...
+[2433.88 --> 2434.46]  behalve in China.
+[2434.58 --> 2436.68]  Nog een aantal plekken koopt iedereen de H100.
+[2436.90 --> 2439.04]  Dat is die gold bar van 20.000 dollar.
+[2439.66 --> 2440.06]  Superkaart.
+[2440.60 --> 2441.20]  Op elkaar stapelt.
+[2441.26 --> 2442.74]  Kan je als Meta zijnde.
+[2442.94 --> 2443.98]  Als Elon Musk zijnde.
+[2444.10 --> 2444.58]  En noem maar op.
+[2444.90 --> 2446.44]  Daar je modelletjes op trainen.
+[2446.64 --> 2447.66]  Ja, dat is wat iedereen deed.
+[2448.08 --> 2449.88]  Dan kon je de H800 kopen.
+[2449.98 --> 2450.96]  Dus een lobotomized.
+[2451.12 --> 2452.50]  Dus een versie van de H100.
+[2452.62 --> 2455.36]  Die ze expres een beetje minder krachtig hebben gemaakt.
+[2455.48 --> 2457.30]  Wat hebben ze bij DeepSeq gedaan?
+[2457.64 --> 2459.50]  Gekeken naar hoe die minder krachtig was.
+[2459.64 --> 2461.38]  En daar via software omheen gewerkt.
+[2461.80 --> 2462.24]  Dat is...
+[2462.24 --> 2463.82]  Ik bedoel, die credit is gewoon credit's due.
+[2464.20 --> 2466.82]  Dat vindt iedereen die hier op diep niveau in zit.
+[2466.88 --> 2467.78]  Zegt, wauw.
+[2467.96 --> 2468.98]  Jongens, even applaus.
+[2469.08 --> 2469.42]  Knap gedaan.
+[2469.42 --> 2473.18]  En zijn die Silicon Valley bedrijven die wel toegang hadden tot de beste chips dan gewoon
+[2473.18 --> 2474.30]  lui geweest?
+[2474.40 --> 2475.96]  Is dat hoe ik dit moet interpreteren?
+[2475.96 --> 2478.94]  Ik denk dat...
+[2478.94 --> 2480.76]  Het is toch een beetje zo'n...
+[2480.76 --> 2482.50]  Ze zijn niet...
+[2482.50 --> 2484.08]  Het stond lager op het lijstje.
+[2484.38 --> 2485.50]  Om het efficiënt te maken.
+[2485.62 --> 2486.40]  Als iemand in zo'n...
+[2486.40 --> 2487.16]  Kijk, het gaat uiteindelijk...
+[2487.16 --> 2488.10]  Ik kan het wel even uitleggen.
+[2488.20 --> 2491.20]  Die chips zijn allemaal aan elkaar verbonden via zo'n zogenoemde interconnect.
+[2491.46 --> 2496.44]  Dat houdt in dat je van heel veel kleine stukjes een hele grote virtuele chip kan maken
+[2496.44 --> 2497.42]  waarop je kan trainen.
+[2497.90 --> 2500.20]  Dat stukje is uitgezet in die H800.
+[2500.20 --> 2503.88]  Zodat je er niet zo makkelijk daar zulke brute modellen op kan trainen.
+[2504.28 --> 2506.84]  Kijk, als dan iemand in het team bij Meta had gezegd...
+[2506.84 --> 2509.26]  Hey guys, we hebben een werkende interconnect.
+[2509.84 --> 2513.04]  Maar zal ik toch software gaan schrijven om die interconnect met software na te doen?
+[2513.04 --> 2513.92]  Dan had ik gezegd...
+[2513.92 --> 2514.40]  Hoezo dude?
+[2514.46 --> 2515.18]  We hebben die interconnect.
+[2515.18 --> 2517.62]  En dan had die persoon kunnen zeggen...
+[2517.62 --> 2521.24]  Moet je je voorstellen als we op dat level die kaart kunnen besturen...
+[2521.24 --> 2522.56]  Wat we nog meer allemaal...
+[2522.56 --> 2526.38]  Ze zijn eigenlijk met dat DeepSeq team gaan graven...
+[2526.38 --> 2528.54]  En alle mogelijke optimalisaties hebben.
+[2528.54 --> 2530.16]  We hebben het wel eens over de demo's zien gehad.
+[2530.24 --> 2532.20]  Hoe draai je een 3D-spel op een Commodore 64?
+[2532.46 --> 2533.18]  Wat eigenlijk niet kan.
+[2533.24 --> 2533.82]  Dat hebben ze gedaan.
+[2534.12 --> 2534.60]  Dit is het.
+[2534.72 --> 2535.52]  Het is zo'n team.
+[2535.64 --> 2536.80]  Doem op een tandenborstel.
+[2536.96 --> 2538.50]  Ja, het is gewoon doem op een tandenborstel.
+[2538.86 --> 2540.14]  Maar wel een...
+[2540.14 --> 2541.10]  Ik wil het toch nog even zeggen...
+[2541.10 --> 2542.18]  Een Nvidia-tandenborstel.
+[2542.18 --> 2542.80]  Het is een tandenborstel.
+[2543.00 --> 2545.06]  Dus het feit dat het Nvidia-aandeel daalt...
+[2545.06 --> 2546.54]  Is niet helemaal logisch.
+[2546.62 --> 2548.18]  Als je hem alleen zou bekijken op...
+[2548.86 --> 2550.08]  Kijk, als ze nu zouden zeggen...
+[2550.08 --> 2550.52]  Oh, trouwens.
+[2550.54 --> 2552.42]  We hebben ook zelf de Nvidia-chips nagemaakt.
+[2552.48 --> 2553.70]  En ze zijn ook nog tien keer zo snel.
+[2553.88 --> 2554.02]  Ja.
+[2554.02 --> 2557.40]  Dan had ik iets beter begrepen dat Nvidia onder druk staat.
+[2557.60 --> 2557.64]  Ja.
+[2558.18 --> 2559.32]  Maar nu is het eigenlijk...
+[2559.32 --> 2560.22]  Maar die factor...
+[2560.22 --> 2563.30]  Want er is een beetje discussie over de factor...
+[2563.30 --> 2567.60]  Waarmee ze dan daadwerkelijk een soort van energiegebruik winst geboekt hebben.
+[2567.78 --> 2570.30]  Dat varieert een beetje tussen de tien en honderd keer.
+[2570.44 --> 2571.82]  Doet er misschien nog niet zo heel veel toe.
+[2571.82 --> 2572.96]  Het is een flinke slag goedkoper.
+[2573.04 --> 2574.92]  Want tien keer goedkoper is ook al heel relevant.
+[2575.86 --> 2578.92]  Er is toch een belang voor die techbedrijven om dat te bereiken.
+[2579.00 --> 2581.78]  Helemaal omdat ze ook die hele tijd die kleinere modellen aan het maken zijn.
+[2581.90 --> 2582.68]  En daarmee te koop zijn.
+[2582.68 --> 2582.88]  Zeker.
+[2583.34 --> 2585.24]  Wat hebben zij dan gemist?
+[2585.58 --> 2586.72]  Ik begrijp dat gewoon niet.
+[2588.46 --> 2590.32]  Hoe ik het nu zie...
+[2590.32 --> 2593.78]  Want het zijn ook nog eens heel veel teams naast elkaar die hetzelfde hebben gemist.
+[2593.92 --> 2594.52]  Dus dat is boeiend.
+[2594.52 --> 2594.98]  Maar daarom.
+[2594.98 --> 2595.66]  Is fascinerend.
+[2596.98 --> 2599.62]  En waarom heeft bijvoorbeeld Mistral...
+[2599.62 --> 2602.20]  We hebben hem toch nog even onze Europese trots...
+[2602.20 --> 2602.82]  We hebben ze even noemen.
+[2603.02 --> 2603.22]  Ja.
+[2603.58 --> 2604.06]  Mistralen.
+[2604.26 --> 2605.88]  Waarom is ze daar niet vergeten?
+[2605.94 --> 2606.08]  Ja.
+[2606.22 --> 2608.32]  Die moesten toch ook met heel weinig middelen binnen Europa.
+[2608.32 --> 2608.62]  Precies.
+[2608.74 --> 2609.82]  Maar maar hebben die dit niet bedacht.
+[2609.82 --> 2609.98]  Ja.
+[2610.10 --> 2610.30]  Nou ja.
+[2610.36 --> 2612.06]  Dat is een goede vraag.
+[2613.78 --> 2616.92]  Wat nu gebeurt...
+[2616.92 --> 2618.10]  Het is toch even belangrijk om te zeggen.
+[2618.28 --> 2623.38]  Want dat vind ik niet zo goed uitgelicht in de meer populaire media die ik ook meelees.
+[2624.40 --> 2625.30]  Je kunt trainen.
+[2625.90 --> 2627.04]  En je kunt inference doen.
+[2627.18 --> 2629.16]  Oftewel het model uitvoeren.
+[2629.36 --> 2631.22]  Dus je hebt het leerproces.
+[2631.50 --> 2632.80]  En er dan later mee praten.
+[2633.50 --> 2635.06]  Beide heb je GPU's voor nodig.
+[2635.50 --> 2636.56]  Beide is NVIDIA.
+[2637.10 --> 2638.06]  Dus wat er nu ook gebeurt.
+[2638.06 --> 2639.62]  Je bouwt een super groot datacenter.
+[2639.76 --> 2640.40]  Zo'n hoe heet het?
+[2640.64 --> 2641.00]  Stargate.
+[2641.10 --> 2641.68]  Hoe hebben ze het genoemd?
+[2641.92 --> 2642.44]  Nou dat zijn het.
+[2642.58 --> 2647.46]  In essentie is dat een investering in datacenteren, energiecentrales, kabels en chips.
+[2648.10 --> 2650.40]  Dan ga je een enorm groot model op trainen.
+[2650.54 --> 2652.70]  Dat model ga je niet meer vrijgeven publiek.
+[2652.84 --> 2653.74]  Dat hebben we inmiddels door.
+[2653.94 --> 2656.46]  Ze houden hem privé en trainen daar kleinere modelletjes mee.
+[2656.68 --> 2657.12]  Maar soi.
+[2657.52 --> 2658.84]  Dan heb je het leerproces gehad.
+[2659.18 --> 2659.92]  En dan zou je kunnen zeggen.
+[2660.00 --> 2661.28]  Nou, bulldozen maar weer weg.
+[2661.60 --> 2663.56]  Of begin het trainen van het volgende model.
+[2664.02 --> 2664.72]  Nee, wat doen ze?
+[2664.72 --> 2665.10]  Dan zeggen ze.
+[2665.18 --> 2666.96]  Oh, nu het model getraind is.
+[2666.96 --> 2669.68]  Kunnen we een deel van het datacenter bewaren voor trainen.
+[2669.90 --> 2671.48]  En een ander deel gaan we het op uitvoeren.
+[2671.58 --> 2672.60]  We hebben het niet voor niks gemaakt.
+[2672.76 --> 2676.00]  Dus als jij vragen stelt aan ChatGPT of aan DeepSeq.
+[2676.36 --> 2678.98]  Is er ergens een datacenter met exact dezelfde kaarten.
+[2679.20 --> 2681.24]  Die op dat moment jouw vraag gaat beantwoorden.
+[2681.50 --> 2683.12]  Nou, wat is er nu bij DeepSeq gebeurd?
+[2683.50 --> 2684.72]  Het trainen hebben ze gedaan.
+[2684.96 --> 2688.72]  Op kaarten die eigenlijk afgeknipt waren en uitgezet waren.
+[2688.92 --> 2689.76]  En minder krachtig.
+[2689.76 --> 2692.06]  Ja, het is gelukt op krieltjes van Nvidia.
+[2692.54 --> 2692.90]  Wauw.
+[2693.46 --> 2696.88]  En ze hebben niet alleen trucjes in het trainingsproces.
+[2697.02 --> 2698.56]  Maar ook in het inferenceproces.
+[2698.88 --> 2700.24]  Dus het uitvoeren van het model.
+[2700.40 --> 2702.72]  Doen ze ook nog ongeveer 20 keer goedkoper.
+[2703.38 --> 2704.76]  Daar is nu wel de vraag van.
+[2705.12 --> 2706.52]  En dat is zo interessant als open source.
+[2706.68 --> 2707.30]  Daar is de brug.
+[2707.30 --> 2711.00]  Ik kreeg op een gegeven moment een mail deze week.
+[2711.08 --> 2711.64]  Iemand die zei.
+[2712.14 --> 2712.52]  Wauw.
+[2712.98 --> 2716.16]  R1 van DeepSeq draait zelfs goed op CPU's.
+[2716.42 --> 2720.24]  Want er is nu de roddel dat ze bij DeepSeq niet eens Nvidia gebruiken.
+[2720.54 --> 2723.10]  Om hun model uit te serveren in de app.
+[2723.44 --> 2725.58]  Maar daar gewoon normale processoren voor gebruiken.
+[2726.00 --> 2727.18]  En toen ben ik gaan uitzoeken.
+[2727.26 --> 2727.66]  Want ik dacht.
+[2727.94 --> 2729.28]  Dit is gewoon te valideren.
+[2729.56 --> 2731.30]  Want je kunt het model gewoon downloaden.
+[2731.82 --> 2733.76]  Dus ik ga in al die communities zoeken.
+[2734.26 --> 2734.66]  Jongens.
+[2735.18 --> 2736.40]  Wie heeft dit al geïnstalleerd?
+[2736.40 --> 2738.82]  Want het hele model is gigantisch groot.
+[2738.96 --> 2740.86]  Dan moet je echt serieuze hardware voor hebben.
+[2741.36 --> 2743.40]  Serieus hardware als in 7 Mac minis.
+[2743.58 --> 2744.40]  Hoe serieus is dat nog?
+[2744.62 --> 2745.30]  Ja, 6.000 dollar.
+[2745.36 --> 2746.22]  Ja, 6.000 dollar.
+[2746.34 --> 2747.42]  7 Mac minis en een MacBook.
+[2747.62 --> 2749.56]  En dan kan je ongeveer 6 tokens per seconde krijgen.
+[2749.70 --> 2750.88]  Dus dat kan je thuis gebruiken.
+[2751.04 --> 2751.96]  Dat is best wel grappig.
+[2752.54 --> 2752.76]  Maar...
+[2752.76 --> 2756.66]  Jij pakte jouw Intel Celeron proces erbij uit de jaren 90.
+[2756.76 --> 2758.78]  Ik ga natuurlijk gewoon lezen in de community topics.
+[2758.90 --> 2760.40]  Want je hebt mensen die...
+[2760.40 --> 2761.02]  Die is een uitdaad.
+[2761.06 --> 2763.68]  Dat zijn de mensen die geen GPU's willen gebruiken voor AI.
+[2764.74 --> 2765.90]  Om welke reden dan ook.
+[2765.90 --> 2769.38]  Die hebben iets heel groots staan van oude klassieke CPU's.
+[2769.46 --> 2770.90]  Bedoeld voor weerberekeningen.
+[2772.42 --> 2773.08]  Maar oké, whatever.
+[2773.18 --> 2773.30]  Ja.
+[2773.44 --> 2774.40]  En die hebben dat allemaal staan.
+[2774.54 --> 2775.84]  En die kunnen dit gewoon installeren.
+[2775.94 --> 2776.46]  Dat doen ze ook.
+[2776.54 --> 2777.80]  En die sturen dan gewoon netjes.
+[2777.90 --> 2778.42]  Nou jongens.
+[2778.72 --> 2780.56]  Ik heb het op mijn supercomputer gezet.
+[2780.60 --> 2781.58]  Die ik thuis heb staan.
+[2781.58 --> 2783.48]  12 tokens per seconde.
+[2783.60 --> 2784.16]  Ik denk dan.
+[2784.22 --> 2785.16]  Nou, dat is niet de truc.
+[2785.58 --> 2786.30]  Dit is onzin.
+[2786.30 --> 2786.92]  Dit is niet.
+[2788.46 --> 2790.12]  Het is nu niet zo.
+[2790.54 --> 2791.80]  Dat dat R1 model.
+[2792.44 --> 2793.46]  Vanuit zichzelf.
+[2794.50 --> 2795.38]  Extreem veel.
+[2796.14 --> 2797.10]  Geoptimaliseerder kan draaien.
+[2797.20 --> 2798.52]  Op dezelfde hardware.
+[2798.68 --> 2799.82]  Dat is niet wat we nu zien.
+[2800.18 --> 2800.62]  Maar wel.
+[2800.62 --> 2802.06]  Een stuk sneller.
+[2802.66 --> 2803.84]  Dan de eerdere modellen.
+[2804.18 --> 2806.00]  Dus wat ik eigenlijk probeer te zeggen is.
+[2806.32 --> 2808.20]  Ik wil een beetje ingaan tegen het volgende.
+[2808.44 --> 2809.90]  Het is niet getraind op een aardappel.
+[2810.10 --> 2810.88]  Maar op krieltjes.
+[2811.16 --> 2811.72]  Wel een nuance.
+[2812.38 --> 2812.62]  En.
+[2813.28 --> 2814.10]  Het model zelf.
+[2814.22 --> 2815.16]  Als je het uitvoert.
+[2815.40 --> 2816.52]  Is niet een of ander.
+[2817.20 --> 2818.10]  Pixie dust of zo.
+[2818.20 --> 2819.74]  Een of ander fantastisch bizar model.
+[2820.04 --> 2820.24]  Nee.
+[2820.48 --> 2821.44]  Het is een open source.
+[2821.68 --> 2822.28]  Wauw.
+[2822.34 --> 2823.16]  MIT license.
+[2823.40 --> 2824.30]  Echt open source dus.
+[2824.38 --> 2824.96]  Niet zoals meta.
+[2825.42 --> 2825.78]  Model.
+[2825.98 --> 2826.88]  Wat je kunt draaien.
+[2827.00 --> 2828.28]  En wat veel sneller draait.
+[2828.36 --> 2829.14]  Op bestaande hardware.
+[2829.30 --> 2830.74]  Maar niet extreem veel sneller.
+[2831.12 --> 2832.60]  Dit alles bij elkaar.
+[2832.72 --> 2833.66]  Heeft ervoor gezorgd.
+[2833.72 --> 2835.92]  Dat we nu ineens wereldwijd iets beschikbaar hebben.
+[2836.02 --> 2837.40]  Met dezelfde kwaliteit als O1.
+[2837.48 --> 2838.36]  Wat je kan downloaden.
+[2838.40 --> 2839.08]  Als een zipfile.
+[2839.46 --> 2839.84]  Wauw.
+[2840.22 --> 2841.02]  Wat je kan draaien.
+[2841.08 --> 2841.90]  Op 7 Mac Minis.
+[2841.90 --> 2842.90]  Plus een Macbook thuis.
+[2843.38 --> 2843.82]  Wauw.
+[2844.20 --> 2845.02]  Wat ervoor zorgt.
+[2845.24 --> 2847.26]  Dat het hele speelveld.
+[2847.46 --> 2847.92]  Wereldwijd.
+[2848.06 --> 2849.06]  Zowel geopolitiek.
+[2849.24 --> 2850.24]  Als tussen de bedrijven.
+[2850.76 --> 2851.52]  Aan het schuiven is.
+[2851.58 --> 2852.68]  Toch even terug naar mijn vraag.
+[2852.80 --> 2854.62]  Want wat is er dan zoveel efficiënter.
+[2854.76 --> 2855.74]  In het uitvoeren.
+[2855.92 --> 2856.64]  Van dat model.
+[2857.04 --> 2858.76]  En waarom hebben die Silicon Valley bedrijven.
+[2858.86 --> 2859.68]  Dat dan niet gedaan.
+[2860.88 --> 2861.52]  Ik denk dat.
+[2861.90 --> 2862.08]  In.
+[2863.72 --> 2864.16]  Optimaliseren.
+[2864.26 --> 2864.94]  Doe je in software.
+[2865.10 --> 2865.60]  Vaak pas.
+[2866.22 --> 2866.76]  Aan het eind.
+[2867.58 --> 2867.72]  Ja.
+[2867.94 --> 2869.12]  En dat er is nu geen eind.
+[2869.18 --> 2869.96]  Want het is chaos.
+[2870.26 --> 2870.40]  Ja.
+[2870.40 --> 2873.92]  Dus er is gewoon hardware tegen het probleem aangegooid.
+[2874.02 --> 2874.10]  Ja.
+[2874.56 --> 2876.06]  En dat is wat nu bewezen wordt.
+[2876.22 --> 2878.96]  En dat is misschien wel een leuke brug naar wat dan Nvidia stock.
+[2879.58 --> 2880.44]  Wat er tegen zich aangegooid is.
+[2880.44 --> 2881.60]  Wat dan Nvidia stock.
+[2881.72 --> 2883.80]  Want er zijn heel veel mensen die die aardappelen in huis hebben gehaald.
+[2884.02 --> 2884.14]  Ja.
+[2884.14 --> 2884.16]  Ja.
+[2884.16 --> 2884.28]  Ja.
+[2884.28 --> 2884.48]  Precies.
+[2884.56 --> 2887.58]  Dus je hebt een stuk software dat ongelooflijk populair is.
+[2887.66 --> 2889.94]  Laat het even bij OpenAI houden voor het gemak van het gesprek.
+[2890.28 --> 2894.32]  Die hebben een chat GPT app die aan het begin ook constant down ging.
+[2894.44 --> 2895.58]  En Tropic gaat nog steeds down.
+[2895.66 --> 2896.34]  Iedere paar uur.
+[2896.34 --> 2898.26]  Dus de vraag is gigantisch.
+[2898.66 --> 2900.24]  Dan kan je je software ontwikkelaars vragen.
+[2900.32 --> 2901.94]  Kunnen jullie alsjeblieft gaan optimaliseren.
+[2902.14 --> 2903.18]  Dat is wel deels gebeurd.
+[2903.26 --> 2904.66]  Ze zijn mini modellen gaan maken.
+[2904.78 --> 2905.98]  En modellen getraind op modellen.
+[2906.10 --> 2907.04]  En al dat soort trucjes.
+[2907.48 --> 2909.54]  Om maar te zorgen dat de boel blijft draaien.
+[2909.98 --> 2911.74]  Maar een echte optimalisatie ronde.
+[2912.36 --> 2916.16]  Een diepe optimalisatie op de hele spekkoek die achter zo'n model zit.
+[2916.34 --> 2917.84]  Is nog niet gedaan.
+[2917.96 --> 2919.26]  Want DeepSeek heeft hem nu gedaan.
+[2919.26 --> 2921.82]  En die vonden daar minimaal zes, zeven dingen.
+[2921.92 --> 2923.70]  Die ze tegelijk hebben getweaked.
+[2923.80 --> 2926.12]  Die allemaal op elkaar zijn gaan inwerken.
+[2926.74 --> 2928.64]  En ze moesten wel.
+[2929.06 --> 2930.52]  Want anders kon het niet draaien.
+[2930.94 --> 2936.06]  Dus ik denk dat wat jij nu een beetje naar boven krijgt eigenlijk in ons gesprek.
+[2936.06 --> 2942.50]  Is interessant dat op het moment dat je een team ontwikkelaars enorme barrières geeft in wat ze kunnen.
+[2942.68 --> 2943.50]  Hier is je aardappel.
+[2943.80 --> 2944.44]  Zoek het maar uit.
+[2944.88 --> 2946.30]  Dat daar dus net als met Twitter.
+[2946.58 --> 2947.90]  Als je weinig woordjes mag gebruiken.
+[2948.16 --> 2949.68]  Enorme creativiteit loskomt.
+[2950.12 --> 2951.02]  Dat is gebeurd.
+[2951.38 --> 2951.44]  Ja.
+[2952.14 --> 2954.16]  En wat zou jij nu zeggen.
+[2954.34 --> 2956.18]  Want daar hoor ik de hele tijd verschillende dingen over.
+[2956.34 --> 2957.12]  Wat zou je nu zeggen.
+[2957.32 --> 2959.08]  Dat de betekenis voor Nvidia.
+[2959.24 --> 2959.98]  Want ik begrijp.
+[2960.14 --> 2961.30]  Dat begrijp ik gewoon ook niet.
+[2961.38 --> 2961.80]  Je zou zeggen.
+[2962.00 --> 2964.48]  Een vraag naar compute neemt alleen maar toe.
+[2964.48 --> 2966.36]  Dus waarom is dit slecht voor Nvidia?
+[2966.44 --> 2969.84]  Ja ik denk dat het op de korte termijn kortzichtig gedacht.
+[2969.98 --> 2972.76]  Met alle respect voor mensen die hun Nvidia aandelen gedropt hebben.
+[2972.94 --> 2975.92]  Met alle respect voor alle wereldwijde beleggers.
+[2976.14 --> 2976.26]  Ja.
+[2976.38 --> 2976.64]  Maar.
+[2976.82 --> 2979.12]  Ja de vraag is hoeveel die plofkip nodig had om te vallen.
+[2979.26 --> 2981.70]  Het kan ook een heel fragiel aandeeltje zijn geweest inmiddels.
+[2983.74 --> 2988.28]  Wat er gebeurt is dat er nu heel veel hardware tegen het probleem aangegooid is.
+[2988.44 --> 2991.28]  Oftewel heel veel Nvidia tegen het probleem aangegooid is.
+[2991.28 --> 2994.32]  Oftewel heel veel bestellingen bij Nvidia voor heel veel hardware.
+[2994.48 --> 2997.58]  Om de problemen op te lossen in plaats van de software te optimaliseren.
+[2998.06 --> 2999.36]  Nu heeft DeepSeq gelaten zien.
+[2999.60 --> 3002.00]  Er zit nog veel meer onder in de kan dan jullie hebben gedacht.
+[3002.30 --> 3004.88]  Je kunt zelfs op H800 hele gave dingen doen.
+[3005.36 --> 3008.28]  Wat ervoor zorgt dat eigenlijk als jij nu een datacenter hebt.
+[3008.36 --> 3009.58]  En je hebt al die kaarten vangen.
+[3009.72 --> 3010.92]  Ja is die keer 10 gegaan.
+[3011.22 --> 3011.36]  Ja.
+[3011.78 --> 3012.38]  Ten eerste.
+[3012.72 --> 3014.82]  Als je de optimalisaties van DeepSeq doorvoert.
+[3015.16 --> 3016.14]  Die zijn gewoon openbaar.
+[3016.22 --> 3017.02]  Die paper staat online.
+[3017.14 --> 3018.34]  Die PDF kan iedereen downloaden.
+[3018.44 --> 3019.00]  Het model ook.
+[3019.00 --> 3020.86]  Dan kan je eigenlijk zeggen.
+[3021.24 --> 3023.04]  Zet die orders naar Nvidia maar even stil.
+[3023.34 --> 3025.80]  We gaan eerst eens even kijken wat we eigenlijk allemaal in huis hebben nu.
+[3025.90 --> 3027.20]  Als we software veranderingen maken.
+[3027.38 --> 3028.74]  Die krijgen we gratis vanuit China.
+[3028.88 --> 3029.40]  Uit DeepSeq.
+[3030.12 --> 3031.90]  En dus je zou kunnen zeggen.
+[3032.02 --> 3033.96]  En ik weet helemaal niet hoe dit soort supply chain werken.
+[3034.46 --> 3036.54]  Dat het degene die de head of operations is.
+[3036.68 --> 3038.84]  Van we zijn nu AI aan het trainen zegt.
+[3039.14 --> 3040.04]  Hoe jongens heel even.
+[3040.14 --> 3042.42]  Die order voor die 3000 extra kaarten volgende week.
+[3042.52 --> 3042.96]  Laat maar even.
+[3042.96 --> 3046.36]  Want ik heb er eigenlijk in software 3000 bij gekregen gisteren.
+[3046.56 --> 3049.42]  Ik hoef er geen hardware meer tegenaan te gooien.
+[3049.52 --> 3051.04]  Het is even tijdelijk een software probleem.
+[3051.44 --> 3053.06]  Waar jij en ik allebei van denken.
+[3053.46 --> 3054.86]  Wat is dat voor raar onzin.
+[3055.02 --> 3055.20]  Nee.
+[3055.40 --> 3056.62]  Je blijft hardware bestellen.
+[3056.98 --> 3059.54]  Terwijl je ook je software optimaliseert met je gratis nieuwe dingen.
+[3059.68 --> 3062.04]  Maar is het echt zo dat dan nu O1.
+[3062.60 --> 3066.98]  Wat draait in datacentra van Microsoft.
+[3067.88 --> 3072.16]  Dat zij opeens het model tien keer krachtiger kunnen maken.
+[3072.16 --> 3073.62]  Dat lijkt me ook weer niet zo.
+[3073.74 --> 3076.22]  Ik vind die tien keer vrij radicaal.
+[3076.36 --> 3077.28]  Maar zullen we zeggen twee keer.
+[3077.68 --> 3079.28]  Dan kan je twee keer zoveel op de datacentra doen.
+[3079.76 --> 3080.34]  Dat is niet normaal.
+[3080.68 --> 3083.16]  Alsof je gratis containers vol met Nvidia kaarten.
+[3083.16 --> 3084.74]  Denk je dat dat is wat echt gebeurd is.
+[3084.84 --> 3084.98]  Ja.
+[3085.18 --> 3085.54]  Stiekem.
+[3085.80 --> 3086.34]  Nee maar dit bedoel.
+[3086.42 --> 3087.56]  Het is gebeurd als in.
+[3087.98 --> 3089.88]  Ze hebben het over de war room bij Meta nu.
+[3090.94 --> 3091.68]  Vier war rooms.
+[3091.68 --> 3092.04]  Ja.
+[3092.22 --> 3092.46]  Wauw.
+[3093.46 --> 3095.18]  Het is oftewel een paniekkamer.
+[3095.28 --> 3096.62]  Waarin mensen moeten gaan puzzelen.
+[3096.68 --> 3097.28]  Wat is er gebeurd.
+[3097.68 --> 3098.48]  Wat gebeurt er nu.
+[3098.56 --> 3099.44]  En dat is ook heel logisch.
+[3099.50 --> 3100.62]  Dat is niet eens speculatie.
+[3100.62 --> 3102.44]  Maar gewoon een super logisch gevolg.
+[3102.96 --> 3104.02]  Bij alle bedrijven.
+[3104.34 --> 3107.60]  Die nu AI in tekstvorm en beeldvorm aan het verkopen zijn.
+[3107.66 --> 3108.50]  Aan de eindgebruiker.
+[3108.94 --> 3111.30]  En via API's aan hun B2B klanten.
+[3111.90 --> 3114.00]  Die hebben nu een gratis paper van DeepSeq gehad.
+[3114.12 --> 3116.12]  Waarin als zij hun teams even boos maken.
+[3116.24 --> 3118.74]  Ze een O1.1 kunnen maken.
+[3118.74 --> 3120.00]  Of een O1 slim.
+[3120.26 --> 3120.52]  Whatever.
+[3121.12 --> 3122.14]  Dat gaat even kosten.
+[3122.32 --> 3123.84]  Want dat is niet morgen klaar.
+[3124.52 --> 3125.16]  Waarvan ze weten.
+[3125.24 --> 3128.04]  Op het moment dat we die deployen in ons datacenter.
+[3128.04 --> 3129.82]  Kunnen we twee keer zoveel gebruikers aan.
+[3129.92 --> 3131.72]  En de antwoorden zijn even goed als de week ervoor.
+[3132.18 --> 3133.02]  Ja dat is.
+[3133.82 --> 3136.46]  Daar hebben mensen wel even twee colaatjes extra voor gedronken.
+[3136.56 --> 3137.20]  Ja vorige week.
+[3137.60 --> 3138.26]  Dat weet ik zeker.
+[3138.36 --> 3139.62]  En eigenlijk twee weken geleden al.
+[3139.74 --> 3142.62]  Want het is niet dat ze bij Matt hebben zitten wachten op die app.
+[3143.32 --> 3144.22]  Het is eigenlijk heel raar.
+[3144.30 --> 3147.40]  Dat dan de reactie is zoals die geweest is.
+[3147.64 --> 3148.04]  Namelijk.
+[3148.24 --> 3148.70]  Oh mijn god.
+[3148.98 --> 3150.66]  We gaan kapot door China.
+[3150.92 --> 3152.64]  Dat klinkt dan zo dom.
+[3152.96 --> 3154.86]  Als ik jouw verhaal moet geloven.
+[3154.86 --> 3157.18]  Ik denk dat het wat er gebeurd is.
+[3159.02 --> 3162.86]  De magie die OpenAI al die tijd in handen bleek te hebben.
+[3163.04 --> 3164.22]  Is niet zo magisch.
+[3164.44 --> 3165.08]  Dat is een feit.
+[3165.72 --> 3168.42]  De open source modellen zijn gelijk aan.
+[3168.54 --> 3172.26]  Net voor en gelijk aan het worden aan de closed source modellen.
+[3172.38 --> 3173.02]  Is ook gebeurd.
+[3173.38 --> 3174.06]  Er zijn een paar dingen.
+[3174.28 --> 3175.40]  Wat het publiek beschikbaar is.
+[3177.08 --> 3178.42]  Dat is wat jij ook zegt.
+[3178.54 --> 3183.36]  Dat ze stiekem Enthropic en OpenAI op de achtergrond veel krachtige modellen hebben draaien.
+[3183.36 --> 3184.48]  Wij gaan er even van uit.
+[3184.68 --> 3186.16]  En dat is denk ik niet een gekke aanname.
+[3186.60 --> 3190.58]  Dat er bij DeepSeq niet een R3 bestaat intern.
+[3190.80 --> 3192.28]  Die eigenlijk R1 getraind heeft.
+[3192.28 --> 3192.48]  Precies.
+[3192.58 --> 3193.24]  Voor zover ik weet.
+[3193.80 --> 3196.48]  Dus als het goed is heeft Enthropic Opus nog achter de hand.
+[3196.78 --> 3200.12]  En bij OpenAI hebben ze GPT 4,5 of 5 ook nog draaien.
+[3200.16 --> 3201.12]  Als een soort supermodel.
+[3201.24 --> 3202.34]  Die de rest aan het trainen is.
+[3202.74 --> 3204.92]  Dus die moat om er even terug te komen op dat ding.
+[3205.06 --> 3206.42]  Is niet per se ineens weg.
+[3207.12 --> 3208.56]  Maar ik denk.
+[3208.72 --> 3208.92]  Kijk.
+[3209.36 --> 3211.36]  Ik las ergens wel een mooie analyse van iemand die zei.
+[3211.36 --> 3214.46]  Als OpenAI nu publicly traded was geweest.
+[3214.64 --> 3215.74]  Dus een IPO heeft gedaan.
+[3215.96 --> 3217.34]  En op de beurzen.
+[3217.90 --> 3219.70]  Dan had dat aandeel klappen gehad.
+[3221.02 --> 3223.44]  Veel grotere klappen nog dan het Nvidia aandeel.
+[3223.68 --> 3225.10]  Want daar ben ik het wel mee eens.
+[3225.58 --> 3227.40]  Maar die worden alleen privé verhandeld.
+[3227.50 --> 3227.98]  Dus dat weten wij.
+[3227.98 --> 3229.42]  Maar waarom ben je het daar dan mee eens?
+[3230.38 --> 3230.80]  Omdat.
+[3231.62 --> 3231.98]  Ja goed.
+[3232.14 --> 3232.98]  Je weet.
+[3233.46 --> 3234.90]  Als in uit eerdere afleveringen.
+[3234.90 --> 3237.94]  Ik ben niet zo bullish op OpenAI.
+[3239.08 --> 3241.76]  Omdat ik denk dat het op operating system niveau zit.
+[3241.90 --> 3245.00]  Dat zelfs als Apple nog drie jaar lang door de model loopt te duwen.
+[3245.08 --> 3247.32]  Dat ze nog steeds een enorme kans maken.
+[3247.92 --> 3250.38]  Ik denk dat OpenAI is allergrootste feit.
+[3250.44 --> 3251.82]  Op dit moment Google is.
+[3252.22 --> 3253.10]  Als ik eerlijk ben.
+[3253.22 --> 3255.04]  Want die is ook aan het uitrollen.
+[3255.12 --> 3257.50]  Binnen al hun operating systemen.
+[3258.30 --> 3259.96]  Het ging al niet zo goed met OpenAI.
+[3260.40 --> 3260.84]  Eigenlijk.
+[3260.98 --> 3262.30]  Veel mensen weggegaan.
+[3262.30 --> 3264.54]  Ze hebben geen eigen operating system.
+[3265.36 --> 3267.64]  Open source modellen beginnen hun in de nek te heigen.
+[3268.12 --> 3268.86]  Er is wel veel aan de hand.
+[3268.96 --> 3270.56]  Is dit dan ineens het einde van OpenAI?
+[3270.98 --> 3271.22]  Nee.
+[3271.36 --> 3273.12]  Want zo zit OpenAI ook in elkaar.
+[3273.26 --> 3274.68]  Die lanceren dan over anderhalve week.
+[3274.76 --> 3275.48]  O4 ineens.
+[3275.58 --> 3276.32]  Wat ze gaan doen.
+[3276.68 --> 3277.96]  En dan zitten wij hier allebei weer van.
+[3278.04 --> 3278.74]  Het is allemaal weer gek.
+[3278.86 --> 3281.12]  Dus ik wil even alvast de slag om de arm nemen.
+[3281.48 --> 3283.26]  Wie kondigt het einde van OpenAI aan?
+[3283.52 --> 3283.76]  Nee.
+[3283.84 --> 3285.56]  Dat wordt niet de titel van deze aflevering.
+[3286.22 --> 3286.58]  Maar.
+[3287.66 --> 3290.36]  Als ik investeerder zou zijn in OpenAI nu.
+[3290.36 --> 3292.30]  Dan zou ik wel even drie keer in mijn nek krabben.
+[3292.42 --> 3293.24]  Wil ik dat nog wel?
+[3293.76 --> 3294.00]  Want.
+[3294.52 --> 3296.10]  Ik denk dat die groeide.
+[3296.22 --> 3296.80]  Ik zou niet weten.
+[3296.86 --> 3298.32]  Wat maakt hen nu nog zo bijzonder?
+[3298.46 --> 3300.28]  Behalve Early Mover Advantage en Brand.
+[3300.62 --> 3301.72]  Die allebei heel veel waard zijn.
+[3301.86 --> 3302.96]  Omdat ze dus een model hebben.
+[3303.04 --> 3306.34]  Waarvan zij nu de cheat code hebben gekregen.
+[3306.46 --> 3308.04]  Om hem twee keer zo hard te laten gaan.
+[3308.50 --> 3308.64]  Ja.
+[3308.64 --> 3309.00]  Nou.
+[3309.24 --> 3309.48]  En de.
+[3309.98 --> 3310.14]  Kijk.
+[3310.24 --> 3310.60]  Als het.
+[3312.50 --> 3314.58]  OpenAI lukt om O3.
+[3314.72 --> 3315.66]  Dus niet O3 Mini.
+[3316.00 --> 3317.58]  Want Sam Altman heeft een tweet geplaatst.
+[3317.86 --> 3319.12]  Na de lancering van R1.
+[3319.48 --> 3320.06]  Zonder de app.
+[3320.60 --> 3322.48]  We gaan O3 Mini gratis aanbieden.
+[3322.58 --> 3324.24]  Dat was al hun schaakzet van.
+[3324.42 --> 3324.62]  Oeps.
+[3325.16 --> 3325.64]  We gaan ook.
+[3325.64 --> 3327.84]  We gaan ook maar iets aanbieden wat slimmer lijkt.
+[3328.32 --> 3329.12]  In zijn denken.
+[3329.80 --> 3331.68]  Ik denk dat OpenAI er nu voor moet gaan kiezen.
+[3331.78 --> 3334.04]  Om O3 in zijn geheel gratis aan te gaan bieden.
+[3334.18 --> 3334.44]  Want O3.
+[3334.60 --> 3335.00]  Gratis.
+[3335.32 --> 3335.48]  Ja.
+[3335.98 --> 3336.34]  Wauw.
+[3336.44 --> 3336.56]  Ja.
+[3336.56 --> 3338.00]  Ik neem niet genoegen met O3 Mini.
+[3338.12 --> 3338.30]  Nee.
+[3338.50 --> 3338.90]  Mazzel.
+[3338.98 --> 3339.94]  En ik ben echt niet de enige.
+[3340.16 --> 3340.30]  Ja.
+[3340.70 --> 3343.28]  Daarbij wel nog even een public service announcement voor de luisteraars.
+[3343.58 --> 3344.04]  Weet wel.
+[3344.26 --> 3345.02]  Zowel voor OpenAI.
+[3345.48 --> 3346.22]  Als voor DeepSeq.
+[3346.42 --> 3347.28]  Als je de apps gebruikt.
+[3347.38 --> 3348.14]  Stuur je alle data.
+[3348.38 --> 3348.52]  Ja.
+[3348.52 --> 3348.92]  De cloud in.
+[3349.30 --> 3349.40]  Ja.
+[3349.66 --> 3350.38]  Draai O1.
+[3350.66 --> 3352.30]  Draai R1 lekker thuis.
+[3352.30 --> 3352.54]  Ja.
+[3352.94 --> 3353.52]  Maar goed.
+[3353.62 --> 3353.72]  Nee.
+[3353.76 --> 3354.52]  Ik zeg ja ja ja.
+[3354.62 --> 3355.46]  Maar het voelt even.
+[3355.68 --> 3355.86]  Ja.
+[3356.12 --> 3356.40]  Oké.
+[3356.48 --> 3357.62]  Goed punt gemaakt.
+[3357.98 --> 3358.70]  Public service announcement.
+[3360.70 --> 3361.74]  O3 wordt voor iedereen.
+[3361.88 --> 3363.90]  Dus dat weet je dan met je abonnement van 200 dollar per maand.
+[3364.14 --> 3364.84]  Ik denk dat.
+[3365.04 --> 3365.18]  Kijk.
+[3365.18 --> 3369.38]  OpenAI is een gesloten closed AI bedrijf.
+[3369.62 --> 3372.64]  Die geld verdient door het verkopen van tokentjes.
+[3372.78 --> 3374.26]  Oftewel stukjes tekst en plaatjes.
+[3375.52 --> 3377.12]  Merta Soekenberg.
+[3377.80 --> 3379.20]  Die heeft gezegd.
+[3379.28 --> 3380.20]  Ik ben al open source.
+[3380.20 --> 3382.00]  Die gaat nu ook al deze dingen doorvoeren.
+[3382.14 --> 3382.78]  Waardoor we straks.
+[3383.10 --> 3384.54]  En met straks bedoel ik binnen drie maanden.
+[3384.68 --> 3387.76]  Krijgen we een Lama M1 of zo.
+[3387.92 --> 3388.52]  We weten hoe nu.
+[3388.64 --> 3389.52]  Lama R.
+[3389.74 --> 3390.48]  Iets met M.
+[3390.66 --> 3391.10]  Of een 1.
+[3391.74 --> 3393.74]  De reasoning Lama gaan we krijgen.
+[3393.74 --> 3396.60]  Daar zitten alle trucjes in van DeepSeek.
+[3396.92 --> 3399.04]  Plus alle training die in de tussentijd al gedaan is.
+[3399.42 --> 3400.46]  Dat is pas een bombshell.
+[3400.88 --> 3404.34]  Want dat is iets wat binnen het hele Facebook ecosysteem uitgerold kan worden.
+[3404.80 --> 3405.98]  Het meta ecosysteem.
+[3406.46 --> 3408.42]  Voor hoe de kaarten nu geschud worden.
+[3408.86 --> 3409.30]  Reshuffled.
+[3409.88 --> 3411.20]  Heeft OpenAI het zwaar.
+[3411.20 --> 3413.98]  Omdat zij geen public traded company zijn.
+[3414.26 --> 3416.94]  Is Nvidia denk ik een proxy stock geworden voor OpenAI.
+[3417.22 --> 3418.02]  En zijn daardoor mensen.
+[3418.08 --> 3418.84]  Omdat ze niet snappen.
+[3419.18 --> 3420.54]  Ik kom ook amper uit mijn woorden.
+[3421.00 --> 3423.14]  Hoe dit spinnenweb aan afhankelijkheden werkt.
+[3423.42 --> 3425.36]  Heeft Nvidia harde klappen gekregen.
+[3425.80 --> 3427.28]  Een deel daarvan onterecht.
+[3427.54 --> 3429.52]  Om het verhaal een beetje rond te krijgen.
+[3429.66 --> 3430.88]  En meteen te reageren op jouw uitnodiging.
+[3430.88 --> 3433.22]  Uitnodiging naar ons als makers.
+[3433.76 --> 3435.68]  Om het even gezellig te houden.
+[3435.80 --> 3436.82]  Om het even gezellig te houden.
+[3437.88 --> 3438.46]  Het feit.
+[3439.40 --> 3440.20]  Ik raad je aan.
+[3440.42 --> 3441.40]  Als je als luisteraar denkt.
+[3441.48 --> 3444.08]  Ik heb dat R1 eigenlijk al helemaal niet geprobeerd.
+[3444.18 --> 3444.84]  Waar hebben ze het over?
+[3445.66 --> 3448.22]  Die interne dialoog die R1 doet.
+[3448.36 --> 3450.12]  Is op een bepaalde manier cute.
+[3450.24 --> 3452.40]  Ik weet even niet welk ander woord ik hiervoor moet gebruiken.
+[3452.50 --> 3453.88]  Maar ik krijg van veel mensen om me heen.
+[3453.94 --> 3454.92]  Die weinig met AI hebben.
+[3455.00 --> 3455.30]  Die zeggen.
+[3455.72 --> 3457.94]  Het is echt aandoenlijk om mee te lezen.
+[3457.94 --> 3460.32]  Hoe dat ding struggelt over zijn eigen gedachtengang.
+[3460.32 --> 3462.70]  Het heeft iets menselijks.
+[3462.70 --> 3463.16]  Ja zeker.
+[3463.36 --> 3465.92]  Het raakt je op meer niveaus dan alleen maar je hoofd.
+[3465.94 --> 3468.70]  Het doet je ook reflecteren op hoe je zelf in elkaar zit.
+[3469.44 --> 3471.98]  Het feit dat dat model.
+[3472.30 --> 3475.26]  Precies datzelfde model als jij kan gebruiken in die DeepSeek app.
+[3475.66 --> 3476.60]  Te downloaden is.
+[3476.94 --> 3478.34]  En nu thuis te draaien is.
+[3478.34 --> 3479.82]  Voor mensen met een grote portemonnee.
+[3479.98 --> 3483.14]  En over twee jaar, drie jaar, misschien vier jaar op een smartphone.
+[3483.64 --> 3486.78]  Dat is een democratisering van synthetisch denken.
+[3486.78 --> 3488.14]  Voor de hele wereld.
+[3488.14 --> 3492.68]  Ik vind dat als iemand die zich tegelijk zorgen maakt.
+[3493.06 --> 3496.52]  En tegelijk de nerd in mij best stiekem enthousiast is.
+[3496.58 --> 3502.14]  Ja maar het is een soort van level playing field wat ontstaat toch?
+[3502.30 --> 3502.88]  Hierdoor.
+[3503.06 --> 3503.16]  Ja.
+[3503.16 --> 3507.72]  En ik denk dat ik heb nog steeds het misschien iets wat naïeve idee.
+[3507.86 --> 3508.84]  Maar de tijd zal het leren.
+[3509.84 --> 3513.74]  Dat de brede uitrol van deze technologie.
+[3513.94 --> 3518.30]  Dus de democratisering daarvan in de vorm van toegankelijkheid voor iedere wereldburger.
+[3518.70 --> 3522.16]  Om zijn eigen synthetische intelligentie in huis, in het dorp, in de stad.
+[3522.36 --> 3523.86]  Waar je worteltjes ook wil maken.
+[3523.86 --> 3526.04]  Gedecentraliseerd neerzetten.
+[3526.52 --> 3529.54]  Dat dat ons de beste kans geeft op een goede toekomst.
+[3529.90 --> 3530.12]  Wat?
+[3531.50 --> 3536.30]  Deze technologie in handen van een aantal grote, vaak ook nog commerciële spelers.
+[3536.32 --> 3538.46]  Alleen maar in handen van grote commerciële spelers.
+[3538.72 --> 3541.96]  Het is een samenwerking tussen alle verschillende partijen.
+[3541.96 --> 3545.26]  En daarin moeten we elkaar allemaal een beetje accountable kunnen houden.
+[3545.68 --> 3548.18]  En ik hou wel van een gebalanceerd speelveld.
+[3548.86 --> 3557.20]  Ja, jij ziet het feit dat je dit lokaal kan draaien als een soort van tegenkracht tegen cloud systemen.
+[3558.04 --> 3565.86]  Nou ja, ik heb zelf, ben ik teleurgesteld dat er niet een Europees initiatief is om ons eigen Europese model te trainen.
+[3566.06 --> 3568.90]  Of Mistral zoveel geld te geven dat zij het voor ons maken.
+[3569.00 --> 3570.88]  Je kunt toch dat Chinese model gewoon gebruiken.
+[3570.88 --> 3572.90]  Exact. Wat hebben we nu gekregen?
+[3573.14 --> 3578.08]  Een cadeautje uit China, namelijk een open model waar we nog zeven Mistrals mee kunnen bouwen.
+[3578.36 --> 3579.10]  So let's go.
+[3579.58 --> 3581.26]  En wat bedoel je dan hierop doorbouwen?
+[3581.72 --> 3585.44]  Want dat was in het begin een beetje een soort van, het werd natuurlijk geopolitiek bekeken.
+[3585.56 --> 3590.50]  In die context wordt jou opmerking ook over de veiligheid van de gegevens die je invoert bij DeepSeek.
+[3591.10 --> 3593.66]  Daar kun je heel veel vraagtekens bij zetten en dat begrijp ik.
+[3593.66 --> 3604.76]  Maar je zou natuurlijk kunnen zeggen dit is dan het zelfvertrouwen wat vijandelijke staten zoals Rusland en Iran en nog een aantal andere.
+[3605.48 --> 3608.92]  Die zouden door DeepSeek opeens het zelfvertrouwen kunnen krijgen.
+[3608.92 --> 3616.64]  Dat ze ook denken, wij dachten dat we dit niet zouden kunnen, maar ook wij kunnen dit soort modellen maken.
+[3617.36 --> 3619.34]  Zou Europa datzelfde kunnen hebben?
+[3619.44 --> 3624.46]  Dit zou een soort van hernieuwing voor ons zelfvertrouwen moeten zijn dat wij door kunnen bouwen op dit.
+[3624.76 --> 3626.84]  En wij hoeven niet te bouwen op krieltjes hè?
+[3626.96 --> 3627.22]  Nee.
+[3627.52 --> 3628.94]  Wij kunnen die kaarten gewoon kopen.
+[3629.08 --> 3629.20]  Ja.
+[3629.20 --> 3630.90]  En sterker nog, we hebben die kaarten.
+[3630.94 --> 3631.58]  We hebben die kaarten.
+[3631.80 --> 3639.64]  Dus ik denk daarin dat, à la CERN, Large Hardware Collider, wij zijn de uitvinders van het internet hier in Europa.
+[3640.02 --> 3641.40]  Kom op, schouders eronder.
+[3642.08 --> 3645.38]  Pak die modellen en laten we daar mooie Europese versies van maken.
+[3645.62 --> 3647.36]  Of hoe je die versies ook wil noemen.
+[3647.70 --> 3651.94]  Zodat we een paar mooie labs hier hebben die kunnen meten aan DeepSeek.
+[3652.92 --> 3656.04]  Ik vind het heel knap hoe je dit rechtgebreid hebt.
+[3656.04 --> 3663.16]  Van het duistere begin naar opeens deze nivellerende kracht door een Chinese paper.
+[3663.58 --> 3667.40]  Ik had het niet van tevoren gedacht als ik een weddenschap had moeten leggen over hoe dit jaar zou gaan aflopen.
+[3667.62 --> 3669.96]  En we zijn pas eind januari, dames en heren.
+[3670.04 --> 3671.22]  Ik kijk geen sci-fi meer.
+[3671.48 --> 3672.14]  Ik lees de krant.
+[3672.34 --> 3672.46]  Ja.
+[3673.48 --> 3673.82]  Goed.
+[3674.00 --> 3674.78]  Dit was Poki.
+[3674.94 --> 3675.70]  De allerlaatste keer.
+[3675.86 --> 3676.52]  Allemaal laatste keer.
+[3677.06 --> 3678.36]  Volgende week dus iReport.
+[3678.62 --> 3680.40]  We danken Sam Hengeveld voor de edit.
+[3680.40 --> 3683.64]  Als je een lezing wil over AI van Wietse of van mij, dan kan dat.
+[3683.64 --> 3686.40]  Daarvoor kun je ons mailen op lezing.pokie.show
+[3686.40 --> 3689.38]  Vergeet je niet te abonneren op de nieuwsbrief.
+[3689.64 --> 3692.02]  Kijk daarvoor op AI-report.email.
+[3692.56 --> 3693.38]  Tot volgende week.
+[3693.58 --> 3694.24]  Tot volgende week.
+[3694.24 --> 3700.14]  MUZIEK
+[3700.14 --> 3703.56]  MUZIEK
+[3703.56 --> 3704.08]  Vertre mistakes
+[3704.08 --> 3734.06]  TV Gelderland 2021

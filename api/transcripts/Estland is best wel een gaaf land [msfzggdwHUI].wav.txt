@@ -1,0 +1,2274 @@
+Video title: Estland is best wel een gaaf land
+Youtube video code: msfzggdwHUI
+Last modified time: 2024-01-22 10:14:03
+
+------------------ 
+
+[0.72 --> 4.44]  Zet jij je verwarming nog aan met zo'n ouderwetse thermostaatknop?
+[5.12 --> 7.46]  Dan is Eneco Dynamics niks voor jou.
+[7.98 --> 9.88]  Of bedien jij je thermostaat met een app?
+[10.52 --> 12.76]  Dan is Eneco Dynamics misschien wel iets voor jou.
+[13.50 --> 18.78]  Doe de test op eneco.nl slash test om te ontdekken of een dynamisch energiecontract bij jou past.
+[19.36 --> 21.32]  Mensen helpen een bewuste keuze te maken.
+[22.24 --> 23.82]  We doen het nu. Eneco.
+[23.82 --> 31.26]  Als nu echt die vitale processen geraakt worden en we hebben echt te weinig cybercapaciteit bijvoorbeeld.
+[31.64 --> 34.38]  Welke processen willen we dan kost wat kost in de lucht houden?
+[34.84 --> 37.92]  En waar zetten we onze schaarse capaciteit op dat moment op in?
+[38.28 --> 43.32]  In de nieuwe editie van Enter duiken we in Easydoor, de grootste cyberoefening van Nederland.
+[43.90 --> 46.98]  Ontdek het belang van voorbereiden, oefenen en samenwerken.
+[53.82 --> 70.88]  Welkom bij Poki, een podcast over kunstmatige intelligentie.
+[70.88 --> 75.48]  Waarin wij, Wietsehagen en Alexander Klubbing, je meenemen in de wereld van AI.
+[76.64 --> 78.20]  Alexander, hoe was het in Estland?
+[78.20 --> 84.34]  Ik heb met alle CIO's, want Estland heeft een CIO.
+[84.68 --> 90.78]  Ik heb ook een CDO en allerlei andere corporate IT-achtige namen in hun overheid zitten.
+[91.50 --> 96.48]  Ik heb met alle CIO's gesproken sinds dat het land bevrijd is door de Russen in de jaren 90.
+[96.58 --> 97.86]  Of van de Russen bedoel ik.
+[98.44 --> 100.40]  In de jaren 90, sinds de val van de Sovjet-Unie.
+[100.40 --> 103.28]  En dat was wel vet.
+[103.92 --> 109.80]  Want Estland is een van de meest gedigitaliseerde overheden op aarde.
+[110.02 --> 113.08]  Misschien zelfs wel de meest gedigitaliseerde overheid op aarde.
+[114.02 --> 119.62]  En zoals die mannen dat vertellen is, in de jaren 90 was er dus geen infrastructuur.
+[120.12 --> 122.34]  Ze hadden geen manier om...
+[122.34 --> 123.40]  Je moest alles opbouwen.
+[123.54 --> 125.32]  Van een manier tot belasting te innen.
+[125.46 --> 128.68]  Tot een database bij te houden met wie er eigenlijk in het land woonde.
+[128.68 --> 132.90]  De basale functies van een overheid moesten ze vanaf nul opbouwen.
+[133.54 --> 136.46]  En aangezien ze geen geld hadden om Capgemini in te huren.
+[136.70 --> 140.62]  Of weet ik veel wie wij zouden inhuren aan van die kut consultancybedrijven.
+[140.68 --> 141.66]  Om dit allemaal op te zetten.
+[142.18 --> 143.58]  Hebben ze gewoon alles zelf gebouwd.
+[143.68 --> 146.14]  En wat in Nederland zeg maar...
+[146.14 --> 148.50]  Die hele generatie van Rob Gronngrijp.
+[148.58 --> 149.78]  En Marleen Stikker ook wel.
+[149.92 --> 152.24]  Die vroege internetmensen.
+[153.28 --> 157.06]  Die in Nederland ISP's zijn begonnen.
+[157.06 --> 161.22]  Maar niet echt in de overheid hebben gezeten.
+[161.38 --> 163.22]  Zaten bij Estland juist in de overheid.
+[163.32 --> 166.80]  En die hebben daar gewoon de digitale infrastructuur van de overheid gebouwd.
+[167.50 --> 169.06]  En het gevolg is dus dat ze...
+[169.62 --> 171.06]  Ja, ze hebben een soort van...
+[172.52 --> 175.06]  Ze hebben een aantal basisprincipes.
+[176.34 --> 179.66]  Waaronder informatie mag altijd maar in één database staan.
+[179.76 --> 181.24]  Dat noemen ze het Only Once principe.
+[181.24 --> 186.22]  Dus als jij je geboortedatum ooit hebt ingevoerd bij de overheid.
+[186.30 --> 189.12]  Dan mag geen ander deel van de overheid daar nog om vragen.
+[189.74 --> 189.98]  Omdat het...
+[190.58 --> 195.10]  Ja, één database of één deel van de overheid is dus verantwoordelijk voor dat stukje data.
+[195.74 --> 197.40]  En als jij dan als andere...
+[197.40 --> 198.02]  Stel, weet ik veel.
+[198.10 --> 199.16]  Je krijgt een kind of zo.
+[199.68 --> 200.62]  En je moet dan...
+[200.62 --> 205.42]  Jouw geboortedatum moet aan jouw kind gekoppeld worden in een database.
+[205.76 --> 211.96]  Dan moet dus dat deel van de overheid dat opvragen bij de plek waar jouw geboortedatum staat.
+[212.06 --> 214.30]  En dat gaat via een systeem dat heet de X-Road.
+[214.48 --> 214.98]  Zo noemen ze dat.
+[215.08 --> 217.08]  Dat is een soort middleware die ze gebouwd hebben.
+[217.28 --> 218.02]  Al heel vroeg.
+[218.02 --> 224.36]  Waarmee alle overheden met elkaar kunnen praten via dit gestandardiseerde protocol.
+[224.94 --> 228.08]  Dat betekent dus dat omdat alle informatie maar één keer ergens mag staan.
+[228.20 --> 230.78]  Dat dat ding dus de hele tijd informatie aan het uitwisselen is.
+[231.48 --> 236.22]  En dat jij controle hebt als burger over waar je informatie heen gaat.
+[236.82 --> 242.90]  Want voor sommige stukjes informatie moet je zelf toestemming geven voordat een overheid dat mag gebruiken.
+[243.00 --> 245.00]  En aan de andere kant, sommige dingen worden automatisch uitgewisseld.
+[245.00 --> 248.48]  Waardoor bijvoorbeeld je belastingaangifte vanzelf wordt ingevoerd.
+[248.58 --> 250.46]  Dus aan de ene kant heb je een soort van logging.
+[250.90 --> 255.10]  Dat je, ze maken nu een app waardoor elke keer als jouw data wordt opgevraagd.
+[255.12 --> 256.76]  Je een pushbericht krijgt op je telefoon.
+[256.86 --> 258.14]  Zodat je kan zien gaat dat goed.
+[258.28 --> 261.92]  En als dan mensen bij je data komen van de overheid die daar geen toestemming voor hebben.
+[262.00 --> 263.16]  Dan gaan ze de gevangenis in.
+[263.16 --> 264.66]  Want daar staat ook gevangenisstraf op.
+[265.38 --> 268.14]  En aan de andere kant zijn sommige dingen gewoon zo automaat.
+[268.20 --> 271.04]  Dat je niet eens door hebt dat er een overheid is.
+[272.00 --> 274.60]  Nou ja, om dat verhaal te horen van hoe ze dat gedaan hebben.
+[274.60 --> 276.06]  En wat ze daar dan vervolgens mee willen.
+[276.18 --> 278.30]  Dat was echt heel erg cool.
+[278.86 --> 283.74]  Kan je dan ook een soort audit log opvragen van wie dan bij jouw data geweest is?
+[284.00 --> 285.94]  Zo van, dit zijn de, wat vet.
+[286.92 --> 290.42]  En je zei net, ze hebben het allemaal zelf gebouwd ook.
+[290.42 --> 295.38]  Dus het is niet iets wat ze hebben gekocht of van een ander land hebben geïmporteerd.
+[296.26 --> 296.54]  Nee.
+[296.54 --> 298.80]  En exporteren ze het inmiddels?
+[300.00 --> 302.26]  Ja, volgens mij maken ze sommige delen open source.
+[303.34 --> 306.68]  En dat X-road dat proberen ze inderdaad actief te exporteren.
+[308.08 --> 309.86]  Maar er zijn ook heel veel deeltjes.
+[310.02 --> 313.46]  Want het bestaat gewoon uit heel veel deeltjes, dit hele systeem.
+[314.02 --> 317.60]  Heel veel is gemaakt in een soort van publiek-private samenwerking.
+[317.68 --> 321.14]  Er zijn ook allemaal commerciële bedrijfjes juist die dingen gebouwd hebben.
+[321.14 --> 322.42]  Voor bijvoorbeeld het onderwijs.
+[323.04 --> 326.96]  Ze hebben het beste onderwijssysteem ter wereld volgens de PISA-scoren.
+[327.90 --> 329.46]  En daar speelt onderwijs ook een rol in.
+[329.56 --> 332.40]  Dus ze hebben een soort van magister on steroids.
+[332.58 --> 337.26]  Voor ouders die kinderen hebben en gewend zijn dat scoren in magister verdwijnen.
+[338.22 --> 343.18]  Ze hebben een soort van systeem gemaakt waardoor ouders heel goed hun kinderen kunnen helpen.
+[344.10 --> 346.16]  Met onderwerpen waar ze een beetje op achterlopen.
+[346.34 --> 348.64]  En dat schijnt dan een van de dingen te zijn waardoor het zo goed gaat.
+[348.64 --> 352.06]  Het is betere informatievoorziening voor ouders.
+[352.30 --> 353.64]  Om te weten hoe het met hun kind gaat.
+[354.28 --> 355.96]  En dat is dan weer private samenwerking.
+[356.24 --> 360.78]  Dus het is echt niet alleen maar dat er S-overheid-programmeurs zijn die alles maken.
+[361.70 --> 362.24]  Ja, interessant.
+[362.80 --> 368.86]  En jij was daar uitgenodigd omdat ze trots zijn omdat dat jou had laten zien.
+[368.98 --> 371.04]  Of zat daar wel iets van een thema omheen of iets?
+[371.22 --> 372.86]  Nou, ik heb mezelf uitgenodigd.
+[372.98 --> 374.32]  Oh, je bent gewoon nieuwsgierig.
+[374.32 --> 377.92]  Ik dacht ik wil dat gewoon zien.
+[378.30 --> 382.82]  Maar ze hebben dus wel, ik ben niet de enige natuurlijk die dit interessant vindt.
+[382.88 --> 385.58]  Ze hebben een soort van informatiecentrum.
+[385.96 --> 391.46]  Waar dus de hele dag allerlei groepjes langskomen van mensen over de hele wereld.
+[391.46 --> 395.88]  Die dan gaan horen hoe zij hun gezondheidszorg gedigitaliseerd hebben.
+[395.94 --> 398.30]  Hoe hun rechtssysteem gedigitaliseerd hebben.
+[398.60 --> 400.46]  Ze hebben gewoon alles gedigitaliseerd.
+[400.72 --> 403.36]  Dus noem een niche binnen de overheid.
+[403.50 --> 404.46]  En ze hebben daar wel een presentatie.
+[405.26 --> 406.84]  En mensen bij die dat gemaakt hebben.
+[406.92 --> 408.38]  En dat vinden ze wel leuk om te vertellen.
+[408.52 --> 412.14]  Ik heb wel het idee dat ze daar een soort van geopolitieke macht vandaan hadden.
+[412.24 --> 416.90]  En ze zijn natuurlijk het centrum van de NAVO qua cyber aanvallen.
+[416.90 --> 423.26]  Dus zij zijn het land die de cyber defense van de NAVO zit in Tallinn.
+[424.38 --> 426.10]  En dat trekt ze ook een beetje naar zich toe.
+[426.56 --> 428.04]  En zoals zij zelf zeggen.
+[428.52 --> 432.14]  Het is niet de vraag of we nog een keer door de Russen bezet worden.
+[432.40 --> 434.32]  Maar vooral wanneer dat gaat gebeuren.
+[435.08 --> 436.52]  En daar willen we klaar voor zijn.
+[437.10 --> 440.18]  Dus een hele digitale infrastructuur is ook ingericht op.
+[440.60 --> 443.04]  Dat het op ieder moment aangevallen kan worden.
+[443.74 --> 444.80]  Met name door de Russen.
+[444.80 --> 445.68]  En dat dat niet.
+[446.08 --> 451.26]  Ze hebben een soort van kopie van de hele Estse digitale overheid.
+[451.46 --> 453.52]  In Luxemburg onder andere draaien.
+[453.72 --> 456.68]  Zodat dat gewoon overgeswicht kan worden.
+[456.78 --> 457.66]  Mocht dat nodig zijn.
+[457.96 --> 460.52]  En informatie zit in allerlei losse clusters.
+[460.74 --> 462.46]  Waardoor als je één database binnenvalt.
+[462.56 --> 464.26]  En hebben ze een soort van economische afweging gemaakt.
+[464.34 --> 469.28]  Hoe duur het is om de keys van één database te hacken.
+[471.06 --> 472.56]  Hebben ze gewoon een afweging gemaakt.
+[472.56 --> 476.32]  Als we het goed genoeg clusteren in verschillende silos.
+[477.06 --> 478.46]  Dan kun je wel één database pakken.
+[478.54 --> 481.64]  Maar dan heb je nog steeds niet heel relevante informatie.
+[482.22 --> 483.50]  Dus dan heeft het geen zin.
+[483.62 --> 484.54]  Als het wel om het te hacken.
+[484.88 --> 486.58]  Dus er zit heel erg in de kern.
+[487.72 --> 488.38]  Boeken zijn.
+[488.74 --> 489.22]  Er is alvast wel.
+[489.28 --> 489.80]  Er is alvast wel.
+[489.86 --> 491.02]  Maar die zeggen deels open source.
+[491.16 --> 494.40]  Maar er is al iemand die een soort trots daar aan heeft gewerkt.
+[494.48 --> 495.98]  En daar een mooi boek van geschreven heeft.
+[495.98 --> 501.44]  Een soort van de history of developing e-governance in Estonia.
+[501.96 --> 502.46]  Zo'n boek.
+[502.48 --> 503.42]  Ik heb het niet kunnen vinden.
+[503.62 --> 505.86]  En daarom heb ik alles maar uit eerste bron proberen te trekken.
+[505.86 --> 506.50]  Ja, ik snap het.
+[507.62 --> 511.56]  En ja, het is wel echt grappig.
+[511.90 --> 514.16]  En ze hebben dus dit jaar zijn ze klaar.
+[514.24 --> 516.48]  Ze hadden een roadmap dus sinds de jaren negentig.
+[516.48 --> 519.22]  Om alle overheidsdingen te digitaliseren.
+[519.34 --> 521.24]  En het enige wat nog niet gedigitaliseerd was.
+[521.58 --> 524.80]  Was trouwen en sterven.
+[526.38 --> 528.32]  Van over de afgelopen dingen.
+[529.24 --> 532.14]  Ja, daar moest je nog voor langs bij een kantoor.
+[532.40 --> 535.08]  En die roadmap is dus sinds dit jaar af.
+[535.64 --> 540.06]  Dus ook die dingen kunnen nu via hun overheidsportal.
+[540.54 --> 544.16]  En nu is dus de volgende stap.
+[544.16 --> 546.94]  Want dit was een belangrijke soort van strik eromheen.
+[547.28 --> 548.10]  Nu is de volgende stap.
+[548.18 --> 550.06]  Dat ze allerlei proactieve dingen willen gaan doen.
+[550.20 --> 552.22]  Dus nu hebben ze veel meer.
+[552.40 --> 554.48]  Ze run het bijna als een start-up.
+[554.60 --> 557.98]  Nu willen ze KPIs bereiken rondom gezondheidszorg.
+[558.12 --> 559.10]  En rondom klimaat.
+[559.70 --> 561.28]  En andere grote onderwerpen.
+[561.50 --> 561.74]  Waar ze.
+[562.22 --> 564.78]  Ze hebben dus een kwart van de bevolking.
+[565.10 --> 567.32]  Het DNA hebben ze in kaart gebracht.
+[567.78 --> 568.72]  Dus nu willen ze kijken.
+[568.72 --> 572.02]  Kunnen we persoonlijke gezondheidszorg gaan leveren.
+[572.34 --> 573.16]  Middels AI.
+[574.16 --> 577.44]  Met de data die we aan elkaar kunnen koppelen.
+[577.82 --> 581.14]  Omdat we die data hebben van onze ingezetenen.
+[582.04 --> 582.90]  Dus nu zijn allerlei.
+[583.22 --> 585.40]  Want jij zei natuurlijk net ook al aan het begin.
+[585.62 --> 589.62]  Dat ze een principe hadden van alles één database.
+[590.94 --> 593.40]  En is er een soort principe lijst ook of zo?
+[593.48 --> 596.40]  Want het klinkt alsof ze het wel niet naïef aan het bouwen zijn.
+[596.50 --> 597.94]  Er zitten wel allerlei idealen achter.
+[598.54 --> 598.98]  Ja.
+[599.62 --> 602.08]  Nee, dus het is only once is een principe.
+[602.08 --> 606.26]  Daarnaast is er ook een principe over het minimaliseren.
+[606.48 --> 610.00]  Van de hoeveelheid data die opgevraagd mag worden.
+[610.14 --> 615.68]  Dus iemand noemde een voorbeeld van de openbaar vervoerbedrijf in Tallinn.
+[615.78 --> 616.32]  De hoofdstad.
+[616.96 --> 619.32]  Die over chipkaarten heeft.
+[619.32 --> 625.44]  En dat systeem wilde controleren of er een burger van Tallinn in checkte in de bus.
+[625.56 --> 627.24]  Of dat het iemand was van buiten Tallinn.
+[627.30 --> 629.72]  Want burgers van Tallinn mogen gratis met het OV.
+[629.88 --> 631.72]  En mensen van buiten Tallinn moeten ervoor betalen.
+[631.88 --> 635.68]  Dus die mensen die dat systeem maakten van die over chipkaart.
+[635.78 --> 637.82]  Die wilden weten van X-Road.
+[637.98 --> 641.26]  Dus dat die middelwer die informatie aan elkaar koppelt.
+[641.26 --> 644.68]  Mogen wij adresgegevens van de mensen die inchecken.
+[644.74 --> 646.28]  Want dan kunnen we checken of ze gratis mogen reizen.
+[646.42 --> 646.80]  En toen staat zo.
+[647.04 --> 647.86]  Ha, ha, ha, ha.
+[647.96 --> 648.94]  Dit is dan heel trots.
+[649.06 --> 650.08]  Ha, ha, ha, ha.
+[650.68 --> 651.94]  Natuurlijk hebben we dat niet gegeven.
+[652.06 --> 653.02]  Want het enige wat mensen.
+[653.24 --> 657.12]  Het enige wat zij nodig hebben om die specifieke dienst te kunnen verlenen.
+[657.22 --> 657.88]  Dus gratis.
+[658.34 --> 658.98]  Is weten.
+[659.16 --> 660.50]  Komt iemand uit Tallinn ja of nee?
+[660.50 --> 666.38]  Dus toen hebben ze gespecificeerd dat het enige wat het OV bedrijf mocht opvragen was.
+[666.46 --> 668.04]  Een ja of een nee op de vraag.
+[668.40 --> 668.88]  Ja, mooi.
+[668.88 --> 669.62]  Die inwoner.
+[670.26 --> 674.86]  En dat wordt dus dan in real time gepolt uit die X-Road database.
+[674.96 --> 679.88]  Op het moment dat jij je pasje bij die automaat in de bus houdt.
+[680.90 --> 683.40]  Om te checken of je gratis mag rijden ja of nee.
+[683.48 --> 689.20]  Dus het is ook nog minimalisatie van data.
+[690.36 --> 691.86]  Logging is een belangrijk onderdeel.
+[691.98 --> 695.00]  Dus iedere burger heeft toegang tot de access logs.
+[695.28 --> 697.16]  Die hebben ze een beetje naar beneden gedraaid.
+[697.16 --> 701.42]  Omdat er teveel machine tot machine communicatie was in dat logging.
+[701.56 --> 705.66]  Dus dat de echte verzoeken van mensen raakten daarbij ondergesneeuwd.
+[705.78 --> 707.14]  Mensen snapten het niet meer.
+[707.28 --> 710.38]  Dus er zijn nu die hele logging interface aan het optimaliseren.
+[710.50 --> 714.40]  Waardoor mensen beter begrijpen wanneer een aanvraag onterecht is.
+[714.50 --> 716.24]  Zodat ze daar ook bezwaar tegen kunnen maken.
+[716.94 --> 721.62]  Je kan dus zelf aangeven welke bijvoorbeeld dokters.
+[721.62 --> 724.98]  Welke delen van jouw patiëntendossier mogen bekijken.
+[725.08 --> 728.36]  Dus je kunt zelf je toegangsrechten instellen.
+[728.64 --> 732.84]  Per medische deel van je dossier.
+[733.50 --> 735.88]  Zodat je bijvoorbeeld als een arts een second opinion wil.
+[736.72 --> 739.00]  Als je wilt een arts een second opinion geeft.
+[739.40 --> 743.68]  Dat die arts dan niet het resultaat of de analyse van de oorspronkelijke arts kan lezen.
+[743.90 --> 744.46]  En jij wel.
+[744.68 --> 745.50]  Dat soort dingen.
+[746.20 --> 747.08]  Ja dit is toch goud.
+[747.08 --> 748.20]  Ja ik vind het heel vet.
+[748.54 --> 749.90]  Het voelt ook als een soort.
+[751.04 --> 753.04]  Dat zeg ik even naïef met wat ik nu van jou hoor.
+[753.18 --> 756.78]  Maar een soort Europees alternatief op een digitale overheid.
+[756.90 --> 757.94]  Zoals je die in China ziet.
+[759.02 --> 760.52]  In China is het heel veel.
+[760.76 --> 762.48]  Al deze data ook registreren.
+[762.58 --> 764.96]  Maar heb ik het idee dat je niet bij de access logs kan.
+[765.14 --> 767.24]  En niet consent gaat geven als er iets opgevraagd wordt.
+[767.24 --> 769.08]  Dat vermoeden heb ik.
+[769.72 --> 771.34]  En wat je nu beschrijft is.
+[771.78 --> 774.82]  Dat stuit ook wel een beetje aan op waar we de vorige aflevering eindigden.
+[774.82 --> 777.02]  Want toen deed jij ook een soort appel voor.
+[777.52 --> 782.08]  Joh kunnen we niet ook fantaseren over hele mooie toekomsten met daarin technologie.
+[782.22 --> 784.48]  Zonder daar meteen een hamer op te gooien bij ieder idee.
+[785.14 --> 788.52]  En wat je nu eigenlijk beschrijft is een digitale overheid.
+[788.76 --> 790.32]  In ieder geval in hoe ik het nu hoor.
+[790.92 --> 794.70]  Waarbij geprobeerd is om een balans te vinden tussen het gemak van al die data.
+[794.84 --> 795.84]  Die opvraagbaar is.
+[796.66 --> 798.94]  En wat je daar allemaal voor voordeel uit kan halen.
+[799.50 --> 799.94]  Versus.
+[800.70 --> 802.32]  Maar dat gaan we niet zomaar open gooien.
+[802.32 --> 804.72]  We zorgen er wel voor dat het op een manier gedaan wordt.
+[804.80 --> 810.16]  Dat andere waarden die we als overheid, als burger belangrijk vinden, ook beschermd zijn.
+[810.68 --> 812.32]  Ik vind dat wel heel mooi.
+[812.52 --> 815.00]  Dit klinkt dan wel als een soort case study voor.
+[816.00 --> 817.76]  Je hoeft niet als je heel veel data hebt.
+[817.86 --> 819.90]  Dat dan ook maar meteen allemaal open te gooien.
+[820.26 --> 822.70]  En het klinkt wel als veel meer werk.
+[823.44 --> 824.10]  Dat vind ik niet erg.
+[824.36 --> 826.06]  Want je kent me inmiddels een beetje.
+[826.30 --> 828.44]  Volgens mij mag het tien jaar langer duren als het moeilijker is.
+[828.52 --> 830.10]  Als het goed gebouwd wordt.
+[830.10 --> 835.18]  Maar ik vind het boeiend dat je aan het begin zei dat dit de groep mensen is.
+[836.04 --> 838.64]  Die misschien, dat leg ik het nou even in jouw mond.
+[838.82 --> 843.50]  Maar hier nu in Nederland veel meer tegen de overheid ageert.
+[843.58 --> 845.08]  Of in ieder geval daar veel kritiek op heeft.
+[845.46 --> 848.22]  En dat het daar gebouwd is door diezelfde mensen van binnenuit.
+[848.78 --> 850.52]  Het is misschien ook wel een beetje de historie.
+[850.64 --> 851.76]  Dat gaf je zelf ook al aan.
+[851.80 --> 854.34]  Als er een soort blank slate is van een systeem.
+[855.22 --> 856.88]  Dan kan je natuurlijk ook meer.
+[856.88 --> 859.86]  Dat is iedere ontwikkelaar die luistert denkt ja man lekker.
+[860.28 --> 861.26]  Een nieuw bedrijf beginnen.
+[861.58 --> 865.08]  Of een project, versie 2 gaan bouwen van een project.
+[865.18 --> 866.20]  En dan lekker opnieuw beginnen.
+[866.62 --> 867.16]  Dat klinkt wel goed.
+[867.18 --> 867.64]  Nee zeker.
+[868.14 --> 870.68]  Dat heeft geholpen dat ze opnieuw konden beginnen in de jaren 90.
+[870.80 --> 871.94]  Natuurlijk heeft dat geholpen.
+[872.64 --> 873.22]  Maar toch.
+[873.34 --> 874.58]  Het neemt niet weg dat je.
+[874.90 --> 877.80]  Als je een soort van fundamenteel idee over logging bijvoorbeeld.
+[878.04 --> 880.26]  Gewoon dat je als burger toegang hebt.
+[880.26 --> 884.12]  Tot de access log zeg maar.
+[884.44 --> 886.56]  Dat voelt als een fundamentele waarde.
+[886.86 --> 891.18]  Die we in Nederland gewoon niet belangrijk genoeg achten.
+[891.80 --> 894.18]  Dus er zijn geen burgers die hier actief om vragen.
+[894.30 --> 899.62]  Er zijn geen politici die actief hiervoor aan het eisen.
+[899.62 --> 901.66]  Van huisarts ging ik wisselen.
+[902.22 --> 904.52]  Dan moet je een formuliertje invullen waarin je consent geeft.
+[904.58 --> 907.04]  Dat die data dan tussen die huisartsen uitgewisseld mag worden.
+[907.90 --> 909.18]  En ik gaf dat.
+[909.34 --> 911.00]  En dat was ook een soort van sfeer van.
+[911.40 --> 912.54]  Sorry dat we dit moeten doen.
+[913.24 --> 913.58]  Naar mij.
+[913.74 --> 914.06]  Zo van.
+[914.12 --> 915.22]  Hier heb je nog dat formulier.
+[915.30 --> 916.20]  Wij willen dit ook niet.
+[916.32 --> 916.70]  Terwijl ik dan.
+[916.76 --> 917.04]  Ja goed.
+[917.36 --> 918.02]  Ik sta daar.
+[918.10 --> 918.88]  Ik denk wat mooi.
+[919.04 --> 919.20]  Weet je wel.
+[919.44 --> 921.00]  Dus het is ook een soort sfeer van.
+[921.34 --> 921.54]  Hé.
+[921.78 --> 923.08]  Dat privacy gedoe weer.
+[923.42 --> 923.96]  Die molen.
+[923.96 --> 924.26]  Ja ja.
+[924.26 --> 925.72]  En ik begrijp hem hoor.
+[925.80 --> 926.68]  Ik ben echt niet naïef.
+[926.76 --> 927.26]  Ik snap dat.
+[927.34 --> 928.04]  Want het is frictie.
+[928.14 --> 928.58]  Het is gedoe.
+[928.68 --> 929.90]  En het klinkt allemaal paranoia.
+[930.62 --> 931.08]  Maar ja.
+[931.34 --> 932.82]  En dat vond ik ook mooi aan jouw verhaal.
+[932.88 --> 933.36]  Dat je net zei.
+[933.40 --> 934.60]  Die access log was veelste.
+[935.00 --> 936.28]  Log heb je maar zoveel aan.
+[937.40 --> 938.30]  Je hebt maar wat aan een log.
+[938.38 --> 939.50]  Als die data zeg maar.
+[940.12 --> 941.12]  Goed gesorteerd wordt.
+[941.22 --> 941.78]  En je moet een soort.
+[942.02 --> 942.86]  Je moet UI hebben.
+[942.98 --> 944.38]  Eigenlijk wil je gewoon een lekkere app.
+[944.88 --> 945.84]  Die die die soort van.
+[945.94 --> 947.26]  Met iconen en kleuren.
+[947.84 --> 948.78]  Mensen helpt.
+[948.78 --> 949.50]  En er doorheen loopt.
+[949.62 --> 949.82]  Van joh.
+[949.88 --> 951.36]  Hier hoef je je geen zorgen om te maken.
+[951.48 --> 952.06]  Dit is inter.
+[952.06 --> 952.94]  Dit is exter.
+[953.40 --> 953.72]  Extern.
+[953.94 --> 954.30]  Dat is ja.
+[954.62 --> 955.68]  Heel interessant.
+[956.46 --> 957.30]  En dat doen ze dus ook.
+[957.30 --> 959.40]  Dat UI probleem een beetje aanpakken.
+[960.12 --> 960.32]  Ja.
+[960.54 --> 961.34]  En het gaat wel echt.
+[961.50 --> 962.94]  Heel erg iteratief allemaal.
+[963.22 --> 965.40]  Dus sommige systemen zien er echt nog steeds uit.
+[965.50 --> 967.70]  Alsof ze in het jaar 2000 gemaakt zijn.
+[967.94 --> 969.68]  Dat dan ook weer wel echt.
+[970.06 --> 971.64]  Dus er zijn hele lelijke dingen.
+[971.74 --> 973.30]  Zijn er ook onderdeel van.
+[973.44 --> 974.24]  Als je die app ziet.
+[974.34 --> 975.14]  Waarmee je stemt.
+[975.16 --> 976.54]  Want je kan dus stemmen in die verkiezingen.
+[976.66 --> 977.82]  Wat heel cool is.
+[977.96 --> 978.68]  Allemaal digitaal.
+[978.72 --> 980.28]  Dat gaat dus op de fucking blockchain.
+[980.28 --> 984.40]  De hele ledger van de verkiezingen.
+[985.60 --> 986.74]  Maar die app ziet eruit.
+[986.84 --> 988.04]  Dat is gewoon echt.
+[988.34 --> 988.64]  Zeg maar.
+[989.62 --> 990.76]  Je schaamt je dood.
+[990.88 --> 991.80]  Als je ziet hoe het eruit ziet.
+[991.88 --> 993.70]  Dus dan aan de ene kant is het heel vooruitstrevend.
+[993.78 --> 996.12]  Aan de andere kant voelt het een soort van reliek uit de oudheid.
+[996.24 --> 997.48]  Die wij helemaal niet meegemaakt hebben.
+[997.54 --> 999.28]  Want wij hebben natuurlijk nog nooit online kunnen stemmen.
+[999.84 --> 1000.32]  Dus dat wel.
+[1000.44 --> 1004.28]  Maar je merkt dat overal zitten dus die waarden van die hackers.
+[1004.28 --> 1008.50]  De hackers uit de jaren negentig die het oorspronkelijke internet gemaakt hebben.
+[1008.66 --> 1009.38]  Die waarden.
+[1010.20 --> 1013.08]  Die zijn verankerd in het systeem.
+[1013.18 --> 1016.68]  En vervolgens raakt dus ook de hele bevolking doordrongen van die waarden.
+[1016.86 --> 1018.30]  Omdat je toegang hebt tot logging.
+[1018.66 --> 1020.30]  Dat is mijn volgende vraag aan jou.
+[1020.30 --> 1026.04]  Waarvan ik heb in het verleden op veel kleiner niveau gewoon binnen bedrijven systemen gebouwd.
+[1026.18 --> 1027.66]  Met daar bepaalde waarden in.
+[1028.38 --> 1030.38]  Niet in de orde van grootte van wat jij beschrijft.
+[1030.90 --> 1035.22]  Maar wat je dan vaak ziet is dat die checks en balances die zijn ingebakken.
+[1035.38 --> 1037.18]  Er op een gegeven moment uitgehaald worden.
+[1037.40 --> 1038.64]  Of omzeild worden.
+[1038.80 --> 1040.68]  Want de mensen die die er ooit hebben ingestopt.
+[1041.08 --> 1045.10]  Die waarden zijn nooit expliciet verankerd in de organisatie.
+[1045.26 --> 1047.36]  Dus die techniek wordt uiteindelijk geërodeerd.
+[1047.36 --> 1048.32]  En dat waait dan gewoon.
+[1048.80 --> 1050.40]  Ja, er wordt een backdoor omheen gezet.
+[1050.56 --> 1051.70]  Of een dingetje.
+[1052.14 --> 1053.68]  Heb jij niet het idee dat dat daar ook.
+[1054.58 --> 1056.34]  Ja, alles kan altijd gebeuren.
+[1056.42 --> 1057.48]  Maar heb je het idee dat dat daar.
+[1058.16 --> 1060.68]  Door de bevolking en de mensen die er nu aan werken.
+[1060.82 --> 1062.90]  Beide partijen nog beschermd wordt.
+[1063.68 --> 1065.78]  Nou, het valt me dus op hoe vaak zij.
+[1066.52 --> 1067.58]  Veel van die dingen zijn.
+[1067.74 --> 1069.56]  Dus sommige dingen zijn principes.
+[1069.68 --> 1071.70]  En sommige dingen zijn echt verankerd in de wet.
+[1072.62 --> 1073.82]  Maar zoiets als.
+[1074.96 --> 1076.80]  Gegevens niet mogen op.
+[1076.80 --> 1079.02]  Of gegevens opvragen die je niet mag opvragen.
+[1079.24 --> 1081.20]  Eindigt dus gewoon in gevangenisstraf voor mensen.
+[1081.36 --> 1082.94]  En dat is iets.
+[1083.06 --> 1085.08]  Een verhaal wat ze elkaar ook de hele tijd vertellen.
+[1085.44 --> 1087.52]  Dus mensen kennen allerlei anekdotes.
+[1088.06 --> 1090.32]  Dat heeft dan op de voorpagina van de krant gestaan.
+[1090.80 --> 1092.68]  Van mensen die in de gevangenis gegaan zijn.
+[1092.76 --> 1095.52]  Omdat ze medische gegevens hebben opgevraagd van bekende esten.
+[1095.86 --> 1097.30]  Om maar een voorbeeld te noemen.
+[1097.80 --> 1099.20]  Dus het is gewoon onderdeel van de.
+[1099.56 --> 1100.24]  Het is een soort meme.
+[1100.72 --> 1101.04]  Als mensen.
+[1101.34 --> 1102.08]  Ja, ik snap hem.
+[1102.08 --> 1103.84]  En ik zit ook te denken.
+[1103.96 --> 1104.46]  Dat zal dan.
+[1104.68 --> 1106.90]  Ik weet dan weer te weinig van de geschiedenis van Estland.
+[1107.02 --> 1107.48]  Wel een beetje.
+[1107.64 --> 1110.36]  Maar zit daar ook niet iets in.
+[1110.46 --> 1111.00]  Dat het nog.
+[1112.24 --> 1113.28]  Toen het gebouwd werd.
+[1113.36 --> 1114.12]  Ook heel erg leefde.
+[1114.20 --> 1114.52]  Van dit.
+[1115.04 --> 1116.68]  Als we dit soort systemen gaan opzetten.
+[1116.80 --> 1118.30]  Dan moeten we gewoon heel erg oppassen.
+[1118.46 --> 1118.60]  Want.
+[1118.60 --> 1121.12]  Wie weet wie straks deze systemen in handen krijgt.
+[1121.62 --> 1123.02]  Als dat er natuurlijk echt in zit.
+[1123.16 --> 1125.62]  Dan is dat een levend waardensysteem.
+[1125.82 --> 1127.68]  En niet een dogmatisch waardensysteem.
+[1128.62 --> 1128.76]  Ja.
+[1129.36 --> 1129.50]  Ja.
+[1129.82 --> 1130.74]  Nee, maar dat helpt.
+[1130.84 --> 1131.84]  En misschien is het dus een.
+[1132.94 --> 1133.10]  Ja.
+[1133.24 --> 1136.06]  Misschien kan je niet zoiets zo radicaal maken.
+[1136.32 --> 1139.40]  Op het moment dat je niet die hele context meekrijgt.
+[1139.48 --> 1139.98]  Van Estland.
+[1140.08 --> 1141.28]  Inderdaad met de Sovjet-Unie.
+[1141.42 --> 1142.60]  En dat het allemaal recent is.
+[1142.76 --> 1144.88]  En dat het toevallig te weinig geld is.
+[1144.88 --> 1146.72]  Waardoor de nerds het dan maar gingen fiksen.
+[1146.72 --> 1147.34]  Omdat er.
+[1147.42 --> 1147.68]  Nou ja.
+[1147.78 --> 1149.32]  Ze konden niet naar IBM gaan zeg maar.
+[1149.42 --> 1151.44]  Om het gewoon uit een doosje te kopen allemaal.
+[1152.02 --> 1153.54]  Misschien dat al die context nodig is.
+[1153.66 --> 1154.20]  Om dit te krijgen.
+[1154.36 --> 1154.56]  Maar ja.
+[1154.64 --> 1155.28]  Aan de andere kant.
+[1155.46 --> 1155.64]  Ja.
+[1155.64 --> 1156.16]  Maar het is er.
+[1156.24 --> 1157.38]  Dat is interessant.
+[1158.30 --> 1158.46]  Ja.
+[1158.58 --> 1162.08]  En je kan alsnog je erdoor laten inspireren.
+[1162.38 --> 1162.96]  En bedenken.
+[1163.04 --> 1163.14]  Ja.
+[1163.14 --> 1163.58]  Dat is wel.
+[1163.96 --> 1165.30]  Dat is eigenlijk wel heel erg cool.
+[1165.66 --> 1166.02]  Nu.
+[1166.10 --> 1167.14]  Nu kunnen zij dus.
+[1167.70 --> 1168.38]  Omdat het zo.
+[1169.84 --> 1171.32]  Modulair is opgezet allemaal.
+[1171.60 --> 1171.92]  En dus.
+[1172.52 --> 1175.08]  Als je eenmaal aan die X-Rode verbonden bent.
+[1175.52 --> 1175.72]  Dan.
+[1175.72 --> 1177.52]  Dan moet je aan allerlei eisen voldoen.
+[1177.64 --> 1179.70]  Dus er kunnen ook allerlei beveiligingseisen opdringen.
+[1179.84 --> 1180.24]  Op die reden.
+[1180.42 --> 1182.00]  Nerds zijn de baatse over de X-Rode.
+[1182.12 --> 1182.84]  Dus dat maakt dat.
+[1183.28 --> 1184.16]  Telecom operators.
+[1184.38 --> 1184.78]  Die dan ook.
+[1185.02 --> 1185.94]  Private bedrijven zitten.
+[1186.02 --> 1187.02]  Dus ook aangesloten.
+[1187.14 --> 1187.74]  Dus iedereen logt.
+[1187.90 --> 1188.72]  Het is alsof iedereen.
+[1189.00 --> 1190.12]  Het is alsof je op je.
+[1190.34 --> 1192.24]  Op je KPN account inlogt.
+[1192.24 --> 1192.94]  Met je DigiD.
+[1193.20 --> 1195.08]  Dat is in feite hoe het daar gaat.
+[1195.08 --> 1196.16]  Ik krijg meteen rillingen van.
+[1196.28 --> 1197.50]  Als je het in onze context zegt.
+[1197.70 --> 1198.80]  Maar in die context is het anders.
+[1199.54 --> 1201.04]  Zij vinden dat volkomen normaal.
+[1201.24 --> 1201.82]  Sterker nog.
+[1201.92 --> 1202.88]  Ze vinden dat heel handig.
+[1202.88 --> 1203.94]  Want het betekent dat je ook niet.
+[1204.30 --> 1205.46]  Als je je aanmeldt.
+[1205.68 --> 1207.64]  Bij een heel nieuw abonnement afsluiten.
+[1207.74 --> 1209.58]  Hoef je niet opnieuw al je gegevens in te voeren.
+[1209.66 --> 1210.82]  Want dat gaat allemaal automatisch.
+[1210.92 --> 1213.98]  Want dat is met hetzelfde login gedaan.
+[1214.68 --> 1214.98]  En.
+[1214.98 --> 1218.58]  Het gevolg is dus.
+[1218.66 --> 1221.34]  Dat die nerds ook al hun beveiligingseisen.
+[1221.66 --> 1222.52]  Kunnen opdringen.
+[1222.76 --> 1224.24]  Aan die private bedrijven.
+[1224.58 --> 1225.06]  Op die manier.
+[1225.16 --> 1226.46]  Omdat zij de baas zijn over.
+[1227.04 --> 1227.64]  Het soort van.
+[1227.84 --> 1229.90]  Het smeermiddel wat in het midden zit.
+[1230.06 --> 1231.26]  Dat vind ik ook nog wel grappig.
+[1231.40 --> 1231.98]  En het betekent dus.
+[1232.02 --> 1232.58]  Omdat het zo.
+[1233.26 --> 1234.36]  Modulair is opgezet.
+[1234.80 --> 1237.40]  Dat het bouwen van nieuwe diensten erop.
+[1237.46 --> 1238.62]  Eigenlijk relatief makkelijk is.
+[1238.70 --> 1240.14]  Want de hele data uitwisseling.
+[1240.84 --> 1242.36]  De data uitwisseling shit.
+[1242.40 --> 1243.28]  Is allemaal al geregeld.
+[1243.28 --> 1244.78]  Dus het betekent dat ze.
+[1245.26 --> 1247.82]  Nu zijn ze nu met zo'n heel AI project bezig.
+[1247.92 --> 1248.52]  Ze gaan dit jaar.
+[1248.60 --> 1249.86]  Willens 30 miljoen uitgeven.
+[1249.98 --> 1250.24]  Dat is voor S.
+[1250.24 --> 1252.32]  Dit was mijn volgende bruggetje.
+[1252.68 --> 1253.08]  Van oké.
+[1253.10 --> 1254.54]  Hoe zit het dan met het onderwerp.
+[1254.62 --> 1255.66]  Kunstmatige intelligentie.
+[1255.78 --> 1256.88]  En dit hele verhaal daar.
+[1257.72 --> 1258.62]  Nou dat is dus.
+[1258.84 --> 1260.68]  Dit is iets waar ze nu mee beginnen.
+[1260.84 --> 1263.16]  En dan hebben ze een project voorgemaakt.
+[1263.24 --> 1264.54]  En hebben ze 80 initiatieven.
+[1264.62 --> 1265.80]  Die ze met AI willen ontplooien.
+[1265.90 --> 1266.78]  En dat gaat dan van.
+[1268.08 --> 1269.22]  Geautomatiseerde rechtspraak.
+[1269.60 --> 1270.96]  Daar gaan bij ons in Nederland ook gelijk.
+[1271.16 --> 1272.72]  De haren van overeind staan.
+[1272.72 --> 1273.78]  Want automatisch.
+[1274.32 --> 1275.80]  Maar zij zijn dus heel erg trots.
+[1275.94 --> 1276.64]  Ja dat is het heel.
+[1276.88 --> 1278.52]  Het is best wel een kapitalistisch land.
+[1279.18 --> 1280.86]  Dat is misschien een soort van tegenbeweging.
+[1281.10 --> 1281.36]  Van die.
+[1282.00 --> 1284.36]  Van de situatie in de jaren 90.
+[1286.16 --> 1286.94]  Maar het ook.
+[1287.48 --> 1288.76]  Ik vind het wel heel verfrissend.
+[1288.80 --> 1290.02]  Om met zoveel plezier te horen.
+[1290.22 --> 1292.10]  Hoe zij zeg maar hun rechtssysteem.
+[1292.26 --> 1293.40]  Dan efficiënter willen maken.
+[1293.48 --> 1293.78]  Want ze zeggen.
+[1293.86 --> 1294.94]  Er zijn gewoon heel veel dingetjes.
+[1295.00 --> 1295.82]  Binnen het rechtssysteem.
+[1295.82 --> 1298.00]  Die gewoon ongelooflijk veel tijd kosten.
+[1298.00 --> 1298.86]  Voor advocaten.
+[1298.86 --> 1299.66]  En voor rechters.
+[1299.98 --> 1301.24]  En met AI.
+[1301.24 --> 1303.24]  Kunnen wij processen gewoon versnellen.
+[1303.32 --> 1304.04]  Door beslissingen.
+[1304.54 --> 1305.74]  Voorbeeld wat ik hoorde was.
+[1306.12 --> 1308.26]  Beslissingen onder de 7000 euro.
+[1308.42 --> 1309.98]  Boetes onder de 7000 euro.
+[1310.06 --> 1312.46]  Dat dat gewoon door een AI besloten wordt.
+[1312.82 --> 1314.36]  En je zal wel eens in beroep kunnen gaan.
+[1314.48 --> 1315.32]  En dan kun je alsnog.
+[1315.40 --> 1317.10]  Kun je alsnog bij mensen terechtkomen.
+[1317.10 --> 1318.84]  Maar om maar aan te geven.
+[1319.02 --> 1321.70]  De mate waarin ze bereid zijn.
+[1321.70 --> 1326.30]  Om IT in die zonne.
+[1326.70 --> 1328.36]  Zich mee te laten bemoeien.
+[1328.80 --> 1329.54]  Een ander voorbeeld was.
+[1329.64 --> 1331.12]  Dat ze satellietfoto's gebruiken.
+[1331.46 --> 1334.86]  Om satellietbeelden.
+[1335.06 --> 1336.82]  Door AI laten analyseren.
+[1337.38 --> 1338.36]  Om voor boeren.
+[1338.54 --> 1339.64]  Om hun subsidie te krijgen.
+[1339.80 --> 1341.90]  Want een voorwaard om subsidie te krijgen.
+[1342.02 --> 1343.44]  Is dat je je velden maait.
+[1344.18 --> 1346.46]  En ze gebruiken dus die satellietbeelden.
+[1346.46 --> 1347.76]  Om te kijken of je dat gedaan hebt.
+[1347.84 --> 1348.68]  En pas dan krijg je.
+[1348.90 --> 1351.14]  Krijg je automatiseerd je subsidie.
+[1351.62 --> 1352.58]  En een ander ding was.
+[1352.66 --> 1353.66]  Dat ze werkzoekenden.
+[1354.38 --> 1357.62]  En werkgevers.
+[1357.72 --> 1358.98]  Die banen in de aanbieding hebben.
+[1358.98 --> 1362.14]  Ook die shit is allemaal gestructureerd.
+[1362.52 --> 1364.40]  Al die data is gestructureerd opgeslagen.
+[1364.60 --> 1366.26]  Dus de overheid kan actief.
+[1366.48 --> 1367.74]  Mensen die een baan zoeken.
+[1367.94 --> 1369.90]  Koppelen aan plekken waar banen zijn.
+[1370.36 --> 1371.78]  En ook daar gebruiken ze AI.
+[1371.98 --> 1373.88]  Om die koppeling te maken.
+[1374.54 --> 1376.16]  Het is mooi dat data gestructureerd is.
+[1376.16 --> 1377.54]  Maar je moet ook nog wel even de koppeling maken.
+[1377.64 --> 1378.76]  Dus die software moet je bouwen.
+[1379.14 --> 1380.04]  Dat doen ze dus ook.
+[1380.48 --> 1383.02]  Dus het zijn heel veel voorbeelden van dingetjes.
+[1383.06 --> 1384.10]  Die zij kunnen maken.
+[1385.32 --> 1387.88]  In heel veel verschillende discipline van de overheid.
+[1387.88 --> 1389.56]  Ook tussen die disciplines.
+[1390.42 --> 1394.22]  Omdat al die gegevens gestructureerd opgeslagen zijn.
+[1394.44 --> 1396.10]  En er data uitwisseling is.
+[1396.38 --> 1398.88]  Als jij daar als consument toestemming.
+[1398.88 --> 1400.56]  Als burger toestemming voor geeft.
+[1400.56 --> 1404.22]  En in Nederland kunnen we niet meer doen.
+[1404.38 --> 1406.08]  Dan binnen departementen.
+[1406.52 --> 1407.34]  Een beetje klooien.
+[1407.84 --> 1409.66]  En zij kunnen dat echt door een hele overheid doen.
+[1409.76 --> 1411.68]  Is het dan misschien een te specifieke vraag.
+[1411.84 --> 1414.04]  Maar is het dan zo dat de boer toestemming geeft.
+[1414.16 --> 1416.22]  Om zijn of haar land te laten scannen?
+[1416.22 --> 1421.28]  Nou sommige dingen leggen ze natuurlijk gewoon op.
+[1421.44 --> 1421.84]  Ik bedoel.
+[1422.18 --> 1422.82]  Ik ga ervan.
+[1422.88 --> 1423.38]  Ik weet het.
+[1423.48 --> 1423.96]  Ik weet het niet.
+[1424.04 --> 1424.70]  Maar ik ga ervan uit.
+[1424.88 --> 1426.34]  Dat dit gewoon een voorwaarde is.
+[1426.42 --> 1427.12]  Voor die subsidie.
+[1427.24 --> 1429.98]  En sommige dingen doen ze gewoon automatisch.
+[1430.10 --> 1431.10]  Dus ik bedoel.
+[1431.68 --> 1433.44]  Je belastingaangiften.
+[1433.78 --> 1435.00]  Ze gaan niet vragen.
+[1435.00 --> 1438.60]  Of je je bankzaldo wil doorgeven ofzo.
+[1438.78 --> 1439.92]  Dat wordt gewoon gepold.
+[1439.92 --> 1440.46]  Ja.
+[1440.66 --> 1445.16]  En als er iets onderdeel is van een recht.
+[1445.58 --> 1447.50]  Van een rechtelijke uitspraak.
+[1447.60 --> 1448.88]  Dan wordt dat ook gewoon overruled.
+[1448.94 --> 1449.70]  Maar wat ik voor me zie.
+[1449.78 --> 1452.32]  Is er een soort systeem met allerlei toegangsrechten.
+[1452.54 --> 1454.92]  En sommige processen hebben gewoon hogere toegangsrechten.
+[1455.60 --> 1456.92]  En sommige mensen hebben hogere toegangsrechten.
+[1458.04 --> 1459.58]  En sommige dingen heb je geen keuze over.
+[1459.58 --> 1464.42]  En over dingen waar wij in Nederland denken dat we de keuze over hebben.
+[1464.76 --> 1467.92]  En op de achtergrond toch allerlei informatie wordt uitgewisseld.
+[1468.02 --> 1469.64]  En dat het toch niet helemaal lekker werkt.
+[1469.64 --> 1469.80]  En zo.
+[1469.84 --> 1473.02]  Dus zij hebben in ieder geval gewoon een systeem gemaakt wat transparant is.
+[1473.08 --> 1473.20]  Ja.
+[1473.26 --> 1475.26]  Ik denk ook voor mij zelf persoonlijk.
+[1475.44 --> 1478.88]  Dat in ieder geval het feit dat de data die er is.
+[1479.02 --> 1480.26]  Dat er bekend is wat er is.
+[1480.54 --> 1484.24]  En dat er bekend is wie er wanneer bij is geweest of bij wil.
+[1484.46 --> 1486.16]  En dat ik daar ook nog zergenschap over heb.
+[1486.70 --> 1488.72]  Dat is volgens mij altijd een goed idee.
+[1488.84 --> 1489.82]  Dat is gewoon goud.
+[1490.20 --> 1493.22]  En dan gaan zij natuurlijk nog wel een aantal stappen verder.
+[1493.34 --> 1494.80]  Ik zit ook tijdens jouw verhaal te denken.
+[1496.50 --> 1499.40]  Dat vind ik dan wel weer mooi aan een soort gefedereerd Europa.
+[1499.64 --> 1503.12]  Waarin we niet één groot blok zijn op alle vlakken.
+[1503.12 --> 1509.52]  Maar intern binnen die Europese Unie een S-land hebben die op hun eigen manier dit doet.
+[1509.70 --> 1511.18]  Want dit is wel binnen de EU.
+[1511.32 --> 1514.74]  Dus het moet dan ook wel weer voldoen vanuit boven aan wat daar dan opgelegd wordt.
+[1516.50 --> 1517.12]  Maar ik ben...
+[1517.12 --> 1518.50]  Dus ik vind het...
+[1518.50 --> 1520.50]  Ik ben eigenlijk...
+[1521.22 --> 1521.86]  Hoe zeg ik dat?
+[1522.16 --> 1524.70]  Ik vind het mooi dat zij dit lekker allemaal kunnen doen.
+[1524.98 --> 1527.18]  Dat ik er zelf geen onderdeel van ben.
+[1527.32 --> 1530.26]  Want ik vind het gewoon mooi dat ik daar geen burger ben.
+[1530.32 --> 1531.52]  Hoe gek dat ook klinkt.
+[1531.64 --> 1534.44]  Totdat zij op een gegeven moment kanker genezen omdat ze die DNA scannen.
+[1534.54 --> 1535.84]  En dan willen wij het ineens allemaal hebben.
+[1535.98 --> 1536.56]  En dan zeggen wij...
+[1536.56 --> 1539.02]  Thanks dat jullie wel jezelf hebben opgeholverd in die database.
+[1539.02 --> 1542.02]  Maar ik ben wel een soort van...
+[1542.80 --> 1546.60]  Ik vind het wel interessant dat zij dat met elkaar als een soort van sociaal experiment kunnen doen.
+[1547.16 --> 1550.10]  Kijk, ieder kind die geboren wordt in S-land heeft daar natuurlijk weinig over te zeggen.
+[1550.18 --> 1551.52]  Die wordt geboren in dat experiment.
+[1552.14 --> 1552.40]  Maar goed.
+[1553.58 --> 1555.44]  Experiment klinkt een beetje alsof ik het naar beneden haal.
+[1555.50 --> 1556.26]  Maar dat bedoel ik helemaal niet.
+[1556.38 --> 1557.08]  Ik denk wel dat zij...
+[1557.08 --> 1557.54]  Maar het moet.
+[1557.64 --> 1558.32]  Je moet meedoen.
+[1558.44 --> 1559.04]  Je mag niet...
+[1559.04 --> 1561.02]  Je kan niet op de oud uit die digitaliteit.
+[1561.02 --> 1561.66]  Dan moet je verhuizen.
+[1562.12 --> 1565.58]  Dan moet je naar een andere lidstaat of naar een ander land.
+[1565.58 --> 1566.90]  Buiten de EU gaan.
+[1568.82 --> 1569.58]  Ja, het voelt...
+[1571.00 --> 1571.58]  Ik zelf...
+[1572.14 --> 1572.92]  Er zit altijd iets in.
+[1573.00 --> 1576.78]  Hebben we toen ook tijdens de aflevering met Onno erbij over onderwijs gehad.
+[1576.88 --> 1578.58]  Dat er intuïtief ook iets bij mij zit dat ik...
+[1579.46 --> 1584.44]  Denk dat het goed is voor systemen om deels kapot te zijn.
+[1585.30 --> 1587.38]  Omdat daar een soort ruimte door ontstaat.
+[1587.82 --> 1592.34]  Dat is eigenlijk het beklachten op een soort totalitair iets.
+[1592.34 --> 1598.08]  Als je een totalitair systeem bouwt dat alles kent, alles weet.
+[1598.48 --> 1599.02]  Dan kan je zeggen...
+[1599.02 --> 1605.44]  Ja, maar als je dan jezelf gewoon goed gedraagt en je subsidies aanvraagt en lief bent en je hond netjes aangeeft bij de belasting.
+[1605.56 --> 1609.18]  Dan hoef je geen zorgen te maken dat die hondendrol gescand wordt met een satelliet.
+[1610.48 --> 1613.34]  Maar ik denk dat het ergens...
+[1614.12 --> 1617.60]  Ja, dat is hetzelfde als met iedere wet die we hebben.
+[1617.60 --> 1625.28]  Dat je een soort van periferie van de wet wil hebben waarbinnen je toch in ieder geval het klein dingen kan doen die misschien pas later legaal worden.
+[1625.92 --> 1628.54]  Er zijn best wel dingen die vandaag de dag legaal zijn.
+[1628.90 --> 1632.58]  Die vroeger illegaal waren en altijd in een soort schaduw waren.
+[1633.12 --> 1635.60]  En dat ik weet niet hoe groot die schaduw moet zijn.
+[1635.74 --> 1637.62]  Ik weet niet hoe breed die periferie moet zijn.
+[1637.62 --> 1644.30]  Als ik het dan even terughoud naar onderwijs voor de luisteraars die denken over wat voor drugs heeft, wie zit dan.
+[1645.22 --> 1650.48]  In onderwijs zou je zeggen dat er een keer even de andere kant op gekeken wordt.
+[1650.74 --> 1655.16]  Of een toets op een andere manier nagekeken wordt voor een student die niet helemaal binnen het systeem past.
+[1655.26 --> 1657.76]  En die leraar kan toch nog even draaien aan een knopje links of rechts.
+[1658.26 --> 1662.34]  Ik denk dat we als we terugkijken in ons leven, eerlijk kijken naar momenten.
+[1662.34 --> 1665.80]  Dat kan van een docent tot en met een scheidsrechter tot een agent zijn geweest.
+[1666.16 --> 1668.56]  Die zei van joh knipoog doe me niet meer hè vriend.
+[1668.74 --> 1670.68]  Want je komt anders echt heel erg in de problemen.
+[1670.74 --> 1671.82]  En ik kijk nog één keer weg.
+[1672.30 --> 1676.54]  Dat die ruimte in de samenleving waardevol is.
+[1677.06 --> 1680.46]  Tegelijkertijd besef ik me dat in diezelfde ruimte gebeurt zoveel naars.
+[1680.88 --> 1681.70]  In die schaduw.
+[1682.22 --> 1684.54]  Dus ik heb daar ook een soort gevecht mee altijd.
+[1684.98 --> 1686.58]  Het is een grappig punt wat je maakt.
+[1686.66 --> 1690.04]  Want ik heb dus ook met onderwijsexperts gesproken daar.
+[1690.04 --> 1693.18]  En die zeggen dus, Estland heeft het beste onderwijs ter wereld.
+[1693.32 --> 1696.52]  Volgens de PISA scoremethodiek.
+[1697.32 --> 1702.34]  En je zou dus verwachten dat dat komt.
+[1702.60 --> 1706.84]  Omdat ze de hele tijd aan het testen zijn.
+[1707.00 --> 1708.72]  En dat dan een van een systeem gooien.
+[1708.82 --> 1710.42]  En dat dan een van een algoritme bedenkt.
+[1710.52 --> 1712.28]  Waar je nu onderwijs moet krijgen.
+[1712.44 --> 1716.14]  Maar ik denk dat we juist in Nederland die neiging heel erg hebben.
+[1716.14 --> 1717.86]  Om alles te willen opslaan.
+[1718.02 --> 1722.56]  En alles te willen proberen te controleren.
+[1723.10 --> 1724.54]  En wat ze dus in Estland doen.
+[1724.66 --> 1726.12]  Is juist dat ze testen niet.
+[1726.56 --> 1727.28]  Bijna niet.
+[1727.80 --> 1734.22]  En gooien juist alle autonomie op de onderwijzers en de scholen.
+[1734.62 --> 1738.04]  Dus ze maken ook weer een soort van vreemde tegenbeweging daar.
+[1738.12 --> 1739.80]  In een land waarin alles gereguleerd wordt.
+[1739.88 --> 1741.76]  Om juist dat in het onderwijs heel erg vrij te laten.
+[1741.76 --> 1744.98]  Je gaat daar pas op je zevende.
+[1745.60 --> 1749.06]  Krijg je überhaupt pas voor het eerst inhoudelijk onderwijs.
+[1749.12 --> 1752.04]  Waar we in Nederland met vier jaar al beginnen met basisonderwijs.
+[1752.54 --> 1758.00]  Je hoeft pas heel laat te kiezen om een beroepsrichting te kiezen.
+[1759.30 --> 1762.60]  En heel weinig wordt gedaan op basis van toetsen.
+[1763.28 --> 1764.66]  Dus gek genoeg.
+[1765.30 --> 1766.82]  Ik snap heel erg wat je zegt.
+[1766.90 --> 1771.50]  Maar ik denk dat diezelfde chaos of die ruimte die je beschrijft.
+[1771.50 --> 1777.48]  is dat wij de neiging juist hebben om die in te vullen met allerlei controledrift.
+[1778.16 --> 1784.36]  En dat in een land waarin dus in ieder geval een hele overheid in een systeem hangt.
+[1784.48 --> 1787.94]  Echt een heel goed gedocumenteerd strak systeem hangt.
+[1788.38 --> 1793.14]  Dat ze dus juist in het onderwijs de neiging hebben om dat dan weer los te laten.
+[1793.14 --> 1794.26]  Omdat ze...
+[1794.26 --> 1794.80]  En ik weet niet.
+[1794.88 --> 1797.32]  Misschien idealiseer ik dit nu allemaal.
+[1797.46 --> 1798.86]  En denk ik het is het beloofde land.
+[1798.96 --> 1800.22]  En we moeten alles doen zoals Estland.
+[1800.36 --> 1802.68]  En ik zit wel een beetje op een roze Estland-wolk.
+[1802.72 --> 1803.78]  Dat geef ik dan gelijk wel toe.
+[1804.56 --> 1807.34]  Maar ze zijn niet gestopt met nadenken.
+[1807.42 --> 1808.18]  Zullen we maar zeggen.
+[1808.56 --> 1813.72]  Bij het idee dat alles in een systeem kan.
+[1813.72 --> 1817.10]  Ja, ik denk dat dat is ook wat ik je nu heel erg hoor zeggen.
+[1817.80 --> 1818.24]  Die...
+[1818.24 --> 1820.44]  Met al die technologie.
+[1820.66 --> 1823.06]  Ik zit te denken aan een beetje een vreemde metafoor misschien.
+[1823.18 --> 1825.24]  Maar als je denkt aan een mes.
+[1825.52 --> 1829.80]  Als je uit een vliegtuig in een grote houten kist een hele collectie messen zou droppen.
+[1829.80 --> 1833.64]  Op een land waarin koken heel belangrijk is.
+[1833.70 --> 1835.40]  Dan gaan die messen natuurlijk naar de keukens.
+[1835.50 --> 1836.44]  Want die gaan ze mee koken.
+[1836.56 --> 1837.16]  En dan gaan ze denken zo.
+[1837.16 --> 1838.56]  Wauw, we gaan tomaten snijden.
+[1838.66 --> 1841.04]  Want wij vinden hier koken is een grote waarde.
+[1841.58 --> 1844.66]  Gooi het in een ander land neer waar ze elkaar allemaal niet vertrouwen.
+[1844.74 --> 1845.42]  Dan wordt het een waarde.
+[1845.96 --> 1847.40]  En er zit dus...
+[1847.40 --> 1851.20]  Die technologie die is gestut op dat waardensysteem.
+[1851.28 --> 1854.16]  Op die cultuur, op die historie van zo'n land.
+[1854.30 --> 1859.04]  En ik kan me heel goed voorstellen dat als je de software van Estland één op één pakt.
+[1859.04 --> 1861.74]  En geeft aan, ik noem het maar even, de Nederlander.
+[1861.78 --> 1862.44]  Die niet bestaat.
+[1862.62 --> 1864.64]  Maar de gemiddelde Nederlandse waarde.
+[1865.08 --> 1868.26]  Dat wij daar misschien hele andere data in zouden gaan stoppen.
+[1868.36 --> 1869.70]  Of zouden zeggen, zo te gek man.
+[1869.74 --> 1872.10]  Die kunnen we ombouwen naar een nieuw magister.
+[1872.56 --> 1873.72]  Dan kunnen we die kinderen in de gaten.
+[1874.16 --> 1877.42]  Terwijl ze in Estland misschien zouden zeggen van, nee nee nee, natuurlijk niet.
+[1877.48 --> 1879.94]  Dat is duidelijk binnen dit domein.
+[1880.42 --> 1882.12]  Dat is een domein gescoopt stuk software.
+[1882.70 --> 1885.36]  En natuurlijk ga je onderwijs niet op dezelfde manier aanvliegen.
+[1885.36 --> 1892.20]  En dit is wat ik zelf fascinerend vind en al jaren mee bezig ben.
+[1892.38 --> 1896.46]  Is van, wat zit er nou ingebakken in technologie?
+[1896.56 --> 1897.52]  Want er zit heel veel in.
+[1897.92 --> 1899.96]  Je zou het liefst geloven dat het allemaal neutraal is.
+[1900.04 --> 1903.04]  Maar inmiddels zijn we er wel een beetje vanuit verschillende hoeken mee bezig.
+[1903.14 --> 1904.96]  Dat die neutraliteit er eigenlijk niet is.
+[1905.10 --> 1907.84]  Want iemand die, op het moment dat jij een hamer in je hand hebt.
+[1907.94 --> 1909.72]  Dan ga je toch een beetje op zoek naar dingen om op te slaan.
+[1910.04 --> 1911.14]  Dat is gewoon, snap je?
+[1911.14 --> 1915.94]  En als je met een auto rondrijdt, dan ben je een wezen in een auto.
+[1916.06 --> 1917.30]  Dat doet toch wel iets met je.
+[1917.56 --> 1919.56]  Dat maak je niet meteen een heel ander mens forever.
+[1919.72 --> 1922.82]  Maar in die auto en met die hamer in je hand ben je net even anders bezig.
+[1923.80 --> 1926.24]  Tegelijkertijd is het maar net aan wie je die hamer geeft.
+[1926.66 --> 1927.10]  Ook weer.
+[1927.26 --> 1929.82]  Dus er zit een soort van kracht.
+[1930.82 --> 1934.14]  Er zit een soort vormgeving in vanuit die gebruiker.
+[1934.60 --> 1937.14]  En een vormgever in vanuit die technologie.
+[1937.14 --> 1940.96]  En die samen komen dan tot een soort van moeilijk te voorspellen ding.
+[1941.48 --> 1945.08]  En dat vind ik wel interessant aan jouw verhaal.
+[1945.70 --> 1950.30]  Dat het dan zo anders gaat op het onderwerp onderwijs.
+[1950.68 --> 1951.58]  Dat is echt boeiend.
+[1954.10 --> 1956.32]  De vraag is dus ook of het een controledrang was.
+[1956.40 --> 1957.90]  Dat hele systeem wat zij hebben gebouwd.
+[1958.24 --> 1960.10]  Want dat is dus mijn blik erop.
+[1960.28 --> 1961.54]  Mijn Nederlandse blik.
+[1961.66 --> 1963.54]  Dat ik denk, oh ja, dan kan je alles lekker in de gaten houden.
+[1963.54 --> 1966.54]  Kan je in dit geval niet eens lekker in de gaten houden.
+[1966.62 --> 1969.22]  Maar dan kan je lekker voorkomen dat er enge dingen gebeuren.
+[1969.32 --> 1972.76]  Want volgens mij is controledrang comfort uit het niet willen dat dingen misgaan.
+[1976.06 --> 1977.52]  Ja, denk ik ook.
+[1977.76 --> 1978.48]  Denk ik ook.
+[1979.42 --> 1983.82]  Ja, het is zeker niet gebruikt voor controledrang.
+[1983.94 --> 1985.94]  Want dat was juist het systeem waar ze vandaan kwamen.
+[1986.06 --> 1987.26]  Het moest vooral eerlijk worden.
+[1987.26 --> 1996.00]  Het is heel moeilijk om te voorspellen wat er zou gebeuren.
+[1996.08 --> 1997.88]  Als je gewoon het hele systeem daar zou plakken.
+[1997.96 --> 2000.22]  En je zou dat kopiëren naar een Nederlandse situatie.
+[2000.44 --> 2001.26]  Je zou het dan even...
+[2002.66 --> 2004.86]  Ja, je kopieert de waarden niet mee.
+[2004.96 --> 2005.54]  Zullen we maar zeggen.
+[2005.90 --> 2007.26]  Ik las een of andere onderzoek.
+[2009.04 --> 2011.20]  Ze polsen de hele tijd bij de bevolking.
+[2011.40 --> 2014.22]  In welke mate de digitale systemen vertrouwd worden.
+[2014.22 --> 2020.04]  Want daar valt of staat het natuurlijk allemaal mee.
+[2021.30 --> 2026.54]  En elke keer als zij westerse overheden voorbij komen.
+[2026.66 --> 2029.84]  Of westerlukker dan in het land voorbij krijgen.
+[2030.18 --> 2033.28]  Dan zijn hier natuurlijk allemaal kritische vragen over.
+[2033.38 --> 2038.00]  In hoeverre dit niet een soort van de basis is voor een surveillance status.
+[2038.16 --> 2040.22]  Maar het grap is natuurlijk dat zij daar uitkomen juist.
+[2040.22 --> 2042.70]  En zij zeggen ja, punt één.
+[2043.24 --> 2045.12]  Facebook en Google weten veel meer van jou.
+[2045.30 --> 2046.68]  Dus waar heb je het nou eigenlijk over?
+[2047.08 --> 2051.34]  De overheid weet echt niet zoveel meer.
+[2052.14 --> 2053.40]  Nou, dan kun je over discussiëren.
+[2053.58 --> 2054.68]  Of wat je daarvan vindt.
+[2055.14 --> 2056.42]  En het tweede punt is.
+[2056.48 --> 2061.06]  In ieder geval geven we onze burgers controle over wat er allemaal is.
+[2061.30 --> 2061.52]  Eén.
+[2061.64 --> 2065.96]  Want een Nederlander heeft geen flauw idee in welke databases zij allemaal staat.
+[2065.96 --> 2066.52]  En twee.
+[2067.12 --> 2069.58]  Geen flauw idee waar die data allemaal heen gaat.
+[2070.24 --> 2070.80]  En drie.
+[2071.06 --> 2074.60]  Geen flauw idee waar die data, hoe die gebruikt wordt.
+[2074.70 --> 2076.18]  En hoe dat dan geïnterpreteerd wordt.
+[2076.44 --> 2076.98]  En wat dat dan.
+[2077.10 --> 2078.90]  Zeg maar, zie je de toeslagenaffaire.
+[2079.10 --> 2084.00]  Of dingen die een beetje doorcijpelen over hoe gegevens over gezichtsherkening.
+[2084.66 --> 2086.60]  Dat is een of andere ANPR camera.
+[2086.76 --> 2088.38]  Die registreert een nummerboord.
+[2088.38 --> 2092.28]  En dan vervolgens gaat die data van de politie gaat naar de Margeussee.
+[2092.36 --> 2094.66]  En Margeussee doet er weer zijn eigen slag overheen.
+[2094.74 --> 2097.66]  En die kopieert het dan weer naar de Belastingdienst.
+[2097.76 --> 2100.76]  En die kopiëren en die combineren dat ook weer met allerlei gegevens.
+[2100.90 --> 2103.54]  En je hebt geen flauw idee meer als burger.
+[2103.54 --> 2107.60]  Waar hoe beslissingen genomen worden over jou.
+[2107.74 --> 2108.96]  Het is vaak niet te herleiden.
+[2109.46 --> 2111.20]  Vaak weten die overheden dat zelf niet eens.
+[2112.30 --> 2115.34]  En ontstaat er een soort beeld van jou.
+[2115.34 --> 2119.12]  Waar je zelf geen controle meer over hebt.
+[2119.12 --> 2122.94]  In dat opzicht zou ik denk ik, als ik jouw verhaal zou horen.
+[2123.06 --> 2125.96]  Wat ik zou willen pakken van Estland.
+[2126.40 --> 2127.58]  Is de transparantie.
+[2128.24 --> 2132.32]  Dus als het in een fantasie-IT project voor de Nederlandse overheid.
+[2132.42 --> 2136.74]  Dan zou ik zeggen, we gaan geen nieuwe data opslaan na vandaag.
+[2137.26 --> 2137.96]  Even pauze.
+[2138.80 --> 2140.44]  Ik wil nu alles in kaart.
+[2140.98 --> 2142.04]  Alles op één snelweg.
+[2142.58 --> 2143.20]  Alles audit.
+[2143.42 --> 2144.02]  Alles logs.
+[2144.02 --> 2145.44]  Alles met push notification.
+[2145.68 --> 2147.10]  Een app ontworpen door een team.
+[2147.22 --> 2148.50]  Kick-ass UX designers.
+[2149.38 --> 2152.06]  En dan gaan wij eens even kijken wat er nu al gebeurt.
+[2152.66 --> 2153.54]  Laten we daar beginnen.
+[2154.04 --> 2155.38]  En als er dan weer vertrouwen komt.
+[2155.40 --> 2155.60]  Dat zou het zijn toch?
+[2155.94 --> 2157.54]  Ja, en als er dan weer vertrouwen komt.
+[2157.94 --> 2161.38]  En als er dan het gevoel is van oké, we willen meer.
+[2161.50 --> 2163.24]  Dan kunnen we met z'n allen stemmen om te zeggen.
+[2163.32 --> 2164.54]  We doen een blokje erbovenop.
+[2164.64 --> 2166.48]  Maar nu weet ik helemaal niet welke blokjes er zijn.
+[2167.70 --> 2169.36]  Laat staan dat we blokjes op gaan zetten.
+[2170.12 --> 2171.12]  Ja, en dat vertrouwen.
+[2171.12 --> 2173.62]  Want dat was inderdaad waar ik mee begon.
+[2173.62 --> 2175.56]  Dat zei het sapollen dus de hele tijd.
+[2175.64 --> 2177.58]  Wat is het vertrouwen in die IT-systeem?
+[2177.66 --> 2183.80]  En dat vertrouwen is dus al sinds het begin consequent hoger dan de politici die op dat moment het land runnen.
+[2184.28 --> 2187.18]  Dus er zijn meer mensen die vertrouwen in dat overheidssysteem.
+[2187.46 --> 2189.68]  Wat je zou kunnen zien in een soort van Big Brother ding.
+[2190.36 --> 2192.82]  Dan de daadwerkelijke mensen die aan de knoppen zitten.
+[2193.54 --> 2195.90]  Nou ja, dat is toch wel grappig.
+[2195.98 --> 2199.26]  Helemaal in een land waar ze dus zelfs de verkiezingen online doen.
+[2199.26 --> 2200.90]  Ook dat weer is vet jongen.
+[2201.12 --> 2202.52]  En die ledger van hun zeg maar.
+[2202.64 --> 2203.70]  Dus die database die daar.
+[2204.04 --> 2205.44]  Die draait niet mee als mirror.
+[2205.58 --> 2206.52]  Maar is de waarheid.
+[2206.94 --> 2210.18]  Ik weet wel van projecten waar er gestemd wordt digitaal als een soort kopie.
+[2210.68 --> 2212.26]  En bovenop papieren stemmen.
+[2212.32 --> 2213.90]  Maar dit is hun enige waarheid.
+[2214.90 --> 2216.18]  Ja, dus hoe het werkt is.
+[2216.26 --> 2216.98]  Je stemt dan.
+[2217.48 --> 2219.26]  Eerst kan je een week lang digitaal stemmen.
+[2219.26 --> 2222.84]  Dan stopt de digitale stemming.
+[2222.98 --> 2224.90]  En dan is er nog twee dagen stemmen op papier.
+[2225.78 --> 2227.34]  Die stemmen die op papier zijn.
+[2227.56 --> 2229.40]  Die overrulen de digitale stemmen.
+[2229.52 --> 2230.08]  Als dat zo is.
+[2230.18 --> 2232.84]  Dus iemand kan zijn digitale stem overrulen.
+[2232.96 --> 2234.78]  Door gewoon met papier te stemmen.
+[2235.58 --> 2236.76]  En er is dus een ledger.
+[2237.14 --> 2238.26]  Waarin jouw.
+[2239.72 --> 2241.72]  Waar een of andere hash gemaakt wordt.
+[2241.86 --> 2243.86]  Van jouw BSN nummer.
+[2244.12 --> 2245.70]  Of in ieder geval het equivalent in Estland.
+[2246.20 --> 2247.32]  Een hash van je BSN nummer.
+[2247.32 --> 2249.02]  Die verdwijnt in die ledger.
+[2249.80 --> 2254.86]  Diezelfde hash je ze dan ook van een digitale stem.
+[2255.50 --> 2257.00]  En dus in die ledger.
+[2257.94 --> 2259.54]  Cancelen die twee elkaar uit.
+[2259.84 --> 2262.34]  Of cancelt een papieren stem de digitale stem uit.
+[2262.48 --> 2263.26]  Als die er is.
+[2264.50 --> 2265.20]  En de eerste.
+[2265.62 --> 2266.40]  Dus dat is één ding.
+[2266.52 --> 2269.84]  En de eerste 30 seconden nadat je de digitale stem hebt geplaatst.
+[2269.92 --> 2271.06]  Dan moet je dus een pas.
+[2271.58 --> 2273.48]  Met zo'n chip erop.
+[2273.58 --> 2274.84]  In je computer duwen.
+[2274.84 --> 2276.68]  Ze hebben dus ook allemaal van die IBM laptops.
+[2276.68 --> 2278.28]  Dat je in Nederland alleen ziet.
+[2278.64 --> 2279.64]  Als je bij Shell werkt.
+[2279.96 --> 2282.02]  Maar dat zie je daar dus heel veel.
+[2282.18 --> 2283.86]  Pasjes die in een computer verschijnen.
+[2284.50 --> 2284.98]  Of verdwijnen.
+[2285.30 --> 2288.36]  En dan stem je dus in een of andere Windows app.
+[2289.10 --> 2289.52]  En dan.
+[2289.64 --> 2290.50]  Of hij is ook voor de Mac.
+[2290.60 --> 2290.90]  Maar goed.
+[2291.60 --> 2293.20]  Zij doen echt alles op Windows.
+[2293.36 --> 2293.80]  Valt me op.
+[2293.80 --> 2296.84]  En dan krijg je een QR-code.
+[2297.08 --> 2298.04]  En die QR-code.
+[2298.14 --> 2299.76]  De eerste 30 minuten.
+[2299.82 --> 2301.60]  Dat je die QR-code scant met je telefoon.
+[2301.68 --> 2302.12]  Dan kan je dan zien.
+[2302.24 --> 2303.96]  Oh dit is mijn BSN nummer.
+[2304.42 --> 2305.52]  En dit is mijn stem.
+[2306.04 --> 2308.48]  Die twee datastukjes zijn aan elkaar gekoppeld.
+[2308.86 --> 2310.18]  En dan na 30 seconden.
+[2310.32 --> 2311.68]  Of na 30 minuten.
+[2312.68 --> 2314.70]  Breek ze die twee gegevensdelen op.
+[2315.14 --> 2316.48]  Eén gaat naar de ledger.
+[2316.76 --> 2319.30]  Voor zeg maar de stembus resultaten.
+[2319.30 --> 2323.44]  En ander gaat naar het statistiekbureau.
+[2323.78 --> 2326.32]  Om gewoon over langere perioden statistieken te maken.
+[2326.42 --> 2328.42]  Over hoe mensen in Estland stemmen.
+[2329.50 --> 2331.26]  En die zijn dan niet meer aan elkaar te koppelen.
+[2331.40 --> 2332.88]  Dus de stem op de partij.
+[2333.28 --> 2336.62]  Is niet meer te koppelen aan jouw persoonsgegeven.
+[2336.78 --> 2337.04]  Zeg maar.
+[2337.80 --> 2340.78]  En uiteindelijk heb je dan verkiezingsresultaten.
+[2340.84 --> 2342.04]  Die voor iedereen te bekijken zijn.
+[2342.04 --> 2343.06]  In een publieke ledger.
+[2343.88 --> 2344.90]  Ik zit te denken aan.
+[2345.52 --> 2348.04]  Heb ik hier die metafoor van de.
+[2349.30 --> 2350.66]  Weerwolf wel eens verteld.
+[2351.62 --> 2351.78]  Nee.
+[2352.28 --> 2353.70]  Die is niet van mij hoor.
+[2353.78 --> 2354.88]  Maar dat is een beetje het idee.
+[2355.06 --> 2356.32]  Ik zit me nu zo voor te stellen.
+[2357.04 --> 2360.52]  Stel dat jij en ik zo'n systeem zouden bouwen.
+[2360.62 --> 2361.66]  Als wat jij nu beschrijft.
+[2362.28 --> 2363.28]  Op welke manier dan ook.
+[2363.34 --> 2364.12]  Eigenlijk als overheid.
+[2364.22 --> 2365.10]  En dan word je eigenlijk.
+[2366.38 --> 2367.96]  Als je het even op Star Wars houdt.
+[2368.00 --> 2368.80]  Met de dark side.
+[2369.50 --> 2371.16]  Is dat de Empire versus.
+[2372.30 --> 2373.62]  De Jedi.
+[2373.82 --> 2374.26]  Ik weet eigenlijk niet.
+[2374.34 --> 2375.26]  Wat is dit slecht van mij.
+[2375.46 --> 2376.48]  Maar goed de twee kanten.
+[2376.78 --> 2378.54]  Ik weet hier ook geen fuck van wie.
+[2378.54 --> 2378.84]  Ja.
+[2379.74 --> 2380.82]  Wat slecht is dit.
+[2381.94 --> 2382.30]  Oké.
+[2382.82 --> 2384.02]  Iets met de Empire.
+[2384.30 --> 2384.32]  Ja.
+[2384.64 --> 2386.50]  De mensen die de force hebben.
+[2386.66 --> 2388.50]  En de mensen die een minder mooie force hebben.
+[2388.60 --> 2388.88]  Zeg maar.
+[2389.50 --> 2390.36]  Is dat je eigenlijk.
+[2390.96 --> 2392.38]  Je begon het gesprek dat je zei.
+[2392.62 --> 2393.78]  In Estland gaan ze er vanuit.
+[2393.82 --> 2395.30]  Dat de Russen weer komen binnenvallen.
+[2395.40 --> 2396.72]  Dat is gewoon een gegeven voor hun.
+[2397.36 --> 2399.74]  En die metafoor van de werewolf.
+[2400.02 --> 2401.96]  Is eigenlijk dat je dus overdag.
+[2402.38 --> 2403.46]  Als jij een werewolf bent.
+[2403.58 --> 2404.72]  Je huis zo inricht.
+[2404.82 --> 2406.22]  Dat als je s'nachts een werewolf wordt.
+[2406.22 --> 2408.28]  Dat je jezelf al in een kooi hebt gestopt.
+[2408.76 --> 2409.46]  Dus dan ga je.
+[2409.58 --> 2410.86]  Als je ziet dat het donker wordt buiten.
+[2410.96 --> 2411.76]  Sluit je jezelf op.
+[2411.82 --> 2412.66]  Doe je een bakje water.
+[2413.22 --> 2414.90]  Nou dan breekt je s'nachts die hele kooi af.
+[2414.98 --> 2416.20]  En s'ochtends word je wakker in die kooi.
+[2416.26 --> 2417.08]  Met je kleren kapot.
+[2417.14 --> 2419.06]  En dat bakje water is tegen de muur aangegooid.
+[2419.16 --> 2419.58]  En dan weet je.
+[2419.64 --> 2419.76]  Nou.
+[2419.76 --> 2420.70]  Maar hij staat er nog.
+[2420.76 --> 2422.26]  Want ik had mezelf netjes opgesloten.
+[2423.04 --> 2424.26]  En het idee van die metafoor.
+[2424.34 --> 2427.08]  Is dat je qua technische systemen.
+[2427.74 --> 2428.34]  Als jij een groep.
+[2428.44 --> 2429.94]  Zelfs dat jij een groep mensen hebt.
+[2430.02 --> 2431.40]  Honderd mensen die bouwen aan dat systeem.
+[2431.48 --> 2433.04]  En alle honderd hebben ze de oorlog meegemaakt.
+[2433.12 --> 2434.12]  Alle honderd zijn ze.
+[2434.64 --> 2435.70]  Het is het cipherfreaks.
+[2435.80 --> 2437.62]  Die willen het mooiste voor Estland.
+[2438.18 --> 2440.22]  Dat je met z'n honderden een systeem bouwt.
+[2441.02 --> 2442.08]  Wat je eigenlijk zegt.
+[2442.76 --> 2444.58]  Dat het moment dat er honderd mensen zijn.
+[2444.58 --> 2446.26]  Die het tegenovergestelde willen.
+[2446.40 --> 2447.84]  Van dat die honderd mensen in het begin wilden.
+[2447.84 --> 2448.64]  Namelijk de nacht.
+[2448.80 --> 2449.48]  De weerwolven.
+[2450.08 --> 2451.68]  Dat jij een computersysteem hebt gebouwd.
+[2451.74 --> 2452.92]  Dat zo redundant is.
+[2453.00 --> 2453.70]  Dat je kan zeggen.
+[2454.28 --> 2454.68]  Oké.
+[2454.70 --> 2456.20]  We kunnen op een knop drukken om het te wissen.
+[2456.72 --> 2458.36]  Of we kunnen met een knop.
+[2458.40 --> 2459.52]  Kunnen we het naar Luxemburg halen.
+[2459.60 --> 2462.08]  Waar we dan met die honderd overdag mensen naartoe gaan.
+[2462.14 --> 2463.54]  Zodat die honderd weerwolven niks hebben.
+[2464.24 --> 2464.94]  Want dat is wel.
+[2465.90 --> 2467.78]  Wat ik me bijvoorbeeld met stemcomputers.
+[2468.08 --> 2469.64]  Waar ik het een en ander over gelezen heb.
+[2469.80 --> 2470.70]  Wat mij toen raakte.
+[2470.70 --> 2471.52]  Dat was heel erg het idee.
+[2471.76 --> 2473.92]  Dat die papieren stemmen in die kasten.
+[2474.22 --> 2476.58]  Kunnen sowieso door meerdere mensen opnieuw gelezen worden.
+[2476.58 --> 2478.28]  In de tussentijd kan je dan.
+[2478.62 --> 2478.74]  Ja.
+[2478.98 --> 2480.08]  Dan kost best wel veel tijd.
+[2480.16 --> 2481.92]  Om dan al die stemmen te gaan vervalsen.
+[2482.04 --> 2485.08]  Dus er zit een soort traagheid in die materiële wereld.
+[2485.14 --> 2486.20]  Versus die digitale.
+[2486.76 --> 2487.44]  Dat is één.
+[2487.76 --> 2490.06]  En die zijn allemaal gefedereerd in stembureaus.
+[2490.14 --> 2491.26]  Door een heel land op papier.
+[2491.42 --> 2492.98]  Dus je moet ook nog overal naartoe rijden.
+[2493.04 --> 2494.40]  Waar camera's hangen om dat te doen.
+[2494.90 --> 2496.12]  Terwijl een digitale ledger.
+[2496.42 --> 2498.24]  In het geval van een blockchain.
+[2498.46 --> 2500.42]  Zou je zeggen dat wetenschappelijk.
+[2500.60 --> 2501.30]  Theoretisch gezien.
+[2501.44 --> 2502.74]  Kan je het niet aanpassen.
+[2502.74 --> 2506.54]  Dat is nou juist de kracht van zo'n ketting van encryptie aan elkaar.
+[2506.76 --> 2509.66]  Een ketting van blokken die met elkaar versleuteld zijn.
+[2509.84 --> 2510.22]  Een blockchain.
+[2511.84 --> 2515.86]  Maar toch ben ik dan benieuwd of zij.
+[2516.04 --> 2517.44]  Dat is mijn verhaaltje even rond.
+[2517.84 --> 2518.84]  Die dit hebben ontworpen.
+[2518.90 --> 2520.78]  Het hebben ontworpen op een manier dat ze zeggen.
+[2521.36 --> 2523.30]  Stel er zijn straks allemaal andere mensen.
+[2523.40 --> 2525.46]  Die deze achter het toetsenbord gaan zitten.
+[2526.18 --> 2527.32]  Wat kunnen die dan?
+[2527.44 --> 2530.22]  En hoe kunnen we nu al zorgen dat die dan weinig kunnen?
+[2531.26 --> 2531.44]  Ja.
+[2531.44 --> 2531.64]  Ja.
+[2533.54 --> 2534.24]  Dat hoop ik.
+[2534.32 --> 2535.82]  Dat ze aan de weerwolf denken in Estland.
+[2536.82 --> 2537.02]  Ja.
+[2538.02 --> 2539.36]  Ik heb het idee dat dat zo is.
+[2539.70 --> 2542.64]  Maar het precies antwoord hoe ze het hebben ingerecht.
+[2542.92 --> 2544.90]  Dat moet ik je verschuldig blijven.
+[2544.98 --> 2546.26]  Het is in ieder geval wel grappig dat.
+[2546.74 --> 2548.50]  Degene die er in Nederland voor heeft gezorgd.
+[2548.60 --> 2550.66]  Dat we nog steeds met pen en papier stemmen.
+[2550.82 --> 2554.02]  En ik vrijwillig dus vaak in stembureaus.
+[2554.20 --> 2556.28]  Dus ik weet wat de consequentie daarvan is.
+[2556.32 --> 2557.62]  Van het tellen van die stemmen.
+[2557.62 --> 2565.08]  Dat is dus dat je duizenden papieren van A3 grote eerst moet uitvouwen en op stapels leggen.
+[2565.20 --> 2567.38]  Dan leg je ze van die stapels weer op een andere stapel.
+[2567.44 --> 2568.82]  Dan leg je ze weer op een andere stapel.
+[2568.88 --> 2570.74]  En uiteindelijk gaat er dan elastiek omheen.
+[2571.26 --> 2572.36]  En dan is het vier uur s'nachts.
+[2572.50 --> 2573.64]  En dan zijn je knieën in de kloot.
+[2573.70 --> 2575.24]  Omdat je de hele tijd op je knieën hebt gezeten.
+[2575.24 --> 2580.60]  Degene die ervoor heeft gezorgd dat we dat nog steeds doen is Rob Gronngrijp.
+[2581.26 --> 2582.64]  En het is dus grappig dat.
+[2583.00 --> 2584.36]  Ik zou zweren echt.
+[2584.56 --> 2586.18]  En deze twee kennen elkaar blijkbaar niet.
+[2586.26 --> 2588.54]  Rob Gronngrijp en de Estse Rob Gronngrijp.
+[2588.60 --> 2590.32]  Want er is dus een Rob Gronngrijp van Estland.
+[2591.04 --> 2595.64]  Die heeft daar gewoon dit systeem helpen bedenken.
+[2596.20 --> 2600.30]  Terwijl in Nederland heeft Rob Gronngrijp geageerd tegen het digitaal stemmen.
+[2600.38 --> 2602.94]  Terwijl ze dus daar hebben bekeken hoe kunnen we dit wel doen.
+[2602.94 --> 2607.50]  En ja dat is toch.
+[2607.72 --> 2610.18]  Ik ben altijd tegen digitaal stemmen geweest.
+[2610.84 --> 2612.24]  Door precies wat jij zegt.
+[2613.00 --> 2616.08]  Het lijkt toch wel alsof ze een systeem hebben bedacht waardoor het wel degelijk kan.
+[2616.20 --> 2616.80]  En het is bijna.
+[2616.92 --> 2617.58]  Ik heb wel het idee.
+[2617.76 --> 2619.78]  In Nederland is het inmiddels een dogma geworden.
+[2620.22 --> 2621.48]  Om op papier te stemmen.
+[2621.48 --> 2621.94]  Dan ben ik.
+[2622.16 --> 2622.78]  Als ik dan nog even.
+[2624.68 --> 2626.48]  Wat is het voordeel?
+[2627.94 --> 2629.26]  Behalve efficiëntie.
+[2629.54 --> 2630.28]  Want die moet ik dan even.
+[2630.62 --> 2632.42]  Als je efficiëntie zeg maar.
+[2632.42 --> 2633.12]  Of is dit dat?
+[2633.32 --> 2633.52]  Ja.
+[2634.00 --> 2635.36]  Nou er zijn voordelen.
+[2635.50 --> 2637.32]  Namelijk dat mensen die jonger zijn.
+[2638.98 --> 2639.82]  Makkelijker stemmen.
+[2640.38 --> 2642.36]  Dus op het moment dat je op je computer kan stemmen.
+[2642.50 --> 2642.84]  En binnenkort.
+[2643.10 --> 2645.36]  Of ze willen een tijdje dit ook via de telefoon doen.
+[2645.96 --> 2647.68]  Dat het dus laagdrempelig is om te stemmen.
+[2647.82 --> 2649.38]  Dus dat meer jongeren gaan stemmen.
+[2649.48 --> 2649.90]  Dat is één.
+[2649.90 --> 2650.32]  Ja.
+[2651.32 --> 2653.96]  En twee is dat je de resultaten na twee uur hebt.
+[2653.96 --> 2656.82]  In plaats van een week later.
+[2657.48 --> 2658.08]  Ja want voor mij.
+[2658.14 --> 2659.08]  Dan kan je zeggen ja boeien.
+[2659.38 --> 2659.60]  Maar.
+[2659.94 --> 2660.68]  Persoonlijk denk ik.
+[2661.32 --> 2663.56]  Als er een informatiesysteem is.
+[2663.62 --> 2664.70]  Wat bruut traag mag zijn.
+[2664.84 --> 2666.32]  Als dat ervoor zorgt dat het eerlijk blijft.
+[2666.38 --> 2667.24]  Is het het stemsysteem.
+[2667.30 --> 2668.26]  Mag voor mij een week duren.
+[2668.82 --> 2669.60]  En dan.
+[2670.04 --> 2671.74]  Met allemaal mensen met paard en wagen.
+[2671.86 --> 2672.70]  Want zo zit ik er dan in.
+[2672.76 --> 2673.16]  Omdat ik denk.
+[2673.48 --> 2673.96]  Die snelheid.
+[2674.48 --> 2676.14]  De snelheid heeft niet zoveel voordeel.
+[2676.24 --> 2676.90]  In mijn ogen.
+[2677.04 --> 2677.32]  Behalve.
+[2677.44 --> 2678.46]  Het kost minder geld en tijd.
+[2678.46 --> 2679.90]  Maar.
+[2680.44 --> 2681.68]  De opkomst.
+[2682.34 --> 2683.36]  En het gemak.
+[2683.56 --> 2685.46]  En daarmee dus de representatie.
+[2685.82 --> 2686.92]  Aandragen als argument.
+[2687.20 --> 2689.04]  Daar ben ik dan wel weer iets gevoeliger voor.
+[2689.58 --> 2691.24]  Nou nu gebiedt de eerlijkheid te zeggen.
+[2691.34 --> 2692.78]  Dat de opkomst in Estland.
+[2692.88 --> 2694.36]  Altijd structureel laag is.
+[2694.58 --> 2696.50]  Dus ongeveer de helft van de bevolking gaat stemmen.
+[2696.86 --> 2698.62]  Dus dat is in Nederland veel meer.
+[2698.96 --> 2701.04]  In Nederland ligt toch al snel rond de 60%.
+[2701.04 --> 2703.00]  Dus misschien.
+[2703.90 --> 2705.10]  Maar ja god je weet niet.
+[2705.20 --> 2706.70]  Als je digitaal stemmen in Nederland zou doen.
+[2706.84 --> 2708.34]  Hoeveel meer mensen dan zouden gaan stemmen.
+[2708.34 --> 2709.44]  En op zich het idee dat.
+[2710.42 --> 2711.36]  Ik geloof wel.
+[2711.78 --> 2713.32]  Dat is een aanname.
+[2713.70 --> 2716.30]  Dat op het moment dat je de drempel verlaagt om te stemmen.
+[2716.86 --> 2718.68]  Dat dan ook meer mensen gaan stemmen.
+[2719.74 --> 2719.98]  Maar ja.
+[2720.44 --> 2720.92]  Zeker weten.
+[2721.16 --> 2721.44]  Doe ik dat.
+[2721.46 --> 2723.52]  Ja en die werkt dan natuurlijk weer op tegen de drempel.
+[2723.60 --> 2724.80]  Dat de stemmen niet eerlijk zijn.
+[2724.94 --> 2726.74]  Wat je dan met wetenschap moet gaan bewijzen.
+[2726.84 --> 2728.38]  Maar dat moeten dan genoeg mensen begrijpen.
+[2728.48 --> 2729.56]  Want dat is natuurlijk bij hun ook.
+[2729.94 --> 2731.96]  Jij en ik begrijpen dit eigenlijk ook niet.
+[2732.34 --> 2732.56]  Toch?
+[2732.60 --> 2734.28]  Hoe dat dan zou moeten werken eigenlijk.
+[2734.46 --> 2737.16]  Ik snap wel de stukken die je zou moeten koppelen aan elkaar.
+[2737.32 --> 2738.08]  En wat een ledger is.
+[2738.08 --> 2739.88]  En dat je dat kan encrypten en aan elkaar kan koppelen.
+[2740.60 --> 2742.38]  Maar een papier snap ik.
+[2742.52 --> 2743.10]  Daar staat iets op.
+[2743.52 --> 2744.84]  Je kan zelfs zelf meedoen.
+[2744.92 --> 2747.26]  Dat vind ik helemaal om eerlijk te zijn super gaaf.
+[2747.34 --> 2748.96]  Dat je zelf mee kan kijken.
+[2749.18 --> 2749.38]  Toch?
+[2749.60 --> 2749.74]  Ja.
+[2749.74 --> 2752.10]  Ja behalve dat niemand dat natuurlijk doet.
+[2752.52 --> 2753.22]  Dat is de...
+[2753.22 --> 2753.40]  Het kan.
+[2754.20 --> 2754.88]  Het kan.
+[2755.04 --> 2755.60]  Dat is waar.
+[2756.26 --> 2756.84]  Het kan.
+[2757.24 --> 2757.82]  Dat is waar.
+[2758.26 --> 2760.60]  Wat heb jij deze week gedaan op AI gebied?
+[2760.90 --> 2762.04]  Nou ik was...
+[2762.04 --> 2764.56]  Ik heb hier al een tijdje eerder naar gekeken.
+[2764.82 --> 2765.26]  En dat...
+[2765.26 --> 2766.32]  Ik weet niet waarom ik dat erbij zeg.
+[2766.36 --> 2767.32]  Want dat doet er helemaal niet toe.
+[2767.60 --> 2768.74]  Maar ik volg het al een tijdje.
+[2768.82 --> 2769.88]  Dat vind ik dan waarschijnlijk cool.
+[2769.96 --> 2771.04]  Als ik dat al een tijdje volg.
+[2771.30 --> 2772.04]  Dat is een initiatief.
+[2772.10 --> 2772.92]  Dat heet Petals.
+[2773.26 --> 2774.46]  Nou bloemblaadjes zeg maar.
+[2774.46 --> 2778.46]  En dat is eigenlijk...
+[2779.06 --> 2783.86]  Ja ze noemen het zelf een mix van taalmodellen en BitTorrent.
+[2784.26 --> 2785.48]  Dat klinkt al goed toch?
+[2785.54 --> 2786.46]  Gewoon even die samen.
+[2786.46 --> 2786.80]  Ja zeker.
+[2786.98 --> 2787.18]  Toch?
+[2787.22 --> 2787.74]  Gewoon BitTorrent.
+[2787.90 --> 2788.12]  Dat is vet.
+[2788.82 --> 2790.28]  En voor de luisteraar.
+[2790.40 --> 2790.84]  BitTorrent.
+[2791.02 --> 2793.92]  Dat is niet alleen maar te gebruiken om films illegaat te downloaden.
+[2794.00 --> 2794.86]  Maar je kan daar ook bijvoorbeeld.
+[2795.00 --> 2797.26]  Dat is het grote standaard argument altijd.
+[2797.42 --> 2800.92]  Maar een nieuwe Linux distributie mee downloaden.
+[2801.04 --> 2802.48]  Vanaf meerdere computers tegelijk.
+[2803.58 --> 2804.02]  BitTorrent.
+[2804.46 --> 2806.04]  Een torrent.
+[2806.16 --> 2808.32]  Oftewel een wervelwind van bits.
+[2808.80 --> 2810.90]  Waardoor je van iedere computer in de hele wereld.
+[2811.00 --> 2813.06]  In kleine stukjes weer iets in elkaar zet.
+[2813.88 --> 2814.66]  Zo poëtisch.
+[2814.80 --> 2817.28]  Ja alsof al je vrienden een zin van een boek hebben.
+[2817.44 --> 2818.42]  En dan bel je ze allemaal op.
+[2818.48 --> 2819.58]  En dan heb je het hele boek weer terug.
+[2820.76 --> 2822.52]  Kon nog poëtischer.
+[2823.52 --> 2824.72]  En in het geval van.
+[2825.22 --> 2827.32]  Als je dat dan combineert met grote taalmodellen.
+[2827.48 --> 2828.90]  Dan krijg je Petals.
+[2829.08 --> 2830.06]  En die zeggen eigenlijk.
+[2830.64 --> 2831.60]  Joh we hebben allemaal.
+[2832.84 --> 2833.58]  Niet allemaal.
+[2833.58 --> 2833.68]  Nou.
+[2834.88 --> 2837.06]  Veel van ons in die community.
+[2837.36 --> 2839.38]  Hebben een grote GPU in hun machines in.
+[2839.44 --> 2840.42]  En dat kan zitten.
+[2840.60 --> 2841.42]  Dat kan zelfs zijn.
+[2841.86 --> 2842.62]  Een Mac machine.
+[2842.72 --> 2845.48]  Want daar zitten GPU en de CPU in één pakketje.
+[2845.64 --> 2845.78]  Zeg maar.
+[2845.88 --> 2847.32]  De M1 en de M2 van Apple.
+[2847.44 --> 2849.72]  Hebben best wel een bruut stuk GPU erin zitten.
+[2849.72 --> 2853.22]  En de meeste Windows machines hebben dan.
+[2853.50 --> 2856.16]  Of een dedicated GPU chip in je laptop erbij zitten.
+[2856.16 --> 2857.02]  Want je bent een gamer.
+[2857.26 --> 2858.80]  Of je hebt een dikke kaart gekocht.
+[2858.86 --> 2859.90]  Want je moet video bewerken.
+[2860.00 --> 2861.24]  Of je bent serieus onderzoeker.
+[2861.40 --> 2864.20]  En je kijkt naar dingen rondom kunstmatige intelligentie.
+[2864.40 --> 2865.46]  Hebben we het al vaak over gehad.
+[2865.50 --> 2866.86]  Daar heb je specifieke hardware voor.
+[2866.86 --> 2869.14]  Wat ze eigenlijk bij Petos zeggen is.
+[2869.44 --> 2871.70]  Zullen we die nou gewoon allemaal op één hoop gooien met elkaar.
+[2871.78 --> 2872.44]  Als een community.
+[2872.80 --> 2874.68]  Zodat we elkaars hardware kunnen gebruiken.
+[2875.22 --> 2877.08]  En in essentie.
+[2877.44 --> 2878.72]  Heel concreet is het dus zo.
+[2879.44 --> 2880.24]  Als voorbeeld.
+[2880.80 --> 2882.64]  OpenAI heeft Whisper.
+[2883.04 --> 2886.72]  Whisper is een speech to text model.
+[2886.72 --> 2887.32]  Taal model.
+[2887.42 --> 2888.64]  Die hebben ze open source.
+[2888.76 --> 2892.18]  Een van de weinige dingen die OpenAI daadwerkelijk op GitHub heeft gezet.
+[2892.72 --> 2893.48]  Wat kan je daar dan mee.
+[2893.48 --> 2893.78]  Burn.
+[2894.14 --> 2894.82]  Ja sorry.
+[2895.22 --> 2896.00]  Daar kan je een antwoord.
+[2896.12 --> 2897.12]  Moet je jezelf niet open noemen.
+[2897.36 --> 2898.10]  Dan vraag je erom.
+[2899.36 --> 2901.00]  Als jij Mr. Nice Guy heet.
+[2901.04 --> 2902.40]  Die is geld iedereen de hele dag verrot.
+[2902.44 --> 2903.44]  Dan heb je een slechte naam.
+[2904.74 --> 2905.84]  Heeft Elon bedacht.
+[2906.00 --> 2907.26]  Elon Musk heeft de naam bedacht.
+[2907.60 --> 2909.74]  Dat is niet de schuld van de huidige bewindvoerders.
+[2909.88 --> 2910.20]  Precies.
+[2911.26 --> 2912.30]  Maar met Whisper.
+[2912.68 --> 2913.88]  MP3'tje met tekst erin.
+[2914.18 --> 2916.10]  Aan de andere kant een tekstvouw met die tekst.
+[2916.10 --> 2918.30]  In de taal waarin de tekst gesproken is.
+[2918.50 --> 2919.82]  Dat is fantastisch dat ze dat doen.
+[2920.14 --> 2923.00]  Dat kan jij thuis draaien op een redelijk biefy machine.
+[2923.50 --> 2928.40]  Heel concreet heb je daar vandaag de dag ongeveer 8 gigabyte videogeheugen voor nodig.
+[2928.52 --> 2931.06]  Dus dat is eigenlijk het interne geheugen op je videokaart.
+[2931.18 --> 2933.48]  Verwar het niet met het interne geheugen van je computer.
+[2935.02 --> 2938.66]  En zo'n 8 gigabyte videokaart voor in je eigen computer.
+[2938.92 --> 2940.26]  Of een recente Mac.
+[2940.70 --> 2942.30]  Daar betaal je een X bedrag voor.
+[2942.76 --> 2944.26]  Nou kan je dat leuk thuis doen.
+[2944.26 --> 2948.16]  Maar wat nou als jij een model wil draaien wat 20 gigabyte inneemt.
+[2948.24 --> 2950.06]  Of 40 of 50 of 60.
+[2950.22 --> 2952.90]  Misschien wel iets ter krachte van GPT 3.5.
+[2953.02 --> 2955.78]  Want je wil niet een speech naar tekst.
+[2955.86 --> 2958.56]  Maar je wil een soort fake intelligentie taal ding.
+[2958.66 --> 2960.62]  Waar we nu al een week over praten.
+[2960.74 --> 2961.68]  Namelijk chatbots.
+[2962.44 --> 2963.72]  Nou als je dat dan wil draaien.
+[2963.80 --> 2965.82]  Dan kan je eigenlijk Petals gebruiken.
+[2965.82 --> 2967.54]  Om in die...
+[2967.54 --> 2969.34]  Ja dat is...
+[2969.34 --> 2972.62]  Dit komt iets dichter bij een cloud computer dan de meeste partijen.
+[2972.68 --> 2974.18]  Die zeggen dat ze een cloud computer hebben.
+[2974.24 --> 2979.66]  Want het is eigenlijk een combinatie van alle mensen die meedoen in die zwerm van Petals.
+[2979.88 --> 2984.00]  Die hun eigen GPU's dan al niet Apple processoren beschikbaar stellen.
+[2984.00 --> 2992.00]  Om met elkaar als een soort publiek goed als het ware daar een berekening op te doen.
+[2992.00 --> 2997.58]  Dus het is een soort gedeelde supercomputer van mensen die meedoen aan dat project.
+[2998.06 --> 3000.90]  En ik voel wel een beetje aan...
+[3000.90 --> 3003.84]  Vaak volg je dan iets en op een gegeven moment ga je een beetje kijken van...
+[3003.84 --> 3005.22]  Is het de eerste hype voorbij?
+[3005.38 --> 3006.96]  Want de eerste drie weken wil iedereen meedoen.
+[3007.04 --> 3008.60]  En dan zakt zoiets weer in.
+[3009.02 --> 3009.94]  Dit groeit wel.
+[3010.00 --> 3010.50]  Dit gaat goed.
+[3010.50 --> 3011.70]  Er wordt veel aan ontwikkeld.
+[3012.00 --> 3015.94]  En ik vind het een mooi initiatief.
+[3016.38 --> 3019.56]  Om te zorgen dat het niet bij vijf hele grote partijen blijft.
+[3019.64 --> 3020.90]  Al die proceshoor kracht.
+[3021.48 --> 3021.66]  Ja.
+[3021.66 --> 3024.38]  Maar is er dan wel een soort van transactie op de achterkant?
+[3024.46 --> 3026.66]  Er zorgt iemand die moet betalen voor die videokaart.
+[3026.78 --> 3029.40]  Dus hoe verdient die dan zijn geld weer terug?
+[3030.18 --> 3035.48]  Dit is allemaal net als hoe het destijds ging met de Dutch Power Cows op tweakers.
+[3035.60 --> 3036.60]  Voor de mensen die luisteren.
+[3036.68 --> 3039.68]  Dutch Power Cows was protein folding met z'n allen.
+[3039.94 --> 3042.38]  En je hebt toen daar je ranglijsten.
+[3042.50 --> 3043.74]  Dus dan deed je het puur voor de fame.
+[3044.60 --> 3047.10]  Ik ga ervan uit dat het hier...
+[3047.10 --> 3051.14]  Er zit geen incentive model achter.
+[3051.14 --> 3054.24]  Met een blockchain waar je dan weer tokens kan verdienen ofzo.
+[3054.56 --> 3055.70]  Die bestaan ook.
+[3055.96 --> 3057.68]  Maar die heb ik dan weer even expres niet gelinkt.
+[3057.74 --> 3058.98]  Omdat ik dan deze gaver vind.
+[3059.14 --> 3061.14]  Hier gaat het echt op een soort van...
+[3061.14 --> 3063.06]  Ik geef het want ik wil zelf ook mee kunnen doen.
+[3063.06 --> 3066.16]  Maar als ik het goed begrijp kun je dus...
+[3066.16 --> 3069.06]  Je hebt dus allerlei hele zware videokaarten.
+[3069.32 --> 3071.50]  Waarbij die van Nvidia het gaafst zijn.
+[3071.66 --> 3074.18]  Omdat ze de grootste capaciteit hebben.
+[3074.34 --> 3076.40]  Dus je de grootste modellen ermee kan trainen.
+[3077.22 --> 3079.46]  Als ik het goed begrijp is dit dan eerder...
+[3079.46 --> 3082.60]  Het is niet zo'n hele dure kaart zoals die.
+[3082.72 --> 3085.40]  Maar het is gewoon wat jij en ik in onze laptops hebben zitten.
+[3085.52 --> 3087.24]  En die bij elkaar allemaal opgeteld.
+[3087.24 --> 3089.78]  Wat leveren we dan alsnog veel computerkaarten op?
+[3089.82 --> 3090.46]  Begrijp ik dat goed?
+[3090.80 --> 3091.68]  Je zegt het helemaal goed.
+[3091.92 --> 3093.38]  En ik heb ook antwoord op jouw vraag.
+[3093.52 --> 3096.16]  Want we zitten voor de verandering remote op te nemen nu.
+[3096.24 --> 3096.90]  Voor de luisteraars.
+[3097.00 --> 3098.46]  Normaal zit ik tegenover Alexander.
+[3098.98 --> 3099.88]  Nu zie ik hem op scherm.
+[3099.98 --> 3101.10]  Maar ik kan daardoor hebben we een chat.
+[3101.34 --> 3101.54]  Jee.
+[3101.90 --> 3104.50]  En er is dus een health monitor voor Petals.
+[3105.04 --> 3105.64]  En daarop...
+[3105.64 --> 3107.38]  Dat is wat in hun GitHub omschreven staat.
+[3107.50 --> 3109.70]  Van joh, doe je mee en help je ons?
+[3109.70 --> 3111.84]  Zet je naam erin.
+[3111.92 --> 3113.70]  Want dan kom je op onze ranglijst.
+[3113.80 --> 3116.28]  Dit lijkt eigenlijk wel heel erg op de Dutch Power Cows.
+[3116.40 --> 3117.76]  Waar ik het in eerste instantie over had.
+[3118.40 --> 3120.42]  Dutch Power Cows was trouwens niet het initiatief.
+[3120.58 --> 3122.56]  Maar de grootste groep vanuit Nederland.
+[3122.72 --> 3123.64]  De Dutch Power Cows.
+[3124.12 --> 3127.40]  Die meededen aan dat project.
+[3127.50 --> 3128.86]  Moet ik even erbij pakken wat dat was.
+[3129.44 --> 3131.06]  Want dat is wel eventjes netjes.
+[3131.26 --> 3132.22]  De Dutch Power Cows.
+[3134.18 --> 3135.58]  Oh, die deden aan van alles mee.
+[3135.90 --> 3136.86]  Rosetta at Home.
+[3136.86 --> 3142.22]  Dus het ging over signalen zoeken in het universum.
+[3142.38 --> 3144.80]  Allerlei leuke, gave, grote data dingen.
+[3145.00 --> 3146.88]  En dan een beetje die Wikipedia vibes.
+[3147.00 --> 3147.32]  Weet je wel?
+[3147.40 --> 3148.86]  Van waarom bestaat Wikipedia dat?
+[3149.76 --> 3151.26]  Maar ik zal het even uitleggen voor de mensen.
+[3151.36 --> 3154.42]  Want je hebt echt de meest vage beschrijving ooit gegeven.
+[3154.50 --> 3154.76]  Sorry.
+[3154.88 --> 3157.20]  Het waren dus grote hoeveelheden data.
+[3157.80 --> 3160.70]  Bijvoorbeeld signalen verzameld door satellieten.
+[3161.40 --> 3164.48]  Die naar de ruimte gericht stonden.
+[3164.48 --> 3168.28]  En dan gingen mensen op zoek naar patronen in de chaos.
+[3168.52 --> 3171.00]  Normaal gesproken heb je daar hele grote computers voor nodig.
+[3171.48 --> 3174.56]  En hier waren er dus concurrerende teams van nerds.
+[3174.62 --> 3175.42]  Want laten we wel wezen.
+[3175.52 --> 3176.58]  Geen normaal mens doet dit.
+[3177.04 --> 3179.48]  Die een programmaatje op de achtergrond van de computer hebben draaiden.
+[3179.58 --> 3184.00]  Die dan een deeltje van die hele grote dataset ging proberen te verwerken op je eigen computer.
+[3184.16 --> 3185.38]  En dan deed je samen een team.
+[3185.46 --> 3186.66]  Deed je een groter deeltje.
+[3186.76 --> 3188.34]  En als jouw team dan dingen had gevonden.
+[3188.56 --> 3189.92]  Die significant waren.
+[3190.12 --> 3191.20]  Dan was jij gaaf.
+[3191.20 --> 3194.06]  Ja en ik ben het nog even aan het checken.
+[3194.20 --> 3196.04]  Maar het merendeel ging wel over folding.
+[3196.46 --> 3198.08]  Dus het vrouwen van protein.
+[3198.42 --> 3198.48]  Ja.
+[3199.02 --> 3200.18]  En daar waren wij.
+[3200.44 --> 3201.20]  Zeg ik even wij.
+[3201.38 --> 3202.56]  Want ik ben geboren in Nederland.
+[3202.72 --> 3203.70]  Als een Dutch powerhouse.
+[3203.84 --> 3204.68]  Vrij groot in.
+[3205.02 --> 3205.84]  Het is wel grappig.
+[3205.88 --> 3208.18]  Want die tijden zijn wel een beetje veranderd.
+[3208.78 --> 3210.08]  Merk ik bij mezelf.
+[3210.44 --> 3211.12]  Kijk toen.
+[3211.70 --> 3213.54]  Had je ook gewoon foto's van mensen die geweldig.
+[3213.60 --> 3215.78]  Kijk als jij natuurlijk werkt bij een IT partij.
+[3215.78 --> 3216.68]  Of een universiteit.
+[3216.82 --> 3218.16]  En er worden servers weggedaan.
+[3218.34 --> 3220.56]  Want die worden afgeschreven na drie, vijf, acht jaar.
+[3221.20 --> 3222.62]  En die mocht je dan mee naar huis nemen.
+[3222.86 --> 3225.02]  En dan ging je een rek in je kelder maken.
+[3225.18 --> 3225.76]  Is dit zo?
+[3225.96 --> 3226.48]  Dit ging wel.
+[3226.48 --> 3227.10]  Ja en dan had je van die.
+[3227.90 --> 3230.28]  Had je mensen die heel trots gingen posten.
+[3230.38 --> 3231.00]  Van ja kijk dan.
+[3231.08 --> 3233.36]  Ik heb dit cluster thuis draaien.
+[3233.92 --> 3234.80]  Maar dat gaat natuurlijk wel.
+[3235.22 --> 3236.16]  Een beetje uit van.
+[3236.56 --> 3237.92]  Eén lage energiekosten.
+[3238.92 --> 3239.08]  Ja.
+[3239.16 --> 3239.48]  Want uiteindelijk.
+[3239.60 --> 3240.98]  Je geeft niet alleen maar je tijd.
+[3241.42 --> 3243.00]  Maar je geeft letterlijk je kilowatt.
+[3243.00 --> 3243.76]  Dan aan.
+[3244.00 --> 3245.52]  In dit geval protein folding.
+[3245.74 --> 3246.80]  Dus dan zou je nog kunnen zeggen.
+[3246.80 --> 3247.42]  Joh.
+[3247.68 --> 3252.20]  Het idee daarvan is dat we medisch het een en ander kunnen daarmee.
+[3252.78 --> 3255.04]  Dus dan lever jij je persoonlijke kilowatt in.
+[3255.32 --> 3256.24]  Voor de greater good.
+[3256.38 --> 3258.58]  Als het gaat om lichamelijke gezondheid.
+[3259.16 --> 3259.86]  Maar dat waren.
+[3261.16 --> 3261.34]  Ja.
+[3261.40 --> 3262.10]  Het was wel een beetje.
+[3262.46 --> 3262.90]  Je zeg maar.
+[3262.98 --> 3264.62]  Met een hele dikke auto op video.
+[3264.78 --> 3265.50]  Gaan lekker roken.
+[3265.60 --> 3266.50]  Die één op drie rijdt.
+[3266.52 --> 3268.00]  Om te laten zien dat die veel herrie maakt.
+[3268.14 --> 3271.58]  In deze tijd is dat misschien iets minder handig.
+[3271.80 --> 3272.02]  Of zo.
+[3272.02 --> 3276.08]  Maar hoe makkelijk is het nu om rekenkracht te kopen.
+[3276.20 --> 3280.94]  Want ik zat een stuk te lezen van twee investeerders.
+[3281.18 --> 3283.04]  Die in AI bedrijven investeren.
+[3283.14 --> 3285.22]  Die hebben gewoon een eigen supercluster gebouwd.
+[3285.34 --> 3289.78]  Dus die zijn gewoon duizenden Nvidia Age 100's gaan kopen.
+[3290.16 --> 3293.92]  Om rekenkracht in te kopen.
+[3294.00 --> 3297.62]  En dan is dus het voordeel van investeringen van deze VC aannemen.
+[3297.70 --> 3299.62]  Dat je rekenkracht bij cadeau krijgt.
+[3299.62 --> 3300.24]  Zullen we maar zeggen.
+[3300.24 --> 3305.18]  Ik las ook dat er waren allerlei videokaarten van Nvidia.
+[3305.36 --> 3307.88]  Die Nvidia vorig jaar nog heeft afgeschreven.
+[3308.48 --> 3310.54]  Die lagen in magazijnen weg te rotten.
+[3310.66 --> 3311.82]  Omdat niemand ze wilde hebben.
+[3312.36 --> 3314.60]  En toen opeens kwam dus deze hele AI hype.
+[3314.68 --> 3318.56]  En opeens konden ze een paar weken geleden de prijzen verhogen met 20%.
+[3318.56 --> 3320.84]  Omdat er opeens weer zoveel vraag naar is.
+[3321.10 --> 3325.86]  En dat in feite ieder cloudcentrum waar je rekenkracht wil kopen nu.
+[3326.04 --> 3328.04]  Om een model te trainen.
+[3328.04 --> 3329.72]  Als je dus je eigen model wil trainen.
+[3329.72 --> 3333.08]  Dat dat al volgeboekt zit de komende jaren.
+[3333.44 --> 3336.06]  Dus dat het heel moeilijk is om daar tussen te komen.
+[3336.20 --> 3339.54]  Hoe doe je dat nu als je een bedrijf hebt.
+[3339.94 --> 3340.92]  Dat vind ik een mooie.
+[3341.00 --> 3341.78]  En het is bijna eng.
+[3341.88 --> 3343.30]  Want alsof je mijn lijstje hebt gelezen.
+[3343.40 --> 3345.70]  Want mijn volgende link was die ik nu in de chat heb gezet.
+[3345.78 --> 3347.92]  Dat gaat over training a cluster as a service.
+[3348.30 --> 3349.42]  Bij Hugging Face.
+[3349.42 --> 3354.28]  Even voor de helderheid.
+[3354.96 --> 3357.24]  Je hebt dus het trainen van modellen.
+[3357.46 --> 3359.18]  En het resultaat ervan is dan een model.
+[3359.30 --> 3360.26]  Bijvoorbeeld Whisper.
+[3360.52 --> 3362.08]  Dat model kan je dan thuis draaien.
+[3362.16 --> 3364.56]  Je hebt het trainen en het daadwerkelijk draaien.
+[3364.64 --> 3365.42]  Noem ik het maar even.
+[3365.42 --> 3370.22]  En het mooie daarvan is dat je eenmalig dan.
+[3370.34 --> 3371.06]  Niet eenmalig.
+[3371.14 --> 3374.42]  Maar een keer een heel groot model traint.
+[3374.92 --> 3377.68]  Wat je dan ook vervolgens op een veel kleiner stuk hardware.
+[3377.82 --> 3379.14]  Want je traint dat op een supercomputer.
+[3379.40 --> 3381.88]  En daarna kan je het op één grafische kaart uitvoeren.
+[3382.88 --> 3383.16]  Dus je hebt.
+[3383.28 --> 3383.64]  Ja grappig.
+[3383.72 --> 3386.32]  Maar in beide gevallen worden de kilowatts verstookt.
+[3386.42 --> 3388.40]  Je gaat kilowatts verstoken tijdens het trainen.
+[3388.40 --> 3391.94]  En daarna ga je kilowatts verstoken tijdens het in gebruik nemen van.
+[3392.08 --> 3393.84]  En gebruiken van dat getrainde model.
+[3394.18 --> 3395.38]  Dus dat zijn twee dingen eigenlijk.
+[3395.82 --> 3396.14]  Nou nu.
+[3396.34 --> 3397.66]  Wat ik je nu heb gelinkt is.
+[3397.74 --> 3399.30]  En dat vond ik zelf fascinerend.
+[3399.38 --> 3401.72]  Want dat had ik eigenlijk nog niet helemaal zo concreet gezien.
+[3402.16 --> 3404.02]  Hugging Face hebben we het wel eens eerder over gehad.
+[3404.12 --> 3405.06]  De GitHub for AI.
+[3405.18 --> 3405.92]  Zou het maar even zo noemen.
+[3406.80 --> 3408.14]  Waarop allemaal modellen staan.
+[3409.02 --> 3410.98]  Die je zelf kan gebruiken.
+[3411.36 --> 3413.52]  Moet je altijd even goed letten op de licentie die erbij zit.
+[3413.60 --> 3414.82]  Maar je kunt ze in ieder geval testen.
+[3415.54 --> 3417.34]  Die bieden nu aan training clusters.
+[3417.58 --> 3418.38]  Clusters as a service.
+[3418.40 --> 3421.80]  Dus stel dat jij een model wil trainen op hele specifieke data.
+[3422.02 --> 3424.40]  Je hebt bijvoorbeeld allemaal oude Nederlands geschiedenisboeken.
+[3425.08 --> 3428.50]  En je zegt ik wil eigenlijk een taalmodel maken op oud Nederlands.
+[3429.04 --> 3431.88]  Dan zou je dat doen door zo'n cluster te huren.
+[3432.26 --> 3435.40]  En dan zeg ik hier met mijn leken verstand.
+[3435.56 --> 3439.46]  Zeg ik ik wil een 30 miljard parameter.
+[3440.46 --> 3440.90]  Multimodaal.
+[3441.04 --> 3442.44]  En nu zeg ik het allemaal of ik dit allemaal weet.
+[3442.54 --> 3443.22]  Dat weet ik helemaal niet.
+[3443.32 --> 3443.68]  Model.
+[3444.24 --> 3445.90]  Doe maar 6 miljard tokens.
+[3446.34 --> 3447.40]  Met 500 accelerators.
+[3447.40 --> 3447.92]  Accelerators.
+[3448.02 --> 3449.68]  Ik ga er vanuit dat die hoe meer accelerators.
+[3449.68 --> 3453.16]  Het klinkt alsof dit iets te maken heeft met de grootte van de trainingsset.
+[3453.24 --> 3455.12]  Dus bijvoorbeeld jij bent een advocatenkantoor.
+[3455.28 --> 3460.18]  En je wil gaan trainen op alle juridische documenten die jij ooit hebt geproduceerd.
+[3460.28 --> 3461.52]  Dan gooi je die hele drive.
+[3461.52 --> 3465.80]  Wordt de basis om een model op te trainen.
+[3465.80 --> 3468.52]  Die dan uiteindelijk in jouw stijl nieuwe contracten gaat maken.
+[3469.18 --> 3471.94]  Dat is het aantal tokens.
+[3472.36 --> 3474.92]  Dus het aantal letters in feite die in de contracten staan.
+[3475.02 --> 3476.78]  Staan in verhouding tot het aantal tokens.
+[3476.90 --> 3478.34]  Ja precies.
+[3478.44 --> 3479.54]  Dus de tokens is inderdaad ook.
+[3479.62 --> 3482.52]  Als jij bijvoorbeeld praat met chat GPT.
+[3482.62 --> 3483.84]  Dan heb je ook een token limit.
+[3483.96 --> 3485.50]  En dat is eigenlijk hoeveel je erin mag gooien.
+[3485.60 --> 3487.16]  Een token is bijna een woord.
+[3487.28 --> 3487.88]  Maar niet helemaal.
+[3487.88 --> 3489.88]  Dus daarom noemen ze het niet words maar tokens.
+[3490.44 --> 3492.80]  Maar dat is, hoe zeg je dat?
+[3493.02 --> 3495.10]  Dat is verbonden aan het aantal woorden.
+[3495.24 --> 3496.10]  Maar niet helemaal.
+[3497.24 --> 3498.54]  En het aantal parameters.
+[3498.98 --> 3501.98]  Daarvoor moet je kunstmatige intelligentie gestudeerd hebben.
+[3502.12 --> 3503.94]  Of meer weten over hoe AI werkt.
+[3504.02 --> 3505.66]  En dat weet jij en ik niet helemaal.
+[3505.84 --> 3507.42]  Misschien moeten we er eens wat meer in verdiepen.
+[3507.94 --> 3509.88]  Maar ik weet wel dat hoe meer parameters.
+[3510.58 --> 3511.46]  Ook niet helemaal waar.
+[3511.82 --> 3513.40]  Maar dan wordt het een groter model.
+[3513.50 --> 3514.68]  En daarmee een slimmer model.
+[3514.84 --> 3516.28]  Maar groter is niet altijd beter.
+[3516.28 --> 3517.90]  Dus een beetje gevaarlijk wat ik nu zeg.
+[3517.96 --> 3520.22]  Want je hebt ook hele sterke kleine modellen.
+[3520.34 --> 3522.70]  Die heel erg goed gefinetuned zijn achteraf bijvoorbeeld.
+[3523.08 --> 3525.40]  En je hebt weer hele grote modellen die heel erg dom zijn.
+[3526.22 --> 3528.54]  Maar als we hier met 30 miljard parameters.
+[3528.90 --> 3531.66]  Multimodal model met 600 miljard tokens gaan trainen.
+[3531.72 --> 3532.28]  Met 500 accelerators.
+[3533.04 --> 3536.30]  En ik zie als ik die accelerators verhoog.
+[3536.56 --> 3538.02]  Naar 1000 of naar 500.
+[3538.18 --> 3538.84]  Dan gaat het sneller.
+[3538.84 --> 3544.54]  Dan zouden we 16 dagen op 500 accelerators voor 358.000 dollar.
+[3545.72 --> 3548.04]  Zouden wij ons model hebben getraind.
+[3548.22 --> 3549.64]  Om even aan te geven.
+[3550.28 --> 3551.60]  Over wat voor orde van groot.
+[3551.64 --> 3553.96]  En dan hebben we een model wat we daarna nog moeten gaan draaien.
+[3554.08 --> 3555.34]  Op ons GPU cluster.
+[3555.62 --> 3556.34]  Om het uit te voeren.
+[3556.46 --> 3557.54]  Wat veel kleiner kan zijn.
+[3558.24 --> 3559.96]  En het is wel interessant.
+[3560.08 --> 3561.42]  Want ik kreeg hier een vraag over.
+[3561.74 --> 3563.04]  Een luisteraar die zei.
+[3563.96 --> 3565.58]  Hoe zit het eigenlijk met al die kilowatts.
+[3565.58 --> 3570.08]  Zo zit het eigenlijk met de footprint van die grote AI modellen.
+[3570.72 --> 3572.96]  Dat was niet eens het onderscheid tussen trainen en uitvoeren.
+[3573.06 --> 3574.52]  Daarom maak ik dat onderscheid alvast even.
+[3575.16 --> 3576.58]  En ik ben het een beetje gaan uitzoeken.
+[3576.94 --> 3580.26]  Want ik had al gezien op Hukking Face.
+[3580.80 --> 3582.10]  Waar we het nu ook over hebben.
+[3582.22 --> 3584.08]  Dat zij dat sommige partijen.
+[3584.20 --> 3585.94]  Waaronder Meta en nog een aantal.
+[3586.56 --> 3590.30]  Bij de omschrijving van hun getrainde modellen.
+[3590.50 --> 3594.00]  Er ook bij zetten hoeveel kilowatt het gekost heeft om het te trainen.
+[3594.00 --> 3596.20]  En wat de bron van die kilowatts waren.
+[3596.82 --> 3598.02]  Als een soort energielabel.
+[3598.30 --> 3598.54]  Ja.
+[3598.82 --> 3601.70]  En Meta zet er dan bij.
+[3602.70 --> 3604.32]  Want het is natuurlijk ook wel een beetje.
+[3604.70 --> 3606.12]  Dat de enige die het erbij zetten.
+[3606.26 --> 3608.42]  Zijn natuurlijk de partijen die trots zijn op het feit.
+[3608.76 --> 3611.90]  Dat ze het getraind hebben met hun woorden groene energie.
+[3612.38 --> 3613.56]  Dus hier staat bijvoorbeeld een kopje.
+[3613.80 --> 3614.58]  Carbon footprint.
+[3614.84 --> 3616.92]  Dit staat bij een van hun grotere taalmodellen.
+[3618.68 --> 3621.88]  3,3 miljoen gpu hours.
+[3621.88 --> 3623.72]  Nou dan staat er bij een A100.
+[3623.96 --> 3625.24]  Dat is de kaart op dit moment.
+[3625.36 --> 3626.32]  De goudstafel van Nvidia.
+[3626.58 --> 3626.98]  TDP.
+[3627.40 --> 3628.84]  Dus thermal.
+[3630.26 --> 3630.66]  Dissipation.
+[3630.88 --> 3631.44]  Weet ik niet zo goed.
+[3631.54 --> 3633.38]  Maar in ieder geval 350 tot 400 watt.
+[3633.48 --> 3635.30]  Trekt zo'n kaart als die onder lood zit.
+[3635.94 --> 3638.28]  En dan 539.
+[3639.36 --> 3640.40]  Is dat ton?
+[3640.60 --> 3641.26]  Nou ja een hoop.
+[3642.02 --> 3643.94]  En dan staat er bij 100% offset.
+[3644.06 --> 3645.72]  Bij Meta Sustainability Program.
+[3645.72 --> 3648.80]  Oh ja grappig ja.
+[3649.06 --> 3650.96]  En dan zijn ze daar trots op.
+[3651.08 --> 3652.36]  Maar daar heb je in ieder geval een beetje een idee.
+[3652.46 --> 3654.70]  Want ik wat jammer vind nu van deze pagina.
+[3655.42 --> 3656.88]  Van Training & Cluster Service.
+[3657.32 --> 3659.96]  Zet dan niet alleen die 358.000 dollar er neer.
+[3660.24 --> 3661.56]  Maar ook die kilowatts eronder.
+[3661.94 --> 3664.04]  En dan misschien kan je zelfs nog een source kiezen.
+[3664.44 --> 3665.06]  Ik noem maar wat.
+[3665.46 --> 3666.42]  Want ik denk wel dat.
+[3667.36 --> 3669.10]  Dat is een beetje hoe ik er dan in sta.
+[3669.10 --> 3669.18]  Ja.
+[3670.50 --> 3671.66]  Dat kan je ook een beetje koppelen.
+[3671.68 --> 3673.40]  Je bedoelt een source voor energie bedoel jij.
+[3674.18 --> 3675.42]  Ja wat nu zeg ik eigenlijk.
+[3676.32 --> 3677.60]  Ik wil een cluster trainen.
+[3677.70 --> 3679.10]  Ik zet een paar knopjes aan en uit.
+[3679.24 --> 3682.16]  En onderaan de streep staat daar een getal.
+[3682.72 --> 3684.94]  358.768 dollar.
+[3685.80 --> 3686.90]  Computer plus service.
+[3687.06 --> 3689.34]  Ik ga eruit dat er nog een beetje geholpen wordt in een paar uurtjes.
+[3689.78 --> 3691.40]  Het liefst wat ik hier ook bij zou zien is.
+[3691.40 --> 3693.50]  Wat dat dan kost in energie.
+[3693.86 --> 3694.60]  Want dat zit erin verpakken.
+[3694.62 --> 3697.56]  Ja want je gaat een significante hoeveelheid energie verstoken.
+[3697.56 --> 3700.54]  Dan wil je ook kunnen kiezen waar dat vandaan komt.
+[3700.84 --> 3702.36]  Ja en mijn punt was een beetje.
+[3703.48 --> 3704.96]  Toen ik daar wat meer over nadacht.
+[3705.06 --> 3705.48]  Dat ik dacht.
+[3706.84 --> 3710.44]  Het lijkt natuurlijk een beetje op het crypto mining verhaal.
+[3710.58 --> 3712.92]  Daar zit een enorme carbon footprint aan bitcoin.
+[3713.14 --> 3715.28]  En daar zijn de meningen over verdeeld.
+[3715.82 --> 3717.76]  We moeten nog maar zien hoeveel waarde dat heeft.
+[3718.10 --> 3719.62]  Volgens sommige mensen vandaag de dag al.
+[3719.62 --> 3720.88]  Volgens sommige mensen voor de toekomst.
+[3720.96 --> 3721.86]  Volgens sommige mensen nooit.
+[3722.96 --> 3724.78]  Je mag zelf kijken in welk team je zit.
+[3724.90 --> 3725.90]  Maar het komt er wel op neer.
+[3725.90 --> 3728.52]  Dat we daar wel wat energie aan het wegblazen zijn.
+[3730.10 --> 3732.00]  In dit geval zou je natuurlijk kunnen zeggen.
+[3732.10 --> 3732.90]  Dat is een beetje mijn.
+[3733.74 --> 3734.76]  Ja hoe zeg je dat.
+[3735.84 --> 3737.94]  Manier om die discussie helder te krijgen.
+[3738.42 --> 3740.42]  Als het een cluster is die aan het trainen is.
+[3740.98 --> 3744.12]  Om kernfusie mogelijk te maken.
+[3744.80 --> 3747.28]  Dan ben je natuurlijk eigenlijk die kilowatts aan het gebruiken.
+[3747.36 --> 3749.64]  Om te zorgen dat je minder kilowatts nodig hebt in de toekomst.
+[3749.92 --> 3751.76]  Dus dan heb je eigenlijk.
+[3752.02 --> 3753.60]  Daar zou niemand tegen moeten zijn.
+[3753.60 --> 3754.50]  Bijna in mijn ogen.
+[3754.72 --> 3757.24]  Want als jij met 10 kilowatt kan zorgen.
+[3757.32 --> 3759.78]  Dat je straks 20 miljard kilowatt niet hoeft te gebruiken.
+[3759.88 --> 3761.54]  Dan is die trade-off gewoon fantastisch.
+[3761.94 --> 3763.48]  Als je zou weten dat je zeker weet.
+[3763.54 --> 3765.60]  En er iets uitvindt waardoor je die kernfusie kan maken.
+[3766.24 --> 3769.70]  En hierbij denk ik dat stap 1 in ieder geval zou zijn.
+[3769.80 --> 3771.64]  Om wat Meta nu al een beetje doet.
+[3771.80 --> 3774.60]  Omdat ze zo mooi al die energiecertificaten hebben ingekocht.
+[3774.70 --> 3776.20]  Waarschijnlijk willen ze die ook kunnen laten zien.
+[3776.30 --> 3776.94]  Ik ben even cynisch.
+[3776.94 --> 3778.12]  Maar ik snap dat wel.
+[3778.92 --> 3781.74]  Dat we de kosten ook weergeven.
+[3781.86 --> 3783.42]  Ieder geval in kilowatts.
+[3783.50 --> 3785.24]  Zodat je een beetje een footprint idee hebt.
+[3785.38 --> 3788.80]  Want het is niet iets kleins.
+[3788.92 --> 3791.60]  In het geval van kunstmatige intelligentie.
+[3791.70 --> 3793.48]  Die twee zijn wel een beetje met elkaar verweven.
+[3793.58 --> 3794.52]  Dat energieverbruik.
+[3795.08 --> 3796.80]  En modellen trainen en uitvoeren.
+[3798.08 --> 3799.62]  Zijn dat nou allemaal open source modellen.
+[3799.70 --> 3801.28]  Die je op Huk & Face kan gebruiken.
+[3801.28 --> 3805.54]  Of zijn het ook proprietary dingen.
+[3805.62 --> 3806.98]  Die je alleen maar mag proberen.
+[3807.12 --> 3809.12]  En dan als je daar echt serieus dingen mee wil doen.
+[3809.26 --> 3809.90]  Dan moet je er voor betalen.
+[3809.90 --> 3810.74]  Zoals bij OpenAI.
+[3811.04 --> 3813.06]  Ja ik maakte net al een beetje die asterisk.
+[3813.52 --> 3814.72]  Of die voegde ik al toe.
+[3815.42 --> 3816.86]  Waar ik achter kwam.
+[3817.10 --> 3819.84]  Ik was met Whisper bezig.
+[3819.92 --> 3820.76]  En toen zei iemand tegen mij.
+[3820.80 --> 3824.24]  Heb je wel gecheckt of je Whisper ook wel commercieel mag inzetten.
+[3824.66 --> 3825.86]  Want dat is iets van OpenAI.
+[3826.24 --> 3827.58]  Mijn grapje heb ik al eerder gemaakt.
+[3827.68 --> 3828.80]  Maar je weet nooit hoe open het is.
+[3828.80 --> 3829.88]  In het geval van Whisper.
+[3829.88 --> 3832.42]  Zit daar best wel een brede license op.
+[3832.92 --> 3834.24]  Maar Meta bijvoorbeeld.
+[3834.44 --> 3835.58]  Die ook heel veel uitbrengt.
+[3835.64 --> 3837.12]  Al die lama's en alpaka's.
+[3837.18 --> 3838.54]  Die komen allemaal bij Meta vandaan.
+[3839.28 --> 3842.60]  Daar is wat gesteggel rond geweest.
+[3842.66 --> 3844.12]  Want ze waren er heel erg vaag over.
+[3844.22 --> 3847.12]  Nu zijn ze er iets duidelijk in geworden.
+[3847.48 --> 3848.62]  Maar het is niet een.
+[3849.10 --> 3850.74]  Jol zie maar wat je ermee doet license.
+[3851.58 --> 3854.08]  Kijk als jij natuurlijk het werk van Meta.
+[3854.18 --> 3855.74]  Open source werk van Meta pakt.
+[3855.74 --> 3856.70]  Dat hernoemt.
+[3856.78 --> 3857.44]  En dan aanbiedst.
+[3857.62 --> 3859.44]  Een op een als commerciële dienst op het internet.
+[3859.44 --> 3860.12]  Ja oké.
+[3860.26 --> 3862.70]  Dat is een beetje die open source achtige ethos.
+[3862.80 --> 3863.74]  Dat zit er een beetje achter.
+[3864.68 --> 3865.54]  Dat willen ze niet.
+[3865.78 --> 3865.90]  Nee.
+[3866.14 --> 3867.00]  Maar het is wel.
+[3867.18 --> 3868.96]  Dat was een beetje mijn naïviteit.
+[3869.80 --> 3871.24]  Want ik heb ook wat mensen om me heen.
+[3871.28 --> 3872.84]  Naar dingen toegewezen op Hugging Face.
+[3872.98 --> 3874.18]  En daar zeiden zij toen later van.
+[3874.36 --> 3874.50]  Van joh.
+[3875.02 --> 3877.06]  Kijk als je een GitHub repository met iemand deelt.
+[3877.14 --> 3877.90]  Met code erin.
+[3877.98 --> 3878.22]  En je zegt.
+[3878.30 --> 3878.88]  Kijk een gave.
+[3880.20 --> 3881.54]  Plugin voor Chrome.
+[3881.64 --> 3882.62]  Waardoor je X of Y kan.
+[3882.62 --> 3886.40]  En dan zit daar vaak een license bij.
+[3886.62 --> 3887.86]  Een open source license.
+[3887.98 --> 3889.54]  MIT of een GPL.
+[3890.12 --> 3891.30]  Waar dan in staat van joh.
+[3891.68 --> 3892.60]  Je mag het best gebruiken.
+[3892.72 --> 3894.00]  Maar je mag het niet anders noemen bijvoorbeeld.
+[3894.26 --> 3896.16]  Of je moet altijd laten weten dat je ons was.
+[3896.38 --> 3897.16]  Dat je ons gebruikt.
+[3897.34 --> 3897.44]  Ja.
+[3897.44 --> 3899.22]  Of als je er iets verandert moet je teruggeven.
+[3899.34 --> 3900.18]  Dan heb je allemaal regels.
+[3900.70 --> 3902.48]  In die AI modellenwereld.
+[3902.86 --> 3904.40]  Is dat nog een beetje aan het ontstaan.
+[3905.24 --> 3906.34]  Zijn we nog een beetje aan het zoeken.
+[3906.40 --> 3907.22]  Hoe dat eigenlijk werkt.
+[3907.30 --> 3908.02]  En wat is het train.
+[3908.32 --> 3909.28]  Je hebt bijvoorbeeld nu ook.
+[3909.74 --> 3910.96]  Wat heel veel gebeurd is.
+[3912.08 --> 3913.02]  Je hebt een model.
+[3913.88 --> 3916.06]  Zeggen we dat we even heel veel parameters pakken.
+[3916.18 --> 3917.30]  Waar heel veel tokens in kunnen.
+[3917.38 --> 3918.22]  Dus dat is lekker groot.
+[3918.74 --> 3920.38]  Maar die willen we dan eigenlijk nog fine tune.
+[3920.38 --> 3922.04]  Een van de trucs die OpenAI doet.
+[3922.14 --> 3924.50]  Waardoor GPT4 zo krachtig is.
+[3924.98 --> 3925.80]  En indrukwekkend.
+[3925.80 --> 3927.76]  Is omdat daar heel veel alignment gedaan is.
+[3927.82 --> 3928.86]  Ik heb het eerder al zo over gehad.
+[3929.10 --> 3931.42]  Die antwoorden worden getoond aan mensen.
+[3931.92 --> 3932.54]  En die klikken dan.
+[3932.60 --> 3932.96]  Ja goed.
+[3933.06 --> 3933.20]  Nee.
+[3933.28 --> 3933.66]  Niet goed.
+[3933.76 --> 3934.12]  Wel goed.
+[3934.22 --> 3934.60]  Ja niet goed.
+[3934.70 --> 3936.36]  En dan maak je hem eigenlijk.
+[3936.62 --> 3937.96]  Naar dat model al getraind is.
+[3938.02 --> 3939.82]  Ga je hem daarna nog even fine tunen.
+[3939.88 --> 3940.20]  Letterlijk.
+[3940.30 --> 3941.90]  Je gaat hem schaven.
+[3942.78 --> 3943.54]  Wat nu gebeurt.
+[3943.80 --> 3945.00]  Er zitten heel veel mensen in Nigeria.
+[3945.42 --> 3946.30]  In sweatshops.
+[3946.76 --> 3948.32]  Reken erop dat dat mensen zijn.
+[3948.66 --> 3948.94]  Precies.
+[3949.06 --> 3951.60]  Die niet met een goede arbeidsvoorwaarde dat doen.
+[3951.92 --> 3953.68]  Met een mooie lamp en goede koffie.
+[3953.78 --> 3954.28]  Zeker niet.
+[3954.28 --> 3955.96]  Dus dat is een enorme keerzijde.
+[3955.96 --> 3956.72]  Een soort van hele digitale sweatshops.
+[3957.00 --> 3957.32]  Precies.
+[3957.40 --> 3958.66]  Die dan keuzes voorgelegd krijgen.
+[3958.96 --> 3959.54]  Over wat is.
+[3959.84 --> 3961.40]  Als dit de input is.
+[3961.52 --> 3961.96]  Is het dan.
+[3962.06 --> 3962.52]  Dus bijvoorbeeld.
+[3962.82 --> 3963.54]  Weet ik veel.
+[3963.94 --> 3964.80]  Schrijven we een gedicht.
+[3965.12 --> 3966.86]  En dan komen er twee voorbeelden van een gedicht.
+[3966.96 --> 3967.92]  Welk gedicht is beter.
+[3968.08 --> 3969.88]  En dan moeten die mensen kiezen welke beter is.
+[3969.96 --> 3972.70]  En dat is dan weer een heel klein beetje extra informatie voor dat model.
+[3972.88 --> 3975.58]  Om te begrijpen wat mensen goed vinden.
+[3975.58 --> 3977.24]  En zo is dat model.
+[3977.86 --> 3978.26]  Precies.
+[3978.26 --> 3981.38]  En de reactie vanuit de partijen.
+[3981.64 --> 3984.78]  Als een open AI of meta of noem ze allemaal maar op.
+[3984.98 --> 3985.46]  Zou zijn.
+[3986.12 --> 3987.82]  Dat hoeft gelukkig dan maar één keer.
+[3988.04 --> 3989.66]  Als we eenmaal dat gevangen hebben.
+[3990.04 --> 3991.26]  Die menselijke intelligentie.
+[3992.56 --> 3995.04]  Dus dat is een heel eng argument.
+[3995.26 --> 3996.42]  Want de geschiedenis zit vol met.
+[3996.80 --> 3998.74]  Als we nu even door het moeilijke bos lopen.
+[3998.96 --> 4000.10]  Daar achter schijnt de zon.
+[4000.18 --> 4001.18]  En wat er allemaal in het bos gebeurt.
+[4001.26 --> 4002.16]  Geeft dan niet zo heel erg.
+[4002.16 --> 4004.40]  Het is een heel gevaarlijke logica.
+[4004.92 --> 4005.18]  Maar.
+[4005.98 --> 4007.38]  Wat is er nu gebeurd is dat.
+[4007.96 --> 4008.36]  Bijvoorbeeld.
+[4008.52 --> 4008.90]  Dat is niet.
+[4009.04 --> 4009.66]  Dat weet ik niet.
+[4009.72 --> 4010.72]  Maar ik noem het even als voorbeeld.
+[4010.84 --> 4011.50]  Je hebt Claude.
+[4012.52 --> 4013.94]  Een van de GPT.
+[4014.42 --> 4015.46]  Grote taalmodellen.
+[4015.80 --> 4017.10]  Concurrenten van open AI.
+[4017.86 --> 4019.70]  Vanuit Entropic heette hun volgens mij.
+[4020.50 --> 4022.02]  Wat die zouden kunnen doen.
+[4022.56 --> 4023.40]  Dat weet ik niet zeker.
+[4023.40 --> 4025.18]  Maar ik weet dat andere partijen het wel doen.
+[4025.58 --> 4025.96]  Is zeggen.
+[4026.20 --> 4027.16]  We trainen een model.
+[4027.78 --> 4030.24]  En daarna gebruiken we GPT 4 van open AI.
+[4030.46 --> 4031.62]  Om hem te finetunen.
+[4031.62 --> 4034.12]  Oh ja.
+[4034.14 --> 4035.80]  Ik weet niet dat zij dat doen.
+[4035.88 --> 4038.14]  Maar ik weet wel dat het heel erg gebeurt met open source modellen.
+[4038.54 --> 4039.50]  En dan krijg je dus.
+[4040.00 --> 4042.40]  Jullie mochten ons open source model niet gebruiken.
+[4042.50 --> 4042.74]  En dan zeg jij.
+[4042.82 --> 4043.70]  Maar dat doe ik ook niet.
+[4043.92 --> 4045.70]  Ga dan maar eens bewijzen dat jouw model.
+[4046.36 --> 4047.62]  Gefinetuned is door hun model.
+[4047.86 --> 4048.24]  Nou ja.
+[4048.34 --> 4049.38]  Dit soort gekkigheid.
+[4050.12 --> 4050.94]  Maar toch.
+[4051.06 --> 4054.58]  Want er zijn dus allerlei modellen die met elkaar concurreren.
+[4054.58 --> 4059.80]  Om de grootste hoeveelheden developers aan zich te binden.
+[4059.80 --> 4060.98]  Die ermee gaan werken.
+[4061.56 --> 4061.58]  Of.
+[4064.06 --> 4064.30]  Ja.
+[4064.36 --> 4065.04]  Wat kun je nog meer.
+[4065.68 --> 4067.76]  Zorgen dat zoveel mogelijk mensen het gaan gebruiken.
+[4067.90 --> 4070.14]  Waardoor je meer API calls kan verwerken.
+[4070.22 --> 4071.24]  Waar je betaald voor krijgt.
+[4071.32 --> 4073.68]  Dan heb je een aantal grote bedrijven die met elkaar concurreren.
+[4074.50 --> 4076.36]  Facebook kiest er nadrukkelijk voor.
+[4076.50 --> 4078.02]  Om het model te open sourcen.
+[4078.36 --> 4080.42]  Dus eigenlijk het aan de gemeenschap te geven.
+[4080.54 --> 4081.70]  Dat als jij nu een bedrijf begint.
+[4081.80 --> 4082.68]  Dan kun je daadwerkelijk.
+[4083.66 --> 4085.62]  Lama in je app gebruiken.
+[4085.80 --> 4087.78]  Waardoor je een eigen.
+[4088.22 --> 4088.42]  Ja.
+[4089.32 --> 4090.52]  Model verder kan.
+[4091.24 --> 4093.04]  Fine tune op een manier zoals je dat zelf wil.
+[4094.90 --> 4095.82]  Waarom denk je dat.
+[4095.82 --> 4097.84]  Dat Facebook er nu voor kiest.
+[4097.92 --> 4098.82]  Om dat te open sourcen.
+[4098.98 --> 4099.50]  In plaats van.
+[4099.96 --> 4101.08]  De strategie van Microsoft.
+[4101.32 --> 4102.38]  En van Google te volgen.
+[4102.38 --> 4102.44]  Ja.
+[4103.08 --> 4103.64]  Ik denk.
+[4104.24 --> 4105.34]  En dat zou in essentie.
+[4105.46 --> 4107.16]  Zou de Microsoft of Google dat ook kunnen doen.
+[4107.36 --> 4109.14]  Maar dan maakt meta allemaal.
+[4109.46 --> 4110.28]  Hoe zeg je dat.
+[4111.70 --> 4112.18]  Gokken.
+[4112.96 --> 4113.38]  Inleven.
+[4113.66 --> 4114.06]  Fantaseren.
+[4114.18 --> 4114.70]  Wat ik nu doe.
+[4115.40 --> 4116.66]  Ik kan me voorstellen.
+[4117.50 --> 4117.94]  Dat.
+[4118.74 --> 4119.82]  De mode.
+[4120.04 --> 4121.76]  Zoals we dat in VC wereld noemen.
+[4121.88 --> 4122.48]  Dus eigenlijk wat.
+[4122.48 --> 4125.52]  Als jij een bedrijf gaat investeren.
+[4125.64 --> 4126.30]  Dan wil je eigenlijk zien.
+[4126.40 --> 4127.24]  Wat is jullie mode.
+[4127.34 --> 4129.20]  Want als je alleen maar een UI bent.
+[4129.28 --> 4130.44]  Over OpenAI heen.
+[4130.78 --> 4132.16]  Dan kan OpenAI jou heel makkelijk.
+[4132.16 --> 4132.80]  sharelocken.
+[4132.96 --> 4134.36]  Ik ga veel dingen aanhalen.
+[4134.42 --> 4135.44]  Uit eerdere afleveringen.
+[4135.58 --> 4136.42]  Om te checken.
+[4136.50 --> 4137.88]  Of iedereen ons allemaal luistert.
+[4138.00 --> 4138.38]  Dat is een soort.
+[4138.62 --> 4140.24]  Ik creëer een soort thought chain.
+[4140.38 --> 4140.96]  Niet een blockchain.
+[4142.62 --> 4144.58]  Dus je kan het alleen maar blijven luisteren.
+[4144.76 --> 4146.22]  Als je het allemaal opstapelt in je hoofd.
+[4146.52 --> 4146.78]  Maar goed.
+[4147.12 --> 4148.08]  Is je mode groot genoeg.
+[4148.12 --> 4149.16]  Om niet gesharelockt te worden.
+[4149.32 --> 4149.44]  Ja.
+[4149.44 --> 4149.60]  Ja.
+[4149.84 --> 4150.56]  Heel mooi.
+[4151.86 --> 4152.48]  Nu is het zo.
+[4152.54 --> 4152.66]  Dat.
+[4152.90 --> 4153.66]  Ik denk.
+[4153.90 --> 4154.90]  Dat voor Facebook.
+[4155.16 --> 4155.78]  Slash meta.
+[4156.14 --> 4156.42]  Om.
+[4156.90 --> 4158.06]  Die modellen te open sourcen.
+[4158.16 --> 4158.90]  Dat zij gezien hebben.
+[4158.98 --> 4160.06]  Want Facebook heeft wel heel erg.
+[4160.06 --> 4161.28]  een open source verleden.
+[4161.62 --> 4162.76]  Er zullen veel mensen zijn.
+[4163.18 --> 4163.64]  Die luisteren.
+[4163.70 --> 4163.92]  Die denken.
+[4164.00 --> 4164.38]  Boe.
+[4164.48 --> 4164.88]  Facebook.
+[4165.08 --> 4165.44]  Bah bah bah.
+[4165.52 --> 4165.74]  Maar.
+[4165.84 --> 4166.74]  Ik bedoel met react.
+[4166.86 --> 4168.20]  En ik kan een lijstje afgaan.
+[4168.28 --> 4170.18]  Aan dingen die zij aan de wereld.
+[4170.18 --> 4171.08]  geschonken hebben.
+[4172.12 --> 4173.56]  Ze hebben best wel mooie dingen gedaan.
+[4173.66 --> 4174.64]  Op het gebied van open source.
+[4174.88 --> 4175.16]  Ook.
+[4176.20 --> 4176.56]  Maar.
+[4177.24 --> 4177.44]  Kijk.
+[4177.72 --> 4179.24]  Al die dingen die zij de wereld ingooien.
+[4179.30 --> 4180.44]  Die krijgen ze daarna weer terug.
+[4180.66 --> 4181.96]  Even in een gek beeld.
+[4182.10 --> 4182.82]  Twee weken later.
+[4183.42 --> 4183.78]  Beter.
+[4184.14 --> 4185.28]  Het is alsof ze een auto maken.
+[4185.32 --> 4186.52]  Vanuit de Volkswagen groep.
+[4186.90 --> 4187.64]  Die vervolgens.
+[4187.96 --> 4188.62]  De wereld ingaat.
+[4188.70 --> 4189.44]  En dan krijgen ze hem terug.
+[4189.80 --> 4190.20]  Geupgraded.
+[4190.32 --> 4191.34]  Gratis door de community.
+[4191.76 --> 4193.44]  En die kunnen ze dan weer intern gebruiken.
+[4193.54 --> 4193.68]  Dus.
+[4194.30 --> 4195.36]  De vraag is dan.
+[4195.36 --> 4196.44]  Als.
+[4197.10 --> 4198.32]  De modellen die Facebook.
+[4198.52 --> 4199.22]  Naar buiten gooit.
+[4199.42 --> 4200.54]  Niet hun mode zijn.
+[4200.68 --> 4201.84]  Dus niet de IP.
+[4202.06 --> 4203.00]  Niet de waarde hebben.
+[4203.62 --> 4204.40]  Dan is het waarschijnlijk.
+[4204.48 --> 4206.22]  De data die Facebook heeft.
+[4206.82 --> 4207.42]  Dat denk ik.
+[4207.88 --> 4208.32]  Waardoor.
+[4208.68 --> 4209.26]  Voor Facebook.
+[4209.42 --> 4210.74]  Om een lama te releasen.
+[4211.04 --> 4212.82]  Een large language model lama.
+[4213.40 --> 4214.24]  Die vervolgens.
+[4214.34 --> 4214.98]  Twee maanden later.
+[4215.06 --> 4215.80]  Weer binnen komt lopen.
+[4215.90 --> 4216.20]  Bij hun.
+[4216.58 --> 4217.46]  Drie keer geupgraded.
+[4217.54 --> 4218.96]  Gratis door de open source community.
+[4219.16 --> 4220.70]  En die ze daarna kunnen gaan toepassen.
+[4220.70 --> 4221.62]  Op hun dataset.
+[4221.74 --> 4222.68]  Waar de open source community.
+[4222.90 --> 4223.40]  Niet bij kan.
+[4223.94 --> 4224.86]  Ik denk dat het best wel.
+[4224.86 --> 4226.00]  Een goede deal is voor hun.
+[4226.36 --> 4226.96]  En ook.
+[4227.14 --> 4228.78]  Omdat ze niet first mover waren.
+[4229.10 --> 4230.20]  Want open AI.
+[4230.54 --> 4231.54]  En eigenlijk Google.
+[4231.64 --> 4232.56]  Die hadden op de plank liggen.
+[4233.12 --> 4233.92]  Is het denk ik wel.
+[4234.02 --> 4234.30]  Als je die.
+[4234.50 --> 4235.58]  Als je dat een beetje afweegt.
+[4235.68 --> 4236.12]  Van oké.
+[4236.16 --> 4237.02]  We zijn niet de eerste.
+[4237.18 --> 4238.12]  Dus we moeten iets bieden.
+[4238.22 --> 4238.76]  Waardoor we.
+[4239.10 --> 4240.26]  Ze kunnen inhalen.
+[4240.36 --> 4241.18]  Of bij kunnen benen.
+[4241.76 --> 4242.00]  En.
+[4242.18 --> 4242.92]  We hebben eigenlijk.
+[4243.12 --> 4243.78]  Dat model.
+[4244.26 --> 4244.80]  Niet nodig.
+[4244.94 --> 4245.80]  Want we hebben de data.
+[4245.92 --> 4246.84]  En daar kan niemand bij.
+[4247.74 --> 4248.32]  Het zou bijvoorbeeld.
+[4248.32 --> 4249.24]  Voor een partij.
+[4249.24 --> 4249.68]  Als.
+[4250.30 --> 4250.70]  Google.
+[4250.88 --> 4251.46]  Met hun YouTube.
+[4251.60 --> 4252.24]  Waar we het de vorige keer.
+[4252.40 --> 4253.12]  Ook over hebben gehad.
+[4253.40 --> 4254.08]  Of Twitter.
+[4254.28 --> 4254.68]  Met hun.
+[4254.68 --> 4255.80]  Tweets.
+[4256.00 --> 4256.52]  Real time.
+[4257.10 --> 4257.78]  Zij zouden prima.
+[4257.86 --> 4259.16]  Hun modellen kunnen open sourcen.
+[4259.32 --> 4259.50]  Want.
+[4259.72 --> 4260.80]  Zolang je geen toegang krijgt.
+[4260.84 --> 4262.14]  Tot die firehose van Twitter.
+[4262.26 --> 4263.38]  Met recente tweets.
+[4263.74 --> 4265.00]  Of in het geval van YouTube.
+[4265.26 --> 4266.26]  De recente video's.
+[4266.30 --> 4267.18]  En het hele archief.
+[4267.82 --> 4268.16]  Denk ik.
+[4268.20 --> 4269.20]  Dat je model zelf.
+[4269.32 --> 4270.28]  Niet jouw.
+[4270.62 --> 4271.48]  Intellectual property.
+[4271.62 --> 4272.06]  Hoeft te zijn.
+[4272.96 --> 4273.40]  Gekeken.
+[4273.46 --> 4274.86]  Vanuit een puur.
+[4274.86 --> 4275.06]  Ja.
+[4275.42 --> 4276.26]  Kapitalistische mindset.
+[4276.44 --> 4276.54]  Van.
+[4276.64 --> 4277.20]  Wat is waarde.
+[4277.30 --> 4277.84]  En wat kunnen we.
+[4277.90 --> 4278.60]  Waar kunnen we waarde.
+[4278.76 --> 4279.08]  Uithalen.
+[4279.08 --> 4279.38]  Zeg maar.
+[4280.02 --> 4280.80]  Het is zo moeilijk.
+[4280.96 --> 4281.12]  Om je.
+[4281.82 --> 4282.10]  Om het.
+[4282.30 --> 4282.98]  In het Engels te zeggen.
+[4283.10 --> 4284.64]  To wrap your head around.
+[4284.92 --> 4286.50]  De soort van strategische keuzes.
+[4286.58 --> 4287.30]  Die nu op dat niveau.
+[4287.58 --> 4288.52]  Worden gemaakt.
+[4288.64 --> 4289.36]  Met hoeveelheden.
+[4290.02 --> 4290.28]  Geld.
+[4290.46 --> 4291.42]  En dus ook CO2.
+[4291.58 --> 4292.54]  Want het is in dit geval.
+[4292.54 --> 4292.96]  Redelijk.
+[4293.82 --> 4294.04]  Ja.
+[4294.20 --> 4294.66]  Met elkaar.
+[4295.34 --> 4296.10]  Dat loopt eigenlijk.
+[4296.10 --> 4296.74]  Met elkaar op.
+[4296.86 --> 4297.06]  Zeg maar.
+[4297.12 --> 4297.56]  De hoeveelheid.
+[4297.56 --> 4298.04]  Wat het kost.
+[4298.12 --> 4299.32]  Om het model te trainen.
+[4299.52 --> 4299.86]  Omdat dat.
+[4300.12 --> 4300.78]  Voor grootste deel.
+[4301.04 --> 4301.80]  Energiekosten zijn.
+[4303.72 --> 4303.84]  De.
+[4303.84 --> 4304.08]  De.
+[4304.08 --> 4304.76]  Miljarden.
+[4305.00 --> 4306.04]  Die nu worden uitgegeven.
+[4306.14 --> 4307.16]  Aan het trainen van die modellen.
+[4307.28 --> 4308.66]  En dus de onderliggende keuzes.
+[4308.66 --> 4309.74]  Over hoe je zo'n model.
+[4310.92 --> 4311.28]  Released.
+[4311.56 --> 4311.98]  En welk.
+[4311.98 --> 4312.76]  Welk doel je daar.
+[4313.32 --> 4314.14]  Uiteindelijk mee hebt.
+[4314.88 --> 4315.18]  Ik weet niet.
+[4315.46 --> 4316.50]  Het laat mijn hoofd toch wel.
+[4316.58 --> 4317.24]  Een beetje spinnen.
+[4317.32 --> 4317.64]  Als je zo.
+[4318.16 --> 4318.56]  Net.
+[4318.56 --> 4318.96]  Net.
+[4319.16 --> 4319.48]  Opleest.
+[4319.48 --> 4320.06]  Wat het kost.
+[4320.14 --> 4321.06]  Om even een clustertje.
+[4321.26 --> 4321.98]  Op Huckingface.
+[4322.16 --> 4322.64]  Aan te zetten.
+[4323.14 --> 4323.80]  Wetende dat.
+[4324.36 --> 4324.96]  Het was het OPA.
+[4325.08 --> 4326.02]  Kreeg eerst een investering.
+[4326.10 --> 4326.64]  Van een miljard.
+[4326.70 --> 4327.20]  Van Microsoft.
+[4327.34 --> 4328.24]  En toen was het geld op.
+[4328.38 --> 4329.68]  En toen waren ze.
+[4329.98 --> 4330.68]  Toen waren ze.
+[4330.68 --> 4331.26]  In paniek.
+[4331.26 --> 4333.18]  En toen hebben ze.
+[4333.72 --> 4335.48]  Na wat kleinere investeringen.
+[4335.54 --> 4336.18]  Uiteindelijk nog een keer.
+[4336.30 --> 4337.50]  10 miljard opgehaald.
+[4337.92 --> 4338.62]  Mijn dollar.
+[4339.04 --> 4339.32]  Maar god.
+[4339.46 --> 4340.30]  Een miljardje meer of minder.
+[4340.38 --> 4341.00]  Wat maakt het ook uit.
+[4341.02 --> 4341.90]  Wat maakt het ook uit.
+[4342.26 --> 4342.98]  Het gaat gewoon.
+[4343.16 --> 4344.26]  Allemaal op aan.
+[4344.80 --> 4345.64]  Compute power.
+[4346.24 --> 4346.96]  En het feit dat.
+[4347.58 --> 4349.14]  Amazon dit waarschijnlijk ook kunnen doen is.
+[4349.22 --> 4350.20]  En dat Google dit ook doet.
+[4350.40 --> 4350.72]  En dat.
+[4351.48 --> 4352.70]  Facebook dit dus ook doet.
+[4353.02 --> 4353.14]  Ja.
+[4353.28 --> 4353.60]  Het is gewoon.
+[4354.62 --> 4355.04]  Ik weet niet.
+[4355.34 --> 4355.60]  Ik weet niet.
+[4355.96 --> 4356.40]  Het is gewoon.
+[4356.80 --> 4356.94]  Ik.
+[4358.00 --> 4359.52]  Het is zo moeilijk om voor te stellen.
+[4359.86 --> 4360.48]  En als je hem nu.
+[4360.48 --> 4361.94]  Als je het cirkeltje dan rondmaakt.
+[4362.02 --> 4362.54]  Met Petals.
+[4362.64 --> 4363.84]  Waar we net over hadden.
+[4363.96 --> 4365.18]  Met die BitTorrent.
+[4365.42 --> 4366.52]  Voor Light Language Models.
+[4366.90 --> 4368.02]  Is het natuurlijk hilarisch.
+[4368.40 --> 4372.04]  Als mensen Lama gaan downloaden van Meta.
+[4372.50 --> 4373.30]  Dan met Petals.
+[4373.38 --> 4375.66]  Allemaal gaan Distributed Retrainen.
+[4376.32 --> 4379.08]  En dan gaat Facebook zelf naar die pagina toe.
+[4379.18 --> 4380.10]  Download weer dat ding.
+[4380.14 --> 4381.32]  En gaat hem internt toepassen.
+[4381.32 --> 4382.64]  Dus op die manier hebben ze eigenlijk.
+[4382.96 --> 4383.80]  Over onze rug.
+[4383.88 --> 4384.90]  Met onze kilowatts.
+[4384.94 --> 4386.36]  Die we allemaal samen in OpenHoop.
+[4386.36 --> 4387.00]  Ooit hebben.
+[4387.38 --> 4388.72]  Hun model verbeterd.
+[4388.72 --> 4389.72]  Ja.
+[4390.16 --> 4390.36]  Ja.
+[4390.36 --> 4392.28]  Dan kan Mark Zuckerburg weer een extra huis kopen.
+[4392.34 --> 4394.24]  Het scheelt ze wel carbon credits inkopen.
+[4394.40 --> 4395.78]  Want die leggen ze gewoon bij ons.
+[4397.68 --> 4400.80]  Ik vraag me af wat de Estse overheid ermee zou doen.
+[4401.44 --> 4404.04]  Misschien een Lama gebruiken.
+[4404.14 --> 4406.78]  Om dan een chatbot te maken.
+[4406.78 --> 4407.34]  Die.
+[4410.54 --> 4412.84]  Waardoor je kan zeggen dat je dood bent gegaan.
+[4413.62 --> 4417.62]  En dan dat de X-Rode automatisch die data verwerkt.
+[4417.70 --> 4419.54]  Bij de belangrijkste instanties.
+[4419.54 --> 4421.08]  En dan hopen dat het klopt.
+[4421.90 --> 4422.14]  Zeg maar.
+[4422.78 --> 4426.08]  Het nieuws over mijn dood is grotendeels overdreven.
+[4426.22 --> 4426.42]  Toch?
+[4426.46 --> 4426.96]  Dat was hem.
+[4427.40 --> 4429.58]  Maar ik zit nog te denken dat ik heb ooit gezien.
+[4429.58 --> 4434.10]  Ik heb dat nooit behalve op een plaatje in het echt gezien.
+[4434.20 --> 4435.60]  Maar het is zo'n logische stap.
+[4436.36 --> 4439.70]  Dat waren in de datacenters heb je allemaal maten.
+[4439.78 --> 4443.24]  Net als met containers heb je allemaal van die ISO gecertificeerde maten.
+[4443.36 --> 4443.64]  Zodat alles koste.
+[4443.64 --> 4444.34]  Standaard maten.
+[4444.40 --> 4444.52]  Ja.
+[4444.60 --> 4445.08]  Standaard maten.
+[4445.78 --> 4448.18]  En zo heb je in een rek.
+[4448.40 --> 4450.14]  In een rek heb je 1 uur, 2 uur.
+[4450.32 --> 4450.96]  Noem maar op.
+[4451.08 --> 4455.22]  En 1 uur is eigenlijk als iemand wel eens in audio gewerkt heeft.
+[4455.22 --> 4458.06]  Die werken ook vaak met de reks in van die flightcases.
+[4458.20 --> 4461.04]  Het zijn van die grote zwarte dozen die op het podium staan met wieltjes eronder.
+[4461.14 --> 4462.40]  En er zit allemaal apparatuur in.
+[4462.76 --> 4464.46]  Die voldoen ook aan diezelfde standaard.
+[4465.78 --> 4468.68]  1 uur is echt niet zo hoog.
+[4468.78 --> 4470.90]  Dat is echt een pizzadoos platgeslagen computer.
+[4470.90 --> 4473.96]  Wordt ook vaak pizzadoos genoemd door de mensen die in die industrie werken.
+[4474.14 --> 4477.30]  Die gaan dan weer even een paar pizzadozen in het rek schuiven.
+[4477.80 --> 4481.98]  Dat waren vroeger meer mensen dan tegenwoordig.
+[4482.06 --> 4483.36]  Want ik heb dat ook nog gedaan.
+[4483.54 --> 4484.24]  Lang, lang geleden.
+[4484.40 --> 4485.04]  Ik ben ook al oud.
+[4485.22 --> 4488.86]  Maar tegenwoordig is het allemaal weggeabstalleerd achter API calls.
+[4489.02 --> 4491.54]  Maar er is uiteindelijk iemand die ergens weer iets gaat ophangen.
+[4491.68 --> 4492.92]  Misschien is het tegenwoordig er een loop op.
+[4492.92 --> 4493.18]  Ja, zeker.
+[4493.40 --> 4495.12]  Maar er zijn gewoon blazende...
+[4495.12 --> 4496.28]  Dat is ook...
+[4496.28 --> 4500.06]  Als we het nog even koppelen aan het kilowatt verhaal.
+[4500.70 --> 4504.56]  Als je zou gaan luisteren wat zo'n Nvidia cluster doet.
+[4504.70 --> 4506.06]  Als daar een model op getraind wordt.
+[4506.16 --> 4508.70]  Dat is gewoon een schreeuwend warme bom.
+[4508.86 --> 4509.32]  Is dat gewoon.
+[4510.28 --> 4511.04]  Echt heftig.
+[4511.78 --> 4512.40]  Wat wil jij zeggen?
+[4512.48 --> 4514.18]  Want je bent ook in datacenters geweest denk ik.
+[4514.18 --> 4515.78]  Ja, ja, nee.
+[4515.94 --> 4517.08]  Ik knik alleen maar...
+[4517.08 --> 4517.86]  Jouzelf al zeker.
+[4517.98 --> 4518.40]  Het is heftig.
+[4518.40 --> 4521.22]  Ja, want ik zat te denken dat...
+[4521.22 --> 4522.36]  Wat ik toen heb gezien...
+[4522.36 --> 4523.40]  Dat was eigenlijk een...
+[4523.40 --> 4525.14]  Nou, stel je ervoor een pizzadoos.
+[4525.24 --> 4527.20]  En die kunnen heel diep zijn.
+[4527.34 --> 4529.08]  Dus leg even drie pizzadozen achter elkaar.
+[4529.20 --> 4530.74]  Of tweeënhalf heb je ongeveer een server.
+[4531.16 --> 4532.30]  Die heb je ook weer allemaal maat in.
+[4532.34 --> 4534.88]  Maar een beetje gemiddeld server is zo tweeënhalf een pizzadoos naar achter.
+[4535.00 --> 4536.08]  En de hoogte is een pizzadoos.
+[4536.38 --> 4538.82]  En die schuif je dan op elkaar op een stapel in zo'n rek.
+[4538.92 --> 4540.00]  En dan weer reks naast elkaar.
+[4540.14 --> 4541.00]  En dan weer verdiepingen.
+[4541.30 --> 4542.92]  Je ziet het wel voor je hoe dat blijft stapelen.
+[4542.92 --> 4545.58]  Ja, het was een partij.
+[4545.70 --> 4547.38]  En die zei, zullen we die gewoon aan je muur hangen thuis?
+[4548.26 --> 4550.30]  Draai gewoon die tweeënhalf pizzadoos op zijn zij.
+[4550.56 --> 4552.58]  Schroef hem op de plek waar je verwarming hangt.
+[4553.14 --> 4555.60]  En toen was het nog, zet er een bitcoinminer op.
+[4555.90 --> 4557.96]  En als het dan koud is in je huis, klappen we dat ding aan.
+[4558.02 --> 4559.84]  Gaan we bitcoinminen en warm je je kamer op.
+[4560.12 --> 4562.52]  Nu zou ik dan zeggen, hang hem in petkels.
+[4562.96 --> 4564.92]  Hang een GPU-cluster in de vorm van een mooie radiator...
+[4564.92 --> 4567.36]  met een mooie hoest eromheen aan je muur.
+[4567.68 --> 4568.30]  En let's go.
+[4569.46 --> 4569.86]  Wauw.
+[4569.94 --> 4572.58]  Toch? Laten we dan slim zijn als we het toch overal gaan ophangen.
+[4573.20 --> 4575.96]  Maar Wies, dan wil ik er wel iets voor terugkrijgen.
+[4576.56 --> 4577.56]  Ja, nee, dat begrijp ik.
+[4577.66 --> 4580.92]  Dan zou je misschien moeten zeggen, daardoor doe jij mee...
+[4581.44 --> 4583.00]  en kan jij tegen dat model praten.
+[4583.22 --> 4584.94]  Alleen als je meedoet, een soort tit-for-tat.
+[4585.28 --> 4587.36]  Dus dan bouw je een soort karma op.
+[4587.44 --> 4588.46]  Je hebt het trouwens in Bitcoin.
+[4588.46 --> 4589.94]  Je wil helpen.
+[4589.94 --> 4590.78]  Geef mij gewoon tokens.
+[4590.98 --> 4594.00]  En dan kies ik wel of ik het wil geven aan tijd op dat cluster.
+[4594.00 --> 4595.96]  Of dat ik gewoon euro's voor terug wil.
+[4596.08 --> 4596.52]  Tot prima.
+[4596.76 --> 4600.00]  Als dit toch is waardoor het toegankelijk wordt, die datakracht.
+[4601.10 --> 4602.00]  Ja, ik vind het wel een...
+[4603.20 --> 4605.32]  Ja, desnoods is het om iemand zwembad op te warmen of zo.
+[4605.54 --> 4608.28]  Maar dat je in ieder geval, wat nu...
+[4608.28 --> 4608.86]  Ja, ik weet niet.
+[4608.96 --> 4611.96]  Het idee dat je dan een datacenter hebt waar het knijter heet wordt binnen...
+[4611.96 --> 4614.32]  wat dan teruggekoeld wordt bij de airco en zo...
+[4614.32 --> 4616.26]  Het kan eigenlijk allemaal niet meer zo goed nu.
+[4616.48 --> 4617.64]  Als we die warmte moeten we iets mee.
+[4618.52 --> 4618.70]  Ja.
+[4619.70 --> 4622.02]  Ik denk trouwens, het is puur manierviteit hoor.
+[4622.02 --> 4623.16]  Ik ga ervan uit dat er...
+[4623.16 --> 4626.02]  Daar ga ik gewoon even van uit voor de luisteraars die een datacenter runnen...
+[4626.64 --> 4629.06]  dat er inmiddels buizen doorheen liggen die de grond ingaan...
+[4629.06 --> 4630.90]  en gewoon teruggeleverd worden aan het netwerk.
+[4631.10 --> 4631.96]  Ik mag het hopen.
+[4632.32 --> 4632.90]  Ik mag het hopen.
+[4633.38 --> 4635.32]  Maar ja, die warmte moeten we...
+[4635.32 --> 4636.14]  Het is ongetwijfeld zo.
+[4636.64 --> 4640.02]  Maakt het niet minder vet om een taalmodel te trainen...
+[4640.86 --> 4643.52]  op de plek waar nu een radiator hangt?
+[4644.30 --> 4644.46]  Ja.
+[4644.46 --> 4645.06]  En dat wil iets hebben.
+[4645.34 --> 4645.66]  Toch?
+[4645.94 --> 4646.48]  Dat is mooi.
+[4646.48 --> 4651.48]  Er zijn dus cases of zo waardoor je zo'n server op zijn zij aan je muur kan hangen.
+[4652.44 --> 4654.98]  Het is een lichte dystopische aflevering geworden.
+[4655.20 --> 4657.90]  Het Esteland verhaal heeft voor jou ook een dystopisch bijklankje.
+[4658.24 --> 4661.12]  En dit eindigt toch ook op een dystopische wijze.
+[4661.26 --> 4663.38]  Het is ons weer niet gelukt om je vrolijk nieuws te brengen.
+[4663.76 --> 4665.18]  Volgende week proberen we het weer nog een keer.
+[4665.74 --> 4666.34]  Tot volgende week.
+[4666.38 --> 4666.88]  Tot dan.
+[4667.04 --> 4667.32]  Doei.
+[4667.32 --> 4673.44]  En ben je er al achter of Eneco dynamisch bij je past?
+[4673.98 --> 4674.82]  Of nog niet?
+[4675.48 --> 4677.90]  Doe de test op eneco.nl slash test.
+[4679.00 --> 4680.98]  Mensen helpen een bewuste keuze te maken.
+[4681.88 --> 4682.48]  We doen het nu.
+[4682.96 --> 4683.46]  Eneco.
+[4683.46 --> 4684.46]  Doei.
+[4684.46 --> 4685.46]  Doei.

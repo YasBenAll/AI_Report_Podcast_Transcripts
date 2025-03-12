@@ -1,0 +1,2393 @@
+Video title: AI neemt de klaslokalen over： zijn leraren nog nodig？
+Youtube video code: R3ClgLMoguA
+Last modified time: 2024-01-22 10:32:01
+
+------------------ 
+
+[0.72 --> 4.44]  Zet jij je verwarming nog aan met zo'n ouderwetse thermostaatknop?
+[5.12 --> 7.46]  Dan is Eneco Dynamics niks voor jou.
+[7.98 --> 9.88]  Of bedien jij je thermostaat met een app?
+[10.52 --> 12.76]  Dan is Eneco Dynamics misschien wel iets voor jou.
+[13.50 --> 18.78]  Doe de test op eneco.nl slash test om te ontdekken of een dynamisch energiecontract bij jou past.
+[19.36 --> 21.32]  Mensen helpen een bewuste keuze te maken.
+[22.24 --> 23.82]  We doen het nu. Eneco.
+[23.82 --> 31.26]  Als nu echt die vitale processen geraakt worden en we hebben echt te weinig cybercapaciteit bijvoorbeeld.
+[31.64 --> 34.38]  Welke processen willen we dan kost wat kost in de lucht houden?
+[34.84 --> 37.92]  En waar zetten we onze schaarse capaciteit op dat moment op in?
+[38.28 --> 43.32]  In de nieuwe editie van Enter duiken we in Easydoor, de grootste cyberoefening van Nederland.
+[43.90 --> 47.00]  Ontdek het belang van voorbereiden, oefenen en samenwerken.
+[53.82 --> 70.24]  Welkom bij POKI, een podcast over kunstmatige intelligentie.
+[70.38 --> 74.32]  Waarin wij, Wietsehage en Alexander Klubing, je bijpraten over de wereld van AI.
+[74.96 --> 77.04]  En het nieuws over AI is amper bij te houden.
+[77.04 --> 81.00]  Dus daarom hier het belangrijkste nieuws van de afgelopen week in 60 seconden.
+[81.00 --> 84.84]  Een nieuwe stap in de concurrentiestrijd van Google met OPI.
+[85.12 --> 88.62]  Google heeft aangekondigd te werken aan een nieuw taalmodel, namelijk Gemini.
+[89.30 --> 92.36]  En naast dat het de kennis en innovatie van het Go-model gebruikt,
+[92.44 --> 96.12]  omdat GoM DeepMind als eerste mensen verslaan met het spel Go,
+[96.58 --> 99.72]  krijgt het nog een paar andere pretty interesting innovations.
+[99.90 --> 104.14]  Als dus de CEO van DeepMind duurt naar verwachting nog een paar maanden voordat dat model uitkomt
+[104.14 --> 106.12]  en ze zijn dus een beetje vaag over wat dat gaat kunnen.
+[106.28 --> 106.94]  In ieder geval, het komt eraan.
+[107.06 --> 110.78]  Adobe, de maker van Photoshop, heeft zijn eigen plaatjesgenerator, Firefly.
+[110.78 --> 115.88]  En het bijzondere van Firefly is dat het model niet getraind is op materiaal dat met rechten beschermd is.
+[116.00 --> 118.96]  Dus het is niet foto's en illustraties van kunstenaars,
+[119.04 --> 122.20]  die niet betaald worden voor hun werk om opgenomen te worden in dat model,
+[122.28 --> 124.78]  maar hebben ze een model specifiek getraind op rechtenvrij materiaal.
+[125.44 --> 130.20]  Zodat, als je plaatjes maakt, je niet bang hoeft te zijn dat je later nog een rekening krijgt van een kunstenaar die zei,
+[130.54 --> 131.64]  jij hebt werk van mij gejat.
+[132.14 --> 135.60]  En Adobe heeft nu een volgende stap genomen in die zelfverzekerdheid daarover.
+[135.74 --> 140.62]  En betalen nu de juridische kosten mochten klanten ooit in de problemen komen omdat kunstenaars toch zeggen,
+[140.98 --> 141.90]  je hebt werk van mij gejat.
+[142.34 --> 147.10]  En OPI maakt de eerste internationale stap en opent een kantoor bij onze Overduren in Londen.
+[147.52 --> 151.42]  Er komen research and engineering positions as well as other areas.
+[151.56 --> 154.70]  En ik ga er toch even vanuit dat daar ook lobbyisten tussen zitten om de EU te lobbyen.
+[155.22 --> 156.46]  Dat was het nieuws van deze week.
+[156.46 --> 159.64]  Maar nu eerst, Wietse, jij was op een conferentie deze week.
+[159.88 --> 163.32]  En toen kwam er iemand naar jou toe en die zei toen...
+[163.32 --> 165.34]  Ik kreeg de tip om naar Poki te luisteren.
+[165.44 --> 166.12]  Dat is wel vet.
+[166.36 --> 167.98]  Ja, dat vond ik wel een hele lieve tip ook.
+[168.20 --> 170.56]  Ik heb dat verder gelaten van wat het was, maar...
+[170.56 --> 174.12]  Dus jij was in gesprek met iemand, iemand kwam naar jou toe en die zei, weet je wat jij moet doen?
+[174.88 --> 177.04]  Ja, het viel gewoon eigenlijk heel spontaan in een gesprek.
+[177.40 --> 181.10]  Ik heb ook nog even doorgevraagd van hoe werkt dat dan, wat vind je daar dan van, dat was wel heel leuk.
+[181.10 --> 183.36]  Maar de mensen hebben natuurlijk geen gezicht bij jouw hoofd.
+[183.36 --> 186.86]  Dus misschien in het achterhoofd bij deze persoon was er een bepaalde relatie.
+[186.98 --> 189.38]  Maar die dacht gewoon, jij ziet eruit of jij praat als iemand die die podcast...
+[189.38 --> 192.08]  Ja, mijn stem is toch blijkbaar echt wel anders in het echt of zo.
+[192.74 --> 194.38]  Dat vind ik zelf eigenlijk ook wel als ik terugluister.
+[194.44 --> 198.48]  Maar dat komt omdat we die AI regeneration tool op jouw stem hebben.
+[198.64 --> 200.46]  Je luistert nu naar het model van jouw stem.
+[200.48 --> 200.64]  Ik heb ook een ogen piep stem.
+[200.90 --> 202.60]  Ja, ik heb ook een ogen piep stem.
+[203.26 --> 205.36]  Maar goed, het nieuws. Wat is je opgevallen?
+[207.76 --> 210.60]  Een billion is in het Nederlands een miljard, toch?
+[210.70 --> 211.94]  Ik moet er altijd een beetje aan wennen.
+[211.94 --> 212.90]  Ja, oké.
+[213.56 --> 215.94]  Ik ben aan het lezen over...
+[215.94 --> 217.88]  Ik ben natuurlijk geïnteresseerd in die hardware.
+[218.20 --> 220.90]  Er moet dan van alles gekocht gaan worden om al die modellen op te draaien.
+[221.22 --> 223.42]  Ik heb er al een paar keer over gehad dat we dat dan thuis willen doen.
+[223.98 --> 225.66]  Maar bedrijven die pakken dat natuurlijk heel anders aan.
+[225.72 --> 227.80]  Die gooien daar gewoon een enorme investering tegenaan.
+[228.66 --> 230.12]  Zo ook bij Dance, TikTok.
+[230.78 --> 234.54]  Een miljard aan hardware bij NVIDIA alleen.
+[234.90 --> 235.76]  Dat is ook waarom de...
+[235.76 --> 238.88]  1 miljard dollar aan hardware gekocht bij NVIDIA.
+[239.02 --> 242.26]  Ja, dat zijn echt dus de serverkaarten om gewoon alles op te kunnen draaien.
+[242.42 --> 245.94]  Van generative AI tot en met large language models.
+[246.14 --> 246.68]  You name it.
+[247.32 --> 252.82]  En het interessante daarbij is, een soort kanttekening is dat ze dat ook een beetje doen omdat ze het eigenlijk niet meer mogen.
+[253.76 --> 255.90]  Want er zit een soort exportverbod aan te komen.
+[256.02 --> 257.88]  Of in ieder geval, ik begrijp dat dat in de maak is.
+[257.88 --> 262.12]  Dat is ook wel, dat is geopolitiek gezien natuurlijk heel bijzonder.
+[262.26 --> 268.46]  Want uiteindelijk gaan toch deze technieken dan gezien worden of worden al gezien als echt wel een competitive advantage op alle gebieden.
+[269.20 --> 273.60]  Maar blijkbaar is die wet er nog niet helemaal door, waardoor er nog een monsterorde geplaatst kon worden.
+[273.98 --> 278.86]  Ook vanuit Baidu bijvoorbeeld en andere grote Chinese partijen.
+[279.24 --> 279.68]  Alibaba.
+[280.56 --> 282.88]  Dat is wel interessant, want ik denk dat...
+[283.66 --> 285.76]  Dit merk je ook een beetje wel in de consumentenmarkt.
+[285.76 --> 289.86]  Ik volg ook veel YouTube kanalen rondom gaming en gaming cards.
+[290.36 --> 292.10]  Daar beginnen ze dus nu weer last te krijgen.
+[292.22 --> 293.54]  Waar ze eerst last hadden van mining.
+[293.84 --> 296.32]  Dat was allemaal van, er zijn geen kaarten geschreven, maar crypto mining.
+[296.80 --> 301.48]  Zitten ze nu van, ja, Nvidia interesseert zich eigenlijk ook niet heel erg meer voor die consumentenmarkt.
+[301.60 --> 305.74]  Want de getallen zijn gewoon in die piechart van Nvidia gewoon zo scheef.
+[306.12 --> 312.64]  Een paar kaarten verkopen in verhouding aan een paar gamers is gewoon helemaal niet interessant als jij gewoon dik kan schuiven richting datacenters.
+[312.64 --> 317.66]  Dus het is ook wel bijzonder om te zien wat voor effect dat allemaal heeft.
+[318.18 --> 320.92]  Omdat er natuurlijk zo'n hardware component aan die cloud zit.
+[321.10 --> 323.06]  De cloud bestaat natuurlijk niet, het is een abstractie.
+[323.74 --> 330.72]  Ik las dat die bestelling van 1 miljard, dat is dus evenveel als dat er in 2022 door de gehele Chinese markt werd afgenomen.
+[332.10 --> 336.40]  Het is dus een poging van China om aan te sluiten in de globale AI-race vlak voordat het op slot gaat.
+[336.52 --> 337.38]  Daar komt het eigenlijk op neer.
+[337.38 --> 338.22]  Ja, zo lees ik het.
+[338.32 --> 342.14]  En ik vind het ook wel interessant dat het blijkbaar dus nog best wel pittig is om het ook na te bouwen.
+[343.02 --> 349.10]  Want ja, je zou natuurlijk alternatieven willen hebben of in ieder geval iets van FPGA's willen gaan inzetten om soortgelijke dingen te doen.
+[349.62 --> 352.22]  Dat komt wel denk ik, maar dat kan waarschijnlijk niet op korte termijn.
+[352.62 --> 352.94]  Oké.
+[353.50 --> 353.98]  Was er nog meer?
+[353.98 --> 358.12]  Ja, ik zat vanochtend in de trein te kijken naar GPT Engineer.
+[359.10 --> 364.48]  En dat zat eraan te komen, maar we hebben het al een beetje gehad over longchain.
+[364.70 --> 368.98]  Dus het lijkt eigenlijk dat je dus een ketting gaat maken van verschillende opdrachten.
+[369.84 --> 371.44]  Of eigenlijk een soort meta-agent.
+[371.58 --> 376.28]  Dus dat je een GPT-achtige agent gaat maken die weer sub-agents gaat aansturen.
+[376.40 --> 379.14]  Waardoor je een soort van manager krijgt boven een team van agents.
+[380.00 --> 381.02]  Wat zou je dan kunnen doen?
+[381.02 --> 385.42]  Nou ja, nu moet je bijvoorbeeld een hele specifieke opdracht geven.
+[385.94 --> 389.08]  Ik heb hier een JSON-input, die wil ik gaan omzetten naar een andere file.
+[389.24 --> 390.92]  Of die wil ik gaan weergeven zo en zo.
+[391.02 --> 392.88]  Kan je dat voor me doen en dan komt er een stukje script uit.
+[393.02 --> 395.78]  Of een stukje, ja, wordt er geprogrammeerd voor je.
+[396.18 --> 398.38]  Maar je wil misschien wel een heel softwareproduct maken.
+[398.96 --> 400.64]  Waar dat maar een sub-onderdeel van is.
+[400.70 --> 403.02]  En dan moet er dus een soort technisch plan geschreven worden eerst.
+[403.12 --> 404.28]  Dan sub-taken gemaakt worden.
+[404.34 --> 405.64]  En die moeten gedelegeerd worden.
+[406.02 --> 409.30]  Zo krijg je een soort, voelt het een beetje als skeuomorphism zeg maar.
+[409.30 --> 412.26]  Dat de eerste iPhones er allemaal uitzagen als nepcalculators.
+[412.32 --> 416.40]  Dus dat we nu gaan proberen de menselijke maat van processen te stoppen in die AI's.
+[416.44 --> 420.42]  Terwijl die waarschijnlijk echt denken, wat een super rare, omslachtige manier om met elkaar om te gaan.
+[420.72 --> 422.16]  We zitten toch allemaal in dezelfde computer.
+[422.16 --> 429.18]  Maar toch, de vraag stellen, ik denk vaak, hoe automatiseer ik deze podcast.
+[429.72 --> 431.64]  En dan is het gewoon, we gaan een podcast maken.
+[431.72 --> 433.38]  Het onderwerp van vandaag is onderwijs.
+[433.44 --> 435.58]  Dat kan ik alvast verklappen.
+[437.32 --> 442.04]  Zet een AI aan het werk om een podcast voor ons te maken.
+[442.16 --> 444.56]  En dat dat ding dan zelf gaat bedenken, oké, ik ga eerst research doen.
+[445.00 --> 446.84]  En dan ga ik bedenken, dit zijn de hoofdonderwerpen.
+[446.84 --> 450.86]  En dan is er één ding die gaat bedenken, nou ik ga de contraire argumenten verzinnen.
+[451.00 --> 456.32]  En er is één ding die gaat bedenken, wat zijn goede hoeken om gasten in te vinden, et cetera, et cetera.
+[456.62 --> 459.20]  Dat kan ik nu nog niet doen met JetGPT.
+[459.64 --> 462.70]  Ik denk dus als ik nu, ik zit nu te kijken naar een GitHub.
+[463.34 --> 469.22]  En ik denk dat dat project, GPT Engineer, prima om te zetten is naar een GPT Postcat.
+[469.44 --> 470.14]  Een podcastmaker.
+[470.14 --> 473.86]  Want in essentie kan je hem, ja, forken en dan dat ervan maken.
+[474.08 --> 476.16]  Want het voorbeeld hier is dus het maken van de game Snake.
+[476.58 --> 478.66]  En eigenlijk zit er dan een soort pre-prompt, zoals hij dat noemt.
+[478.72 --> 481.30]  Dus dat is het soort, dit is een ongeweerd spel wat ik wil maken.
+[481.54 --> 483.48]  Ja, een onbeschrijving van het spel Snake.
+[483.60 --> 486.30]  En dan wordt het getasked sliced, dus er worden subtaken van gemaakt.
+[486.40 --> 487.80]  Wat vet dat ze ook Snake hebben gekomen.
+[487.82 --> 488.48]  Ja, maar goed, ja.
+[488.66 --> 491.04]  En dan zeg je zeg maar start.
+[491.34 --> 492.88]  En dan zegt hij, wacht, ik heb nog even wat vragen.
+[493.02 --> 494.56]  Dat zegt die GPT Engineer dan.
+[495.04 --> 496.78]  Want het is nog niet helemaal duidelijk wat je hebt ontschreven.
+[496.78 --> 498.88]  Wil je dit hier, wil je dat daar, hoe bedoel je dat precies?
+[498.88 --> 500.04]  Dat vind ik heel vet.
+[500.20 --> 504.02]  Dus dat is, en ik vind vooral de, dit project is leuk.
+[504.10 --> 505.82]  En natuurlijk is dat eerst om software te maken.
+[506.30 --> 511.66]  Maar precies wat jij zegt, ja, je kan volgens mij veel meer grotere projecten op deze manier aanpakken.
+[511.84 --> 514.32]  Ik doe dat voor mezelf ook, omdat ik veel uitstelgedrag heb.
+[514.38 --> 517.44]  Dus ik moet alles altijd gaan slijcen naar iets manageables, actionable.
+[517.94 --> 519.64]  Zoals we dat in Getting Things Done allemaal noemen.
+[520.14 --> 525.20]  Dus ik ben altijd zelf ook in mijn hoofd bezig van oké, hoe kom ik tot het allerkleinste subtaakje.
+[525.20 --> 526.94]  Wat een soort van manageable is voor mij.
+[527.08 --> 528.68]  En dat is eigenlijk wat hier dus ook gebeurt.
+[528.88 --> 530.18]  In een large language model.
+[530.66 --> 531.28]  Dat is wel gaaf.
+[531.60 --> 537.30]  Ik ga onze gast erbij betrekken, want we hebben voor het eerst een gast in onze podcast.
+[537.50 --> 538.00]  Dat is leuk.
+[538.22 --> 538.48]  Zeker.
+[538.74 --> 540.04]  Dat is Onno, Onno Blom.
+[540.18 --> 540.42]  Hallo.
+[540.70 --> 541.14]  Welkom.
+[541.48 --> 541.88]  Welkom.
+[541.88 --> 552.10]  Want ik zat te denken, jij doet hier vast ook dingen mee met dit soort van experimentjes.
+[553.18 --> 558.22]  Als ik alvast een voorschot neem, wat jij vertelt nu.
+[558.22 --> 560.94]  Ik zat gisteren te klooien met van die system prompts, wiet ze.
+[561.72 --> 564.04]  In playgrounds van OpenAI.
+[564.88 --> 572.74]  En ik realiseerde me opeens weer hoe belangrijk het system prompt van ChatGPT is.
+[573.00 --> 574.72]  Namelijk, you're a helpful assistant.
+[574.72 --> 582.20]  En ik zat een beetje te klooien met die system prompt om dan die te veranderen.
+[582.28 --> 585.34]  En ik dacht opeens, ik ga eens kijken wat er gebeurt als ik zeg, je bent een coach.
+[586.08 --> 588.04]  Je helpt mij iedere dag te stimuleren.
+[588.52 --> 590.30]  Je helpt mij aan mijn doelen te houden.
+[590.58 --> 592.60]  En mijn doelen zijn, aardig zijn voor mijn kinderen.
+[593.12 --> 595.42]  En zo'n vertorger dat mijn uitgeverij goed gaat.
+[595.72 --> 596.30]  En bla, bla, bla.
+[596.30 --> 598.20]  En je stelt mij veel vragen.
+[598.76 --> 601.80]  Dit doet me denken aan het verhaal wat jij net vertelt, Wietse.
+[601.92 --> 603.96]  Over dat ding die je dus zelf bedenkt.
+[604.02 --> 605.56]  Ik ga tegenvragen stellen.
+[605.78 --> 610.10]  En jij zegt, even voor wanneer je dus eigenlijk die persona creëert.
+[610.44 --> 611.84]  De systemcard, de system prompt.
+[612.48 --> 614.64]  Dan zet jij daar ook je wensen in, je waarden.
+[614.98 --> 616.62]  Wat jij net even tussen de neus en de dood zei.
+[616.62 --> 619.24]  Ik dacht, ik ga gewoon best wel een uitgebreid system prompt schrijven.
+[619.34 --> 620.58]  Wat jij iedere dag moet doen.
+[620.68 --> 622.66]  En ik denk, ik ga hem steeds verder uitbreiden.
+[622.78 --> 624.60]  Want dat is natuurlijk de grap.
+[624.60 --> 629.24]  Dat die steeds beter gaat passen bij wat ik als doel heb.
+[629.30 --> 631.24]  Dus ik moet nog wel handmaat dat system prompt aanpassen.
+[631.32 --> 631.82]  Maar dat is oké.
+[632.42 --> 637.36]  En dat ding begint dus te vragen met, nou, wat heb je gedaan met je kinderen vanmorgen?
+[637.76 --> 639.02]  Ik zeg, nou, ik vond het wel vermoeiend.
+[639.16 --> 640.82]  Want ze waren een beetje aan het schreeuwen.
+[640.90 --> 642.80]  In plaats van dat ze gewoon een pap gingen eten.
+[643.30 --> 644.22]  En dan komt dat ding dus terug.
+[644.44 --> 651.12]  Ja, het is natuurlijk zwaar om het werk van, zeg maar, om je werk bij de uitgeverij te combineren met je kinderen.
+[651.24 --> 654.22]  Maar misschien kan je erover nadenken om vanavond,
+[654.60 --> 658.44]  je moet natuurlijk ook tijd voor jezelf vragen, maar voornamelijk even dit met ze te doen.
+[658.86 --> 661.06]  Hoe gaat het trouwens met de uitgeverij?
+[661.10 --> 662.36]  Wat heb je daar vandaag aan gedaan?
+[663.32 --> 664.64]  Dus dit was een soort gesprek.
+[664.74 --> 666.46]  Ik dacht, oké, dit werkt.
+[666.96 --> 672.30]  En sister prompts, wat dat betreft, voelt als een soort van onderbelicht element nog.
+[672.30 --> 680.02]  In hoe mensen, hoe de gemiddelde mens, die nog niet aan het programmeren is met een agent en een taalmodel,
+[680.52 --> 682.84]  hoe die met de AI omgaat.
+[682.94 --> 683.48]  Daar zat ik aan.
+[683.48 --> 688.84]  Ja, en ik zit meteen ook te denken dat die system prompt, niet alleen maar voor de soort van GPT-ception-achtig grapje,
+[688.92 --> 693.18]  maar dat je natuurlijk de prompt ook weer zou kunnen laten ontwerpen samen met GPT.
+[693.70 --> 695.98]  Dat klinkt misschien overdreven, maar je zou natuurlijk kunnen zeggen van,
+[696.08 --> 701.44]  ik ga eerst een agent of een prompt creëren waar ik zeg,
+[701.52 --> 706.28]  we gaan samen, hoe kunnen wij samen een ideale agent voor mij creëren als ik deze doelen heb,
+[706.28 --> 709.50]  en dat dan een soort van samenvatten in een goede prompt en dan die prompt erin.
+[709.72 --> 712.90]  Dan kan je daar ook weer een promptentje neer opzetten, dat is het grapje dan en je kan blijven gaan.
+[713.20 --> 718.92]  Maar het moet wel zinvol zijn, maar ik denk dus dat dat een soort van aanbrengen van scheiding
+[718.92 --> 723.66]  tussen die verschillende entiteiten toch interessant kan zijn om een soort dialoog in een groep te maken,
+[724.06 --> 729.50]  een groep van synthetische wezens, in plaats van dat je het allemaal probeert in dat ene individu te stoppen ofzo.
+[729.74 --> 730.50]  Semi-individu.
+[730.72 --> 732.64]  Nou, dit was allemaal een brug naar jou, Onno.
+[732.64 --> 732.94]  Ja.
+[732.94 --> 739.44]  Ik wil dadelijk hebben over wat jij nou toepast in jouw werk en leven,
+[739.52 --> 741.48]  maar misschien eerst wat meer achtergrond bij jou.
+[741.76 --> 741.94]  Ja.
+[742.12 --> 742.96]  Je bent ondernemer.
+[743.18 --> 743.38]  Klopt.
+[743.40 --> 744.16]  En filosoof.
+[744.30 --> 744.66]  Klopt.
+[745.74 --> 747.12]  Wat doe je als ondernemer?
+[747.52 --> 749.66]  Ik heb een bedrijf, dat is een online uitzendbureau.
+[749.94 --> 754.50]  Dus als er grote partijen zijn die veel magazijnmedewerkers of bezorgers zoeken,
+[755.00 --> 761.48]  dan help ik hun eigenlijk met het opzetten van alle marketing en alle software en alle systemen eigenlijk van begin tot einde.
+[761.48 --> 766.26]  En dat zet ik dan bij die bedrijven neer, zodat zij eigenlijk zelf voor uitzendbureau kunnen spelen.
+[766.40 --> 769.06]  En ik beheer dat proces eigenlijk voor hun.
+[769.18 --> 770.70]  Nou, daarnaast ben je ook filosoof.
+[770.76 --> 770.92]  Ja.
+[771.26 --> 777.10]  Dus je geeft, in die hoedanigheid geef je ook les aan scholen.
+[777.44 --> 777.70]  Klopt.
+[777.78 --> 781.24]  En dat was de brug voor vandaag, omdat we het over onderwijs gaan hebben.
+[781.24 --> 789.28]  En jij dus zowel ervaring als ondernemer hebt, als filosoof, als daadwerkelijk ook onderwijservaring, net als Wietse.
+[789.40 --> 790.04]  Dus dat is leuk.
+[791.06 --> 792.46]  Wat voor les geef je?
+[792.62 --> 793.70]  Dat is middelbare scholen, hè?
+[793.96 --> 794.92]  Ja, onder andere.
+[795.10 --> 797.28]  Ja, dus ik zit bij een instituut dat heet Landmerk.
+[797.38 --> 800.08]  En die zijn eigenlijk, ja, die houden zich bezig met filosofie.
+[800.48 --> 802.46]  En wat ze dan noemen de grote vragen.
+[802.46 --> 805.60]  Dus dat zijn de grote werken uit de geschiedenis.
+[805.68 --> 808.46]  En de filosofische vragen van hoe leid je nou eigenlijk een goed leven?
+[809.06 --> 812.56]  En die geven lessen onder andere op middelbare scholen.
+[812.80 --> 814.94]  Maar ook aan studenten, maar ook aan young professionals.
+[815.50 --> 819.54]  En daar geef ik, daar komen we eigenlijk één keer per week samen met alle docenten.
+[819.80 --> 823.50]  Om zelf ook samen te lezen en te praten.
+[823.82 --> 830.46]  En daarnaast nog onze skills als leraar, als docent te verbeteren.
+[830.46 --> 834.94]  En ik geef inderdaad ook lessen op middelbare scholen.
+[835.42 --> 839.76]  En ik organiseer ook samen met iemand anders alle reizen voor de young professionals.
+[840.04 --> 842.14]  Dus dan gaan we bijvoorbeeld naar Rome toe.
+[842.26 --> 845.50]  En dan gaan we daar een groot werk uit de filosofische geschiedenislijst.
+[845.58 --> 847.36]  Met mensen die dat leuk vinden om te doen.
+[847.56 --> 848.36]  Op locatie.
+[848.50 --> 849.18]  Op locatie.
+[849.34 --> 849.90]  Voegt dat veel toe?
+[849.96 --> 850.90]  Dat voegt een hoop toe.
+[850.94 --> 851.10]  Ja?
+[851.10 --> 851.90]  Ja, ja, ja.
+[851.94 --> 855.06]  Om in het Vaticaan te zitten of zoiets vets.
+[855.42 --> 855.80]  Cool.
+[856.52 --> 858.34]  En als je dan voor een middelbare school staat.
+[858.34 --> 861.92]  Zijn dat dan lessen waarin jij praat en de kinderen luisteren?
+[862.02 --> 862.84]  Nee, zeker niet.
+[863.00 --> 863.58]  Nee, nee.
+[863.66 --> 865.54]  Want dat werkt voor geen meter eigenlijk.
+[866.06 --> 867.22]  Dan mag je blij zijn als je aan het leven.
+[867.22 --> 868.98]  Dit is over het algemeen hoe onderwijs eruit ziet.
+[869.42 --> 870.48]  Ja, dat klopt.
+[871.26 --> 875.64]  Ja, dan kan je als je echt een weergeloos spreker bent.
+[875.90 --> 876.52]  Dan misschien.
+[876.88 --> 880.70]  Maar over het algemeen denk ik dat de meeste docenten blij zijn.
+[880.70 --> 885.32]  Als ze aan het eind van twee uur nog twintig procent van de klas hebben die nog aan het opletten is.
+[886.32 --> 889.68]  Dus dat pakken wij net iets anders aan.
+[889.98 --> 891.88]  En dat noemen ze dan de Sokratische methode.
+[892.34 --> 896.84]  Dat betekent eigenlijk gewoon dat je wel een idee hebt van hier wil ik heen met mijn les.
+[897.30 --> 900.84]  Maar je begint gewoon door heel veel vragen te stellen aan die leerlingen.
+[901.36 --> 904.52]  En die leerlingen die moeten dan zelf eigenlijk met antwoorden komen.
+[904.62 --> 906.28]  En die antwoorden ga je vervolgens weer bevragen.
+[906.28 --> 908.94]  En dan stuur je die kinderen eigenlijk een richting op.
+[909.48 --> 912.74]  En dan komen ze eigenlijk zelf vrij gauw tot de conclusie van.
+[913.18 --> 914.94]  Door dat formuleren noem het maar op.
+[915.14 --> 919.40]  Van oh wacht even ik zit hier met bepaalde dingen die ik nog niet begrijp.
+[919.68 --> 922.26]  En dan in de regel willen ze dan direct afhaken.
+[922.44 --> 924.78]  En dan zeggen ze laat maar geef maar iemand anders de beurt.
+[925.04 --> 929.16]  Maar als je dan door gaat vragen dan worden ze echt gedwongen om na te denken.
+[929.56 --> 930.66]  En zo hou je ze er ook bij.
+[930.86 --> 935.54]  En dan vraag je oké Simon wat heeft Francine net gezegd.
+[935.54 --> 939.44]  En zo hou je eigenlijk die hele klas betrokken vanaf het begin tot het einde.
+[939.54 --> 940.00]  Ja precies.
+[940.10 --> 943.52]  Dus in tegenstelling tot voor de klas staan en dan een verhaal afdraaien.
+[943.64 --> 947.98]  Waarbij iemand afhaakt omdat hij zich of verveelt of iets niet begrijpt.
+[948.22 --> 948.32]  Ja.
+[948.80 --> 950.90]  Stel je nu heel veel vragen aan die persoon.
+[951.04 --> 951.22]  Ja.
+[951.40 --> 954.36]  Over het gebied wat die persoon niet begrijpt.
+[954.42 --> 954.60]  Ja.
+[954.90 --> 958.72]  En dat activeert tot creatiever nadenken of...
+[958.72 --> 959.20]  Ja ja.
+[959.30 --> 961.18]  Dus in eerste instantie dat...
+[961.18 --> 961.72]  Dat...
+[961.72 --> 962.62]  Dat...
+[962.62 --> 964.76]  Om even de filosofie in te duiken.
+[965.56 --> 967.90]  Dat noemen de Grieken dan een aporie.
+[968.18 --> 971.72]  Dat is dan het moment dat je realiseert dat je het niet weet.
+[972.00 --> 972.22]  Nee.
+[972.22 --> 975.92]  En dat blijkt gewoon uit heel veel soort van onderwijsonderzoek.
+[976.16 --> 977.52]  Dat dat super belangrijk is.
+[977.68 --> 980.74]  Het moment dat je je realiseert dat je iets niet weet is een belangrijk moment.
+[980.86 --> 981.14]  Want?
+[981.48 --> 981.50]  Ja.
+[981.50 --> 982.58]  Omdat je anders denkt.
+[982.70 --> 984.22]  Ja ik heb bijvoorbeeld...
+[984.22 --> 987.40]  Stel je vraagt zo'n leerling van wat wil je nou later worden.
+[987.94 --> 988.60]  Dan denken ze.
+[988.70 --> 990.42]  Dan roepen ze allemaal in één keer Elon Musk.
+[990.42 --> 992.06]  En dan vraag je oké maar waarom dan?
+[992.14 --> 993.32]  Ja ik wil gewoon geld verdienen.
+[993.72 --> 996.38]  Dus zij denken ik weet al wat ik met mijn leven wil doen.
+[996.92 --> 1000.04]  En dan is het dus belangrijk dat je dan eerst met hun gaat doorpraten.
+[1000.14 --> 1003.18]  En gaat vragen van oké maar wacht waarom vind je dat eigenlijk zo belangrijk?
+[1003.78 --> 1005.86]  En op een gegeven moment komen ze dan tot de conclusie.
+[1006.44 --> 1007.08]  Oh maar wacht even.
+[1007.16 --> 1010.32]  Er zijn best wel veel dingen die ik ook belangrijk vind.
+[1010.42 --> 1012.32]  En die zijn hier dan mee in tegenstrijd.
+[1012.32 --> 1014.24]  En dat moment dat ze dat realiseren.
+[1014.50 --> 1017.62]  Dan vindt er een soort verschuiving plaats van.
+[1018.12 --> 1019.94]  Oh ik dacht dat ik het allemaal rond had.
+[1020.20 --> 1022.82]  Maar er zitten toch eigenlijk best wel veel gaten in mijn kennis.
+[1023.32 --> 1027.84]  En dat is het moment dat je echt eigenlijk als leraar pas echt de kans krijgt.
+[1027.92 --> 1029.34]  Om iemand iets te gaan vertellen.
+[1030.02 --> 1035.28]  En in deze zin gewoon met hun voor te bouwen aan hun wereldbeeld.
+[1035.84 --> 1039.88]  En dat kan je dus eigenlijk alleen maar doen in een vraaggesprek.
+[1039.88 --> 1043.56]  Anders is die beker gewoon eigenlijk vol.
+[1044.66 --> 1048.20]  En is er wat jou betreft dan eigenlijk wel plek voor klassikaal lesgeven?
+[1048.90 --> 1049.90]  Zou dat er moeten zijn?
+[1049.90 --> 1054.56]  Nou ja, wij doen dat dan ook in die zin van met leerlingen.
+[1055.06 --> 1058.06]  Dat is dan ook in principe een klas van 15 leerlingen.
+[1058.82 --> 1062.32]  Met meer dan dat moet je echt wel echt van hele goede huizen komen.
+[1062.42 --> 1062.46]  Oké.
+[1062.46 --> 1069.90]  Maar ik kijk om alvast het bruggetje te slaan naar AI.
+[1070.24 --> 1077.12]  Ik denk dat als jij zonder de geschiedenis van onderwijs mee zou nemen.
+[1077.12 --> 1081.40]  Ik zou kijken van hoe zou ik een optimaal onderwijssysteem ontwikkelen.
+[1081.62 --> 1083.70]  Dan zou dat niet zijn.
+[1083.98 --> 1086.08]  Eén leraar en dertig leerlingen.
+[1086.08 --> 1086.94]  Waarom eigenlijk niet?
+[1087.06 --> 1091.26]  Want je kan toch bedenken een docent vertelt een heel mooi verhaal.
+[1091.52 --> 1094.24]  En de klas is begeesterd.
+[1094.66 --> 1097.98]  En ja, leert veel in een uur.
+[1098.14 --> 1098.76]  Dat kan toch?
+[1098.86 --> 1099.68]  Dat gebeurt toch wel?
+[1099.82 --> 1108.24]  Ja, dus er zijn ongetwijfeld een soort van online universiteiten van Nederland met hele goede sprekers.
+[1108.24 --> 1112.04]  Een subtiele verwijzing naar de Stichting Universiteit van Nederland.
+[1112.32 --> 1112.86]  Ja, dank.
+[1113.14 --> 1118.80]  Die hele goede docenten hebben waar mensen vanaf het begin tot einde misschien aan het beeld gekluisterd zitten.
+[1119.28 --> 1122.62]  Maar ja, eigenlijk uit al het onderzoek blijkt hetzelfde.
+[1122.62 --> 1125.64]  Namelijk dat interactiviteit gewoon superbelangrijk is.
+[1125.84 --> 1130.80]  En met een grote zaal of een grote klas is dat eigenlijk onmogelijk.
+[1130.90 --> 1132.86]  Dan kan een leerling misschien één keer per uur iets zeggen.
+[1133.64 --> 1137.22]  En dan is het moeilijk om de aandacht erbij te houden.
+[1137.22 --> 1138.40]  Is dat voor jou iets?
+[1138.58 --> 1140.38]  Heb je het idee dat als jij...
+[1140.38 --> 1142.04]  Want je hebt veel klassikaal lesgegeven.
+[1142.86 --> 1144.74]  Ja, ik vind het meteen...
+[1144.74 --> 1147.60]  Er ontstaat meteen een hele interessante spanning in mij, merk ik.
+[1147.78 --> 1147.96]  Want?
+[1148.12 --> 1149.34]  Nou, ik ben het niet helemaal mee eens.
+[1149.34 --> 1150.34]  Maar ik wil dat dan ook...
+[1151.08 --> 1152.34]  Want jij noemt het vaak onderzoek.
+[1152.52 --> 1153.66]  Dus dan ben ik dan meteen...
+[1153.66 --> 1154.44]  Dan denk ik, hé, interessant.
+[1154.76 --> 1155.72]  Die onderzoeken ken ik niet.
+[1155.78 --> 1159.02]  Dus dan ben ik al benieuwd van, hé, dan zou ik meer over willen weten.
+[1160.38 --> 1162.34]  En ik zit meteen te denken van...
+[1162.76 --> 1163.22]  Even met...
+[1163.22 --> 1164.26]  Ja, bijna een beetje...
+[1164.26 --> 1164.94]  Hoe zeg je dat?
+[1164.94 --> 1169.26]  Als ik dan denk aan een voetbalteam, hè.
+[1169.26 --> 1170.06]  Ik maak even een sprong.
+[1170.16 --> 1171.70]  Is dat een beetje een valse vergelijking?
+[1171.80 --> 1174.68]  Want dan zeg ik, als het in het voetbalteam niet zo is, mag het ook niet zo zijn op school.
+[1174.78 --> 1175.54]  Dan werkt het natuurlijk niet.
+[1176.42 --> 1179.00]  Maar het is even meer voor het beeld van...
+[1179.00 --> 1183.00]  Als ik spelers in een sportteam individueel...
+[1183.00 --> 1185.10]  Alleen of grotendeels individueel...
+[1185.10 --> 1186.60]  Moet ik even goed op mijn woorden laten...
+[1186.60 --> 1187.98]  Zou gaan trainen, maak me zorgen.
+[1188.04 --> 1190.10]  Omdat ik denk dat dat team ook zo belangrijk is.
+[1190.26 --> 1192.22]  Want je buiten kijf staat in sport, hè.
+[1192.48 --> 1193.00]  Volgens mij.
+[1193.58 --> 1195.76]  En dan ga ik merken dat ik dat dan wil toepassen op.
+[1195.84 --> 1196.50]  En dan moet...
+[1196.50 --> 1197.10]  Wil ik ook weer even...
+[1197.72 --> 1198.94]  Jij hebt het nu over middelbare school.
+[1199.22 --> 1199.50]  Ja.
+[1199.90 --> 1201.30]  Vind ik belangrijk dat je dat erbij zegt.
+[1201.38 --> 1203.00]  Want onderwijs is zo groot, hè.
+[1203.14 --> 1206.18]  Het is ook een man van 57...
+[1206.18 --> 1208.26]  Die gaat omscholen, want die is vrachtwagenchauffeur.
+[1208.32 --> 1209.22]  Die dingen rijden vanzelf.
+[1209.72 --> 1211.46]  En dan moet er ineens onderwijs plaats gaan vinden.
+[1211.54 --> 1212.56]  In een soort leven lang leren.
+[1212.96 --> 1214.44]  Maar laten we het even op de middelbare school houden.
+[1214.52 --> 1215.24]  Voor mij is dat scherp.
+[1215.36 --> 1216.80]  En hebben de meeste mensen die luisteren...
+[1216.80 --> 1217.68]  Zitten op de middelbare school.
+[1217.78 --> 1219.18]  Gaan er naartoe of hebben erop gezeten.
+[1219.34 --> 1220.88]  Dus dat hebben we al met elkaar gemeen.
+[1221.36 --> 1223.70]  En dan merk ik wel dat ik meteen denk van...
+[1223.70 --> 1226.94]  Hé, maar die grote groepen...
+[1226.94 --> 1230.06]  Ik kom zelf van een basisschool met 41 leerlingen in één klas.
+[1230.18 --> 1233.40]  En ik heb vaak lesgegeven aan groepen van 25 tot 30.
+[1233.68 --> 1233.82]  Ja.
+[1233.82 --> 1235.98]  En dan zeg ik niet...
+[1235.98 --> 1236.82]  Dat was te gek.
+[1237.00 --> 1237.94]  En dat moeten we meer doen.
+[1238.00 --> 1238.56]  Dat zeg ik niet.
+[1238.66 --> 1239.18]  Maar ik zeg...
+[1239.18 --> 1240.38]  Ik denk wel...
+[1240.38 --> 1242.46]  Volgens mij gebeurde daar ook heel veel in die groep...
+[1242.46 --> 1243.68]  Wat ontzettend waardevol was.
+[1243.88 --> 1247.06]  Volgens mij heb je helemaal niet beweerd dat dat niet zo is trouwens.
+[1247.26 --> 1248.66]  Dus ik wil het ook niet in je mond leggen.
+[1248.78 --> 1249.66]  Maar ik denk wel...
+[1250.34 --> 1252.72]  Van hé, misschien zijn we dan meer op zoek naar...
+[1252.72 --> 1253.66]  Of ik zou willen voorstellen...
+[1254.34 --> 1257.36]  Waarin is zo'n groep nou zo sterk?
+[1257.90 --> 1261.08]  En waarin wordt het individu nou ontzettend vergeten in zo'n groep?
+[1261.50 --> 1263.28]  Want dat stipte jij al een beetje aan.
+[1263.28 --> 1266.00]  Er zitten daar misschien mensen met vragen, ideeën, leerlingen...
+[1266.00 --> 1268.32]  Die helemaal weg gaan in zo'n groep.
+[1268.38 --> 1269.46]  Wat hartstikke zonde is.
+[1269.74 --> 1272.28]  Want die hebben specifieke vragen op hun eigen niveau of abstractie...
+[1272.90 --> 1273.80]  Die helemaal niet aan bod komt.
+[1273.88 --> 1274.98]  Je zit dan naar mij te glimlachen.
+[1275.88 --> 1277.44]  Maar tegelijkertijd denk ik dat er ook heel veel gebeurt...
+[1277.44 --> 1282.04]  Op sociaal, psychologisch niveau in een groep...
+[1282.04 --> 1285.44]  Die net als op een schoolkamp of een scoutingvereniging...
+[1286.20 --> 1287.16]  Ook zo belangrijk is.
+[1287.44 --> 1290.52]  Ja, ik ben het helemaal met je eens.
+[1290.74 --> 1293.54]  Dus ik denk dat het onderwijs meerdere functies vervult.
+[1294.22 --> 1294.44]  Een soort van...
+[1294.44 --> 1297.16]  Je zou kunnen zeggen...
+[1297.16 --> 1301.16]  Een gedeelte ervan is gewoon het baby zitten van mensen...
+[1301.16 --> 1304.96]  Die nog niet productief kunnen zijn in de samenleving.
+[1306.08 --> 1309.42]  Een gedeelte ervan is het bijbrengen van kennis.
+[1309.54 --> 1311.10]  Een gedeelte is een stuk...
+[1311.10 --> 1312.42]  Misschien socialisering.
+[1313.42 --> 1316.16]  Misschien zelfs een stuk conformisme bijbrengen.
+[1316.16 --> 1319.34]  Dus er zijn best wel wat rollen voor onderwijs.
+[1319.40 --> 1320.22]  En ik denk dat als je...
+[1320.22 --> 1323.02]  Als je ook gaat kijken naar de rol van AI in het onderwijs...
+[1323.02 --> 1325.20]  Dan is het dus heel belangrijk dat je dat niet plat slaat...
+[1325.20 --> 1326.02]  En alleen maar denkt...
+[1326.02 --> 1328.72]  Het gaat om het individuele leerproces van de leerling...
+[1328.72 --> 1330.70]  En de rest kunnen we een soort van negeren.
+[1331.06 --> 1333.34]  Dan krijg je denk ik een vrij...
+[1333.34 --> 1334.26]  Ja...
+[1334.26 --> 1337.22]  Autistische of individualistische resultaten.
+[1338.12 --> 1338.48]  Maar?
+[1339.68 --> 1341.20]  Maar, maar, maar...
+[1341.20 --> 1343.22]  Ik ben wel zeer...
+[1343.22 --> 1345.28]  Bullish, om het zo maar te zeggen...
+[1345.28 --> 1346.02]  Over AI.
+[1346.16 --> 1347.14]  Zeer optimistisch.
+[1348.80 --> 1349.52]  Want...
+[1349.52 --> 1354.26]  Ik las denk ik een maand of drie geleden...
+[1354.26 --> 1356.52]  Een artikel van Avery.
+[1356.68 --> 1357.56]  Van Dan Schipper.
+[1357.78 --> 1359.30]  Daar is het volgens mij ook wel eens over gegaan.
+[1359.80 --> 1362.52]  En die schreef over...
+[1362.52 --> 1363.60]  Wat hij noemde...
+[1363.60 --> 1365.52]  De unreasonable effectiveness...
+[1365.52 --> 1367.12]  Of one-on-one learning.
+[1367.62 --> 1370.64]  En dat ging eigenlijk weer over een onderzoek.
+[1370.68 --> 1372.56]  Om er nog maar een onderzoek bij te halen.
+[1373.26 --> 1375.52]  En uit dat onderzoek blijkt...
+[1375.52 --> 1379.00]  Dat als je verschillende lesmethodes met elkaar vergelijkt...
+[1380.76 --> 1382.14]  Dus klassikaal of...
+[1382.14 --> 1384.20]  Ja, klassikaal of privé les.
+[1384.42 --> 1386.52]  Dan blijkt dat mensen...
+[1386.52 --> 1390.06]  Dat 98% van de leerlingen...
+[1390.06 --> 1391.74]  Die privé les krijgt...
+[1391.74 --> 1393.54]  Die doet het beter...
+[1393.54 --> 1396.74]  Dan de gemiddelde leerling...
+[1396.74 --> 1398.46]  Bij klassikaal onderwijs.
+[1398.52 --> 1400.50]  En beter is dan gedefinieerd als...
+[1400.50 --> 1401.64]  Doet de toets beter.
+[1401.72 --> 1402.46]  Doet de toets beter.
+[1402.58 --> 1402.94]  Juist.
+[1403.30 --> 1405.30]  Wat heel interessant is om te begrijpen is...
+[1405.30 --> 1406.60]  Hoe komt het nou...
+[1406.60 --> 1409.44]  Dat die discrepantie zo groot is.
+[1409.48 --> 1410.28]  Tussen klassikaal onderwijs...
+[1410.28 --> 1411.08]  Tussen klassikaal onderwijs...
+[1411.08 --> 1411.98]  En het is zelfs zo...
+[1411.98 --> 1414.22]  Dat 90% van de leerlingen...
+[1414.22 --> 1416.22]  Die privé lessen volgt...
+[1416.22 --> 1418.22]  Die scoort uiteindelijk in de top 20%...
+[1418.88 --> 1420.72]  Van wat gescoord zou zijn in klassikaal.
+[1420.84 --> 1421.92]  Dus wat je eigenlijk ziet gebeuren...
+[1421.92 --> 1424.22]  Is iedereen wordt min en min een excellente leerling.
+[1424.54 --> 1425.22]  Nou, dan kan je je natuurlijk bevragen...
+[1425.90 --> 1426.22]  Van wat...
+[1426.22 --> 1429.38]  Wat betekent dat nou?
+[1429.76 --> 1431.38]  Want er zijn meer waarden in het leven...
+[1431.38 --> 1433.32]  Dan alleen maar hoe jij scoort op toetsen.
+[1433.32 --> 1434.92]  En ik denk persoonlijk ook...
+[1434.92 --> 1436.62]  Dat er heel veel valt af te dingen op toetsen.
+[1437.06 --> 1438.20]  Maar...
+[1438.20 --> 1440.50]  Ik denk...
+[1440.50 --> 1442.44]  Dat de drijvende krachten...
+[1442.44 --> 1444.02]  Die hiervoor zorgen...
+[1444.02 --> 1447.14]  Dat dit zoveel beter werkt.
+[1447.48 --> 1449.68]  Dat dat uiteindelijk wel gewoon ook...
+[1449.68 --> 1450.78]  Kwalitatief...
+[1450.78 --> 1453.24]  Inhoudelijk iets goeds is.
+[1453.60 --> 1454.36]  Bijvoorbeeld...
+[1454.36 --> 1456.28]  Het idee dat...
+[1456.28 --> 1457.88]  Dat een leraar...
+[1457.88 --> 1459.64]  Zijn...
+[1459.64 --> 1460.86]  Ja, met jou gaat praten...
+[1460.86 --> 1462.16]  En er direct achter komt...
+[1462.16 --> 1463.28]  Oké, hier zitten de zwakke plaatsen.
+[1463.32 --> 1464.34]  Plekken van de leerling.
+[1464.44 --> 1466.18]  En hier zitten de sterke plekken.
+[1466.30 --> 1467.56]  Oké, dan gaan we het meer hebben...
+[1467.56 --> 1469.10]  Over dit en dit...
+[1469.10 --> 1471.26]  Stuk van de lesstof.
+[1471.36 --> 1472.12]  Dus dat is...
+[1472.12 --> 1473.90]  Een soort personalized learning.
+[1474.54 --> 1474.86]  Nou ja, goed.
+[1474.88 --> 1476.68]  Dat is een belofte die al volgens mij...
+[1476.68 --> 1478.78]  Een jaar of vijftien...
+[1478.78 --> 1480.74]  In het onderwijs geroepen wordt.
+[1481.18 --> 1482.44]  Dus er valt ook genoeg te zeggen...
+[1482.44 --> 1484.10]  Over de vraag...
+[1484.10 --> 1486.10]  Ja, kunnen wij...
+[1486.10 --> 1487.74]  Onderwijstechnologie...
+[1487.74 --> 1488.28]  Noem het maar op.
+[1488.56 --> 1489.54]  Is dat dan te combineren?
+[1489.58 --> 1490.64]  Hoe komt het nou...
+[1490.64 --> 1492.92]  Dat het onderwijs zo vastgeroest lijkt te zitten...
+[1492.92 --> 1493.78]  En dat daar...
+[1493.78 --> 1494.60]  Weinig...
+[1494.60 --> 1496.34]  Verbetering is...
+[1496.34 --> 1496.90]  In is geweest.
+[1496.98 --> 1498.24]  Misschien zelfs een achteruitgang...
+[1498.24 --> 1499.06]  Op sommige vlakken.
+[1500.60 --> 1502.16]  Ondanks het feit dat we er...
+[1502.16 --> 1503.78]  Ja, dat we nu allemaal digiborden hebben...
+[1503.78 --> 1504.78]  En allemaal dingen...
+[1504.78 --> 1505.88]  Al beter aan kunnen passen.
+[1505.88 --> 1508.38]  Kinderen kunnen slechter lezen en rekenen...
+[1508.38 --> 1509.28]  Dan een tijdje geleden.
+[1509.48 --> 1510.68]  Het gaat achteruit.
+[1510.84 --> 1510.98]  Ja.
+[1510.98 --> 1512.38]  Dus er is ook nog wel wat te winnen.
+[1512.72 --> 1514.12]  Maar even...
+[1514.12 --> 1515.12]  We hebben dus...
+[1515.12 --> 1516.80]  Laten we kijken of het eens kunnen worden...
+[1516.80 --> 1518.74]  Over de meerwaarde van...
+[1518.74 --> 1520.56]  Persoonlijk...
+[1520.56 --> 1522.40]  Een-op-een onderwijs.
+[1522.72 --> 1524.56]  In ieder geval dan van een deel van de...
+[1524.56 --> 1526.18]  Van de tijd die we besteden op school.
+[1526.40 --> 1526.66]  Ik zeker.
+[1526.78 --> 1527.34]  En ik denk dat...
+[1527.34 --> 1528.72]  Want ik kan het nog even mooi koppelen...
+[1528.72 --> 1530.74]  Denk ik aan de systemcard of prompt...
+[1530.74 --> 1532.52]  Waar we deze aflevering over begonnen.
+[1532.52 --> 1533.64]  Dat jij aangegeven...
+[1533.64 --> 1535.04]  Ik heb een soort coach gecreëerd.
+[1535.48 --> 1537.28]  Daar heb ik een aantal waarden aan meegegeven...
+[1537.28 --> 1538.42]  Vanuit mijn eigen leven.
+[1538.92 --> 1540.52]  Ik ben dus heel benieuwd naar de systemcard...
+[1541.32 --> 1542.46]  Of die educational AI.
+[1542.80 --> 1543.52]  Want als we daarin zetten...
+[1544.34 --> 1545.52]  Voor Nederland CITO scoren.
+[1546.22 --> 1547.42]  Laten we 55-1.
+[1547.54 --> 1549.20]  We willen op Europees niveau...
+[1549.20 --> 1550.12]  Aan deze dingen voldoen.
+[1550.22 --> 1552.28]  En laten we vooral on par zijn met China...
+[1552.28 --> 1552.52]  Qua wiskunde.
+[1553.34 --> 1554.32]  Ik noem maar even heel erg...
+[1554.32 --> 1554.48]  Ja.
+[1554.48 --> 1554.50]  Ja.
+[1554.50 --> 1555.70]  Een zin voorbeeld.
+[1557.62 --> 1558.70]  Dat...
+[1558.70 --> 1560.70]  Ik wil even gezegd hebben dat...
+[1560.70 --> 1561.98]  Het kind in mij...
+[1561.98 --> 1562.74]  Die vroeger met...
+[1562.74 --> 1564.72]  Ik haalde allemaal radio's uit elkaar vroeger.
+[1564.84 --> 1565.88]  Want ik wilde daar iets mee.
+[1565.98 --> 1568.06]  En ik vond primplaten een soort van kleine steden.
+[1568.20 --> 1569.02]  Zo zien ze er ook uit.
+[1569.36 --> 1570.52]  En dan ging die radio openmaken.
+[1570.58 --> 1571.86]  En dan ging ik er helemaal bij fantaseren...
+[1571.86 --> 1572.82]  Dat dat ook een stad was.
+[1572.92 --> 1575.20]  En als ik dan een lampje erop aansloot...
+[1575.20 --> 1575.96]  En dat ging knipperen...
+[1575.96 --> 1577.52]  Echt, die kan mij niet gelukkiger maken.
+[1577.60 --> 1578.88]  Maar dat deed ik...
+[1578.88 --> 1579.94]  Nou, ik had gelukkig wel een vriend...
+[1579.94 --> 1580.70]  Die dat ook leuk vond.
+[1580.80 --> 1581.92]  Maar samen met hem...
+[1581.92 --> 1582.86]  Grotendeels alleen.
+[1583.30 --> 1584.04]  Er was ook niemand...
+[1584.04 --> 1585.32]  Die ons daar eigenlijk bij kon helpen.
+[1585.38 --> 1586.12]  Bij mij thuis niet.
+[1586.22 --> 1587.52]  Ook al probeerden mijn ouders dat heel erg.
+[1587.52 --> 1588.68]  En op school ook niet.
+[1588.76 --> 1590.84]  Behalve dat wij de enige computer op school...
+[1590.84 --> 1591.50]  Ik verzin het niet.
+[1591.54 --> 1592.66]  Nu lijkt ik echt heel erg oud.
+[1592.78 --> 1596.44]  Maar wij kregen een 086 Hercules scherm...
+[1596.44 --> 1597.88]  Eén oranje kleur computer.
+[1597.98 --> 1598.92]  Die kregen wij van school.
+[1599.10 --> 1601.24]  Want de kinderen deden er toch niks mee.
+[1601.60 --> 1603.14]  Toen mochten wij die samen mee naar huis nemen.
+[1603.24 --> 1604.52]  En dan ben ik daarmee gaan computeren.
+[1605.18 --> 1607.52]  Had ik in die tijd graag iets van...
+[1607.52 --> 1609.52]  Een personal ding gehad.
+[1609.60 --> 1610.52]  Wat mij samen...
+[1610.52 --> 1614.54]  Met een AR ding over die printplaat had kunnen vertellen.
+[1614.78 --> 1614.84]  Ja.
+[1615.34 --> 1617.30]  Dus ik wil wel even gezegd hebben...
+[1617.30 --> 1619.28]  Dat er in mij een enorme romanticus zit...
+[1619.28 --> 1621.34]  Op het gebied van mijn persoonlijke Socrates.
+[1621.52 --> 1622.80]  Waar ik mee kan interacteren.
+[1623.26 --> 1624.12]  Dat wil ik even gezegd hebben.
+[1624.18 --> 1625.78]  Maar anders kom ik als een soort zuurpruim hierop.
+[1626.22 --> 1627.98]  Maar ik zal...
+[1627.98 --> 1628.90]  Dat is denk ik...
+[1628.90 --> 1631.50]  Doordat ik een disciple ben van de Universiteit Twente...
+[1631.50 --> 1633.28]  En dan in dit geval Peter Paul Verbeek...
+[1633.28 --> 1635.36]  En de verschillende professoren om hem heen.
+[1635.70 --> 1638.88]  Wat wij op onze opleiding constant hebben meegekregen is...
+[1638.88 --> 1640.22]  Technologie is niet neutraal.
+[1640.52 --> 1642.34]  En technologie gaat dingen doen...
+[1642.34 --> 1643.04]  Daar zitten waarden in.
+[1643.08 --> 1644.20]  Die moet je er bewust in stoppen.
+[1644.64 --> 1645.88]  Als je daar niet over nadenkt...
+[1645.88 --> 1647.28]  Dan zitten daar altijd waarden in...
+[1647.28 --> 1648.28]  Waar je misschien niet van weet.
+[1648.72 --> 1650.10]  Dus op het moment dat jij...
+[1650.10 --> 1651.84]  Met alle goede bedoelingen...
+[1651.84 --> 1656.58]  Een individueel leerrobotje of assistant gaat maken...
+[1656.58 --> 1658.96]  Zonder daarbij met elkaar te gaan zitten van...
+[1658.96 --> 1660.06]  Wacht even, we hebben een...
+[1660.06 --> 1661.84]  En ik weet zeker dat jij daar...
+[1661.84 --> 1663.16]  Dat hoor ik in jouw verhaal...
+[1663.16 --> 1663.86]  Bewust van bent.
+[1664.42 --> 1665.52]  Een hele...
+[1665.52 --> 1666.64]  Er is meer aan een mens...
+[1666.64 --> 1668.40]  Dan alleen maar goed scoren.
+[1668.40 --> 1671.18]  Dat als we dat niet met elkaar goed bedenken...
+[1671.18 --> 1672.02]  Dat er dan...
+[1672.02 --> 1675.06]  Ja, daar komen specifieke resultaten uit.
+[1675.56 --> 1677.16]  Kinderen uit of volwassenen of jongvolwassenen...
+[1677.68 --> 1679.30]  Die uit een bepaalde molen komen.
+[1679.36 --> 1680.64]  Dat is vandaag de dag al zo.
+[1680.86 --> 1683.46]  Met alle gevolgen van die waar we ons ook zorgen om maken.
+[1683.58 --> 1684.10]  Dat snap ik.
+[1684.22 --> 1686.10]  Maar ik wil wel...
+[1686.10 --> 1686.94]  Ja, ik denk...
+[1686.94 --> 1689.34]  Ik zal altijd aan tafel zitten om te kijken naar...
+[1689.34 --> 1692.50]  Oké, maar wat is dan die mens die daar uitkomt?
+[1692.88 --> 1694.12]  Waar bouwen we nou aan?
+[1694.12 --> 1695.80]  Wat vind je zelf iets?
+[1695.96 --> 1696.94]  Wat zou je zelf willen?
+[1697.02 --> 1698.16]  Wat voor mensen eruit komen?
+[1698.24 --> 1698.90]  Want als we inderdaad...
+[1699.46 --> 1701.16]  Eenmaal vastgesteld hebben...
+[1701.16 --> 1702.56]  Wat voor mensen we uit de machine...
+[1702.56 --> 1703.66]  De onderwijsmachine laten komen...
+[1703.66 --> 1704.82]  Dan kunnen we prompt maken en zijn we klaar.
+[1704.82 --> 1706.12]  Ja, dan kunnen we prompt gaan schrijven.
+[1706.24 --> 1706.68]  En jij wil nou die...
+[1706.68 --> 1710.02]  En blijkbaar moet daar allerlei sociale interactie in weten.
+[1710.10 --> 1711.32]  Ik vond me wat voor zachtig.
+[1711.40 --> 1711.96]  Ik ging dingen bij...
+[1711.96 --> 1713.96]  In plaats van alleen maar de wiskunde leren.
+[1714.06 --> 1714.78]  Nou oké, fijn.
+[1714.84 --> 1716.08]  Dat accepteer ik bij deze.
+[1716.42 --> 1717.24]  Maar wat wil je dan?
+[1717.30 --> 1718.70]  Wat zijn dan die dingen?
+[1719.12 --> 1720.02]  Wat jou betreft?
+[1720.02 --> 1721.14]  Ja, wat mij betreft...
+[1721.14 --> 1724.32]  Een enkel mensbeeld voor iedereen...
+[1724.32 --> 1724.94]  Dat vind ik eng.
+[1725.36 --> 1726.38]  En daar ga ik niet mee zeggen...
+[1726.38 --> 1727.34]  Daardoor maak ik geen beeld.
+[1727.42 --> 1728.66]  Maar ik wil even gezegd hebben...
+[1728.66 --> 1730.70]  Dat hoe specifieker die waarden worden...
+[1730.70 --> 1731.82]  Hoe zenuwachtiger ik word.
+[1732.26 --> 1733.38]  Want als ik jou ga opleggen...
+[1733.38 --> 1734.58]  Wat jouw waarden zouden moeten zijn...
+[1734.58 --> 1735.98]  En de waarden van jouw kinderen...
+[1735.98 --> 1738.04]  Dat is voor mij een tijd die we achter ons moeten laten...
+[1738.04 --> 1739.20]  En heel hard voor gevochten hebben...
+[1739.20 --> 1741.18]  Dat dat niet meer zo is dat het uit één instantie...
+[1741.18 --> 1742.90]  Of meerdere instanties opgelegd wordt.
+[1743.72 --> 1745.24]  Tegelijkertijd uit een soort humanisme...
+[1745.24 --> 1747.40]  Er zijn echt wat dingen waar we uit kunnen trekken.
+[1747.40 --> 1749.70]  Zeg maar, kunnen we wel een mens...
+[1749.70 --> 1751.32]  Kunnen we bijvoorbeeld praten over dat het fijn is...
+[1751.32 --> 1752.88]  Als een mens kan bloeien.
+[1753.96 --> 1755.50]  Zoals dat in de oude tijdens de Grieken.
+[1755.54 --> 1757.30]  Ik denk dat we aan de Grieken bijna genoeg hebben...
+[1757.30 --> 1759.64]  Om eerlijk te zijn om dit mensbeeld te stutten.
+[1760.08 --> 1760.92]  Dat het heel erg gaat...
+[1760.92 --> 1762.58]  Is dat je wil dat iemand zich kan ontwikkelen.
+[1762.70 --> 1764.54]  En dat woord vind ik een van de mooiste woorden.
+[1764.66 --> 1766.20]  Want dat lijkt een heel leeg woord...
+[1766.20 --> 1767.96]  Totdat je hem voor je gaat zien en iets rolt zich uit.
+[1768.10 --> 1771.66]  Bijvoorbeeld het ontwikkelen van een grote rol papier of zo.
+[1771.66 --> 1774.94]  Dan zie je iets wat kan bloeien.
+[1774.94 --> 1777.58]  En dan hoeft dat niet aan jouw kant op te bloeien...
+[1777.58 --> 1778.78]  Maar de kant die het op wil bloeien.
+[1778.86 --> 1781.50]  Ik denk dat het inderdaad een heel groot gevaar is.
+[1781.58 --> 1784.64]  Kijk, als je kijkt naar de huidige onderwijscultuur...
+[1784.64 --> 1787.24]  Dan is het inderdaad een soort obsessie met toetsingen.
+[1787.36 --> 1788.02]  Noem het maar op.
+[1788.88 --> 1790.54]  En dan ga je je afvragen...
+[1790.54 --> 1791.60]  Wat kan je goed toetsen?
+[1791.68 --> 1792.80]  Ja, objectieve feiten.
+[1792.94 --> 1793.98]  Bepaalde feiten, kennis.
+[1794.08 --> 1794.62]  Noem het maar op.
+[1795.06 --> 1797.36]  En dat is gewoon een gevaar.
+[1797.44 --> 1798.70]  Want ik ben het helemaal met je eens.
+[1798.70 --> 1802.34]  Dan wordt de kritische faculteit van een leerling...
+[1802.34 --> 1805.42]  Toch op zekere hoogte min of meer uitgeschakeld.
+[1805.62 --> 1810.16]  En dan gaan we hem behandelen alsof hij een machine learning algoritme is.
+[1810.22 --> 1812.34]  Dat we gewoon moeten rewarden en punishen...
+[1812.90 --> 1815.34]  Afhankelijk van de juiste uitkomsten.
+[1816.14 --> 1818.38]  En ik denk dat het veel belangrijker is...
+[1818.38 --> 1822.34]  Dat die leerlingen een bepaalde kritische faculteit ontwikkelen...
+[1823.30 --> 1824.62]  Waar ze weten...
+[1824.62 --> 1828.22]  Oké, ik denk vanuit bepaalde aannames.
+[1828.34 --> 1829.34]  En die aannames ook kunnen bevragen.
+[1830.22 --> 1832.24]  En vanuit ook begrijpen...
+[1832.24 --> 1834.92]  Oké, in de andere kant van de wereld denken ze er zo over.
+[1835.38 --> 1836.34]  En dat betekent niet per se...
+[1837.18 --> 1839.18]  Dat zij nou gelijk hebben of dat wij nou gelijk hebben.
+[1839.22 --> 1842.26]  Maar ik begrijp welke trade-offs daartussen zitten.
+[1842.54 --> 1844.98]  En wat de verschillende waarden zijn die daaronder liggen.
+[1845.34 --> 1850.14]  En dat is dan binnen de humanities of the social sciences.
+[1851.34 --> 1854.28]  Die sociale wetenschappen, die kant is dat dan iets belangrijker.
+[1855.06 --> 1861.16]  Maar ik kan me ook goed voorstellen dat uiteindelijk de wiskundige kant...
+[1861.16 --> 1863.58]  En de natuurkundige kant, daar gaat het uiteindelijk ook om.
+[1863.68 --> 1867.00]  Dat die leerlingen echt een begrip hebben van wat ze nou aan het doen zijn.
+[1867.18 --> 1870.20]  En dat het niet enkel en alleen het herproduceren van formules is.
+[1870.28 --> 1873.52]  Dus jij zegt aan de ene kant empathie, als ik je goed begrijp, onno.
+[1873.52 --> 1876.36]  Dus andere mensen denken nou eenmaal anders over dingen.
+[1876.90 --> 1878.92]  En dan begrijp jij dat dat zo is.
+[1879.52 --> 1879.68]  Toch?
+[1879.76 --> 1880.22]  Ja, zeker.
+[1880.30 --> 1881.26]  Als ik het samenvat wat je zegt.
+[1881.26 --> 1886.68]  En het tweede wat je zegt is, maar er is ook zoiets als natuurkunde en wiskunde en biologie.
+[1886.94 --> 1892.18]  Hoe brengen we die feitenkennis, hoe brengen we dat over?
+[1892.86 --> 1897.04]  Nou, dus dan hebben we nu bevestigd, of er zullen ongetwijfeld nog veel meer waarden zijn.
+[1897.10 --> 1900.26]  Maar dan hebben we in ieder geval, er zijn heel veel doelen van onderwijs.
+[1900.26 --> 1906.38]  Maar wat ik zo interessant vind, is inzoomen op het deel waarin we feitenkennis overdragen.
+[1906.76 --> 1909.00]  Nou ja, dan heb ik toestemming om daarop in te zoomen.
+[1909.40 --> 1909.70]  Bijna.
+[1910.06 --> 1911.84]  Want ik wil er ook dan nog even aan toevoegen.
+[1911.84 --> 1919.88]  Dat ik denk dat mijn zorg samenvattend zit op, er is zo'n, dit zal vast een broodje aap zijn, maar ik vind hem als metafoor nog wel vrij sterk.
+[1920.22 --> 1925.40]  Is in de tijden van de Sovjet-Unie dat er gestuurd werd op het aantal platen metaal die de fabriek uitkwam.
+[1925.58 --> 1928.04]  Dat ze toen hele dunne kleine plaatjes gingen maken.
+[1928.34 --> 1931.32]  En toen gingen ze naar het gewicht kijken, toen werden het hele grote dikke platen.
+[1931.66 --> 1932.68]  Want zo gaat dat natuurlijk.
+[1932.88 --> 1934.28]  De instructies die mensen krijgen.
+[1934.54 --> 1936.94]  Wat je meet, dat vormt als het ware.
+[1936.94 --> 1942.94]  Nou, en dit kan je natuurlijk wel zo op onderwijs gooien, want dan zeg je wat we daar meten, daar ga je dan ook op sturen.
+[1943.50 --> 1959.86]  En mijn zorg zit dat wanneer je niet dat, ja noem het, klimaat van meten, met daarin een soort impliciet of soms grotendeels zelfs expliciet mensmodel van hoe komt een kind goed uit zo'n molen, zeg maar.
+[1959.86 --> 1970.24]  Dat als je dat niet bevraagt voordat je die AI daar ingooit, dat ik zeker weet dat dat AI ding heel netjes gaat doen wat het mensbeeld is wat er nu in zit.
+[1970.72 --> 1974.88]  En dus daarmee bedoel ik dat dat een CITO verbeterend super AI systeem gaat worden.
+[1975.52 --> 1980.86]  Die, dan krijg je een soort operatiegeslaagd patiënt overleden achtige situatie.
+[1980.86 --> 1992.44]  Ja, eventueel een CITO score van 550, maar dat komt dan omdat die AI binnen no time heeft gereverseengineerd hoe je die CITO toets goed invult.
+[1992.46 --> 1992.96]  Ja, precies.
+[1993.18 --> 1996.84]  En leerlingen voornamelijk leert hacken in multiple choice questions.
+[1996.86 --> 1997.40]  Ja, ja, ja.
+[1997.40 --> 2001.30]  Dan krijg je dus hele dunne kleine metaalplaatjes of hele dikke grote platen.
+[2001.58 --> 2005.94]  Want het doel is uiteindelijk om te zorgen dat waarop gemeten wordt dat al die getallen op 10 staan.
+[2005.94 --> 2011.80]  Maar daar zit dus ook de gedachte achter, of als ik je goed begrijp, daar zit dus ook de kritiek in.
+[2012.08 --> 2018.74]  Moeten we wel optimaliseren voor een hoge CITO score of moet je de system prompt op iets anders laten optimaliseren?
+[2018.74 --> 2033.36]  En ik zou dan nog zo radicaal zijn dat ik zou zeggen, ik vind eigenlijk de, ja, het moet eigenlijk, het is heel moeilijk, want we praten over heel veel thema's tegelijk.
+[2033.36 --> 2038.28]  Maar ik denk het zachte, wat jij net even mooi zacht noemt, dus wat je bij de scouting leert.
+[2039.42 --> 2040.84]  Ja, sociale kennis.
+[2041.44 --> 2046.10]  Dat moet op gelijke hoogte en misschien wel in den beginnen hoger staan.
+[2046.40 --> 2051.46]  Want ik maak me eigenlijk, zeker als er een AI bij komt, over kennis minder zorgen.
+[2051.64 --> 2051.74]  Ja.
+[2052.48 --> 2054.06]  Maak me juist zorgen om het zachte.
+[2054.06 --> 2060.64]  Ja, wat vind je dan bijvoorbeeld van het scenario dat we zeggen, oké, leerlingen krijgen twee uur per dag.
+[2061.42 --> 2067.44]  In de ochtend krijgen ze les van hun eigen Socrates AI of Einstein AI en daar worden ze echt bevraagd.
+[2067.84 --> 2069.52]  En dan, nou, dat is super intens.
+[2070.38 --> 2070.86]  En daarna...
+[2070.86 --> 2071.96]  Dat gaat over kennisoverdracht.
+[2071.96 --> 2072.70]  Dat is goed begrijp.
+[2072.70 --> 2074.76]  Ja, en kweken van begrip.
+[2074.92 --> 2080.76]  En vervolgens gaan ze dan een half uur met de klas dat nabespreken, verbaliseren, zich tot elkaar verhouden.
+[2080.88 --> 2082.20]  Dan misschien weer een uur spelen.
+[2082.60 --> 2085.00]  Dan weer twee uur, één op één les.
+[2085.10 --> 2087.06]  En dan is gewoon de dag voorbij.
+[2087.54 --> 2091.72]  Nou, ik zou dan waarschijnlijk, ik vind heel mooi, dank je wel dat je zo concreet wordt, want dat helpt.
+[2091.82 --> 2096.76]  Want ik zit met bloeien en vaag en zacht te praten, terwijl jij nu gewoon even met een onderwijsplan voor een dag komt.
+[2096.76 --> 2098.22]  Dat is heel goed, want dat vind ik fijn, dank je wel.
+[2098.94 --> 2100.76]  Dan zou ik zeggen, we laten...
+[2101.62 --> 2107.56]  We hebben het gehad over die GPT engineer, dus een meta-agent die stukjes gaat maken en groepen gaat aansturen.
+[2107.66 --> 2108.88]  Een soort manager vanuit AI.
+[2109.32 --> 2113.80]  Wat ik dan heel gaaf zou vinden is, als we de waarde erin stoppen op een wat abstracter niveau,
+[2114.00 --> 2119.74]  van dat we een stukje samenwerking en misschien leerlingen die heel ver van elkaar af zitten in elkaars cultuur,
+[2119.74 --> 2121.74]  of heel erg ver van elkaar af zitten in elkaars manier van over...
+[2121.74 --> 2127.62]  Overleg dat we zeggen tegen die AI, eind van het jaar zou het mooi zijn als die op een bepaalde manier beter met elkaar om kunnen gaan.
+[2128.02 --> 2131.70]  Dat moeten we bewust vragen, anders gaat die AI zeggen, CITO-scores zijn hoog.
+[2131.92 --> 2134.76]  Weet je wel, het is toch gelukt, meister? Weet je wel, het is gefixt.
+[2135.32 --> 2139.24]  En dan krijg je misschien een situatie waarin wordt gekeken, we gaan...
+[2139.24 --> 2141.42]  Er is individueel werk, maar er is ook kleine groepswerk.
+[2141.66 --> 2146.06]  Dus we hebben gekeken, Alexander en Wietse, die zitten in dezelfde klas, schroeven blijkbaar ook radio's uit elkaar,
+[2146.06 --> 2147.72]  want dat hebben ze aan mij verteld, aan de AI.
+[2148.18 --> 2151.26]  Die weten dat helemaal niet van elkaar, want het zijn twee introverte nerds.
+[2151.26 --> 2153.76]  Die ga ik aan één groepsopdrachtje zetten, een duo-opdrachtje.
+[2153.80 --> 2156.54]  De AI beslist dat wij een soort Tinder date hebben.
+[2156.54 --> 2158.70]  Ja, we worden gematched, een educatieve Tinder date, ja.
+[2159.22 --> 2162.14]  Maar, en dan mogen Wietse en Alexander dat later aan de groep vertellen.
+[2162.40 --> 2164.94]  Dus we doen nog even een stapje tussen het individu en de hele groep.
+[2165.04 --> 2167.84]  We gaan ook nog even met duo's en iets grotere groepjes werken.
+[2168.10 --> 2171.50]  En natuurlijk gaan we dan ook werken met mensen waar we helemaal niet mee kunnen werken.
+[2171.50 --> 2175.02]  Maar Wietse, je constateert net, we gooien een hele hoop dingen door elkaar.
+[2175.30 --> 2177.68]  Laten we dan proberen om het even uit elkaar te trekken.
+[2177.98 --> 2180.40]  En dat sociaal, kijk, dit is misschien toch de nerd in mij.
+[2180.40 --> 2183.04]  Ik wil het gewoon over kennisoverdracht hebben.
+[2183.62 --> 2186.80]  En de sociale, ergens denk ik, de sociale vaardigheden.
+[2186.94 --> 2190.28]  Ik heb helemaal niet de behoefte dat AI daar een rol in gaat spelen.
+[2190.84 --> 2198.10]  Ik snap je voorbeeld nu, over dat de twee ham-radio-nerds bij elkaar gezet worden.
+[2198.10 --> 2206.06]  Maar ergens denk ik, prioriteit één, denk ik, als je docenten vraagt op dit moment, wat wil je met AI in onderwijs?
+[2206.12 --> 2208.40]  Dan zeggen ze, administratie weghalen.
+[2208.70 --> 2210.96]  Nou, vind ik heel saai en weinig inspirerend.
+[2211.06 --> 2215.66]  En denk ik, nou, er zijn fantasievollere toepassingen van AI voor onderwijs te bedenken.
+[2216.26 --> 2220.20]  Als ik zou denken, welke rol kan AI hebben in het onderwijs?
+[2220.24 --> 2222.24]  Dan is dat efficiëntere kennisoverdracht.
+[2222.24 --> 2223.80]  Dat kan de nerd in mij zijn.
+[2223.92 --> 2228.04]  Dat kan de soort van, het woord efficiënt maakt waarschijnlijk al een hele hoop mensen allergisch.
+[2228.08 --> 2231.26]  Omdat ze denken, het is veel meer dan alleen maar efficiëntie onderwijs.
+[2231.32 --> 2232.42]  Dat snap ik allemaal wel.
+[2232.76 --> 2239.74]  Maar laten we het eventjes voor de helderheid beperken tot het deel kennisoverdracht.
+[2239.90 --> 2242.36]  Als we die dan even kunnen benoemen, soft skills, hard skills.
+[2242.44 --> 2242.56]  Ja.
+[2242.56 --> 2242.92]  Prima.
+[2243.12 --> 2244.48]  En jij zegt nu, Wietse, dat soft skills.
+[2244.58 --> 2245.18]  Hou nou eens even op.
+[2245.26 --> 2245.94]  Nou, doe straks.
+[2246.18 --> 2246.56]  Ook goed.
+[2246.64 --> 2247.12]  Ook belangrijk.
+[2247.52 --> 2252.86]  Maar dan wil ik even gezegd hebben dat mijn bad on the future, zeg maar.
+[2252.94 --> 2254.72]  We hadden het net over bullish zijn, zeg maar.
+[2255.10 --> 2257.14]  Ik ben minder bullish op hard skills.
+[2257.26 --> 2258.64]  Ik ben super bullish op soft skills.
+[2258.78 --> 2259.00]  Ja, oké.
+[2259.04 --> 2260.20]  Dit is waarom je zo op...
+[2260.20 --> 2263.54]  Ik zit hier zo op, want ik denk van, volgens mij gaat het...
+[2263.54 --> 2266.26]  Ik merk dit in mijn eigen leven ook heel erg.
+[2266.26 --> 2268.92]  Dat ik denk, ja, vroeger was ik die...
+[2268.92 --> 2270.26]  Ik werd altijd Witsipedia genoemd.
+[2271.08 --> 2272.80]  Terwijl zoveel feitenkennis had ik helemaal niet.
+[2272.90 --> 2275.42]  Maar ik zag overal patronen en ik kon het mooi uitleggen.
+[2276.02 --> 2279.78]  Maar mijn Witsipedia kant wordt steeds minder bevraagd in deze wereld.
+[2279.92 --> 2282.70]  Want ja, je kan ook naar chat.openai.com gaan.
+[2282.82 --> 2284.06]  Dus dat even gezegd hebben.
+[2284.12 --> 2285.50]  Ik ben heel erg bullish op soft skills.
+[2285.68 --> 2288.00]  Maar is dat dan niet ook gedeeltelijk dat...
+[2288.00 --> 2288.90]  Kijk, feiten...
+[2288.90 --> 2292.34]  Ik heb wel eens iemand horen zeggen van, als Wikipedia het antwoord was...
+[2292.34 --> 2294.78]  Dan waren we nu allemaal miljonairs met een sixpack.
+[2294.78 --> 2297.12]  Nou, ook die sixpack.
+[2297.36 --> 2297.62]  Mooi.
+[2297.62 --> 2300.74]  Dat zijn we niet.
+[2301.86 --> 2306.20]  Dus er zit inderdaad ook een heel ander stuk...
+[2306.20 --> 2308.32]  Een soort van karaktervorming.
+[2308.68 --> 2313.96]  En alleen al het feit van, ja, iedereen heeft inderdaad alle feiten terwijl dat min of meer tot zijn beschikking.
+[2314.12 --> 2320.74]  Maar toch is er een groot verschil tussen wie kan daar een mooi geheel van maken en wie niet.
+[2320.74 --> 2330.14]  En ik denk dat dat hem wel zit in het kweken van begrip en reflectievermogen en noem het maar op.
+[2330.50 --> 2336.98]  En dat is misschien niet feitjes uit de kwest oplepelen, wat ik vroeger ook heel graag deed.
+[2337.94 --> 2342.12]  Maar wel, dat kun je wel daadwerkelijk trainen.
+[2342.46 --> 2343.92]  Maar is dat een hard skill, begrip?
+[2343.92 --> 2347.90]  Nou, het is geen sociale skill.
+[2348.42 --> 2349.54]  Dus je kunt het bedenken.
+[2349.74 --> 2359.06]  Ik geloof wel dat je in een een-op-een vraaggesprek, wat ik geloof dat een AI heel goed zou kunnen.
+[2359.60 --> 2362.08]  Als we daar de juiste system prompts aan geven.
+[2362.08 --> 2373.26]  Dat hij dan een leerling echt kan laten nadenken op een niveau waar eenrichtingsverkeer in een klaslokaal misschien niet zo geschikt voor is.
+[2373.32 --> 2378.86]  Maar toch, Wietse, bevraag eigenlijk de relevantie van het leren van feiten, als ik jou goed begrijp, Wietse.
+[2379.08 --> 2383.38]  Ik denk dat nu die soft hard skill dualiteit is sowieso heel gevaarlijk.
+[2383.46 --> 2385.22]  Want nu moeten we het in bakjes gaan stoppen.
+[2385.40 --> 2389.78]  Terwijl ik heel mooi vind, dat heb jij eerder ook al aangeraakt vandaag, dat je het over natuurkunde had.
+[2389.78 --> 2392.44]  Ik moest meteen denken aan een interview dat ik ooit zag.
+[2392.52 --> 2395.92]  Dat ging over intuïtie voor meerderdimensionaal denken.
+[2396.26 --> 2399.02]  Dus we hebben allemaal grotendeels intuïtie voor driedimensionaal denken.
+[2399.10 --> 2399.92]  Want daar leven we in.
+[2400.08 --> 2403.24]  Als je daar niet in leeft, loop je steeds tegen een muur aan en rijd je met je auto uit water in.
+[2403.68 --> 2405.76]  Maar in vier, vijf, zes dimensies denken.
+[2406.52 --> 2411.06]  Dat is iets wat ik begreep, dat kost je ongeveer twintig jaar aan constante studie.
+[2411.16 --> 2416.74]  Om die intuïtie te ontwikkelen, moet je gewoon constant met die materie in de gang zijn.
+[2416.82 --> 2418.12]  Is dat een feit?
+[2418.12 --> 2422.02]  Is dat feitenkennis of is dit natuurkundige intuïtie?
+[2422.54 --> 2424.20]  Nu raak ik wat meer aan wat jij zegt.
+[2424.58 --> 2425.90]  Is dat soft? Is dat hard?
+[2426.74 --> 2429.94]  Ja, het gaat meer over modellen van de werkelijkheid creëren.
+[2430.06 --> 2433.28]  En doorhebben binnen welke modellen je eigenlijk aan het functioneren bent.
+[2433.62 --> 2437.10]  Dat gaat zowel over de alfawetenschappen als over de betawetenschappen.
+[2437.50 --> 2443.34]  En ik denk dat uiteindelijk, als iemand succesvol van de middelbare school of de universiteit afkomt,
+[2443.34 --> 2445.84]  dan hebben ze veel van die modellen.
+[2446.14 --> 2451.30]  En die modellen begrijpen ze ook en kunnen ze weten hoe die modellen zich tot elkaar verhouden.
+[2451.78 --> 2456.82]  En iemand die de planeten bestudeert, die weet ook niet op elk moment waar elke planeet staat.
+[2456.98 --> 2462.44]  Maar die kan je wel op een heel fundamenteel niveau uitleggen hoe dat werkt.
+[2462.44 --> 2466.80]  En dat gaat voorbij feiten als zodanig.
+[2467.52 --> 2469.82]  En dat zie je ook.
+[2470.32 --> 2474.58]  Bijvoorbeeld de grote natuurkundige Richard Feynman of noem ik maar op.
+[2474.64 --> 2483.52]  Die kon dan heel goed uitleggen hoe dat allemaal werkte zonder ooit met een formule aan te komen.
+[2483.88 --> 2486.64]  Of met een feit of met een cijfer.
+[2487.02 --> 2489.80]  Door gewoon te begrijpen hoe zijn die verbanden nou eigenlijk.
+[2489.80 --> 2498.36]  En dat fundamentele begrip, dat zie ik wel als een soort van de heilige graal van wat uiteindelijk kennis is.
+[2498.62 --> 2500.44]  Zijn jullie dan allebei ook tegen toetsen?
+[2500.62 --> 2503.80]  Toetsen impliceert dat je dus een...
+[2504.62 --> 2508.18]  Je hebt van tevoren vastgesteld wat een leerling moet weten.
+[2508.48 --> 2512.34]  Gewoon dit zijn twintig bullets die een leerling uit zijn hoofd moet kennen.
+[2512.44 --> 2513.98]  Waarschijnlijk zijn het er tweehonderd in plaats van twintig.
+[2513.98 --> 2519.68]  Maar wat? Vinden jullie dat dan ook een onwenselijk onderdeel van het onderwijs?
+[2519.70 --> 2521.90]  Dat ligt heel erg aan de vorm van toetsen natuurlijk.
+[2522.12 --> 2524.84]  Ik bedoel, ik denk een Engels mondeling waarin je probeert een schoen te verkopen.
+[2524.84 --> 2526.62]  Ik bedoel een multiple choice examen.
+[2526.72 --> 2527.72]  Dat bedoel ik met een toets.
+[2528.28 --> 2529.98]  Ja, dus jij zit echt hele...
+[2530.58 --> 2531.40]  Hoe zeg je dat?
+[2531.54 --> 2534.94]  Wat ik mijn hele onderwijsperiode heb gedaan.
+[2534.94 --> 2536.20]  Laat ik zo zeggen, er is gelukkig meer.
+[2536.30 --> 2538.10]  Dus jij zegt nu eigenlijk slechte toetsen.
+[2538.20 --> 2539.88]  Sorry dat ik het zeg, maar daar heb je mijn mening al.
+[2540.34 --> 2541.62]  Ja, die multiple choice.
+[2541.68 --> 2545.12]  Dat is om met al respect voor de docent het ook een beetje handelbaar te houden.
+[2545.26 --> 2547.24]  Het track er nog kan ingescand worden.
+[2547.50 --> 2548.00]  Dus dat is lekker.
+[2548.44 --> 2549.76]  Dat hoeft straks niet meer.
+[2549.96 --> 2550.62]  Dat hoeft nu...
+[2550.62 --> 2553.48]  Ik denk als we de tools nu zouden toepassen die we vandaag de dag hebben,
+[2553.72 --> 2555.06]  hoeft dat eigenlijk al niet meer.
+[2555.22 --> 2556.04]  Wat vind jij onhouden?
+[2556.28 --> 2558.18]  Ja, nee, ik ben het helemaal met wie het ze eens.
+[2558.18 --> 2563.88]  Dus voor mij is de slechtste toets een multiple choice toets.
+[2563.88 --> 2568.02]  En dan heb je misschien nog een toets waar mensen iets langere antwoorden moeten invullen.
+[2568.46 --> 2572.54]  Maar eigenlijk staat voor mij met stip bovenaan, staat gewoon een mondelingenoverhoring.
+[2572.66 --> 2573.00]  Juist.
+[2573.18 --> 2578.82]  En dat is totaal niet schaalbaar met een leraar en heel veel leerlingen.
+[2578.84 --> 2580.64]  Nee, we doen een toets omdat het lekker schaalbaar is.
+[2580.66 --> 2580.96]  Exact.
+[2581.46 --> 2584.30]  En een mondelingenoverhoring kost nou eenmaal heel veel meer tijd.
+[2584.42 --> 2584.58]  Ja.
+[2584.88 --> 2589.84]  Maar is een stuk waardevoller omdat je dan, neem ik aan, gaat begrijpen wat een leerling echt snapt.
+[2589.84 --> 2591.16]  Je kunt alle kanten op.
+[2591.16 --> 2594.18]  Of een leerling weet niet van tevoren wat jij precies gaat vragen.
+[2594.32 --> 2595.44]  Die kan...
+[2595.44 --> 2601.10]  Ik denk dat ook veel leerlingen zijn bezig met een soort van de toets hacken op een manier van...
+[2601.10 --> 2601.96]  Oké, wat moet ik leren?
+[2602.06 --> 2602.98]  Welke feiten moet ik kennen?
+[2603.68 --> 2606.62]  En eigenlijk alles om maar niet dat begrip te hoeven kweken.
+[2607.00 --> 2609.64]  Nou, bij een mondelingenoverhoring kom je daar simpelweg niet mee weg.
+[2609.74 --> 2613.22]  Dat is niet veel moeilijker te hacken voor leerlingen.
+[2613.22 --> 2617.84]  En ja, een leraar kan gewoon onmiddellijk aanvoelen.
+[2618.04 --> 2621.52]  Of een AI van, oké, je laat dit weg uit je antwoord.
+[2621.66 --> 2623.36]  Want je zegt nu wel dit en dit.
+[2623.72 --> 2625.44]  Maar ik hoor dit en dit nog niet.
+[2625.84 --> 2628.30]  En vertel me daar eens wat meer over dan.
+[2628.62 --> 2630.02]  En daarover en daarover.
+[2630.32 --> 2635.34]  En dan ben je al zoveel ver in die beslisboom.
+[2635.34 --> 2637.34]  Dan krijg je een veel beter begrip van...
+[2637.86 --> 2641.50]  Oké, op welk niveau, op welke diepte begrijpt een leerling dat.
+[2641.68 --> 2644.84]  En daar kan je als je het wil uiteindelijk een kwantitatief cijfer op plakken.
+[2645.28 --> 2649.66]  Maar wat in ieder geval belangrijk is, is dat je alle kanten op kan.
+[2649.76 --> 2651.54]  En dat dat afgestemd is op de leerling.
+[2651.82 --> 2654.10]  Ik denk ook dat, ik zit nu door dit gesprek te denken.
+[2654.32 --> 2659.98]  Op het moment dat je door je hele toolkit of lesprogramma methodiek heen gaat.
+[2660.12 --> 2662.08]  En eigenlijk simpelweg de vraag stelt.
+[2662.70 --> 2663.64]  Waarom doen we dit?
+[2663.64 --> 2667.58]  En als het antwoord is, dit is didactisch onwenselijk, maar schaalbaar.
+[2667.70 --> 2668.60]  Dan moet je het weggooien.
+[2669.06 --> 2671.44]  En als het didactisch wenselijk is, maar onschaalbaar.
+[2671.52 --> 2672.18]  Dan moet je het gaan doen.
+[2672.38 --> 2674.12]  Of een manier gaan vinden om het toch te doen.
+[2674.44 --> 2678.90]  Dus die didactisch wenselijk, onschaalbaar is een een-op-een mondeling.
+[2679.56 --> 2682.72]  En die didactisch onwenselijk, maar schaalbaar is een multiple choice.
+[2683.08 --> 2685.04]  Dus zo kun je al een beetje een bakje van maken.
+[2685.30 --> 2688.70]  En dan zullen er mensen zijn die luisteren en zeggen, dit willen we allemaal heel lang al.
+[2688.98 --> 2690.36]  Maar ja, maken, maar schaalbaar.
+[2690.36 --> 2695.88]  En dan komt natuurlijk ons rode draad van Poki en deze aflevering.
+[2696.26 --> 2697.58]  Wat is dan de rol van die AI?
+[2697.92 --> 2704.80]  Waarbij ik dan alleen eigenlijk een heel klein asteriskje in de lucht tekenen en zeg, zullen we in de systemcard ook een stukje soft skills meenemen?
+[2704.92 --> 2705.86]  Ja, maar dat komt, ach.
+[2706.10 --> 2707.20]  Dat komt allemaal straks.
+[2707.20 --> 2709.42]  Alexander, dat is een heel belangrijk iets.
+[2710.42 --> 2716.76]  Jij wil, dat is zo on, dat is zo kwalitatief subjectief en daardoor zo irritant ongrijpbaar.
+[2716.88 --> 2720.16]  En dat maakt het denk ik voor jou minder dat je het niet fijn vindt.
+[2720.22 --> 2724.76]  Ja, ik vind het heel interessant dat je hier zo op zit.
+[2724.76 --> 2731.78]  Omdat ik associeer onderwijs als buitenstaander, maar gewoon als heb onderwijsgenoten.
+[2732.30 --> 2737.96]  Toch ook echt wel als ik heb heel veel tijd besteed aan heel veel kennis vergaren.
+[2738.46 --> 2741.66]  Dat is echt een heel aanzienlijk deel van wat ik op school heb gedaan.
+[2741.82 --> 2745.02]  Is leren over shit en dan vervolgens daarop getoetst worden.
+[2745.38 --> 2746.18]  Zes jaar lang.
+[2746.18 --> 2751.26]  En ik snap ook heus wel dat er heel veel andere dingen geleerd worden op scholen.
+[2751.62 --> 2755.70]  Maar het is wel echt een significant onderdeel van wat het onderwijs is.
+[2755.96 --> 2759.06]  Ja, maar dat is toch niet helemaal een argument wat je nu gebruikt?
+[2759.08 --> 2761.22]  Nee, jij zegt eigenlijk dat is onwenselijk.
+[2761.74 --> 2762.18]  Dat denk ik.
+[2762.24 --> 2765.76]  Ja, want eigenlijk is de waarde van onderwijs uit heel andere dingen moeten komen.
+[2765.86 --> 2767.40]  Nou, ze hoeven elkaar ook niet uit te sluiten.
+[2767.52 --> 2771.08]  Ik denk dus dat jij natuurkundige intuïtie kunt aanleren in groepsverband.
+[2771.44 --> 2775.06]  En die groep hoeft niet 15 of 50 of 100 te zijn, want schaalbaar.
+[2775.06 --> 2781.08]  Maar die groep mag ook een tijdelijke ad hoc clubje zijn van twee gasten die allebei radio's vet vinden.
+[2781.24 --> 2782.80]  En dan gaan we praten over elektriciteit.
+[2783.34 --> 2788.04]  Dus ik denk dat wat ik eerder al een beetje zei van die opleiding die ik heb gevolgd.
+[2788.12 --> 2790.80]  Ik ben en daar ben ik ook blij mee, anders was ik daar al lang weggegaan.
+[2791.38 --> 2795.62]  Ik zal altijd aan tafel zitten om te verdedigen dat die technologieën ons vormen.
+[2795.68 --> 2796.88]  En dat daar zoveel in zit.
+[2796.94 --> 2801.72]  En als we dat niet bewust sturen en in dit geval heel concreet in die systemcard zeggen.
+[2801.72 --> 2805.72]  Het is ook belangrijk dat leerlingen elkaar minimaal een uur per uur spreken.
+[2805.72 --> 2806.54]  Maar we accepteren dit.
+[2806.88 --> 2809.62]  Dus we zijn nu bezig om die systemcards in te vullen.
+[2809.76 --> 2809.88]  Ja.
+[2810.62 --> 2816.76]  En dan is de vraag, vind je dat daar, en ik denk dat we het daar eerst over eens moeten worden.
+[2817.24 --> 2820.02]  Vind je dan dat daar kennisoverdracht in moet zitten?
+[2821.02 --> 2824.08]  Ik denk dat daar meer dan alleen maar soft skills in moet zitten.
+[2824.14 --> 2824.58]  Ja precies.
+[2824.98 --> 2826.36]  Ja, ik doe het even heel irritant.
+[2826.38 --> 2829.14]  Dat je denkt zeggen, daar moet je ook soft skills in zitten.
+[2829.34 --> 2836.90]  Nee, nee, nee, want de dystopie is die foto van Mark Zuckerberg waar iedereen in het publiek met een VR bril op zit.
+[2837.14 --> 2842.08]  En dan zie ik een groepje van tien leerlingen op hun eigen plekje ergens in het gebouw met een Vision Pro.
+[2842.08 --> 2844.24]  Waar ook nog de ogen uitstaan.
+[2844.34 --> 2847.14]  Dus er zit alleen maar een soort plasma waas op hun gezicht.
+[2847.48 --> 2851.68]  Waar ze lekker aan het, waar lekker alles, à la de Matrix, give me the tank program.
+[2851.82 --> 2853.52]  En dan komt dat binnen.
+[2854.34 --> 2856.78]  En dat een uurtje per dag, of twee uur per dag, à la.
+[2857.16 --> 2859.58]  En dan vlug weer naar andere mensen toe.
+[2859.88 --> 2861.96]  Oké, maar laten we dan inzoomen op dat uurtje per dag.
+[2862.12 --> 2864.36]  Of twee uur, of drie uur, of vier uur.
+[2864.36 --> 2869.64]  Maar laten we ook niet voorbij gaan aan hoe groot dit is.
+[2869.92 --> 2880.46]  Van de discrepantie tussen, oh mijn god, we kunnen 90% van de leerlingen, kunnen we excellente leerlingen maken door ze privé les te geven.
+[2880.58 --> 2882.80]  Dat is echt iets heel groots.
+[2883.28 --> 2889.14]  En als we dat ook nog eens kijken, als je kijkt naar de Scandinavische landen, dan zitten die leerlingen daar ook niet acht uur per dag.
+[2889.32 --> 2891.92]  En ze hebben zelfs geen huiswerk, noem het maar op.
+[2891.92 --> 2897.32]  En daar kunnen wij nog een soort van, dat maar dan on steroids, is gewoon een reële mogelijkheid.
+[2897.66 --> 2903.42]  Als we de technologie inzetten op een manier die het wellicht gaat bieden.
+[2904.40 --> 2906.94]  Maar excellent voor wat? Een excellente CEO van Shell?
+[2908.74 --> 2912.26]  Ja, kijk, dat is een goede vraag.
+[2912.42 --> 2920.68]  Maar kijk, ik denk dat, ik wil echt geen stupiditeit verdedigen of zo.
+[2920.68 --> 2926.26]  En ik ben de eerste om te zeggen dat enkel alleen het oprakelen van feiten een zinloos iets is.
+[2927.22 --> 2936.20]  Maar we moeten ook eerlijk zijn en zeggen van, oké, ik denk dat we gewoon, dat het goed is als mensen op een bepaalde manier iets begrijpen van de natuur kunnen.
+[2936.42 --> 2939.86]  En misschien scheikunde, biologie en Nederlands.
+[2939.86 --> 2944.56]  En als we, ik denk dat er allemaal over iets zijn van de basale feitenkennis, is nodig.
+[2944.56 --> 2949.88]  En als we dat gewoon kunnen in een kwart van de tijd.
+[2950.78 --> 2958.22]  En dan heeft iedereen ook nog eens niet gewoon, kijk, de helft van de leerlingen krijgt per definitie les van een ondergemiddelde leraar.
+[2958.52 --> 2963.36]  Maar nu krijgt iedereen les van een leraar die gewoon op wereldklasseniveau is.
+[2963.36 --> 2964.68]  Ja, dat is zoiets.
+[2964.68 --> 2966.88]  Schets eens hoe je denkt dat dat eruit zou kunnen zien.
+[2967.24 --> 2968.26]  Wat is die droom?
+[2968.62 --> 2981.80]  Nou, ik denk bijvoorbeeld, laten we zeggen, ik denk dat wat er kan gebeuren, wat ik net ook al aangaf, is stel leerlingen die open hun dag met een klassikaal moment.
+[2981.90 --> 2985.00]  Waar ze even, weet ik veel vind, dankbaarheid betuigen.
+[2985.22 --> 2987.14]  Of sociaal even wat dingen aan het doen zijn.
+[2987.14 --> 2989.38]  De system prompt is dankbaarheid uit de prima.
+[2989.38 --> 2992.80]  Ja, of misschien gewoon met een klassikale facilitator op dat moment nog.
+[2993.16 --> 2995.94]  Maar vervolgens is het, oké, ik open mijn laptop.
+[2996.60 --> 3001.92]  En nou, laten we hopen dat AI op dat moment iets visueler is en iets meer audio.
+[3002.08 --> 3004.10]  En dat het meer is dan alleen chat GPT.
+[3004.32 --> 3012.32]  Maar zelfs als we uitgaan van chat GPT, dan zit daar dus in de system prompt misschien een Einstein AI die jou natuurkunde gaat leren.
+[3012.32 --> 3012.72]  Ja.
+[3012.84 --> 3017.62]  En dan gaat, en dan stelt die Einstein AI, stelt jou gewoon direct een vraag.
+[3018.56 --> 3022.38]  Net zoals bij jou in de ochtend gebeurt, maar dan over de natuurkunde.
+[3022.50 --> 3023.78]  En dan reageer je daarop.
+[3023.90 --> 3028.54]  En dan zegt hij, oké, maar hoe zit dit dan of hoe zit dat dan?
+[3028.70 --> 3036.14]  Of hij legt je iets uit en vervolgens vraagt hij, oké, als je dit nu in je eigen woorden zou moeten uitleggen, wat zou je dan zeggen?
+[3036.14 --> 3042.14]  En op die manier gaan, ja, op een hele dynamische manier die leerlingen dan aan de slag.
+[3043.06 --> 3050.82]  Nou, waarschijnlijk kan de leraar, facilitator, kan dan zien van al die leerlingen, oké, wat is hun voortgang?
+[3050.98 --> 3054.66]  Weet je wel, dat moet ook op een manier allemaal toegankelijk en transparant worden gemaakt.
+[3055.14 --> 3058.62]  En als het nodig is, kan een leraar altijd nog instappen.
+[3058.62 --> 3073.82]  Maar dat niveau van engagement en dynamisch en gepersonaliseerd en slalommen, wat je dan op dat moment kan doen met zo'n AI, dat is voor mij wel echt de heilige grauw.
+[3073.88 --> 3078.20]  Ik zie een soort, nou, daadwerkelijk een 3D-representatie van Einstein.
+[3078.40 --> 3082.82]  Misschien zien we gewoon Einstein voor ons en je krijgt het natuurkunde van Einstein.
+[3082.82 --> 3092.64]  Tenminste, als dat iemand is van wie het kind graag leert, want als jij liever leert van Kylie Minogue, of je leert, nou, die is nu top of mind, ik weet niet, die heeft een hitje.
+[3092.74 --> 3093.34]  Anyway, doe het er niet toe.
+[3093.80 --> 3096.04]  Of Justin Bieber, voor mijn part.
+[3096.60 --> 3097.74]  Justin Bieber geeft jou natuurkundig.
+[3097.74 --> 3099.48]  Justin Bieber als natuurkundig genie.
+[3099.56 --> 3100.66]  Whatever works, weet je.
+[3100.96 --> 3102.72]  Als dat is waar een kind naar gaat luisteren.
+[3102.80 --> 3105.76]  Nou, en dan zit daar ook nog een vleugje in van wat zijn de interesses van het kind.
+[3105.76 --> 3110.00]  Dus wil het kind later, weet ik veel, misschien wil ze later ondernemer worden.
+[3110.00 --> 3119.42]  En dan wordt de natuurkundeopdracht opeens zo gebogen dat dat helpt bij die intrinsieke motivatie van het kind.
+[3119.88 --> 3121.62]  Dat kan ik me ook helemaal voorstellen.
+[3121.98 --> 3125.12]  En de tempo wordt natuurlijk aan jou aangepast.
+[3125.22 --> 3126.70]  En de woordenschat wordt aan jou aangepast.
+[3126.92 --> 3127.86]  Bijvoorbeeld, ja.
+[3128.14 --> 3132.48]  Kijk, we hebben natuurlijk nu op heel veel manieren een systeem wat ingericht is op klassen.
+[3132.48 --> 3138.36]  Dus als jij ieder jaar misschien 10% langzamer bent of 20% langzamer dan je medeleerlingen.
+[3138.80 --> 3140.04]  Ja, dan lig je binnen twee jaar.
+[3140.26 --> 3141.40]  Blijf je gewoon in klas zitten.
+[3141.56 --> 3142.58]  Doe je er een jaar langer over.
+[3142.66 --> 3144.80]  Of misschien stroom je wel een niveau af naar beneden.
+[3145.48 --> 3148.60]  Ja, ergens slaat dat natuurlijk helemaal nergens op.
+[3148.96 --> 3154.06]  Van, oké, als jij 20% meer tijd hebt, misschien geven we je dan gewoon 20% meer tijd.
+[3154.16 --> 3155.58]  Doe je net iets langer over je school.
+[3155.74 --> 3155.82]  Ja.
+[3155.82 --> 3159.36]  Maar we zitten nu helemaal vast in een systeem met klassen en jaren en zo.
+[3159.50 --> 3164.26]  En dat bepaalt veel meer dan we zelf doorhebben hoe we over deze dingen nadenken.
+[3164.72 --> 3170.38]  En ik ben ergens ook wel voorzichtig en sceptisch en conservatief.
+[3170.46 --> 3175.30]  En dat ik denk van, nou ja, goed, het onderwijs lijkt ook redelijk robuust.
+[3175.96 --> 3182.20]  De technologische vooruitgangen van de afgelopen 10, 15 jaar ook wel allemaal buiten de deur gehouden te hebben.
+[3182.20 --> 3182.26]  Ja, te negeren.
+[3182.26 --> 3183.20]  Ja, te negeren.
+[3183.20 --> 3185.56]  En er zijn heel veel prikkels in dat systeem.
+[3185.56 --> 3189.26]  Ik ken start-up ondernemers die geprobeerd hebben dingen in het onderwijs te veranderen.
+[3189.46 --> 3190.70]  Nou, die zijn...
+[3190.70 --> 3191.38]  Komt niet doorheen.
+[3191.52 --> 3194.50]  Die zijn echt na vijf jaar hun hoofd tegen de deur slaan.
+[3194.62 --> 3195.56]  Ja, geloof ik helemaal.
+[3195.96 --> 3196.36]  Afgedropen.
+[3197.00 --> 3207.02]  Dus de vraag is, ik ben in die zin ook wel sceptisch dat ik denk, het zou ook kunnen dat we over 10 jaar een soort, ja, echt iets geweldigs hebben.
+[3207.14 --> 3209.84]  Wat we aan leerlingen kunnen geven, maar dat we het gewoon niet gebruiken.
+[3209.84 --> 3210.84]  Ja, ja.
+[3210.84 --> 3220.28]  En dat ze dan s'avonds thuis, dat dan de rijke leerlingen, of leerlingen uit welgestelde gezinnen, dat de ouder zegt, we gaan nog maar even met JetGPT praten.
+[3220.28 --> 3220.70]  Ja, ja, ja.
+[3220.70 --> 3223.30]  En dat er een enorme discrepantie ontstaat op die manier.
+[3223.78 --> 3224.78]  Dus, dus...
+[3224.78 --> 3226.16]  Bijles om steroids.
+[3226.16 --> 3228.04]  Een soort bijles om steroids, ja.
+[3228.16 --> 3232.62]  En dat is natuurlijk ook, dat is natuurlijk wel gevaarlijk, van willen we dat?
+[3233.50 --> 3234.16]  Dat is...
+[3234.68 --> 3235.60]  Nou, goed argument.
+[3236.36 --> 3237.98]  Wat, hoe luister je hier nou naar, Richard?
+[3238.12 --> 3238.90]  Nou, ik vraag me zo...
+[3238.90 --> 3240.44]  Want dit is inderdaad wat ik bedoelde.
+[3240.54 --> 3241.44]  Dit is de droom.
+[3241.56 --> 3242.18]  Dit is de droom.
+[3242.18 --> 3243.74]  Dit is mijn nachtmerrie.
+[3243.80 --> 3245.14]  Ja, dit is niet mijn nachtmerrie, maar...
+[3245.14 --> 3246.58]  Nee, het is niet je nachtmerrie, maar puur...
+[3246.58 --> 3250.80]  Nee, want ik ben, ik zit helemaal niet zo van, hoe zeg je dat, helemaal aan de andere kant.
+[3250.80 --> 3254.88]  Maar ik heb gewoon een aantal grote vragen.
+[3255.54 --> 3257.08]  Is het wel een engineering problem?
+[3257.64 --> 3261.16]  Kijk, als jij een stuk water hebt en je zegt, we willen wat water vast gaan houden.
+[3261.22 --> 3265.02]  Dan komen de engineers, die gaan beton storten en die gaan een grote dam maken.
+[3265.40 --> 3267.74]  Dan blijkt ineens het hele ecosysteem erachter dood te gaan.
+[3267.74 --> 3269.30]  Want ja, zo denken engineers niet.
+[3269.38 --> 3270.24]  Die hebben gewoon een vraag.
+[3270.40 --> 3271.52]  Hoeveel water moet je aan die kant?
+[3271.62 --> 3272.84]  Hoeveel water moet je aan de andere kant?
+[3273.26 --> 3275.40]  Nou, dan komt die groep engineers het onderwijs binnen.
+[3275.58 --> 3277.22]  Die lopen dan tegen allemaal muren aan.
+[3277.62 --> 3278.30]  Want wat blijkt?
+[3278.52 --> 3280.36]  Hun manier van denken, hun model van de wereld.
+[3280.36 --> 3281.74]  Dat sluit misschien niet helemaal aan.
+[3282.78 --> 3284.88]  Daar ben ik dan tegelijkertijd een soort van blij.
+[3285.00 --> 3287.10]  Omdat ik denk, wat lekker dat het zo robuust is daar.
+[3287.48 --> 3289.54]  En wat fijn dat ze het buiten hebben weten te houden.
+[3289.64 --> 3291.86]  Want het buiten houden is niet alleen maar, we willen niet veranderen.
+[3291.96 --> 3293.02]  En boe, boe, boe, technologie.
+[3293.16 --> 3294.68]  En we willen onze eigen baantjes behouden.
+[3295.08 --> 3296.80]  Allemaal onderdeel daarvan, dat begrijp ik.
+[3296.86 --> 3301.30]  Maar er zit ook een stuk in dat er blijkbaar meer gebeurt in een school dan enkel kennisoverdracht.
+[3301.38 --> 3303.08]  Daar zijn we het inmiddels met z'n drieën al over eens.
+[3303.14 --> 3306.14]  We zien dat nu als onderdeel van een breder programma aan het onderwijs.
+[3306.14 --> 3309.56]  Maar daarbij is het voor mij dat...
+[3309.56 --> 3312.40]  Ik zit me nu af te vragen als we het over die excellente leerling hebben.
+[3313.14 --> 3316.36]  Mijn grapje over die Shell CEO, dat is natuurlijk even zo prikken.
+[3316.80 --> 3322.92]  Maar dat ik wel denk, ik kan me ook goed voorstellen dat er veel leuke, excellente mensen,
+[3322.92 --> 3329.86]  excellente wezens, niet alleen maar leerlingen, maar gewoon als mens, als nog uit dat schoolsysteem komen,
+[3329.98 --> 3331.28]  woord excellent is wel groot.
+[3331.44 --> 3335.16]  Dus laten we zeggen leuke mensen, fijne mensen, al dat soort woorden,
+[3335.70 --> 3341.56]  die desondanks uit zo'n deels gebroken onderwijssysteem komen, omdat het gebroken is.
+[3341.64 --> 3345.18]  En ik ga nu niet zeggen, het onderwijssysteem moet chaos bevatten, want chaos goed.
+[3345.18 --> 3347.40]  Maar ik kom maar ook uit.
+[3348.10 --> 3349.92]  En ik kon ook mijn computer mee naar huis nemen.
+[3350.30 --> 3353.86]  En ik heb van alles gedaan daar, ook omdat het niet gemeten werd.
+[3354.26 --> 3356.94]  Ook omdat een leraar kon zeggen, ik schrijf dat getal wel op joh.
+[3357.34 --> 3362.38]  En gelukkig was er geen chat GPT die mij kwam meten, want waarschijnlijk had ik mijn assessment dan niet gehaald.
+[3362.78 --> 3368.88]  Dus er wordt ook gigantisch veel gefietst en gedraaid door mensen en inspirators die je daar tegenkomt,
+[3369.20 --> 3371.94]  die net ene leraar willen die kans vergroten dat je die tegenkomt.
+[3371.94 --> 3376.96]  Want ik heb geluk gehad, ik heb er twee ontmoet, we hebben allemaal zulke verhalen, die twee mensen die jou zagen.
+[3377.34 --> 3381.72]  En als dat een AI kan zijn, vind ik dat eerlijk gewijs nog prima, want ik wil die kans gewoon verhogen.
+[3381.82 --> 3384.92]  Dus ik ben niet een soort van, het moeten levende mensen zijn.
+[3385.00 --> 3386.44]  Dat is minder hoe ik hierin zit hoor.
+[3386.54 --> 3390.94]  Ik zit veel meer op het moment dat je...
+[3391.84 --> 3398.78]  Het is heel moeilijk om wat er naast wat je meet gebeurt te weten, want je meet het niet,
+[3398.86 --> 3400.24]  anders had je het in je meetinstrument.
+[3400.24 --> 3405.32]  En wat daarnaast gebeurt, zeg maar tussen de stoeptegels omhoog groeit als het ware,
+[3405.46 --> 3407.40]  wat zichzelf eromheen weet te wurmen.
+[3407.98 --> 3413.38]  Je hebt een kans dat als je daar een heel mooi all-seeing Sauron AI op gaat zetten,
+[3413.84 --> 3416.94]  dat je zomaar eens gaat verliezen wat je nou juist uit die chaos won.
+[3417.36 --> 3418.46]  Ja, ik vind het wel mooi.
+[3418.54 --> 3420.24]  Je bent eigenlijk een soort onderwijslibertariër.
+[3421.14 --> 3426.10]  Van hou het onderwijssysteem maar gewoon gebroken, want dan kan het in ieder geval niet te veel schade aanrichten.
+[3426.10 --> 3430.54]  Ja, maar ergens heb ik oprecht ook wel sympathie voor dat argument.
+[3430.54 --> 3435.76]  Ik heb ook bijvoorbeeld gewoon mijn eigen middelbare schooltijd ervaren als een soort tijd van...
+[3435.76 --> 3443.52]  Oké, weet je wel, haal het tot de finishlijn zonder dat je wil gebroken is en dat je nog voor jezelf durft te denken en noem het maar op.
+[3443.52 --> 3450.22]  En inderdaad, als er een soort van totalitaire Chinese praktijk komen,
+[3450.64 --> 3460.44]  en sommige technologie heeft wel een versterkend effect richting een soort van centralistisch overzicht helfstaat.
+[3461.00 --> 3465.20]  Dus daar moeten we ook echt heel ver van weg blijven.
+[3465.24 --> 3466.26]  Ik hoor hem maar, Onno.
+[3466.46 --> 3470.88]  Nou ja, ik denk dat dat gewoon, dat kan gebeuren.
+[3470.88 --> 3474.84]  En als de prikkels niet goed gaan, dan is dat oprecht een scenario.
+[3475.12 --> 3477.22]  En dan maak ik me daar ook heel zorgen over.
+[3477.82 --> 3481.00]  Maar ja, ik denk, het kan...
+[3481.00 --> 3483.72]  Om even weer terug te komen bij het punt.
+[3483.84 --> 3492.96]  Er zijn gewoon echt grote verschillen tussen bepaalde leraren en tussen bepaalde lesmethodes.
+[3492.96 --> 3497.08]  En ik denk dat we gewoon wel het beste van twee werelden kunnen hebben.
+[3497.58 --> 3504.96]  Dat als leerlingen in drie uur per dag de kennisoverdrachten hebben die ze normaal in drie dagen hebben.
+[3505.20 --> 3509.70]  Dat klinkt overdreven, maar ik denk dat dat echt wel echt goed mogelijk is.
+[3510.26 --> 3513.38]  Dan heb je in principe juist meer vrije tijd.
+[3513.38 --> 3515.74]  En ik wist dat je dit ging zeggen.
+[3515.82 --> 3516.78]  Ik ga er even op springen.
+[3517.22 --> 3523.16]  Daar zit mijn zorg dat ik denk, we zouden nu toch sowieso allemaal nog één dag per week moeten werken of niet?
+[3523.44 --> 3526.68]  Want qua efficiency gains zijn we honderd keer zo productief.
+[3526.76 --> 3527.88]  Ik roep maar van een raar getal.
+[3528.02 --> 3528.92]  Er is vast onderzoek naar.
+[3529.26 --> 3532.74]  En we werken allemaal nog steeds, het merendeel van ons, keihard.
+[3533.32 --> 3535.38]  Dus dan denk ik, ja dat gaat, ik weet al hoe het in...
+[3535.38 --> 3537.62]  De lat van een excellente leerling gaat gewoon omhoog straks.
+[3537.82 --> 3539.56]  Woep, die schuiven gewoon twintig keer omhoog.
+[3539.56 --> 3541.44]  Maar is dat niet in feite iets goeds?
+[3541.72 --> 3544.94]  Om maar even devil's advocate, dan worden we gewoon als mensheid slimmer, toch?
+[3545.20 --> 3548.54]  Ja, maar is dat wat we nodig hebben als mensheid? Slimheid?
+[3550.24 --> 3555.86]  Nou kijk, breed gedefinieerd in de zin van, ook als jij je, bijvoorbeeld over die Shell CEO.
+[3556.48 --> 3563.00]  Als je echt een leerling van of ze twaalfde bevraagt met, oké jij wil veel geld verdienen, maar waarom eigenlijk en met welke doelen?
+[3563.38 --> 3567.86]  Als je dat zes jaar lang doet, dan betwijfel ik of hij aan het eind van die zes jaar nog steeds zegt.
+[3567.86 --> 3571.40]  Ja weet je, ik heb na al dit nadenken ben ik tot een conclusie gekomen.
+[3572.94 --> 3576.76]  Gewoon veel geld, veel staat en noem het maar op.
+[3576.76 --> 3584.00]  Ligt eraan, ik denk als het een Samsung school in Singapore is, dat in die systemcard staat dat ze Samsung lover moeten worden.
+[3584.02 --> 3584.64]  Ja, nee zeker.
+[3584.86 --> 3585.30]  100%.
+[3585.30 --> 3586.12]  Ja, dus...
+[3586.12 --> 3587.94]  Wie maakt de systemcard? Van wie is de school?
+[3588.34 --> 3591.72]  Ja, nee, dus het AI scenario in China.
+[3591.72 --> 3599.38]  Maar ook het AI scenario in Europa. Misschien is het een avondschool, een privé avondschool, deels gesubsidieerd door een partij als Shell.
+[3599.70 --> 3602.08]  Dan is die systemcard wel, heeft een bepaald idee.
+[3602.34 --> 3603.20]  En weet je wat gaaf is?
+[3603.26 --> 3605.52]  Wil ik nog even zeggen, de systemcard is er al nu hè?
+[3605.90 --> 3607.28]  Ik bedoel, we hebben al een systemcard.
+[3607.28 --> 3612.76]  We hebben nu alleen een beetje een rare, we zitten nu, ik ga Alexander even prompten.
+[3612.86 --> 3614.34]  Ineens hebben we zo'n rare metaforen.
+[3614.44 --> 3619.82]  Ik bedoel, ik kan nu een soort van GPT metaforen gaan gebruiken op het leven.
+[3619.82 --> 3620.76]  Op het leven, ja, ik doe de hele tijd.
+[3621.08 --> 3625.54]  Maar er is een prompt en dat prompt is, je moet dit weten voor natuurkunde, je moet dit weten over biologie.
+[3625.54 --> 3631.30]  We hebben een soort van met elkaar, er is een heel mooi onderwijsplan waarin die waarden al staan.
+[3631.40 --> 3634.84]  Het is niet alsof er zitten nu mensen te luisteren die zeggen, ik heb twee jaar aan dit plan gewerkt.
+[3634.92 --> 3637.28]  Jongens, er is al een systemcard, ik kan hem zo plakken.
+[3637.38 --> 3638.92]  We gaan gewoon dat hele ding erin plakken.
+[3639.40 --> 3642.66]  En laten we hem gewoon lezen, die pdf, want dat kan ChatGPT inmiddels ook prima.
+[3642.66 --> 3657.90]  Ik denk dus dat, daarbij is het waarschijnlijk zo dat omdat, ik denk dat we best wel lang weg zijn gekomen met een impliciet en ook deels expliciete systemcard of visie voor de mens, visie voor de excellente leerling.
+[3658.28 --> 3667.52]  Die mogelijk op allerlei manieren niet per se in orde was, maar omdat de implementatie van die visie crappy was, deels, dat de schade beperkt is gebleven.
+[3667.52 --> 3670.00]  Dus ik herhaal even wat jij net heel mooi zei.
+[3670.00 --> 3676.46]  Ik denk dus dat het bij mij een bepaalde zorg is van, wauw, straks worden die leerlingen echt wat mensen willen.
+[3676.92 --> 3678.94]  Huh, wat eng. Dat wil ik helemaal niet.
+[3679.16 --> 3683.66]  Oké, oké. Je wilt niet efficiënter maken, want je bent helemaal niet eens met de doelstelling.
+[3684.06 --> 3685.42]  Nou ja, ik denk dat je...
+[3685.42 --> 3686.64]  Zoals we die geformuleerd hebben.
+[3686.82 --> 3694.94]  Er zal ook een knopje moeten zijn, een draaiknopje van, zullen we niet voor excellent gaan, maar voor, wat zit daaronder uitmuntend, misschien zit dat erboven, weet ik niet.
+[3694.94 --> 3696.98]  Maar zullen we voor 70% gaan?
+[3696.98 --> 3714.36]  Nee, ik begrijp het wel en ik wil niet teveel op de Chinese bashen, maar als we alleen maar een soort van obedient workers uit dat systeem krijgen, die dan toevallig heel hoog scoren opgestandardiseerde testen, dan zijn we eigenlijk verder van huis dan dat we nu zijn.
+[3714.36 --> 3717.46]  Dus ik denk dat...
+[3717.46 --> 3726.50]  Nu is het gewoon zo dat in de praktijk de leraar die voor de klas staat, min of meer bepaalt van, oké, welke waarde geef ik aan mijn leerlingen mee en noem het maar op.
+[3726.84 --> 3728.36]  En dat heeft inderdaad op een manier...
+[3729.44 --> 3732.60]  Klinkt dat een stuk veiliger en minder totalitair.
+[3732.60 --> 3736.80]  Dus ik zou ook zeggen als wij dat soort technologie...
+[3736.80 --> 3743.46]  Maar ik denk dat we het debat wat we nu ook al zouden hebben, wat we nu ook al hebben in het land over onderwijs, welke waarden moeten worden meegegeven.
+[3743.84 --> 3746.60]  Ja, dan moeten we dat gaan hebben, maar dan over...
+[3746.60 --> 3749.00]  Dat debat is er in feite nu ook.
+[3749.26 --> 3756.90]  En dan hebben we dat, maar dan zeggen we, oké, ik hoop dat daar ook nog steeds een stuk vrijheid en autonomie in zit.
+[3756.90 --> 3765.32]  Er zouden we dan bijvoorbeeld heel concreet misschien bij wet vast moeten leggen dat systemcards in educatie transparant en openbaar moeten zijn.
+[3765.40 --> 3768.50]  Dat iedere leerling het recht heeft om zijn of haar systemcard in te zien.
+[3768.70 --> 3769.26]  Ja, bijvoorbeeld.
+[3769.44 --> 3771.42]  Of misschien zelfs aan te passen.
+[3771.50 --> 3773.42]  En dat aan te passen, dat blijft zichtbaar.
+[3773.54 --> 3776.88]  Dus dan kan je ook als docent zien van, hé, mijn leerling heeft de systemcard aangepast.
+[3776.98 --> 3779.62]  Wat is daar nou gebeurd? Alexander heeft er iets aan toegevoegd.
+[3779.88 --> 3781.54]  Ik denk dat er binnen een bepaalde mate...
+[3781.54 --> 3784.50]  Hier bijvoorbeeld de vrijheid van onderwijs is denk ik een heel groot goed.
+[3784.50 --> 3789.36]  Dat jij als ouder kan bepalen, oké, naar wat voor soort school stuur ik mijn kinderen?
+[3789.56 --> 3792.72]  En wat voor soort system prompts hebben die kaarten?
+[3792.90 --> 3797.60]  En maak ik me meer zorgen over een soort beweging om te zeggen, oké, dat moet allemaal één ding worden.
+[3797.72 --> 3801.18]  Want ja, uiteindelijk hebben we ook gewoon een land met mensen met allemaal verschillende waarden.
+[3801.48 --> 3807.94]  Ik denk dat het een groot goed is dat iedereen naar een school kan gaan waar dat een beetje aansluit bij de waarden die mensen hebben.
+[3807.94 --> 3815.24]  En dan voorkom je eigenlijk vanzelf dat dat één totalitair geheel gaat worden.
+[3815.34 --> 3817.12]  Want wie wil zijn kinderen naar zo'n school sturen?
+[3818.80 --> 3823.50]  Ik denk dat de ouders toch voornamelijk ook jouw behoeftes hebben.
+[3823.68 --> 3827.12]  Wie iets van, ik wil dat mijn kind ook sociaal is en gaat dansen en noem het maar op.
+[3827.12 --> 3827.88]  Ja, noem maar op, ja.
+[3827.88 --> 3839.50]  Maar ja, je kan ook, weet je, alle nadelen van de manier hoe we het nu hebben ingericht met religieuze scholen en scholen van allerlei types anders dan openbare scholen.
+[3840.22 --> 3851.70]  Je zou dus ook verschillende system prompts kunnen maken voor, weet ik veel, een of andere rally school die heel graag aan kinderen wil leren dat de aarde plat is en dinosauriërs nooit bestaan hebben en bla bla bla.
+[3852.20 --> 3856.70]  Die vrijheid moet je ook houden om die in die system prompt te houden als je dat eenmaal accepteert.
+[3856.86 --> 3857.74]  Vind ik grappig.
+[3857.74 --> 3861.12]  Die transparantie in ieder geval, want anders ga je, nee maar als jij van bovenaf gaat opleggen.
+[3861.12 --> 3861.42]  Ja, ja.
+[3861.56 --> 3863.24]  Er wordt al van bovenaf opgelegd hoor trouwens.
+[3863.50 --> 3869.86]  Je kan volgens mij binnen jou, daar weet ik te weinig van hoor, maar we hebben de vrijheid van onderwijs, maar voor mij mag je niet zomaar alles vertellen.
+[3870.08 --> 3871.36]  Nee, er zijn ook grenzen aan.
+[3871.54 --> 3873.22]  En dat is allemaal heel spannend, die grenzen.
+[3873.24 --> 3875.82]  Maar je mag wel vertellen over God, dat mag.
+[3876.10 --> 3876.22]  Ja.
+[3876.22 --> 3878.34]  En dat God de aarde gemaakt heeft, dat mag.
+[3878.82 --> 3880.44]  Ja, als je dat als...
+[3880.44 --> 3882.22]  Ja, maar even voor de...
+[3882.22 --> 3882.72]  Nee, nee, nee.
+[3882.72 --> 3883.88]  Dat zit ook in de system prompt.
+[3883.90 --> 3886.82]  Ja, en dat kan ik zelfs nog, ik bedoel, ik kom uit de religieuze achtergrond.
+[3886.82 --> 3892.48]  Want als je dat meer metaforisch pakt, dan krijg je misschien zelfs een soort van zingeving, wat heel erg mist nu.
+[3892.60 --> 3899.08]  Dus ik bedoel, daarin denk ik dat ik vooral zit na te denken over de transparantie.
+[3899.58 --> 3902.94]  Dat het dan transparant is dat jij iets vertelt waar jouw buurman echt van...
+[3902.94 --> 3905.92]  Waar jij van zegt van, nou, jouw systemcard is vreemd.
+[3906.26 --> 3908.94]  Maar dan hebben we dat verhaal in ieder geval helder.
+[3909.22 --> 3911.74]  Zou ik dan een mooie regel vinden, dat we dat met elkaar kunnen inzien.
+[3911.74 --> 3913.62]  En dat je dat ook als ouder kan inzien.
+[3914.00 --> 3915.76]  Van joh, waar werken jullie hier een beetje mee?
+[3915.76 --> 3918.68]  Dat is normaal denk ik het gesprek voor de introductie bij een nieuwe school.
+[3918.92 --> 3920.46]  Van wat zijn de normen en waarden hier?
+[3920.76 --> 3923.18]  En dan kijk je een beetje om je heen en dan voel je dat intuïtief aan.
+[3923.24 --> 3924.92]  Nu kan je ook de systemcard even doornemen.
+[3925.24 --> 3928.82]  Maar ik realiseer, en dit is echt een afslag van je welstorm in te slaan.
+[3928.90 --> 3933.16]  Maar ik realiseer me opeens dat als je echt transparant gaat zijn over die system prompt...
+[3933.16 --> 3934.26]  Iedereen kan dat inzien.
+[3934.78 --> 3937.68]  Dat gewoon basale dingen als in...
+[3937.68 --> 3942.34]  Geloof je erin dat mannen met mannen getrouwd mogen zijn en vrouwen met vrouwen getrouwd mogen zijn.
+[3942.82 --> 3943.74]  Dat dat soort waar...
+[3943.74 --> 3946.66]  Dat dat soort waar er überhaupt besproken worden op school.
+[3946.94 --> 3948.74]  Hoeveel shit dat gaat voorzaken.
+[3948.74 --> 3950.76]  Als je hier transparant over gaat.
+[3950.76 --> 3956.10]  Nu wij het hier over hebben, er vindt zich een explosie plaats in mijn brein op dit moment.
+[3956.20 --> 3960.16]  Dat ik ook denk, dat is echt nog een stukje naïviteit wat ik bij mezelf heb ontdekt.
+[3960.54 --> 3965.16]  Dat dat mediëren, wat jij al een aantal keer hebt aangehaald Alexander door de afleveringen heen.
+[3965.68 --> 3968.20]  Het mediëren, dus dat er iets tussen zit.
+[3968.28 --> 3971.74]  Dat er een tolk tussen ons zit in de vorm van een telefoon of een podcast.
+[3971.74 --> 3974.34]  Een podcast en een microfoon, dat is het mediëren.
+[3974.88 --> 3978.84]  Dat ouders scholen gaan zoeken met een AI.
+[3979.52 --> 3982.68]  Dat docenten lessen gaan samenstellen met een AI.
+[3983.34 --> 3989.08]  Ik zit de hele tijd in een soort heel beperkte mindset van leerlingen worden gemedieerd.
+[3989.20 --> 3991.48]  Er is een AI waar een leerling mee interakteert.
+[3991.90 --> 3996.88]  Maar dat is natuurlijk nog zo'n klein stukje van het op zoek gaan naar een school.
+[3997.08 --> 4000.38]  Het vormgeven van het schoolplan, systems card, geschreven door AI's.
+[4000.38 --> 4004.16]  Vanuit een soort landelijke belangen.
+[4004.36 --> 4005.44]  Ik noem het maar even zeg maar.
+[4006.02 --> 4010.58]  Dus deze rabbit hole is natuurlijk een hartstikke fractal waar we over praten.
+[4010.96 --> 4014.36]  Daarom waardeer ik het wel als jij Alexander zegt.
+[4014.64 --> 4016.50]  Jol, zullen we even iets soft en hard.
+[4017.10 --> 4018.68]  Mogen we iets parkeren vandaag?
+[4018.92 --> 4022.78]  Want als we niet gaan parkeren, dan wordt het een heel moeilijk gesprek.
+[4023.20 --> 4024.86]  Ik zal dan wel altijd benoemen als we parkeren.
+[4024.86 --> 4027.56]  Dan weten we dat we nog iets hebben om op te pakken.
+[4027.72 --> 4028.58]  Als we dat zouden willen.
+[4028.58 --> 4034.08]  En ik denk hierbij dat we er niet aan ontkomen.
+[4034.98 --> 4037.80]  Dat er wel, ik vind het een heel mooi.
+[4038.90 --> 4040.62]  Het is het een techniek filosoof.
+[4040.86 --> 4042.64]  Nou ja, ik weet niet of hij zichzelf zo zou noemen.
+[4042.82 --> 4045.76]  Maar Heidegger wordt in de techniek filosofie veel aangehaald.
+[4045.86 --> 4046.78]  Laat ik dat dan even zo zeggen.
+[4047.20 --> 4050.42]  Ik vind een van zijn mooiste inzichten is de vraag naar technologie.
+[4050.42 --> 4054.48]  Dat hij zei, ik ben niet zo geïnteresseerd in die artefacten.
+[4054.56 --> 4055.28]  Oftewel een laptop.
+[4055.74 --> 4057.42]  Of die systemen, een schoolsysteem.
+[4058.08 --> 4060.02]  Wat voor mensen maken technologie?
+[4060.42 --> 4063.70]  Hoe moet je als mens denken om sowieso technologie te gaan maken?
+[4064.06 --> 4065.46]  Zeg maar, je moet dan al efficiënt denken.
+[4065.58 --> 4067.92]  Anders maak je die dam niet in het water.
+[4068.14 --> 4069.38]  Zeg maar, je moet dan bezig zijn met.
+[4069.96 --> 4072.04]  Zou het niet lekker zijn als we vaker water hadden?
+[4072.04 --> 4074.70]  Dus hij was altijd heel erg aan het nadenken over.
+[4075.34 --> 4078.48]  Wat voor mindset moet je hebben om tot technologie te komen?
+[4078.72 --> 4083.68]  En ik denk dat er een bepaalde mindset binnen het onderwijs is.
+[4083.86 --> 4085.26]  Verschillende ideeën zijn daarover.
+[4085.78 --> 4087.68]  Als je daar AI in plopt.
+[4088.16 --> 4090.50]  Dan gaat dat zichzelf dan een beetje aan vormen.
+[4090.58 --> 4093.16]  Zeker als je het gaat zeggen om zelflerend te zijn.
+[4093.28 --> 4094.50]  Misschien zeg je wel tegen die AI.
+[4094.66 --> 4095.60]  Kijk hem een jaartje mee.
+[4096.22 --> 4097.88]  En schrijf dan je eigen systemcard.
+[4098.28 --> 4099.08]  Avant la lettre.
+[4099.24 --> 4100.40]  Want ja, wij weten hem niet.
+[4100.40 --> 4101.24]  Hij is er de facto.
+[4102.04 --> 4102.58]  Maak hem met.
+[4102.58 --> 4103.62]  Wat was de systemcard?
+[4103.62 --> 4105.72]  Ja, wat is hier eigenlijk de systemcard?
+[4106.08 --> 4108.46]  En dan, dat lijkt me sowieso een goed idee.
+[4108.58 --> 4110.52]  Want dan gaan we daarna allemaal, deels huilend,
+[4110.94 --> 4112.74]  die systemcard lezen.
+[4112.92 --> 4115.28]  Van, wauw, is dit wat we hier doen?
+[4115.38 --> 4115.56]  Ja.
+[4115.94 --> 4118.06]  En ik zou het ook gaaf vinden, bijvoorbeeld,
+[4118.26 --> 4120.54]  als die AI's met elkaar mogen praten op een gegeven moment.
+[4120.64 --> 4122.44]  Want voor mijn gevoel gebeurt dat nu nog niet echt.
+[4122.78 --> 4125.54]  Zaten alle scholen systemcard AI's met elkaar gaan kletsen.
+[4125.80 --> 4126.98]  Dat ik dan zou willen vragen,
+[4126.98 --> 4130.72]  joh, wat voor impliciet mensbeeld hebben jullie ontdekt
+[4130.72 --> 4132.30]  in onze samenleving.
+[4132.44 --> 4136.36]  Ik moet toegeven, Onno, dat ik aan het begin van dit gesprek,
+[4136.40 --> 4139.58]  was ik de hele tijd, oh mijn god, AI, we gaan zoveel beter kunnen leren.
+[4139.88 --> 4140.04]  Ja.
+[4140.18 --> 4144.64]  En ik moet toch wel toegeven dat Wietse wel in mijn hoofd iets heeft geopend,
+[4144.76 --> 4148.20]  van, oh shit, dit is, als je dat gaat doen, dan krijg je ook dat,
+[4148.28 --> 4149.86]  en dan krijg je ook dat, en dan krijg je ook dat.
+[4150.00 --> 4150.18]  Ja.
+[4150.18 --> 4156.90]  Waarom ben je zo optimistisch, of wat maakt je zo optimistisch over de rol van AI in onderwijs,
+[4156.98 --> 4158.74]  afgezien van wat je tot nu toe hebt gezegd?
+[4158.94 --> 4164.96]  Nou, kijk, ik zie alle beren op de weg allemaal ook.
+[4166.86 --> 4172.98]  Maar, en ik zie ook dat er al technologie is, die we gewoon nog niet echt toepassen in het onderwijs,
+[4172.98 --> 4176.12]  en ik zie ook de redenen waarom we dit ook kunnen negeren, en noem het maar op.
+[4176.12 --> 4183.10]  De reden waarom ik positief ben, is omdat ik gewoon denk, ja, kijk, uiteindelijk,
+[4183.32 --> 4187.94]  zelfs als we het onderwijssysteem, want het onderwijssysteem is ook gewoon maar een manier om te leren,
+[4188.50 --> 4195.92]  als ik zelf morgen, als het ware op mijn mobiel, vier mentoren zou hebben,
+[4196.24 --> 4201.94]  in bepaalde vakgebieden, en die zijn, nou, dit is dan de system prompt van een natuurkundige,
+[4201.94 --> 4204.56]  of bij wijze van spreken Tim Ferriss, of noem het maar op.
+[4204.56 --> 4206.34]  Ja, op ondernemerschap, waarom niet?
+[4206.42 --> 4210.60]  Ja, waarom niet? Nou, die kunnen mij bevragen dan, nou, dan is voor mij dat,
+[4211.14 --> 4213.60]  bijvoorbeeld podcasts zijn ook een manier om op die manier te leren,
+[4213.68 --> 4218.52]  maar dit is dan gewoon dat, maar dan nog weer veel beter en effectiever en op jou toegepast.
+[4219.08 --> 4223.58]  Dus, ik weet gewoon, of ik geloof gewoon heel sterk,
+[4223.92 --> 4227.14]  dat die potentie, die zit er gewoon echt in.
+[4227.14 --> 4233.98]  Dan is wat mij betreft, elke andere manier van leren, is wel echt een factor tien slechter.
+[4234.36 --> 4237.72]  En daar zou ik persoonlijk heel enthousiast van worden, als ik dat zou kunnen hebben.
+[4238.52 --> 4239.52]  En wat zou je nog meer willen?
+[4239.70 --> 4243.20]  Ik denk dat wat, ik denk dat nog wel interessant is om te bespreken,
+[4243.30 --> 4246.82]  is de vraag van, ja, wat kan AI nou op dit moment?
+[4247.10 --> 4248.50]  En waar staat het nou op dit moment?
+[4248.50 --> 4253.26]  Want je hebt altijd een beetje de meme van machine learning is just statistics.
+[4253.64 --> 4257.92]  Een soort van, heeft AI nou uiteindelijk echt begrip van wat het zegt?
+[4258.08 --> 4261.86]  Of is het gewoon een soort van inductie van de dataset die het al heeft?
+[4262.00 --> 4264.68]  En een soort van een interpretatie daarvan zou zijn,
+[4265.04 --> 4267.00]  oké, we geven het gewoon, we hebben het op dit moment,
+[4267.20 --> 4270.98]  heeft JetGPT gewoon een gigantische dataset en heel veel parameters.
+[4271.24 --> 4273.14]  En die buigen we allemaal naar die dataset.
+[4273.34 --> 4277.56]  En daar is het inmiddels heel goed in geworden om dan die dataset samen te vatten
+[4277.56 --> 4279.58]  en daarop te reageren.
+[4280.00 --> 4284.22]  Maar als je het echt vragen stelt van, oké, maar waarom vind je dat dan?
+[4284.32 --> 4286.42]  En hoe haakt het dan in op andere kennis?
+[4286.66 --> 4290.38]  En als je het echt probeert om een coherent wereldbeeld neer te zetten,
+[4290.72 --> 4295.12]  ja, dan zie je dat het eigenlijk binnen drie of vier vragen toch best wel snel de mist ingaat.
+[4295.80 --> 4297.44]  Een andere manier om het te verwoorden is,
+[4297.52 --> 4300.28]  heeft het zelf eigenlijk die modellen van de werkelijkheid?
+[4300.74 --> 4305.80]  Of ja, is het gewoon uiteindelijk een hele samenvatting van wat data aan het geven?
+[4305.80 --> 4308.82]  En als het zelf die modellen van de werkelijkheid niet heeft,
+[4309.12 --> 4312.18]  kan het die dan eigenlijk wel leren aan leerlingen.
+[4312.28 --> 4313.98]  Op het moment dat een leerling een antwoord geeft,
+[4314.12 --> 4318.54]  weet het dan wat niet genoemd is, wat ook relevant is.
+[4320.16 --> 4326.74]  Dus dat is eigenlijk, ik zit zelf op een manier ook wel een beetje in het symbolic AI-kamp van,
+[4327.14 --> 4332.78]  ja, we hebben ook op een manier de, eigenlijk wat wij gewoon bewustzijn noemen,
+[4332.78 --> 4334.94]  en creativiteit en noem het maar op.
+[4335.34 --> 4338.72]  Dus om echt een begrip, eigenlijk de vraag te kunnen stellen,
+[4338.92 --> 4341.52]  waarom zeg ik dit of waarom vind ik dat?
+[4341.62 --> 4344.74]  Dat kan een AI op dit moment maar zeer beperkt.
+[4345.42 --> 4349.22]  En daar is bijvoorbeeld Sam Altman van Open AI,
+[4349.34 --> 4353.48]  die zegt daar zelf ook over van, ja, dat is iets wat we op dit moment gewoon,
+[4354.02 --> 4355.48]  ja, eigenlijk niet begrijpen.
+[4355.60 --> 4357.10]  Van wat is dat nou precies?
+[4357.10 --> 4361.00]  En daarvoor zijn misschien ook gewoon theoretische doorbraken nodig,
+[4361.60 --> 4364.92]  omdat uiteindelijk, om van een AI naar een AGI te gaan.
+[4365.84 --> 4368.90]  Die begrijpt waarom je iets vindt.
+[4368.96 --> 4370.24]  Waarom die zelf iets vindt.
+[4370.26 --> 4371.38]  Waarom de AI iets vindt.
+[4371.40 --> 4374.60]  Ja, en echt begrijpt wat de betekenis is,
+[4374.66 --> 4379.54]  ja, achter de woorden die het gebruikt, om zo maar te zeggen.
+[4379.66 --> 4385.56]  Ja, je zegt, is dat misschien niet een voorwaarde voordat een AI echt les kan geven,
+[4385.56 --> 4387.78]  dat hij dit begrijpt.
+[4387.82 --> 4388.68]  Dat hij dit begrijpt.
+[4388.70 --> 4388.98]  Of ze.
+[4389.18 --> 4389.84]  Ja, of ze.
+[4390.86 --> 4395.92]  Wat krijgen we dan anders niet gewoon een soort machine die tegelijkertijd razend slim is,
+[4396.28 --> 4400.86]  maar ook een soort van volstrekt stupide met twee of drie vragen onderuit te halen is,
+[4400.92 --> 4402.36]  wat vaak nu het geval is.
+[4403.74 --> 4405.80]  En ik ben daar oprecht gewoon over verdeeld.
+[4405.92 --> 4410.34]  Van ik weet niet zo goed, de ene dag denk ik, ja,
+[4410.34 --> 4415.94]  we hebben daar gewoon theoretisch, hebben we gewoon op dit moment letterlijk geen enkel idee
+[4415.94 --> 4420.10]  wat bewustzijn en creativiteit is, eigenlijk om die stap van AI naar AGI te zetten.
+[4420.58 --> 4424.82]  De andere dag lees ik dan weer een paper van, oké,
+[4424.88 --> 4430.10]  van chat GPT3 naar chat GPT4 heeft het opeens Persisch geleerd.
+[4430.10 --> 4433.26]  En dat hebben we helemaal niet gedwongen te doen.
+[4433.26 --> 4436.88]  Dus hij is blijkbaar toch een soort metamodel van taal aan het ontwikkelen,
+[4437.06 --> 4441.24]  waardoor er een soort, ja, toch een soort universaliteit in zijn kennis komt.
+[4441.58 --> 4447.20]  En die universaliteit van zijn kennis, dat is dan uiteindelijk wat wij misschien bedoelen met begrip.
+[4447.70 --> 4451.12]  Dat wij iets leren in een bepaalde omstandigheid,
+[4451.60 --> 4455.16]  maar buiten die omstandigheden ook al vrij gauw begrijpen
+[4455.16 --> 4458.38]  hoe onze modellen van de werkelijkheid daar toegepast moeten zijn.
+[4458.38 --> 4464.74]  En dat is wel echt een ding, want oprecht als ik nadenk over de toekomst van AI,
+[4465.34 --> 4469.56]  dan zie ik dus twee grote scenario's van of we krijgen een soort van ultra slimme modellen
+[4469.56 --> 4471.98]  die ook tegelijkertijd volstrekt stupide zijn,
+[4472.24 --> 4476.80]  of we gaan maken die overstap naar AGI, waar het echt een begrip heeft van wat het doet.
+[4477.28 --> 4479.84]  En dat zijn twee totaal andere werelden.
+[4481.38 --> 4486.40]  Ja, ik zit ook te denken dat volgens mij, omdat we als mens niet statisch zijn,
+[4486.40 --> 4489.88]  we zijn best wel maakbaar. Als jij twee jaar in Enschede gaat wonen,
+[4489.96 --> 4492.26]  dan heb je een accentje. Of moet je in Den Haag, dan wordt het helemaal leuk.
+[4492.34 --> 4495.44]  Het ligt er een beetje aan hoe adaptief je bent, maar op een gegeven moment pak je zo'n beetje,
+[4495.50 --> 4496.54]  gaat jouw manier van spreken.
+[4496.56 --> 4497.32]  Het past ons aan aan de omgeving.
+[4497.34 --> 4499.56]  Ja, en dat staat volgens mij buiten kijf.
+[4500.28 --> 4503.22]  Maar wat wij ook doen is een beetje ons aanpassen aan die technologie.
+[4503.40 --> 4507.48]  Ik doe nog steeds bijvoorbeeld, als ik wel eens tegen een voice assistant praat,
+[4507.48 --> 4510.54]  zeg maar een oude in een auto of zo, of Siri,
+[4510.98 --> 4514.36]  dan praat ik op een computermanier, omdat ik dan iets heb van dan gaat het goedkomen.
+[4514.36 --> 4516.42]  Ik weet al een beetje hoe ik dat moet doen.
+[4516.44 --> 4518.66]  Net zoals we queries voor Google hebben leren schrijven.
+[4518.78 --> 4519.92]  Het is niet normale taal.
+[4519.98 --> 4521.78]  Precies, dan hebben we een soort computerintuïtie,
+[4521.88 --> 4525.58]  maar daarmee beginnen we ook iets meer op computers te lijken, zeg ik altijd.
+[4525.68 --> 4527.24]  Want we moeten een beetje computerleren denken.
+[4528.96 --> 4532.44]  De vraag is natuurlijk wat wij, dat vond ik zo mooi aan jouw voorbeeld,
+[4532.44 --> 4537.62]  van de natuurkunde en dan de intuïtie van wereldmodellen en de manier waarop je de wereld ziet.
+[4538.06 --> 4541.00]  Dan tegelijkertijd, dat ging over mensen, dat ging over leerlingen.
+[4541.00 --> 4544.20]  Dat je, een jaartal hoeven ze niet per se te weten,
+[4544.80 --> 4547.92]  maar dat ze enige intuïtie ontwikkelen voor dynamieken in samenlevingen
+[4547.92 --> 4550.12]  en dat er een soort herhaling in die geschiedenis plaatsvindt,
+[4550.16 --> 4551.18]  of in ieder geval dat rijmt.
+[4551.52 --> 4554.90]  Dus dat dat soort macro patronen leren herkennen, dat is wel belangrijk.
+[4555.04 --> 4557.96]  En daarom hebben we het soms over feiten, zou ik dan zeggen als docent.
+[4558.30 --> 4561.90]  Feiten zijn lekker om uiteindelijk een soort van patronen aan te brengen en wereldbeelden.
+[4562.38 --> 4564.66]  Of daar vraagtekens bij te kunnen stellen, in ieder geval.
+[4564.66 --> 4572.32]  En dan zeg je tegelijkertijd, maar hebben die grote taalmodellen zelf eigenlijk die natuurkundige intuïtie wel?
+[4572.62 --> 4572.74]  Exact.
+[4573.30 --> 4577.48]  En er wordt nu heel veel getest door te zeggen, ik heb een balletje op een plank liggen en ik haal die plank weg.
+[4577.58 --> 4579.70]  Dan moeten ze zwaartekracht impliceren.
+[4579.92 --> 4580.88]  En dat gaat dan goed.
+[4581.20 --> 4583.46]  Dan zeggen ze, er staat een glas water tussen en dan valt hij daar ineens doorheen.
+[4583.74 --> 4586.64]  In het verhaal van die, dus eigenlijk weet hij de natuurwetten niet.
+[4587.14 --> 4588.38]  Nog niet, zou je kunnen zeggen.
+[4588.38 --> 4591.40]  Want het is natuurlijk altijd het gevaar, GPT 4,5, et cetera.
+[4591.40 --> 4594.38]  Wie weet, heeft dat te maken met grootte, met kwaliteit van het model?
+[4594.76 --> 4597.16]  Moeten we daar nog alignment technieken op toepassen?
+[4597.48 --> 4603.34]  Of kunnen we daadwerkelijk op een gegeven moment gaan trainen op grondmodellen, op natuurkundige grondaannames?
+[4604.30 --> 4608.04]  Dan vind ik het wel boeiend dat we gooien dat dan al voor de klas.
+[4608.20 --> 4612.76]  Dat is nu niet zo, maar ik weet wel dat veel leerlingen om mij heen, jong en oud, dit gebruiken.
+[4612.76 --> 4613.70]  We gebruiken het heus wel.
+[4613.94 --> 4614.66]  Ook mag het niet.
+[4614.66 --> 4622.36]  Mag ook even gezegd zijn, ik wilde nog even toevoegen dat volgens mij in een beetje een vergezochte metafoor,
+[4622.74 --> 4625.88]  maar Onno, jij komt binnen en je zegt, jongens, we gaan naar Italië, een fantastisch land.
+[4626.00 --> 4628.16]  Italië is de plek waar we AI gebruiken in het onderwijs.
+[4628.26 --> 4630.36]  Alexander zegt, hier denk ik al jaren over, nou, ik wil mee.
+[4630.66 --> 4631.86]  We gaan doen, let's go, toch?
+[4631.98 --> 4633.54]  In ieder geval, ik ben ook enthousiast.
+[4633.62 --> 4635.68]  Had ik maar Italië gehad, vroeger kon ik er maar heen.
+[4635.80 --> 4636.36]  Ik wilde dat.
+[4636.76 --> 4640.14]  En ik zit er dan zo bij, mol, mol, een beetje zo te mokken.
+[4640.32 --> 4641.96]  Van, we moeten niet gaan of zo.
+[4641.96 --> 4645.44]  Ja, want gooi het kind niet met het badwater weg.
+[4645.44 --> 4646.50]  Ik zeg niet, we moeten niet gaan.
+[4646.52 --> 4648.58]  Er zijn heel veel voordelen aan hoe wij nu het onderwijs doen.
+[4648.74 --> 4650.14]  Ik zeg dus niet, we moeten niet gaan.
+[4650.24 --> 4650.78]  Dat wil ik even zeggen.
+[4650.88 --> 4652.16]  Ik zeg, jongens, er zijn bergen.
+[4652.26 --> 4653.30]  We moeten even wat spullen meenemen.
+[4653.42 --> 4654.20]  Extra eten.
+[4654.34 --> 4655.14]  Let op de hoogte.
+[4655.22 --> 4656.60]  Je kan hoogteziekte krijgen.
+[4657.12 --> 4661.84]  Want we hebben gezien, heel veel van de technologie die we utopisch hebben ontwikkeld,
+[4661.90 --> 4663.60]  met allemaal goede bedoelingen in het verleden,
+[4663.66 --> 4666.38]  hebben ons niet per se de beloftes gebracht die we altijd hoopten.
+[4666.50 --> 4668.28]  Dus dat we minder hoe we werken en dat soort zaken.
+[4668.42 --> 4669.62]  Dat vind ik een sterk voorbeeld.
+[4669.62 --> 4675.78]  Dus laten we wel de vanuitgaande, de aanname, dat die technologie dus niet neutraal is,
+[4675.86 --> 4680.68]  dat er van alles in die technologie verstopt zit en nu zelfs expliciet met die systemcard eindelijk zichtbaar is.
+[4681.34 --> 4685.62]  Zullen we daar ook met elkaar even kijken in wat voor onderwijswereld we dat dan gaan airdroppen?
+[4686.60 --> 4687.76]  Zo poep daarin.
+[4688.36 --> 4689.62]  Maar het is er al.
+[4689.72 --> 4690.46]  Laat dat even duidelijk zijn.
+[4690.46 --> 4692.94]  Maar ik ben benieuwd of jullie het nou met elkaar oneens zijn,
+[4693.10 --> 4696.50]  of dat jullie gewoon alleen maar op nuance van elkaar zitten.
+[4696.50 --> 4697.94]  Ja, mijn nuance is wel klink.
+[4698.48 --> 4700.98]  Ja, want ik zit wel een beetje dat ik zoiets heb van...
+[4700.98 --> 4707.10]  Want er zijn toch heel veel, er zijn heel veel problemen te constateren met de manier waarop wij nu onderwijs organiseren in Nederland.
+[4707.90 --> 4713.02]  Dat is toch iets, dat jij daar niet revolutionair van wordt, begrijp ik niet, eerlijk gezegd Wietse.
+[4713.68 --> 4715.98]  Het feit dat kinderen minder goed kunnen leren.
+[4716.16 --> 4721.28]  Het feit dat de verschillen tussen groepen alleen maar groter worden en arm en rijk groter worden.
+[4721.28 --> 4726.04]  Het feit dat we zoveel bijles, de invloed van bijles, de ongelijkheid...
+[4726.04 --> 4726.96]  Maar wacht, je zegt nu heel veel dingen tegelijk.
+[4727.12 --> 4729.26]  Ja, er zijn heel veel problemen met het onderwijs.
+[4729.32 --> 4733.32]  En ik denk dus, er zijn heel veel mensen die wil alles een beetje houden zoals het is.
+[4733.72 --> 4734.68]  En het is een teringszooi.
+[4735.24 --> 4737.70]  Dus waarom proberen we geen grote dingen?
+[4737.90 --> 4744.24]  Nee, omdat ik denk als we die grote dingen proberen te doen zonder ons bewust te zijn van hoe technologie werkt, dan constant...
+[4744.24 --> 4744.60]  Maar natuurlijk ook.
+[4744.60 --> 4745.76]  Natuurlijk moeten we dat ook doen.
+[4746.04 --> 4747.96]  Maar dus, ik snap niet zo goed.
+[4748.46 --> 4750.82]  Eigenlijk lijk je te zeggen, laten we er heel goed over nadenken.
+[4750.82 --> 4753.24]  Laten we dan heel klein beetje dingetjes proberen.
+[4753.56 --> 4758.12]  Laten we eerst een jaartje de AI laten meekijken en constateren wat het system prompt eigenlijk is.
+[4758.18 --> 4759.82]  Dat is een heel behouden manier van...
+[4760.70 --> 4763.52]  In plaats van het vol overgave erin duiken.
+[4763.64 --> 4769.40]  We denken AI heeft een hele grote potentie voor allerlei dingen die wij willen bereiken.
+[4769.48 --> 4770.74]  Waar we heel lang over moeten praten.
+[4770.84 --> 4772.90]  Over wat dat precies is en welke details.
+[4772.90 --> 4774.52]  Maar dan gaan we die shit maken.
+[4774.74 --> 4776.26]  En dan gaan we het doen in de klas.
+[4776.36 --> 4778.20]  En dan gaan we kijken wat de problemen zijn.
+[4778.30 --> 4779.76]  Dan gaan we die problemen oplossen.
+[4779.76 --> 4783.28]  Dat is toch die soort van de meer ondernemers mindset.
+[4783.42 --> 4785.50]  Van hoe je onderwijs kan verbeteren.
+[4785.56 --> 4788.72]  Dat is een mindset die volgens mij een hoop kapot heeft gemaakt in de wereld.
+[4789.24 --> 4793.24]  Want dat is die drang naar meten en controleerbaar maken.
+[4793.26 --> 4794.06]  Dat zit er allemaal in.
+[4794.26 --> 4795.54]  Kijk, op het moment dat jij zegt...
+[4795.54 --> 4799.28]  Ik ben heel de te vaat aan het doen samen met mijn vrouw.
+[4799.34 --> 4800.04]  Dat vind ik irritant.
+[4800.12 --> 4800.98]  Ik koop een vaatwasser.
+[4801.22 --> 4802.06]  Technology problem.
+[4802.20 --> 4802.96]  Hop, loswerf op.
+[4803.02 --> 4803.98]  Gooi die vaatwasser erin.
+[4804.04 --> 4804.96]  Spreek je vrouw nooit meer.
+[4805.04 --> 4806.50]  Bleek een superparrijk gesproken te zijn.
+[4806.82 --> 4807.64]  Maar dit is het.
+[4807.64 --> 4808.50]  Dit is het.
+[4808.60 --> 4812.52]  Dus dat momentje bij dat vaatwassen en die frictie daar was ineens heel belangrijk voor jullie huwelijk.
+[4812.78 --> 4814.46]  En dat huwelijk gaat ineens stuk door die vaatwassen.
+[4814.84 --> 4817.96]  Dus ik ben gewoon super sceptisch over technofixes.
+[4818.52 --> 4819.50]  Dit klinkt gewoon...
+[4819.50 --> 4821.64]  Wij zijn dezelfde drie nerds.
+[4821.70 --> 4826.68]  Ik zit met een hele soort Eeyore Winnie de Poel achtige filosoof op mijn schouder.
+[4826.68 --> 4827.42]  Die zegt van...
+[4827.42 --> 4830.04]  Nou jongens, ik weet niet zo goed of al die technologie het wel gaat oplossen.
+[4830.46 --> 4833.46]  Want waar is het bewijs dan van al die technologie die het heeft opgelost?
+[4833.64 --> 4836.82]  Dan kan ik een aantal voorbeelden aanwijzen in de geschiedenis waar we zeggen...
+[4836.82 --> 4837.56]  Medisch gezien.
+[4837.70 --> 4839.78]  Mensen kunnen weer lopen dankzij implementaten.
+[4839.90 --> 4842.40]  Mensen, kinderen, baby's kunnen weer horen dankzij...
+[4842.40 --> 4845.86]  Oh wat heb ik een lijst en boeken vol aan fantastische mooie technologie.
+[4846.24 --> 4847.94]  Dus ik ben super trots op ons als mensen.
+[4847.94 --> 4854.14]  Dat we ons zelf kunnen overstijgen met technologie.
+[4854.66 --> 4855.94]  Tegelijkertijd denk ik...
+[4855.94 --> 4859.94]  Ik vraag me af in hoeverre het onderwijsprobleem wat we nu beschrijven...
+[4860.92 --> 4865.78]  Zozeer een probleem is wat we kunnen oplossen met gadgets, stukjes software en Chromebooks.
+[4865.86 --> 4866.44]  Mooie framing.
+[4866.44 --> 4873.34]  Want als we die AI daarin droppen zonder die context van die AI grondig aan te pakken...
+[4873.34 --> 4876.10]  Ik denk dus dat het veel meer zit op mensbeeld en de wereld die verandert...
+[4876.10 --> 4878.68]  En wat we willen van onze excellente leerling.
+[4879.14 --> 4881.14]  Dan gaat er niet zoveel veranderen.
+[4881.22 --> 4882.98]  Als ik mag gokken wat jij ervan vindt, Anno...
+[4882.98 --> 4885.80]  Dan gok ik dat je gewoon optimistischer hierover bent.
+[4887.46 --> 4890.80]  Nou, ik ben in zoverre optimistisch in dat ik denk...
+[4890.80 --> 4893.80]  Kijk, als ik eerlijk terugkijk naar mijn eigen universiteitsperiode...
+[4894.24 --> 4898.98]  Dan zat ik iets van vier uur per dag naar een podcast te luisteren.
+[4899.06 --> 4900.18]  Nou, dan op dubbele snelheid.
+[4900.24 --> 4901.66]  Dus dan heb je acht uur podcast per dag.
+[4901.98 --> 4904.80]  Ik leerde aanzienlijk meer uiteindelijk van al die podcasts...
+[4904.80 --> 4907.84]  Dan ik heb geleerd aan de universiteit.
+[4908.00 --> 4910.40]  En dat was echt een goede opleiding.
+[4911.02 --> 4916.26]  Dus in die zin heeft technologie mij persoonlijk al gewoon heel veel gebracht.
+[4917.72 --> 4919.48]  En je zou ook kunnen zeggen...
+[4919.48 --> 4921.72]  Boeken zijn ook gewoon uiteindelijk een vorm van technologie.
+[4922.22 --> 4924.46]  Daar leer je ook ongelooflijk veel van.
+[4924.46 --> 4930.20]  Dus ik ben daar in die zin echt wel optimistisch.
+[4930.30 --> 4933.92]  Kijk, ik denk, Wietse, dat jij nog binnen het onderwijslandschap...
+[4934.78 --> 4939.16]  Nog helemaal aan de kant zou staan van de meest progressieve stemmen.
+[4939.38 --> 4939.66]  Precies.
+[4939.66 --> 4947.00]  Dus wat ik wel voorzie is dat het onderwijs hier natuurlijk zeer sceptisch over gaat zijn.
+[4947.30 --> 4951.62]  En zoiets heeft van, ja, jullie nerds denken weer dat jullie het kunnen oplossen.
+[4951.94 --> 4959.34]  Dus dat in de praktijk de meeste oplossingen veel eerder gewoon eerst B2C worden.
+[4959.48 --> 4959.78]  Juist.
+[4960.54 --> 4962.82]  In die toch die bijles voor rijke ouders.
+[4962.82 --> 4965.40]  Ja, dat is natuurlijk wel iets wat gevaarlijk is.
+[4965.74 --> 4968.80]  Maar misschien ook gewoon, kijk, voor mensen van latere leeftijd...
+[4968.80 --> 4972.28]  die gewoon zichzelf willen bijscholen en wat voor manieren dan ook.
+[4972.60 --> 4974.14]  Kijk, op het moment dat dat echt...
+[4974.14 --> 4975.76]  Dit is waarom ik dan wel weer optimistisch ben.
+[4975.82 --> 4981.30]  Op het moment dat dat echt zo spectaculair veel beter wordt dan de oude systemen...
+[4981.30 --> 4982.96]  Ja, dan gaat het op een gegeven moment wankelen.
+[4983.28 --> 4985.56]  En dat heeft het tot nu toe nog weinig gedaan.
+[4986.20 --> 4990.00]  Dus binnen het ondernemen is dan een beetje altijd het adagium van...
+[4990.00 --> 4992.28]  Ja, als je niet tien keer beter bent dan je competitie...
+[4992.28 --> 4997.40]  dan ga je de incumbents, de huidige partijen ook niet kunnen omvergooien.
+[4997.68 --> 5002.22]  Kijk, op het moment dat AI als het ware echt tien keer meer aan jou kan leren...
+[5002.22 --> 5004.46]  dan andere vormen van onderwijs...
+[5004.46 --> 5012.26]  dan voorzie ik wel dat dat systeem iets meer gedwongen wordt om te gaan schuiven.
+[5012.74 --> 5016.72]  En tegelijkertijd hoop ik dan heel erg dat er stemmen zijn zoals Wietse...
+[5016.72 --> 5021.48]  die ook zeggen, oké, maar laten we in godsnaam kijken naar meer dan alleen maar cijfers.
+[5021.48 --> 5023.24]  En daar ben ik helemaal voor.
+[5023.38 --> 5026.58]  De vergelijking wordt vaak gemaakt met de opkomst van de rekenmachine in het onderwijs.
+[5026.70 --> 5031.28]  In het midden jaren zeventig werd er opeens over gesproken om de calculator in te voeren.
+[5031.36 --> 5032.20]  En daar waren heel veel mensen tegen.
+[5032.26 --> 5036.12]  Die zeggen, als mensen de calculator gaan gebruiken, leerlingen, dan weten we niet meer hoe we sommen moeten maken.
+[5036.50 --> 5039.10]  Toen is daar vervolgens twintig tot dertig jaar over gediscussieerd...
+[5039.10 --> 5043.62]  voordat in de jaren negentig eindelijk overal rekenmachines werden ingevoerd.
+[5043.82 --> 5046.16]  En laten we wel wezen, wiskunde bestaat nog steeds.
+[5046.48 --> 5050.80]  En het onderwijs heeft er dertig jaar over gedaan om de rekenmachine te accepteren.
+[5050.86 --> 5054.04]  Maar die is uiteindelijk geaccepteerd door dus druk van buiten.
+[5054.74 --> 5056.06]  Dat zou AI ook kunnen zijn.
+[5056.48 --> 5059.26]  Die vergelijking is daar wel.
+[5059.26 --> 5066.64]  Heb je ergens ook het idee dat al die dingen die Wietse noemt, die juist niet met kennisoverdracht te maken hebben...
+[5066.64 --> 5069.08]  Vind je dat AI daar ook een grote rol in moet spelen?
+[5069.20 --> 5075.12]  Of denk je, houd dit nou tot het domein van kennis, deling, natuur kunnen leren?
+[5075.20 --> 5076.74]  Om het even heel erg plat te slaan.
+[5078.26 --> 5081.16]  Daarvoor heb ik samen nog te vroeg.
+[5081.84 --> 5086.14]  Als ik nu nadenk over het medium AI ofzo.
+[5086.42 --> 5088.70]  We hebben dat nu dan via chat GPT gezien.
+[5088.70 --> 5094.94]  Dat is duidelijk niet een soort van manier die heel duidelijk sociale cohesie bevordert ofzo.
+[5095.30 --> 5097.98]  Over het algemeen heeft technologie ook niet echt die invloed.
+[5098.32 --> 5108.70]  Dus ik zou dan toepassingen moeten zien van iemand die van een AI gevisualiseerd die sociale dingen bevordert.
+[5109.78 --> 5111.90]  Ik kan me dat nu nog moeilijk voor me zien.
+[5112.00 --> 5115.48]  Maar dat is gewoon een gebrek aan voorstellingsvermogen van mijn kant.
+[5115.48 --> 5121.76]  Maar ik hoor je ook niet zeggen, het enige onderwijs wat er moet zijn is dat je met een Vision Pro op moet gaan zitten.
+[5121.76 --> 5125.54]  X uur per dag en daarna is het onderwijs klaar.
+[5125.60 --> 5126.56]  Dat hoor ik je ook niet zeggen.
+[5126.68 --> 5127.68]  Nee, absoluut niet.
+[5127.88 --> 5131.82]  En ik hoop ook in godsnaam dat we dat niet gaan doen met de virtual reality set.
+[5131.82 --> 5132.96]  Het zit op onze hoofd.
+[5132.96 --> 5139.80]  En ik zit ook te denken dat wat betreft jouw voorbeeld dat je zei ik kon vier uur per dag podcast luisteren.
+[5139.88 --> 5146.72]  Ik zeg meteen ik kon het want dat zou dan in een meer totalitair systeem zou jouw AI zeggen sorry die vier uur heb je niet.
+[5147.00 --> 5151.90]  Als die AI niet in de systemcard heeft staan dat podcast toegestaan zijn in jouw onderwijs dieet.
+[5152.26 --> 5152.72]  Just saying.
+[5152.72 --> 5156.94]  Dus om aan te geven daar was dus weer ruimte in het onderwijs om te freewheelen.
+[5157.02 --> 5158.56]  En dat freewheelen was het eigenlijk heel waardevol.
+[5158.56 --> 5158.82]  Nee, dat is een vrije tijd.
+[5159.58 --> 5163.56]  Nou ja, de vraag is of je vier uur vrije tijd per dag om zelf podcast te geluisteren.
+[5163.56 --> 5168.26]  Jij zegt nu als de AI de macht krijgt dan ga je 24 uur per dag leren en niet meer slapen.
+[5168.28 --> 5169.46]  Dat is een extreem voorbeeld.
+[5169.62 --> 5170.62]  Maar ik bedoel meer dan moet ik wel.
+[5170.84 --> 5174.16]  Nee, maar dan moeten we even in die systemcard zeggen dat podcast onderdeel daarvan zijn.
+[5174.24 --> 5175.84]  Dat de AI ook pokey luistert.
+[5175.86 --> 5176.56]  Dat je vrije tijd hebt.
+[5176.56 --> 5180.64]  Nee, dat die AI gewoon gaat zeggen kijk laten we het concreet maken.
+[5180.76 --> 5183.46]  Stel jou we kunnen even twee paden uitzetten.
+[5183.58 --> 5185.14]  Eén pad is jij wil bij SpaceX werken.
+[5185.30 --> 5185.90]  Je bent elf.
+[5186.34 --> 5188.34]  Je wil bij SpaceX werken want je wil raketten bouwen.
+[5188.52 --> 5189.36]  Dat vind je vet.
+[5189.82 --> 5195.12]  Dan ga jij praten met een AI bij jou op school en dan zeg je ik wil bij SpaceX werken.
+[5195.50 --> 5198.66]  Dan gaat die AI zeggen luister daar is heel veel voor nodig.
+[5199.08 --> 5200.98]  Jij moet intuïtieve natuurkundige kennis hebben.
+[5201.08 --> 5202.90]  Je moet een soort engineering mindset gaan ontwikkelen.
+[5202.90 --> 5204.90]  Dat gaat hij niet eens tegen jou zeggen want dan snapt dat kind niet.
+[5204.90 --> 5207.86]  Maar dat gaat die AI voor zichzelf in zijn achterhoofd bepalen.
+[5208.28 --> 5209.16]  Dat is een heel vet voorbeeld.
+[5209.40 --> 5210.78]  Daar zit natuurlijk ook een voorbeeld bij.
+[5211.26 --> 5211.62]  Teamwork.
+[5211.72 --> 5213.12]  Want die raket ga je niet in je eentje bouwen.
+[5213.58 --> 5215.16]  Dus daar gaan soft skills komen.
+[5215.24 --> 5216.26]  Die kunnen we niet parkeren.
+[5216.52 --> 5218.08]  Anders is het een onvolledige AI.
+[5218.70 --> 5221.38]  Of hij zegt die geef ik even over aan mijn soft skills maatje.
+[5221.44 --> 5222.14]  Dat is een andere AI.
+[5222.22 --> 5223.88]  Nou dat is die docent die wordt aangestuurd.
+[5223.88 --> 5225.60]  Ja die mag alleen maar soft skills gaan doen.
+[5226.32 --> 5227.10]  Die krijgt een task.
+[5227.24 --> 5230.00]  Dat is voor die natuurkundendocent die eigenlijk van hard skills is.
+[5230.10 --> 5230.76]  Maar goed maakt niet uit.
+[5230.76 --> 5237.04]  Maar dan wordt er een persoonlijk ontwikkelingsplan gemaakt voor jouw leven.
+[5237.46 --> 5239.02]  Om naar SpaceX te gaan.
+[5239.18 --> 5241.42]  Je zegt het heel zinisch maar het klinkt fantastisch.
+[5241.52 --> 5243.12]  Nou ja het klinkt heel utopisch.
+[5243.60 --> 5245.70]  En ik denk dat daarbij.
+[5247.30 --> 5250.56]  Want je hebt de leerling die die wens uitspreekt.
+[5250.56 --> 5256.68]  Maar er is ook iets iemand, een organisatie, een groep mensen die die AI heeft voorbereid voordat die leerling ermee gaat spreken.
+[5257.26 --> 5261.50]  Ik zit in dat voorbereidingsproces van wat gaan we daar omhoog draaien.
+[5261.70 --> 5267.96]  Wat gaan wij, wat is onze systemcard voordat die leerling die systemcard mag gaan vullen met zijn of haar levensvisie.
+[5268.50 --> 5271.88]  Nou daar zit mijn opmerking.
+[5271.88 --> 5274.70]  Op dat moment dan wordt er een pad gemaakt.
+[5274.90 --> 5276.48]  En daar zit misschien zelfs een universiteit in.
+[5276.62 --> 5276.98]  Wie weet.
+[5277.08 --> 5279.08]  Want die universiteit is een heel ander soort ding geworden.
+[5279.34 --> 5280.92]  Waarin podcasts ook toegestaan zijn.
+[5281.02 --> 5282.62]  Want die worden allemaal geluisterd door alle AI's.
+[5282.70 --> 5284.20]  En die zeggen zo die aflevering.
+[5284.48 --> 5284.52]  Zo.
+[5284.74 --> 5286.74]  Je gaat later iets met onderwijs doen.
+[5286.84 --> 5286.90]  Dat is.
+[5287.10 --> 5289.40]  Nou die gasten die proberen er iets van te maken met z'n drieën.
+[5289.74 --> 5290.40]  Super vet.
+[5290.72 --> 5293.80]  Dus daar ben ik allemaal, daar word ik ook warm van.
+[5294.00 --> 5296.84]  Maar ik zie dus allemaal op een aanmerking dat ik zeg maar.
+[5296.92 --> 5298.84]  Dat betekent wel dat we daar even met die moeten gaan zitten.
+[5298.84 --> 5300.86]  Dat betekent dat we die boeken er even bij zullen moeten pakken.
+[5300.86 --> 5301.86]  Ik ben dus veel meer van.
+[5302.24 --> 5303.24]  Laten we goed voorbereiden.
+[5303.36 --> 5305.66]  Laten we niet te naïef zijn over wat er allemaal gebeurt.
+[5305.98 --> 5307.50]  Want als we dat allemaal niet doen.
+[5307.92 --> 5310.70]  Dan verwacht ik niet dat we heel veel nieuwe resultaten gaan krijgen namelijk.
+[5311.10 --> 5313.50]  Want er zitten namelijk dingen buiten de klas.
+[5313.70 --> 5314.56]  Buiten het boek.
+[5314.70 --> 5315.58]  Buiten de calculator.
+[5316.08 --> 5317.92]  Die niet artefacten of processen zijn.
+[5318.30 --> 5322.46]  Maar meer hoe we met elkaar nadenken over wat een goed mens is.
+[5322.56 --> 5323.94]  Wat een excellente leerling is.
+[5324.38 --> 5327.16]  Maar ik denk dat dat SpaceX verhaal aardig kan lukken.
+[5327.16 --> 5328.48]  Want dat is heel veel natuurkunde.
+[5328.60 --> 5329.20]  Dat is engineering.
+[5329.70 --> 5330.18]  Dat is nice.
+[5330.18 --> 5331.82]  Ik denk dat dat de eerste zijn die gaat lukken.
+[5331.90 --> 5333.98]  Net als dat nu de eerste meta GPT.
+[5334.14 --> 5335.62]  Is een engineering GPT.
+[5335.72 --> 5337.40]  Om even terug te gaan naar het begin van de aflevering.
+[5337.64 --> 5340.28]  Dat is niet de soft skill.
+[5340.52 --> 5343.08]  We gaan buiten hout hakken GPT.
+[5343.28 --> 5344.94]  Want dat is natuurlijk de laatste die ze gaan maken.
+[5345.02 --> 5345.98]  Want dat is best wel pittig.
+[5347.06 --> 5349.68]  Dus als we nou even dit pad van die engineer voor SpaceX.
+[5349.82 --> 5350.26]  Die is elf.
+[5350.46 --> 5351.18]  Dat geloof ik wel in.
+[5351.52 --> 5352.40]  Dat kunnen we wel.
+[5352.52 --> 5353.56]  Daar kunnen we wel iets voor maken.
+[5353.92 --> 5355.16]  Dat kunnen we ook wel goed doen denk ik.
+[5355.16 --> 5359.08]  Maar nu is het iemand van elf die zegt van ja.
+[5359.18 --> 5363.12]  Ik wil eigenlijk later in de geestelijke gezondheidszorg werken.
+[5363.12 --> 5369.10]  Of ik wil gaan werken met activisme of sociale cohesie in groepen.
+[5369.22 --> 5371.56]  Ik wil iets wat lekker op die soft skills zit.
+[5372.00 --> 5372.18]  Nou.
+[5372.18 --> 5373.82]  Als je dan aan mij vraagt.
+[5373.90 --> 5375.60]  Gaan we daar dan ook AI voor inzetten.
+[5375.90 --> 5376.72]  Laten we het maar doen.
+[5376.92 --> 5378.46]  Want als we het ook inzetten voor het ander.
+[5378.68 --> 5380.50]  Maar alsjeblieft dan maar voor alles inzetten.
+[5380.88 --> 5383.30]  Zodat we die dingen trainen op al die manier.
+[5383.38 --> 5384.76]  Dus ik ben daar zeker niet tegen.
+[5385.34 --> 5387.40]  Ik vraag me alleen af.
+[5387.50 --> 5390.32]  Als het dus buiten het dammetje bouwen.
+[5390.74 --> 5392.48]  Of wiskundige modellen begrijpen.
+[5392.76 --> 5394.50]  Of raketten laten vliegen gaat.
+[5394.84 --> 5395.90]  Maar meer gaat over.
+[5396.32 --> 5396.72]  Vaardigheden.
+[5396.88 --> 5397.94]  Wat heeft een mens nodig?
+[5398.18 --> 5399.62]  Wat betekent eenzaamheid?
+[5399.62 --> 5402.56]  Maar er zijn toch ook opleidingen voor waar je vaardigheden leert?
+[5403.12 --> 5404.90]  Nou die bestaan al natuurlijk.
+[5405.24 --> 5406.38]  Anders was de opleiding psychologie.
+[5406.38 --> 5406.68]  Ja precies.
+[5406.76 --> 5407.66]  En sociologie er niet.
+[5407.76 --> 5408.00]  Dus.
+[5408.42 --> 5409.58]  Nou dus.
+[5409.80 --> 5410.62]  De vraag is.
+[5410.68 --> 5412.04]  En die vraag is eeuwenoud.
+[5412.78 --> 5414.00]  Of je die vaardigheden.
+[5414.56 --> 5415.08]  Wel op die manier.
+[5415.18 --> 5417.02]  Er wordt nu heel veel natuurkunde gedacht.
+[5417.18 --> 5418.86]  In bijvoorbeeld de psychologie opleiding.
+[5419.34 --> 5421.36]  Waarbij evidence based wordt gewerkt.
+[5421.50 --> 5424.08]  En zo de modellen die in de wiskunde gebruikt worden.
+[5424.16 --> 5424.78]  In de natuurkunde.
+[5424.86 --> 5426.00]  Om tot een proof te komen.
+[5426.38 --> 5426.54]  Zo.
+[5426.66 --> 5427.60]  Nou niet één op één.
+[5427.60 --> 5429.04]  Maar een beetje meegenomen zijn.
+[5429.04 --> 5431.28]  Van zullen we wetenschap gaan doen in de sociale wetenschappen?
+[5431.54 --> 5433.04]  Daar is enorme controverse.
+[5433.20 --> 5434.42]  En tot de dag van vandaag.
+[5434.52 --> 5436.50]  Want het blijkt ineens best wel pittig te zijn.
+[5436.82 --> 5438.06]  Om die kwalitatieve.
+[5438.52 --> 5439.00]  Subjectieve.
+[5439.38 --> 5440.52]  Zachte menselijke dingen.
+[5440.68 --> 5441.22]  Te vatten.
+[5441.46 --> 5442.62]  In een model gemaakt.
+[5442.98 --> 5445.30]  Om de trilling van een kwarts te gaan meten.
+[5445.64 --> 5445.80]  Dus.
+[5446.30 --> 5447.52]  Ik vraag me wel af.
+[5448.28 --> 5449.92]  Hoe geschikt deze.
+[5450.46 --> 5452.90]  AI achtige oplossingen zijn.
+[5453.32 --> 5454.10]  Binnen dat zachte.
+[5454.36 --> 5455.92]  Daar zit denk ik ook mijn zorg.
+[5455.92 --> 5457.24]  Dat ik iets heb van.
+[5457.80 --> 5458.10]  Als.
+[5459.04 --> 5459.62]  We die.
+[5460.12 --> 5461.20]  AI gaan introduceren.
+[5461.30 --> 5462.06]  Die bijzonder goed is.
+[5462.22 --> 5462.36]  In het.
+[5462.58 --> 5462.84]  Bijvoorbeeld.
+[5462.96 --> 5465.28]  Want natuurkunde is geen willekeurig voorbeeld daarin.
+[5465.48 --> 5465.74]  Denk ik.
+[5465.74 --> 5467.20]  Ik denk dat dat een heel goed voorbeeld is.
+[5467.56 --> 5468.72]  Omdat dat zo goed past.
+[5468.82 --> 5470.76]  De volgende versie van brilliant.org.
+[5470.88 --> 5471.28]  Of .com.
+[5471.36 --> 5472.34]  Ik weet niet hoe die website heet.
+[5472.68 --> 5474.16]  Dat is natuurlijk brilliant AI.
+[5474.32 --> 5474.80]  Dat moet.
+[5474.96 --> 5475.78]  En voor de luisteraar.
+[5475.84 --> 5476.82]  Dat is een plek waar je.
+[5478.10 --> 5479.70]  Intuïtie voor natuurkunde kunt ontwikkelen.
+[5479.70 --> 5480.74]  Super belangrijk.
+[5480.86 --> 5482.18]  Als jij raketten wil laten vliegen.
+[5482.32 --> 5483.58]  En nog veel meer in je leven trouwens.
+[5484.16 --> 5485.02]  Maar ik vraag me af.
+[5485.84 --> 5487.04]  Hoe goed zich dat vertaalt.
+[5487.20 --> 5487.72]  Naar die.
+[5488.12 --> 5489.26]  Ja intermenselijke.
+[5490.20 --> 5490.56]  Zachte.
+[5491.48 --> 5492.74]  Menselijke interactie.
+[5493.28 --> 5494.22]  En daarbij heb ik zoiets.
+[5494.30 --> 5495.52]  Als we het dan introduceren.
+[5495.58 --> 5496.02]  Dat we dan.
+[5496.22 --> 5497.40]  Dat die excellente leerlingen.
+[5497.92 --> 5498.84]  Mogelijk toch een beetje.
+[5499.84 --> 5500.36]  Ja.
+[5500.48 --> 5500.94]  Richting dat.
+[5501.30 --> 5502.24]  Operatie geslaagd.
+[5502.24 --> 5503.14]  Patiënt overleden.
+[5503.34 --> 5504.22]  Conclusie gaan trekken.
+[5504.28 --> 5504.72]  Omdat we.
+[5505.08 --> 5505.62]  Hebben op.
+[5506.34 --> 5507.12]  Geoptimaliseerd hebben.
+[5507.12 --> 5508.42]  Voor factor ABC.
+[5508.78 --> 5509.30]  En XIZ.
+[5509.78 --> 5510.98]  Die zo moeilijk te vangen waren.
+[5511.10 --> 5511.18]  Ja.
+[5511.50 --> 5512.70]  Die zijn eigenlijk een beetje eraf.
+[5512.88 --> 5513.20]  Erbij.
+[5513.34 --> 5514.36]  Die zijn van tafel gevallen.
+[5514.48 --> 5514.90]  Als het ware.
+[5515.24 --> 5516.40]  Die liggen nog ergens op de grond.
+[5516.58 --> 5517.02]  Onzichtbaar.
+[5517.66 --> 5518.46]  Daar zit gewoon een.
+[5519.00 --> 5520.18]  Toch wel een flinke zorg.
+[5520.26 --> 5521.66]  Omdat ik denk dat technologie.
+[5522.12 --> 5523.08]  Met de hoofdletter T.
+[5523.24 --> 5524.50]  Dus echt het grote ding.
+[5524.58 --> 5525.52]  Wat over ons heen hangt.
+[5525.54 --> 5526.30]  En om ons een is.
+[5526.84 --> 5527.46]  Tot nu toe.
+[5527.54 --> 5529.12]  In de geschiedenis van de mens.
+[5529.26 --> 5530.56]  Niet heel erg heeft bewezen.
+[5530.96 --> 5532.02]  Dat dat goed gaat.
+[5532.56 --> 5533.68]  Dat gaat zo vaak mis.
+[5533.78 --> 5534.22]  Tot nu toe.
+[5534.42 --> 5535.88]  Waarom gaat het dan nu ineens wel goed?
+[5536.26 --> 5536.66]  Ja.
+[5536.84 --> 5537.22]  Dat is.
+[5537.30 --> 5537.64]  Dat is.
+[5537.72 --> 5538.32]  Dat is niet.
+[5538.44 --> 5539.14]  Een gegeven.
+[5539.30 --> 5540.84]  Maar jullie hadden het vorige aflevering.
+[5540.94 --> 5541.62]  Ook over.
+[5542.00 --> 5542.84]  Over bijvoorbeeld.
+[5543.42 --> 5543.82]  Virtual.
+[5545.06 --> 5545.42]  Socialisering.
+[5545.52 --> 5546.88]  Of een van de vorige afleveringen.
+[5547.02 --> 5547.80]  Van jij kan je een.
+[5548.12 --> 5548.54]  Bepaalde.
+[5549.26 --> 5550.56]  Je ziet twee mensen ergens staan.
+[5550.68 --> 5551.24]  En dan kan jij.
+[5551.46 --> 5553.02]  In een soort virtual reality world.
+[5553.08 --> 5553.80]  Daarnaartoe lopen.
+[5553.94 --> 5554.18]  En noem het.
+[5554.28 --> 5555.36]  Word je gecoacht.
+[5555.52 --> 5557.28]  Met hoe ga je dan zo'n gesprek aan.
+[5557.60 --> 5557.70]  Ja.
+[5557.70 --> 5558.78]  Dat soort dingen zijn natuurlijk.
+[5558.78 --> 5559.88]  Ook wel gewoon mogelijk.
+[5560.48 --> 5560.68]  En.
+[5561.62 --> 5562.74]  Ik heb ook zoiets van.
+[5562.86 --> 5563.68]  Als we het in een studie.
+[5563.68 --> 5564.30]  Psychologie.
+[5564.30 --> 5565.18]  Of verpleegkunde.
+[5566.18 --> 5566.50]  Verpleegkunde.
+[5566.50 --> 5567.42]  Kunnen leren.
+[5567.52 --> 5568.80]  Dan kunnen we het in die zin ook.
+[5568.88 --> 5569.90]  Weer terugbrengen.
+[5569.98 --> 5570.14]  Naar.
+[5570.26 --> 5570.40]  Oké.
+[5570.40 --> 5571.80]  Wat precies brengen we hierover.
+[5571.94 --> 5573.10]  En hoe gaan we dat interactief.
+[5573.18 --> 5573.86]  Of dynamisch.
+[5574.38 --> 5574.86]  Doen.
+[5574.96 --> 5575.24]  En daar.
+[5575.32 --> 5576.94]  Ik hoop dat er goede onderwijs.
+[5576.94 --> 5577.66]  Psychologen.
+[5577.78 --> 5579.18]  Over na gaan denken.
+[5579.30 --> 5580.10]  En dan laten we dat ook.
+[5580.54 --> 5581.10]  Vooral doen.
+[5582.48 --> 5582.80]  Maar.
+[5583.22 --> 5584.26]  Vanuit first principles.
+[5584.40 --> 5584.94]  Om het zo maar te zeggen.
+[5585.02 --> 5585.84]  Zie ik daar geen.
+[5586.64 --> 5586.96]  Hindernissen.
+[5587.22 --> 5587.28]  Om.
+[5587.44 --> 5587.60]  Om.
+[5587.72 --> 5587.92]  Om.
+[5588.02 --> 5588.54]  Ook dat.
+[5590.46 --> 5591.36]  Mogelijk te maken.
+[5592.48 --> 5592.60]  Ja.
+[5592.62 --> 5592.94]  Ik denk dat.
+[5593.08 --> 5593.64]  Ik denk dat het.
+[5593.76 --> 5594.86]  Dat er technisch niet per se.
+[5595.06 --> 5595.72]  Hindernissen zijn.
+[5596.26 --> 5597.26]  Maar dat dat meer te maken heeft.
+[5597.28 --> 5598.78]  Met de prioriteiten die gelegd worden.
+[5598.88 --> 5600.34]  Bij het ontwikkelen van de systemen.
+[5600.38 --> 5600.76]  Dus bijvoorbeeld.
+[5600.86 --> 5601.42]  Een Nintendo.
+[5601.62 --> 5602.10]  Leuk voorbeeld.
+[5602.20 --> 5603.58]  Die heeft natuurlijk de Nintendo Wii gemaakt.
+[5603.72 --> 5604.90]  Gingen mensen ineens allemaal sporten.
+[5604.96 --> 5605.28]  In ieder geval.
+[5605.56 --> 5606.64]  Dat zag je op de reclame.
+[5606.64 --> 5607.72]  Laat ik dat even cynisch.
+[5608.04 --> 5608.66]  Ze bewogen.
+[5609.40 --> 5609.50]  Ja.
+[5609.50 --> 5609.72]  Dan.
+[5609.72 --> 5610.00]  Dan.
+[5610.24 --> 5611.44]  Dan kan je cynisch bekijken.
+[5611.56 --> 5611.74]  En zeggen.
+[5611.82 --> 5611.92]  Joh.
+[5611.96 --> 5612.94]  Er zat iemand bij Nintendo.
+[5613.06 --> 5614.00]  Die zag een gat in de markt.
+[5614.04 --> 5614.70]  Namelijk bewegen.
+[5615.22 --> 5615.44]  En dat.
+[5615.62 --> 5616.66]  Het feit dat mensen bewegen.
+[5616.76 --> 5617.58]  Interesseert Nintendo niks.
+[5617.74 --> 5618.42]  Dat is heel cynisch.
+[5618.72 --> 5619.86]  Of je kan denken dat Nintendo.
+[5620.00 --> 5620.08]  Zei.
+[5620.12 --> 5620.22]  Nou.
+[5620.26 --> 5621.96]  We hebben een soort maatschappelijke verantwoordelijkheid.
+[5622.28 --> 5623.68]  Heel veel mensen zitten op de bank.
+[5623.88 --> 5624.46]  Te gamen.
+[5624.68 --> 5625.54]  Ze moeten gaan bewegen.
+[5625.70 --> 5626.76]  Dat is een beetje hetzelfde verhaal.
+[5626.84 --> 5628.04]  Achter de Apple Watch.
+[5628.30 --> 5629.14]  Aval la letteren.
+[5629.20 --> 5630.68]  Is het nu in een keer een helft ding geworden.
+[5630.78 --> 5631.62]  Dat werkt heel goed.
+[5631.62 --> 5632.80]  Maar je kunt dus.
+[5632.80 --> 5634.04]  Als je zo'n technologie ontwikkelt.
+[5634.18 --> 5635.98]  Zullen we zorgen dat mensen meer naar buiten gaan.
+[5636.34 --> 5637.86]  Dat staat dan gewoon bovenaan de lijst.
+[5637.94 --> 5638.54]  Zo op nummer twee.
+[5640.16 --> 5641.62]  En zo kun je ook zeggen.
+[5641.98 --> 5642.70]  In het onderwijs.
+[5642.80 --> 5644.70]  Wat is de rol van de leefomgeving.
+[5644.84 --> 5645.20]  Het bos.
+[5645.40 --> 5645.72]  Gimmen.
+[5646.78 --> 5647.06]  Schilderen.
+[5647.22 --> 5647.62]  Dansen.
+[5647.68 --> 5648.80]  Wat we net allemaal hebben gezegd.
+[5649.20 --> 5649.32]  Ja.
+[5649.60 --> 5650.84]  Als het niet in de systemcard staat.
+[5650.90 --> 5651.58]  Gaat het niet gebeuren.
+[5651.66 --> 5652.82]  En die systemcard wordt weer gemaakt.
+[5652.88 --> 5654.44]  Aan de hand van de waarde die we met elkaar hebben.
+[5654.50 --> 5655.26]  En als het daar niet in staat.
+[5655.34 --> 5656.34]  Komt het er zeker niet in.
+[5656.46 --> 5658.80]  Weet je wat ik zo mooi vind aan AI.
+[5658.80 --> 5663.42]  En dat is ook waarom het leuk is om deze podcast te maken.
+[5663.54 --> 5667.28]  Omdat je werkelijk ieder onderwerp terug kan werpen op first principles.
+[5667.50 --> 5667.74]  Ja maar.
+[5667.96 --> 5671.50]  Ik realiseer me gewoon hoe weinig we daarover praten.
+[5671.70 --> 5672.88]  We als maatschappij.
+[5673.00 --> 5675.56]  Er zijn vast allerlei groepjes die hier heel veel over praten.
+[5675.78 --> 5676.26]  Maar groepjes.
+[5676.38 --> 5681.14]  Dit stijgt niet op tot het algemene debat.
+[5681.58 --> 5682.80]  En AI maakt dat urgenter.
+[5683.44 --> 5685.30]  Maakt het urgenter om opeens te bedenken.
+[5685.30 --> 5687.78]  Waarom doen we dit eigenlijk zo?
+[5688.08 --> 5690.66]  En dat is eigenlijk de vraag die jou al anderhalf uur stelt.
+[5691.16 --> 5692.02]  Waarom doen we dit?
+[5692.12 --> 5693.60]  Wat wil je nou eigenlijk ermee?
+[5693.82 --> 5694.64]  En ik hoop ook dat.
+[5694.76 --> 5696.40]  En dat is iets wat we door de jaren heen.
+[5696.50 --> 5697.78]  Wat we gaan jarenlang opnemen.
+[5697.88 --> 5698.94]  Want we hebben nog jaren te praten.
+[5698.94 --> 5699.24]  Ja zeker.
+[5699.24 --> 5699.66]  Oprecht.
+[5700.26 --> 5701.30]  Jarenlang gaan wij opnemen.
+[5701.36 --> 5701.66]  Nou ja.
+[5701.80 --> 5702.76]  Dat is gewoon genoeg.
+[5702.88 --> 5703.02]  Toch?
+[5703.08 --> 5703.48]  Nee maar ik bedoel.
+[5703.58 --> 5704.16]  En ik.
+[5704.84 --> 5707.78]  Wat ik denk ik een beetje probeer.
+[5707.78 --> 5710.40]  Is omdat ik wel weet in mijn werkende leven.
+[5710.78 --> 5712.00]  Dat in een vergadering.
+[5712.32 --> 5713.34]  Een samenkomst van mensen.
+[5713.34 --> 5715.54]  Bijvoorbeeld de kick-off van een gave nieuw project.
+[5716.16 --> 5717.88]  En dan zou je misschien nu als luisteraar verwachten.
+[5717.98 --> 5719.06]  Dat ik daar dan bij zit.
+[5719.18 --> 5720.64]  Van nou nou nou.
+[5721.02 --> 5722.38]  We moeten het nog maar zien.
+[5722.40 --> 5724.46]  Wel een beetje hoe ik denk dat jij erbij gaat zitten.
+[5724.66 --> 5726.16]  Ja dat ik zo'n pariëren opwerp de hele tijd.
+[5726.28 --> 5726.96]  En een soort van zeg.
+[5727.04 --> 5728.10]  Met je alu hoedje op.
+[5728.10 --> 5729.58]  Ja we zitten van heel de tijd dat.
+[5729.92 --> 5732.26]  Terwijl ik over het algemeen in die groepen.
+[5732.32 --> 5733.66]  Een beetje meer een exciter ben.
+[5733.74 --> 5734.72]  Ik ben mensen aan het aansteken.
+[5734.84 --> 5736.16]  Ik kom daar best wel enthousiast binnen.
+[5736.72 --> 5737.54]  Maar er zit ook een.
+[5737.92 --> 5740.52]  Ja ik wil een soort van constructief fantaseren.
+[5740.64 --> 5741.92]  Over hoe we het toch kunnen doen.
+[5741.92 --> 5744.24]  En jij compenseert voor deze technofixers.
+[5744.46 --> 5745.44]  Misschien is daar ook een.
+[5745.80 --> 5746.30]  Probeer het.
+[5746.74 --> 5747.08]  Oké.
+[5747.10 --> 5749.64]  Er is een trucje dat die interviewers altijd toepassen.
+[5750.32 --> 5752.10]  En dat is het gesprek gewoon afronden.
+[5752.32 --> 5753.60]  En het daarna verder laten gaan.
+[5754.00 --> 5756.90]  Want meestal zijn de gesprekken na afloop van een podcast.
+[5757.20 --> 5759.58]  Nog leuker dan de gesprekken van een podcast zelf.
+[5760.30 --> 5762.26]  Hoe kijk je nou terug op dit gesprek onno?
+[5762.26 --> 5766.84]  Nou ik denk uiteindelijk dat Wietz en ik het wel min of meer ook wel eens zijn.
+[5766.90 --> 5767.46]  Hoeft niet hè.
+[5767.54 --> 5767.94]  Nee nee nee.
+[5767.94 --> 5768.56]  Mag ik het ook wel eens zijn.
+[5768.56 --> 5768.86]  Nee nee nee.
+[5768.86 --> 5770.04]  Ik denk gedeeld.
+[5770.16 --> 5770.52]  Ik deel.
+[5770.64 --> 5774.82]  Er zit in mij een stuk wat heel duidelijk ziet.
+[5774.94 --> 5776.26]  Sort van wat zijn de barrières.
+[5776.54 --> 5779.74]  En dit is natuurlijk ook vanuit mijn eigen persoonlijke onderwijsvisie.
+[5779.92 --> 5780.66]  En noem het maar op.
+[5780.72 --> 5782.26]  Zie ik wat er misgaat in het huidige systeem.
+[5782.92 --> 5784.10]  En hoe we dat beter kunnen doen.
+[5784.48 --> 5786.22]  En zie ik al die menselijke waarden.
+[5786.70 --> 5787.96]  En wat daar eigenlijk kan.
+[5787.96 --> 5791.88]  Dat we dat echt niet verloren moeten laten gaan.
+[5792.12 --> 5794.40]  En in een soort toetsingsdrang kwijt moeten raken.
+[5795.10 --> 5800.74]  Maar ik zie tegelijkertijd ook dat we gewoon als cultuur en noem het maar op.
+[5801.28 --> 5806.82]  Zo soort van diep pessimistisch zijn geworden over de kansen van technologie.
+[5806.94 --> 5810.08]  En eigenlijk alleen nog maar nadenken over doemscenario's.
+[5810.10 --> 5811.66]  En daar over corrigeer jij voor.
+[5811.78 --> 5815.20]  Daar over corrigeer ik daar een beetje voor.
+[5815.20 --> 5823.20]  Van ja, kijk, Mark Andreessen had ook twee weken geleden dat essay van waarom AI wil save the world.
+[5823.40 --> 5827.26]  Van ja, het is heel makkelijk om nu van tevoren te zeggen.
+[5827.60 --> 5831.88]  Oké, we zien al één, twee, drie, vier dingen waarop het fout kan gaan.
+[5832.02 --> 5833.60]  En dat is ook gewoon wel waar.
+[5834.14 --> 5838.50]  Alleen wat we niet zien zijn de dingen die nog niet uitgevonden zijn.
+[5838.50 --> 5844.50]  En als wij honderd jaar geleden, maar wij zo spreken bij de introductie van het vuur al hadden gezegd.
+[5845.20 --> 5848.40]  Kijk maar, kijk hoe gevaarlijk dit is oprecht.
+[5848.90 --> 5853.84]  En daar hadden de Grieken oprecht ook gewoon een mythe van Prometheus die gewoon gestraft werd.
+[5853.96 --> 5856.50]  Omdat hij het vuur aan de mensen had gegeven.
+[5856.96 --> 5859.90]  En zeiden van ja, maar dit kan totaal misgaan.
+[5859.90 --> 5868.44]  Ja, wat was gebeurd met de mensheid als we hadden gezegd bij de uitvinding van het vuur of het wiel of de fiets.
+[5869.26 --> 5870.14]  Maakt niet uit.
+[5870.24 --> 5873.10]  Hadden gezegd van ja, dit is echt gevaarlijk.
+[5873.26 --> 5875.06]  En dat is allemaal waar.
+[5875.50 --> 5883.96]  Alleen ja, de geschiedenis van de technologie is in zoverre een geschiedenis van dingen die we niet van tevoren konden voorspellen.
+[5883.96 --> 5890.08]  En daarbij moeten we altijd ruimte laten voor oké, dit kan ook radicaal goed gaan.
+[5890.40 --> 5894.20]  En in de geschiedenis is het ook vaak gewoon heel goed gegaan.
+[5894.48 --> 5900.18]  Niemand wil terug naar 100, 200 jaar geleden voor al die technologie.
+[5900.68 --> 5902.90]  Nou, een beetje onderdruk de neiging om hierop in te gaan.
+[5903.32 --> 5905.64]  Ik vind het echt, dit vind ik heel mooi om te horen.
+[5905.84 --> 5909.90]  Want dan kunnen wij, ik wil je nog even laten uitpraten.
+[5910.00 --> 5912.58]  Want je zat lekker, ik wil dan juist nog niet op ingaan.
+[5912.58 --> 5916.44]  Nee, maar ik kan hier nog tig voorbeelden van geven.
+[5918.42 --> 5921.82]  Bijvoorbeeld nucleaire energie of nucleaire technologie in het algemeen.
+[5923.04 --> 5928.26]  Daarvoor zagen we heel duidelijk de nadelen van oké, dat kan een kernoorlog veroorzaken.
+[5928.62 --> 5931.60]  Toen zeiden we, we gaan dat min of meer kapot reguleren.
+[5932.22 --> 5933.98]  En iedereen was tegen nucleaire energie.
+[5934.88 --> 5938.02]  En we hadden gewoon min of meer het klimaatprobleem zoals het nu is.
+[5938.02 --> 5943.02]  We hadden er echt anders voor gestaan als we nu die nucleaire energie hadden geadopteerd.
+[5943.14 --> 5944.08]  Echt goedkopere energie.
+[5944.14 --> 5947.64]  Maar ik denk dat dit exact de reden is waarom al deze AI toepassen.
+[5947.70 --> 5949.62]  Ik ben het eigenlijk wel heel erg met je eens wat je zegt.
+[5949.70 --> 5952.44]  Waarschijnlijk gaan we het eerst business to consumer krijgen.
+[5952.74 --> 5956.32]  Dus dat allemaal dit soort AI toepassingen niet gaan komen uit het onderwijs.
+[5956.40 --> 5957.86]  En niet gaan komen uit uitgevers.
+[5957.86 --> 5961.84]  En ik vind dat best wel een depressing gedachte eerlijk gezegd.
+[5963.34 --> 5964.98]  Omdat het toch wel gaat gebeuren.
+[5965.72 --> 5971.20]  En ik heb liever dat het komt uit het hart van de sector.
+[5971.38 --> 5975.20]  In plaats van technologiebedrijven die technofixers gaan toepassen.
+[5975.30 --> 5976.48]  En er ook gaan geld mee willen verdienen.
+[5976.56 --> 5977.66]  Want dat is natuurlijk hoe het gaat zijn.
+[5977.66 --> 5984.78]  Ik zit wel te denken dat dat soort van gevaar.
+[5985.66 --> 5987.10]  Dat als we er dus allemaal.
+[5987.48 --> 5990.24]  Ze hadden het tijdens de uitvinding van het vuur in Wietse was geweest.
+[5990.32 --> 5994.98]  Die had gezeten van jongens hiermee kunnen ze ook ons dorp in de fik steken.
+[5995.30 --> 5999.10]  Ik kan er wel even doorgaan met fantaseren over wat je met vuur allemaal nadigheid kan doen.
+[5999.10 --> 5999.30]  Ja.
+[6001.70 --> 6002.06]  Kijk.
+[6003.62 --> 6006.64]  Mijn aanname is.
+[6007.50 --> 6011.46]  Dat is een beetje Kevin Kelly achtig inspireert.
+[6011.52 --> 6014.24]  Die ooit het boek What Technology Wants geschreven heeft.
+[6014.32 --> 6016.04]  Dat heeft me echt een soort van doen wakker maken.
+[6016.14 --> 6017.60]  Toen wilde ik ineens filosofie gaan doen.
+[6017.98 --> 6019.22]  En nu kijk je terug op dat boek.
+[6019.30 --> 6019.54]  Dan denk ik.
+[6019.62 --> 6019.92]  Moe, moe.
+[6019.96 --> 6020.70]  Heb ik wel wat vragen bij.
+[6021.04 --> 6024.40]  Maar ik heb dat in één teug uitgelezen.
+[6024.84 --> 6025.68]  En ik werd helemaal gek.
+[6025.68 --> 6026.22]  Ik dacht echt.
+[6026.58 --> 6026.84]  Oké.
+[6026.90 --> 6028.08]  Maar hier zitten dingen in.
+[6028.08 --> 6030.94]  Want de premise is dat technologie een wil heeft.
+[6031.14 --> 6032.66]  Later blijkt het allemaal door Elul.
+[6032.86 --> 6033.54]  Lees Elul.
+[6033.90 --> 6037.28]  Allemaal al geschreven te zijn op een veel filosofisch zwaardere, interessantere manier.
+[6037.62 --> 6042.30]  Maar Kevin Kelly legde het daar voor het brede publiek à la Sapiens neer.
+[6042.40 --> 6043.58]  Dat boek is echt toegankelijk.
+[6044.08 --> 6045.34]  En zijn idee is dat hij zegt.
+[6045.42 --> 6047.58]  Wij maken technologie niet omdat wij technologie willen.
+[6047.92 --> 6050.46]  Inmiddels maken we technologie omdat technologie technologie wil.
+[6051.04 --> 6052.02]  Hele grote statement.
+[6052.26 --> 6054.66]  We zijn inmiddels allemaal dingen aan het maken in de wereld.
+[6054.66 --> 6058.64]  Want we hebben namelijk technologie nodig om technologie weer recht te zetten.
+[6059.16 --> 6062.92]  Dus de technologie is ons inmiddels eigenlijk aan het vragen om nog meer technologie.
+[6063.48 --> 6065.66]  En dan denk je dat klinkt best wel Black Mirror.
+[6065.82 --> 6067.02]  En dat boek is super vrolijk.
+[6067.10 --> 6068.08]  Hij vindt het helemaal geweldig.
+[6068.18 --> 6069.02]  Echt heel bijzonder is dat.
+[6069.10 --> 6071.34]  Zijn reactie erop is heel anders dan dat ik zei.
+[6071.40 --> 6075.14]  Want ik vind een ding buiten ons dat dingen van ons vraagt wat geen mens is.
+[6075.18 --> 6077.78]  Maar een soort zombie life form namelijk technologie.
+[6078.12 --> 6079.14]  Best wel een spannend idee.
+[6079.14 --> 6079.76]  Maar goed.
+[6080.78 --> 6085.32]  Ik zit wel een beetje in dat idee dat ik denk dat technologie vraagt technologie.
+[6085.88 --> 6091.42]  Dat betekent dus ook dat ik heel erg geloof dat AI in het onderwijs gaat helemaal niet tegengehouden worden.
+[6091.56 --> 6092.86]  Daar geloof ik er gewoon geen reet van.
+[6093.04 --> 6096.70]  Dus ik denk helemaal niet dat ik hier ook maar iets kan roepen wat het tegen gaat houden eerlijk.
+[6096.80 --> 6098.92]  Nee maar niet om te zeggen oh je hebt ongelijk.
+[6099.02 --> 6104.50]  Maar meer van ik denk dat AI in het onderwijs niet meer aanmoediging nodig heeft.
+[6104.50 --> 6105.74]  Dat hoeft helemaal niet.
+[6105.82 --> 6106.52]  Dat komt wel joh.
+[6106.78 --> 6110.16]  Het enige wat het nodig heeft is meer kritische kijk op hoe we het toepassen.
+[6110.24 --> 6111.62]  Want toegepast wordt het sowieso wel.
+[6111.98 --> 6116.34]  Mijn enige boodschap is dat niet als we het toepassen maar we toepassen het toch wel toe.
+[6116.78 --> 6119.82]  En als we het met z'n allen gaan tegenhouden op overheidsniveau.
+[6120.06 --> 6122.36]  Dan komt het op de Chromebooks te staan vanuit de business.
+[6122.52 --> 6123.16]  Moeten we dat willen.
+[6123.26 --> 6124.30]  Dat is wat jij net zegt Alexander.
+[6125.22 --> 6128.62]  Dus mijn boodschap is enkel en alleen.
+[6129.24 --> 6132.76]  Ik zie een enorme inherent momentum in al deze ontwikkelingen.
+[6132.76 --> 6138.30]  Ik denk dat we daar door blinde angst misschien verkeerde keuzes in kunnen gaan maken.
+[6138.44 --> 6140.32]  Dus er is wel invloed.
+[6140.88 --> 6143.20]  Maar wat ik hier probeer te preken is.
+[6144.20 --> 6145.00]  Ja het komt er.
+[6145.40 --> 6149.44]  Ik denk ook dat we het zelfs dat het er komt en ik heb daar geen controle over.
+[6149.48 --> 6150.96]  Vind ik dat per se niet eens erg denk ik.
+[6151.00 --> 6152.40]  Ik vind dat wel gaaf ook oprecht.
+[6153.22 --> 6155.26]  Maar ik heb daar wel heel veel vraagtekens bij.
+[6155.36 --> 6156.44]  Waar ik zeg jongens even opletten.
+[6157.94 --> 6160.68]  Nou maar dat verklaart wel veel van wat je zegt.
+[6160.68 --> 6163.42]  Ja want bij dat vuur zou ik ook hebben gezeten van ja ik zie hem.
+[6163.58 --> 6164.16]  Dit moeten we doen.
+[6164.18 --> 6166.84]  Maar ik denk dat deze hele sector gevuld is met mensen die niet.
+[6167.34 --> 6169.62]  Ik kom uit de wereld van de uitgevers.
+[6169.78 --> 6173.88]  Dat zijn ook geen bedrijven die snel bewegen.
+[6174.10 --> 6174.82]  Nou het onderwijs.
+[6174.94 --> 6179.06]  Als ik probeer te bedenken wat nou een conservatieve beroepsgroep.
+[6179.26 --> 6181.60]  Dan staat onderwijs toch ook wel erg bovenaan het lijstje.
+[6181.70 --> 6183.16]  Dus ik denk tegenovergestelden.
+[6183.36 --> 6186.20]  Ik denk dat dat helemaal niet de neiging heeft om te bewegen.
+[6186.30 --> 6189.52]  Zoals dat ze 30 jaar hebben geluld over of ze een rekenmachine moeten invoeren.
+[6189.52 --> 6191.84]  De methodes die we gebruiken is nog steeds al.
+[6192.16 --> 6195.34]  Het meest geavanceerde wat we hebben zijn fucking digiborden.
+[6195.68 --> 6199.34]  Windows machines met een touchscreen met een rand van 20 centimeter eromheen.
+[6199.62 --> 6203.32]  Ik denk dus en daar gezegd dat vind ik ook nog wel interessant voor ons vandaag.
+[6204.48 --> 6207.64]  Is dat dat woord onderwijs is zo groot.
+[6207.86 --> 6208.42]  Dat is wel echt.
+[6208.60 --> 6209.66]  Ik wil hem toch even uitzoomen.
+[6209.80 --> 6211.68]  Want vaak gaat het dan over basisonderwijs.
+[6211.74 --> 6212.90]  Want daar ligt heel veel gevoel.
+[6213.22 --> 6214.28]  Bij luisteraars en bij ons.
+[6214.50 --> 6214.98]  De kinderen.
+[6215.26 --> 6215.98]  Dat bedoelt niet zinig.
+[6215.98 --> 6216.50]  Onze kinderen.
+[6216.64 --> 6217.46]  De toekomst.
+[6217.56 --> 6217.66]  Ja.
+[6218.02 --> 6218.78]  What about the children?
+[6218.84 --> 6218.98]  Ja.
+[6219.06 --> 6219.78]  Dus dat leeft dan.
+[6219.88 --> 6220.98]  Onderwijs is dan vaak dat.
+[6221.28 --> 6223.24]  Jij begon eigenlijk over middelbaar onderwijs.
+[6223.32 --> 6223.94]  Vond ik wel interessant.
+[6224.08 --> 6224.56]  Dat ik dacht yes.
+[6224.86 --> 6226.38]  Hij gaat niet meteen op die basisschool zitten.
+[6226.52 --> 6229.22]  Want dat zijn ook weer echt wel andere werelden met overlap.
+[6229.34 --> 6230.70]  Laat ik het dan even voorzichtig zo zeggen.
+[6231.08 --> 6233.92]  Toen begon je heel gaaf dat je zei ik luisterde vier uur per dag naar podcasts.
+[6234.02 --> 6234.78]  Dat heeft me meer gebracht.
+[6234.86 --> 6235.74]  Ja dat was op de universiteit.
+[6235.74 --> 6237.66]  Ja super lekker dat je ook even daarin ging.
+[6237.82 --> 6239.36]  En toen begon je over een leven lang leren.
+[6239.76 --> 6240.32]  En wat als het is.
+[6240.40 --> 6241.04]  Ik ben heel blij.
+[6241.04 --> 6244.06]  Nee want ik vind dus het onderwijs is een instituut volgens mij.
+[6244.68 --> 6245.76]  Met een onderwijsminister.
+[6246.60 --> 6246.70]  Ik.
+[6247.16 --> 6248.06]  En jullie zeiden net ja.
+[6248.12 --> 6249.02]  Daar gaat straks iemand die wil.
+[6249.22 --> 6249.64]  Ik noem het.
+[6249.90 --> 6250.74]  Ik pak even een voorbeeld.
+[6250.86 --> 6252.36]  Maar je wil leren koken.
+[6252.50 --> 6254.68]  Je wil Indonesisch leren koken op je 61ste.
+[6254.76 --> 6255.84]  Want je bent vroeg met pensioen.
+[6255.92 --> 6256.72]  En je gebruikt een AI.
+[6256.86 --> 6257.84]  En die zet je neer op een iPad.
+[6257.96 --> 6258.88]  En die gaat tegen je praten.
+[6258.96 --> 6259.88]  En het wordt helemaal fantastisch.
+[6259.92 --> 6261.02]  Het wordt door een bedrijf gedaan.
+[6261.02 --> 6262.02]  Namelijk Duolingo.
+[6262.24 --> 6264.14]  Maar daar heette het Duocooking.
+[6264.24 --> 6264.46]  Whatever.
+[6264.66 --> 6265.24]  Ze gaan een hele ding.
+[6265.56 --> 6266.20]  Ze gaan helemaal los.
+[6266.20 --> 6271.40]  En ik denk dat daar ook veel interessants over te zeggen is.
+[6271.44 --> 6272.18]  Dat hoeft niet vandaag.
+[6272.48 --> 6274.34]  Maar van hoe ga je een op een iets leren.
+[6274.44 --> 6275.54]  En jezelf uitbreiden als mens.
+[6275.66 --> 6277.88]  Daar ben ik eigenlijk grotendeels enthousiast over.
+[6278.16 --> 6279.34]  Al zou ik het daar ook gaaf vinden.
+[6279.44 --> 6281.36]  Als je aan een cooking body gekoppeld wordt.
+[6281.68 --> 6283.34]  En dat er ook weer iets van menselijke waarde.
+[6283.42 --> 6285.24]  Behalve kennisdeling over koken in zit.
+[6285.40 --> 6285.68]  Fine.
+[6286.18 --> 6289.54]  Maar waar volgens mij mijn haren een beetje recht overeind gaan staan.
+[6289.64 --> 6291.52]  Dat ik naar die microfoon steeds dichterbij kom.
+[6291.78 --> 6293.32]  Is als we richting die middelbare school.
+[6293.46 --> 6294.16]  Basisschool gaan.
+[6294.38 --> 6294.56]  Ja.
+[6294.86 --> 6295.54]  Met elkaar.
+[6295.54 --> 6295.98]  Nou ja.
+[6296.08 --> 6297.12]  Ik deel dat helemaal.
+[6297.36 --> 6298.96]  Ik denk alleen dat één gevaar is.
+[6299.52 --> 6300.42]  Wat ik nu zie.
+[6300.58 --> 6301.60]  Is dat we.
+[6302.22 --> 6304.68]  Wat Mark Andreessen ook aanhaalt in dat essay van.
+[6304.92 --> 6306.28]  Why AI will save the world.
+[6306.68 --> 6307.50]  Is dat we denken.
+[6307.64 --> 6307.96]  Oké.
+[6308.22 --> 6310.02]  We gaan het reguleren op zo'n manier.
+[6310.12 --> 6311.20]  En zelfs de grote bedrijven.
+[6311.32 --> 6311.68]  Die vragen.
+[6311.88 --> 6312.84]  AI bedrijven.
+[6312.92 --> 6313.44]  De grote vijf.
+[6313.46 --> 6315.04]  Die vragen allemaal om regulering.
+[6315.16 --> 6315.58]  En dan denk je.
+[6315.66 --> 6317.82]  Dat is heel sympathiek en aardig en zo.
+[6318.76 --> 6322.44]  Maar daar valt ook een hoop tegen in te brengen.
+[6322.54 --> 6324.42]  Want wat zie je nou gewoon uiteindelijk gebeuren.
+[6324.42 --> 6327.66]  Is dat dat het dan dichtgetimmerd wordt.
+[6327.80 --> 6331.76]  Op zo'n manier dat eigenlijk alleen maar die vijf grote bedrijven er nog aan kunnen voldoen.
+[6332.06 --> 6336.16]  Nou zij gaan vervolgens ook weer dat wet beleidsmakingsproces heel erg beïnvloeden.
+[6336.34 --> 6338.78]  En dat wordt dat roest dan helemaal vast.
+[6338.96 --> 6340.78]  Waardoor het eigenlijk in één keer stagneert.
+[6340.78 --> 6346.78]  En ja dan denken we nou we hebben het in ieder geval weer ongevaarlijk gemaakt.
+[6346.86 --> 6347.44]  Onder controle.
+[6347.70 --> 6350.08]  Maar ook alle vooruitgang is er ook in één keer uit.
+[6350.18 --> 6354.98]  En als je al kijkt van nou in Nederland zijn er maar echt een handvol onderwijspartijen.
+[6355.08 --> 6356.12]  Die dan software en zo aan.
+[6356.20 --> 6358.90]  Als je al ziet hoe soort oligopolie dat is.
+[6359.22 --> 6360.98]  En hoe slecht dat is voor de innovatie.
+[6361.42 --> 6364.36]  Nou dan moeten we daar ook wel echt een kritische blik op werpen.
+[6364.48 --> 6366.78]  En zeggen van ja moeten we dat niet iets verder open gooien.
+[6366.78 --> 6371.86]  En in ieder geval als mensen kunnen kiezen tussen verschillende scholen.
+[6371.94 --> 6373.04]  En ouders dat ook kunnen.
+[6373.48 --> 6377.62]  Dan staan we misschien toe dat één op de honderd scholen dat er een keer iets misgaat.
+[6378.04 --> 6379.56]  Maar dan sluit die school.
+[6379.84 --> 6385.00]  En dan houden we in ieder geval die innovatie op een manier in het systeem.
+[6385.48 --> 6388.70]  En dat vind ik wel heel belangrijk om te zeggen.
+[6389.00 --> 6392.88]  Omdat het de impuls van oké we moeten het direct ongevaarlijk maken.
+[6392.98 --> 6394.78]  Dus op zichzelf ook een gevaar herbergt.
+[6394.78 --> 6397.88]  Ik vond het een hele mooie ontmoeting van twee culturen.
+[6398.08 --> 6398.86]  Dank jullie hiervoor.
+[6399.44 --> 6404.28]  En we hebben toch weer 1 uur en meer 1 uur 50 minuten of zo.
+[6404.36 --> 6405.40]  Schoon in de haak wiet ze.
+[6405.84 --> 6407.88]  Het wordt echt de Lex Friedman podcast langzaam.
+[6408.02 --> 6410.42]  Ik zie er naar uit dat deze podcast 4 uur duurt.
+[6410.80 --> 6412.68]  Nou ja ik denk mensen kunnen gewoon pauzeren.
+[6412.76 --> 6413.86]  En dan de dag ernaar verder luisteren.
+[6413.86 --> 6414.36]  Daarom het zo.
+[6414.48 --> 6415.56]  Op een gegeven moment is het een audiobook.
+[6415.94 --> 6417.90]  Je krijgt geen multiple choice toets.
+[6418.32 --> 6418.44]  Nee.
+[6418.90 --> 6419.66]  Nee ook dat.
+[6420.06 --> 6421.08]  Het alleen maar voor het plezier.
+[6421.60 --> 6422.40]  Nou wat prachtig.
+[6422.86 --> 6423.66]  Volgende week zijn we weer.
+[6423.66 --> 6424.72]  Dank voor het luisteren.
+[6424.76 --> 6425.04]  Tot dan.
+[6426.46 --> 6429.24]  En ben je er al achter of Eneco dynamisch bij je past?
+[6429.80 --> 6430.62]  Of nog niet?
+[6431.28 --> 6433.70]  Doe de test op eneco.nl slash test.
+[6434.80 --> 6436.76]  Mensen helpen een bewuste keuze te maken.
+[6437.68 --> 6438.28]  We doen het nu.
+[6438.76 --> 6439.24]  Eneco.
+[6439.24 --> 6439.90]  Delene.
+[6439.90 --> 6439.92]  Noem.
+[6440.76 --> 6441.14]  Doe.
+[6441.14 --> 6441.50]  Doe.
+[6441.50 --> 6442.96]  ICU-

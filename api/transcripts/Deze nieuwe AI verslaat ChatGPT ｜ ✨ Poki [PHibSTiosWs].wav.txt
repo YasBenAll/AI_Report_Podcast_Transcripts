@@ -1,0 +1,1098 @@
+Video title: Deze nieuwe AI verslaat ChatGPT ｜ ✨ Poki
+Youtube video code: PHibSTiosWs
+Last modified time: 2024-06-27 15:40:27
+
+------------------ 
+
+[0.00 --> 5.64]  Koffertijd voor Mannen, de podcast waarin drie onbezonde gasten je wekelijks een kijkje geven in hun zinderende studentenleven.
+[5.74 --> 8.82]  We gaan geen onderwerp uit de weg en helpen je op het gebied van liefde.
+[8.92 --> 11.28]  Zou je huilen tijdens een seks en een afknapper vinden?
+[11.72 --> 15.20]  Vriendschap en alle andere problemen die je tegenkomt in je studentenleven.
+[15.30 --> 16.80]  Ze misten een beetje vol.
+[18.76 --> 22.02]  Elke maandag om drie uur sharp op je favoriete podcastplatform.
+[22.12 --> 24.72]  Ik heb met zoveel meiden getoond.
+[24.96 --> 26.32]  En met vier verschillen.
+[26.32 --> 28.94]  Ik zei Bram, dat was vier keer dezelfde.
+[30.00 --> 31.66]  We luisteren deze podcast op eigen risico.
+[33.34 --> 34.98]  Luisteraar, trigger warning.
+[35.48 --> 39.86]  Ik hecht eraan om te vertellen van tevoren dat we de huisstijl veranderd hebben.
+[40.30 --> 42.56]  De audio vormgeving is totaal anders.
+[42.80 --> 45.64]  En ik snap dat dit voor jullie voelt alsof je je woonkamer binnenkomt.
+[46.00 --> 48.96]  En dat alle meubels verplaatst zijn en de muren aan de behang hebben gekregen.
+[49.06 --> 51.62]  En dat alles anders is zonder dat we je om toestemming hebben gevraagd.
+[52.20 --> 53.34]  Maar we hebben het toch gedaan.
+[53.34 --> 55.78]  Wiet, is dit een goed genoegen trigger warning?
+[55.78 --> 60.02]  Ja, en we beloven ook dat het een tijd zo gaat blijven.
+[60.42 --> 62.36]  Want mensen creëren een band met die tunes.
+[62.70 --> 64.62]  Hier kun je gewoon een band mee creëren.
+[65.14 --> 66.06]  Dit blijft een tijd zo.
+[66.08 --> 67.18]  Ja, we geven jullie de tijd.
+[67.70 --> 69.56]  En dat is inderdaad misschien is dat fijn.
+[70.32 --> 72.04]  We zijn ook heel trots erop.
+[72.08 --> 73.12]  Want hij klinkt heel erg vet.
+[73.42 --> 74.70]  Zal ik gewoon beginnen met de kool te open?
+[75.36 --> 75.56]  Ja.
+[75.82 --> 76.34]  Oké, komt ie.
+[76.34 --> 77.98]  Welkom bij Poki.
+[78.20 --> 80.88]  De Nederlandse podcast over kunstmatige intelligentie.
+[81.10 --> 86.18]  Waar we uitzoeken welke invloed AI gaat hebben op ons werk, ons leven en de samenleving.
+[86.82 --> 87.64]  Ik ben Alexander Klubbing.
+[87.88 --> 89.14]  Tegenover mij zit Wietsehagen.
+[89.52 --> 91.12]  Deze week is Milou er niet.
+[91.78 --> 94.54]  Maar gaan we het wel hebben over belangrijk nieuws.
+[94.68 --> 98.96]  Want ChatGPT is sinds deze week niet meer de koning van de taalmodellen.
+[98.96 --> 101.18]  Cloud 3.5 Sonnet.
+[101.62 --> 107.06]  Het middenmodel van Entropic is blijkbaar sterker dan OpenAI GPT-4O.
+[107.44 --> 108.84]  Terwijl het een kleiner model is.
+[109.50 --> 110.08]  Fascinerend.
+[110.46 --> 113.68]  Ja, ze kunnen daarentegen nog steeds geen fatsoenlijke namen verzinnen.
+[113.90 --> 115.74]  Cloud 3.5 Sonnet Wietsehagen.
+[116.66 --> 118.60]  Ik krijg het mijn strot niet eens uit.
+[118.80 --> 123.28]  Wanneer gaan die bedrijven eens hun eigen taalmodellen gebruiken om betere namen te verzinnen voor hun taalmodellen?
+[123.78 --> 127.96]  Het zijn allemaal interne projectnamen denk ik die per ongeving naar buiten lekken als brands.
+[127.96 --> 128.88]  Daar gaat het mis.
+[128.96 --> 129.88]  Nou ja, oké.
+[129.92 --> 131.78]  We gaan het in ieder geval hebben over de belangrijke zaken.
+[131.90 --> 133.72]  Namelijk, wat kan dit nieuwe model?
+[133.88 --> 135.36]  Hoe kan je het zelf gebruiken?
+[135.44 --> 138.96]  Want er zijn veel nieuwe features die hoge ogen gooien op dit moment.
+[139.18 --> 143.62]  En we gaan het natuurlijk hebben over wat dit breder betekent voor de hele AI sector.
+[143.86 --> 145.18]  Dat gaan we het straks over hebben.
+[145.48 --> 147.10]  Maar nu eerst het nieuws van de afgelopen week.
+[147.30 --> 148.16]  Dit is Poki.
+[148.16 --> 164.58]  Het liefst zou ik dus de hele aflevering door deze underscore ook laten doorlopen.
+[164.68 --> 165.20]  Deze muziek.
+[165.98 --> 167.88]  Misschien moet je iets van achtergrond erbij vertellen.
+[167.88 --> 172.36]  Wietz en ik zijn hier heel trots op omdat dit muziek is die ook ooit voor een Apple commercial gebruikt is.
+[172.48 --> 174.16]  Tenminste in de keynote van de iPhone.
+[174.66 --> 176.00]  Jij weet waarschijnlijk zelfs het versienummer.
+[176.58 --> 177.46]  Nee, niet exact.
+[177.56 --> 178.56]  Maar het is wel weer even geleden.
+[179.24 --> 180.92]  Niet tien jaar, maar een paar jaar.
+[180.92 --> 186.78]  Ja, dat was een of andere Apple keynote met een reclame erin voor een nieuwe iPhone op dat moment.
+[187.22 --> 189.66]  En daar werd deze muziek in gebruikt door Apple.
+[190.18 --> 193.12]  En toen, ik moet zeggen, we hebben deze muziek al...
+[193.12 --> 195.64]  Blijkbaar zijn wij allebei, waren wij fan van dit nummer.
+[195.82 --> 200.74]  En lang verhaal kort, ik vond de componist, een Duitse producer.
+[201.54 --> 204.74]  En het was een kort lijntje naar de Buma Stemra.
+[204.94 --> 206.92]  En vervolgens kon ik gaan onderhandelen met de platenmaatschappij.
+[207.58 --> 209.70]  En toen heb ik, ChatGPT, dit is echt waar.
+[209.70 --> 213.64]  ChatGPT de volledige onderhandeling laten doen met dit platenlabel...
+[213.64 --> 216.84]  over het acquireren van de licentie voor deze muziek.
+[217.08 --> 220.04]  Weet je de prompt nog? Of was dat je standaard system prompt die erachter zat?
+[220.18 --> 221.50]  Welke toon is dit gegaan?
+[221.90 --> 223.90]  Het was in ieder geval heel...
+[223.90 --> 225.24]  polite was het keyword.
+[225.60 --> 226.84]  Dus heel vriendelijk.
+[226.98 --> 228.64]  Het is gewoon ontzettend vriendelijk.
+[228.80 --> 231.88]  En maar benadrukken dat het een kleine podcast is, et cetera.
+[232.70 --> 236.70]  En uiteindelijk, ik had gewoon een bedrag in mijn hoofd wat ik ervoor wilde betalen.
+[236.70 --> 239.64]  En ik heb ChatGPT gewoon de opdracht gegeven, praat hier naartoe.
+[240.06 --> 242.86]  En dat is nog een paar keer een soort van tegensputterd.
+[242.90 --> 247.14]  Maar ik heb letterlijk gewoon die mails dan van die platenmaatschappij, meneer...
+[247.14 --> 249.06]  gekopieerd en geplakt in ChatGPT.
+[249.30 --> 253.34]  Met zegt, zorg ervoor dat het het bedrag wordt dat ik in mijn hoofd heb.
+[253.42 --> 256.14]  En echt keurige e-mails die eruit komen.
+[256.38 --> 258.76]  En nou ja, nu hebben we een nieuwe toonwits.
+[258.84 --> 259.42]  Zo kan dat gaan.
+[259.42 --> 265.64]  Ja, je ziet waar echt alles wat dus blijkbaar een spel is, een spel van communicatie, is heel goed te doen met een taalmodel.
+[265.98 --> 270.22]  Ik heb ook vrienden van mij die een keuken op die manier hebben afgedongen bij de keukenboer met ChatGPT.
+[270.46 --> 270.72]  Ja.
+[271.08 --> 271.54]  Hoe dan?
+[271.54 --> 275.22]  Nou, door ook gewoon de opdracht te geven, te zeggen waar ze naartoe willen.
+[275.34 --> 278.30]  En dan gewoon iedere keer de reactie van de partij erin.
+[279.00 --> 280.48]  Opschrijven, notities en dan bellen.
+[280.92 --> 281.78]  Oh, oké.
+[281.78 --> 284.70]  Ja, maar we hebben even hier naar gekeken.
+[284.78 --> 286.26]  Dit zijn een aantal punten die ons opvielen.
+[286.38 --> 287.08]  We zijn hier geweest.
+[287.24 --> 291.18]  Ja, dit is, ik bedoel, er zijn mensen hier van zichzelf ontzettend goed in.
+[291.30 --> 292.56]  Dat zijn de echte onderhandelaars.
+[292.88 --> 294.36]  Maar het middendeel van ons is dat niet.
+[294.86 --> 297.10]  Het is natuurlijk ook een soort van interbellum op het moment.
+[297.32 --> 301.78]  Totdat die mensen ook ontdekten dat ze taalmodellen kunnen gebruiken om terug te onderhandelen.
+[301.88 --> 304.98]  En dan heb je in feite dus twee AI's met elkaar in te laten onderhandelen.
+[305.10 --> 306.20]  Zeg maar, hoe lang gaat dit nog duren?
+[306.30 --> 306.98]  Dat kan niet lang duren.
+[307.56 --> 308.62]  AI interbellum.
+[308.76 --> 308.92]  Ja.
+[308.92 --> 309.72]  Die moet ik even laten.
+[309.84 --> 311.26]  Dit is echt heel leuk dat je dit zegt.
+[311.26 --> 316.76]  Want er zit een soort van, wat wel vaker met technologie is, wat wij zelf samen al een aantal keer hebben meegemaakt.
+[316.86 --> 319.40]  Zeg maar, dat wij het toeltje al hebben of het toeltje al begrijpen.
+[319.64 --> 322.10]  En de rest nog niet, waardoor je een voordeel kunt behalen.
+[322.30 --> 323.86]  Op een gegeven moment even dat weer uit.
+[324.00 --> 326.58]  En dan zitten we allemaal met dat toeltje tegen elkaar te schrijven.
+[327.40 --> 327.52]  Ja.
+[327.96 --> 329.44]  Nou, laten we naar het nieuws gaan.
+[329.60 --> 336.62]  Er zijn platenmaatschappijen die het niet echt grappig vinden dat Shuno en Udio bestaan.
+[336.62 --> 340.46]  Dat zijn twee start-ups waar we het al vaker over gehad hebben, die AI muziek maken.
+[340.46 --> 345.02]  En waarbij je dus een prompt kan invoeren van de muziekstijl die je wil hebben.
+[345.20 --> 349.10]  En waarbij dat ding dan een complete track kan maken, inclusief songtekst.
+[349.42 --> 357.40]  En nou ja, het zegt fucking goed in scene wat de soort van snelheid van ontwikkeling is.
+[357.90 --> 362.16]  Waar we het onlangs over hadden was dat, het meest recente is, dat je een stukje muziek kan uploaden.
+[362.16 --> 363.58]  En dat dat ding dat dan afmaakt.
+[364.64 --> 373.22]  Dat is misschien wel de meest sprekende en duidelijke uiting van generatieve AI.
+[373.62 --> 378.84]  Die bij heel veel mensen iets doet denken van, oké, maar hier is toch nu echt wel wat aan de hand.
+[378.94 --> 381.26]  Dit kon niet drie jaar geleden en dit kan nu wel.
+[381.26 --> 382.08]  Ja, precies.
+[382.18 --> 383.16]  Dit resoneert gewoon.
+[383.76 --> 388.38]  En dat vonden ze bij platenmaatschappij natuurlijk niet heel grappig.
+[388.56 --> 393.62]  Dat was niet alleen een vermoeden wat wij al hadden, van hoe kan dit bestaan.
+[394.10 --> 397.38]  Maar wat die bedrijven dus zelf ook vanaf het begin al hebben.
+[397.66 --> 400.18]  Ik kan me herinneren dat we voor het eerst over Shuno spraken.
+[400.18 --> 415.36]  En dat een interview was in de Rolling Stone, waarbij een van de investeerders achter Shuno zei, als er deals gesloten waren met de platenmaatschappijen aan het begin, dan had ik niet geïnvesteerd.
+[416.24 --> 422.26]  Oftewel, het is juist goed dat het in een soort van cowboy wild westen mentaliteit allemaal ontstaat.
+[422.36 --> 427.82]  En waarbij deze start-up volledige vrijheid heeft om eerst de innovatie tot het uiterste drijven.
+[427.82 --> 432.38]  Dan gaan we daarna wel een keer nadenken over hoe platenmaatschappijen vergoed worden.
+[432.68 --> 437.62]  Het is een soort van houding die je bij heel veel AI bedrijven natuurlijk ziet.
+[438.14 --> 443.02]  Maar dit was wel heel erg, hoe moet je dat nou zeggen, bijna bot ofzo.
+[443.34 --> 447.98]  Hoe omgegaan wordt met de rechten van muzikanten uiteindelijk.
+[448.02 --> 451.66]  Maar krijgen we nu een Napster replay?
+[452.18 --> 456.72]  Wat er destijds gebeurde met Napster, de eerste peer-to-peer muziek share service destijds.
+[456.72 --> 461.52]  Ik had nog niet eens breedband en ik moest drie uur wachten op Sugar Babes.
+[461.80 --> 465.78]  Ja, die heb ik gedownload, overload, mijn allereerste mp3 download, ik weet het nog.
+[467.46 --> 469.02]  En dat duurde gewoon echt heel lang.
+[469.04 --> 470.32]  Mijn eerste was share.
+[471.22 --> 475.80]  Nou, ik ben heel blij dat wij nu gewoon heel eerlijk zijn over wat er gebeurd is.
+[475.80 --> 476.34]  Een vetbaar moment.
+[476.34 --> 478.04]  Ja, een vetbaar moment.
+[478.64 --> 480.72]  56k modem Sugar Babes gedownload.
+[481.16 --> 485.54]  Maar ja, Napster, dat was de tijd gewoon in zoverre vooruit.
+[485.62 --> 487.30]  Die zijn gewoon helemaal kapot geprocedeerd toen.
+[487.48 --> 491.78]  Omdat ze eigenlijk ook met diezelfde cowboy mentaliteit die markt ingingen.
+[492.14 --> 493.30]  En uiteindelijk hadden we Spotify.
+[494.58 --> 495.98]  Jaaren later pas.
+[495.98 --> 497.62]  Was dat goed.
+[497.70 --> 503.12]  Dus ik ben benieuwd of het lot van Udio en Suno het Napster lot is.
+[503.40 --> 512.86]  Of dat er een soort even rustig besproken wordt van moeten we niet net als toen eigenlijk gewoon op zoek naar een nieuwe vorm van royalties delen, business modellen, et cetera.
+[512.86 --> 514.92]  Ja, nou die vergelijking is misschien niet zo gek.
+[515.02 --> 521.04]  Want net als toen zijn nu ook de platenmaatschappijen bij monden van de RIAA.
+[521.36 --> 524.96]  Dat is een organisatie die ik inderdaad vooral ken uit die tijd.
+[525.10 --> 527.08]  Recording Industry Association of America.
+[527.26 --> 529.06]  Een soort van Amerikaanse brein.
+[529.18 --> 529.86]  Hoe moet je dat nou zeggen?
+[530.04 --> 531.88]  Een soort van collectieve rechtenorganisatie.
+[532.46 --> 536.08]  Die dus auteursrecht hebbenden probeert te beschermen.
+[536.08 --> 547.10]  En die hebben dus nu Sino en Udio aangeklaagd voor het zonder toestemming geluidsopname gebruiken om hun AI modellen te trainen.
+[547.90 --> 560.82]  En de manier waarop ze dat hebben gedaan is net zoals de New York Times het voor elkaar krijgt om ChatGPT hele stukken uit New York Times artikelen te laten opbraken door ChatGPT.
+[560.82 --> 565.40]  Dus de letterlijke tekst uit de trainingsdata weten te vissen door slim te prompten.
+[565.40 --> 569.12]  Heeft de RIAA dat hier ook gedaan.
+[569.32 --> 573.40]  En ze hebben zelfs een aantal clips online gezet om te horen hoe het is.
+[573.72 --> 580.04]  En ik heb eens geluisterd naar een tip van Mariah Carey over, wat is het?
+[580.08 --> 582.82]  All I Need for Christmas Is You.
+[583.44 --> 584.28]  Ja, iedereen kent hem.
+[584.48 --> 586.76]  Het zal vast niet de titel zijn, maar we weten allemaal waar het over gaat.
+[586.76 --> 587.44]  Nou ja, dat ding.
+[587.66 --> 590.92]  Ik zal niet de muziek nu spelen, dan heb je dat het rest van het jaar weer in je hoofd.
+[591.00 --> 591.84]  Terwijl het is momen juni.
+[591.84 --> 599.78]  Wat ze deden was het nummer beschrijven in een prompt en dan vervolgens de songtekst van het nummer erin plakken, zodat hij zich daaraan hield.
+[600.42 --> 606.20]  En dan is wat Shino en Udio creëren is ook echt niet oké.
+[606.34 --> 607.54]  Dit is gewoon letterlijk.
+[607.84 --> 608.64]  Letterlijk het nummer.
+[608.72 --> 609.94]  En dat hebben ze herhaald met ABBA.
+[610.10 --> 613.10]  En dat hebben ze herhaald met Chuck Berry en een aantal andere artiesten.
+[613.10 --> 616.92]  Als je maar goed genoeg prompt, dan krijg je gewoon het originele nummer eruit.
+[617.46 --> 622.04]  En dat maakt deze auteurshebbende boos.
+[622.56 --> 631.22]  Ik vind het wel boeiend hoor, want het was me al wel opgevallen bij beide tools dat op het moment dat je de naam van een artiest erin gooide, of vaak de naam ook van een nummer, dat er dan werd aangegeven.
+[631.30 --> 635.04]  We hebben een artiest gevonden, dit gaan we niet doen, maar we hebben er een generieke artiest voor teruggeplakt.
+[635.72 --> 637.44]  In ieder geval zo deze Udio dat.
+[637.44 --> 642.38]  Dus er zat al een stap tussen van we moeten opletten, we moeten wel een beetje uitkijken.
+[642.92 --> 656.78]  En de volgende stap voor deze diensten, als ze de kosten voor de advocaten overleven, zeg maar, is om er een stap tussen te zetten die constant checkt of het lijkt op iets van bestaande muziek.
+[656.84 --> 661.42]  En dan zegt, ik heb nou net iets voor jou gemaakt, maar je mag het niet luisteren, want ik kan het niet aan je laten horen.
+[661.42 --> 663.04]  Ja, dat is een soort signature.
+[663.04 --> 672.44]  Ja, de signatures die YouTube ook, een soort digital media signatures ken, waardoor je niet copyrighted content zomaar kan maken ook.
+[672.64 --> 688.30]  Ja, het lijkt me vrij makkelijk voor, ik weet niet echt of het makkelijk naar het juiste woord is, maar het lijkt me te doen om op te zoeken wat nou de grens is tussen wat een kopie is of iets wat louter de stijl overneemt.
+[688.30 --> 696.04]  En daar dus inderdaad tussen te gaan liggen als het te veel overeenkomt met de fingerprint van het originele nummer.
+[696.52 --> 703.56]  Ja, en ik denk dat in dat opzicht is het wel weer een deels een oude discussie van het remixen, covers en sampletjes van ABBA gebruiken.
+[703.70 --> 705.12]  Dus er ligt een hele bak met jurisprudence.
+[705.12 --> 708.12]  Nou, been there, done that, gaan lekker die advocatenrekeningen betalen.
+[708.56 --> 709.48]  Wij wachten wel.
+[709.64 --> 712.66]  En als we ondertussen maar die dingen kunnen blijven gebruiken, dat zou mijn oordeel zijn.
+[712.78 --> 715.70]  Dat is zielig voor de muzikanten, maar dat is toch even, ik wil het niet iets kwijt.
+[715.70 --> 717.90]  Onze intro tune niet gemaakt door AI.
+[718.08 --> 719.72]  Nee, ook belangrijk om erbij te zeggen.
+[722.92 --> 730.72]  Oké, OpenAI heeft de lancering van die voice mode uit JTB4O uitgesteld.
+[730.72 --> 733.66]  De Scarlett Johansson voice, zullen we maar zeggen.
+[733.84 --> 735.18]  Die stem zat er natuurlijk niet meer in.
+[735.76 --> 739.56]  Menselijk, lage latency, het gevoel alsof je een mens aan de lijn hebt.
+[739.68 --> 739.98]  Precies.
+[739.98 --> 745.82]  Een lancering waar heel veel mensen naar uitkeken en waarvan ze beloofd hadden dat dat deze maand zou gaan gebeuren in beperkte beta.
+[746.30 --> 749.36]  Maar die beperkte beta is toch nog een stuk beperkter geworden.
+[749.56 --> 753.88]  Want OpenAI zegt dat ze meer tijd nodig hebben om te testen voordat ze het uitrollen.
+[754.34 --> 757.60]  Ze hebben het over problemen met betrekking tot veiligheid.
+[757.60 --> 763.94]  Ja, ik neem aan dat dit is dat alle ogen op deze release gericht zijn.
+[764.26 --> 770.02]  En dat sinds dat gedoe met Scarlett Johansson ze echt heel erg op hun tellen moeten passen.
+[770.26 --> 773.16]  Om nog over te komen als een betrouwbaar bedrijf.
+[773.88 --> 776.48]  Want journalisten staan echt klaar om ze in de pand te hakken.
+[776.84 --> 779.08]  Dus ik neem aan dat dat de voorzichtigheid is die we hier hebben.
+[779.08 --> 781.32]  Ja, tweeledig minimaal.
+[781.46 --> 789.00]  Want ik denk sowieso wat er allemaal gebeurd is rondom Scarlett Johansson en de tweet van Sam Altman van Her en al dat gedoe.
+[789.08 --> 790.70]  Dit moet allemaal nog uitgevochten worden.
+[790.98 --> 793.14]  Dus dan even op pauzedruk is misschien wel verstandig.
+[793.14 --> 801.64]  Ik heb ook het idee, de bad publicity, dus op het moment dat er hele enge stemmen mee gegenereerd worden ofzo.
+[801.74 --> 803.16]  Die kinderen bang gaan maken, noem maar op.
+[803.20 --> 806.94]  Je kan dit heel makkelijk tot een heel slecht verhaal voor OpenAI maken.
+[806.94 --> 813.22]  Ik denk dat ze daar op heel veel verschillende manieren, waarbij het best wel lastig is om dat allemaal onder de kopje te maken.
+[813.22 --> 815.60]  Ja, bijna onmogelijk zou ik zeggen.
+[816.04 --> 822.60]  Je kunt wel wat doen, maar de creativiteit van mensen om deze dingen te gaan vervormen is gewoon, ja, dat ga je niet winnen.
+[822.60 --> 834.32]  En ik kan me ook voorstellen, de lancering destijds, wat nu al een soort van, ik vind het legendarisch niet het juiste woord, maar die spring update van OpenAI, waarin ze dit allemaal demoen.
+[834.32 --> 835.40]  Destijds, dat is een maand geleden hè, Witschel.
+[835.80 --> 836.24]  Legendary.
+[838.32 --> 838.80]  Destijds.
+[838.84 --> 842.24]  Nee, ja, destijds in de AI tijd.
+[842.66 --> 843.90]  Het gaat snel allemaal hè.
+[843.90 --> 844.56]  Ja, dat is heel snel.
+[846.44 --> 848.30]  Destijds de spring update, het is net zomer.
+[848.30 --> 852.34]  Maar, eh, vond ik wel, het was wel een momentje.
+[852.50 --> 858.56]  Het was ook omdat ik erop zat te wachten al heel erg lang, wanneer komt dan, wacht maar tot AI tegen je gaat praten op een manier dat het de mens is.
+[858.66 --> 864.16]  Nou, dat was tijdens die lancering van deze snelle, latency-vrije stemmen.
+[864.92 --> 868.24]  Maar daarna heb ik eigenlijk geen andere partijen gezien, geen grote.
+[868.62 --> 868.74]  Nee.
+[868.74 --> 872.46]  Geen Entropic, geen Google, geen Apple tijdens hun keynote.
+[872.60 --> 877.80]  Hadden ze ook Siri kunnen lanceren als een dame of heer of iets wat had gesproken.
+[878.26 --> 885.50]  Ze zijn er allemaal van weggebleven, waardoor ik denk de druk op OpenAI ook een beetje afgenomen is om dit nu nog te gaan lopen rushen.
+[886.00 --> 893.30]  Ik bedoel, de publieke opinie in de AI-bubbel is, wauw, zij hebben dit nu.
+[893.56 --> 894.74]  We geloven dat nog steeds.
+[894.82 --> 897.00]  Ik denk ook dat ze het echt hebben, maar inderdaad wachten.
+[897.00 --> 898.98]  Dus die credit hebben ze nu.
+[899.46 --> 901.88]  Ja, ik ga nog even drie maanden tunen.
+[902.26 --> 902.66]  Waarom niet?
+[903.26 --> 908.48]  Oké, verder was OpenAI deze week in het nieuws omdat ze twee kleinere bedrijven hebben overgenomen.
+[908.80 --> 916.42]  Eén is Rockset, een specialist in real-time data-analyse, waarmee bedrijven informatie beter kunnen gebruiken in AI-systemen.
+[916.98 --> 926.10]  Dus allerlei bestanden kun je uploaden, wat waarschijnlijk OpenAI zou willen gebruiken om de zoektechnologie uit te bouwen met relevante context
+[926.10 --> 927.38]  voor individuele gebruikers.
+[927.52 --> 931.56]  En twee, Multi, een start-up die zich richt op samenwerken op afstand.
+[932.40 --> 935.42]  Ik moet zeggen, ik heb dit niet gebruikt, maar de beschrijving klinkt fascinerend.
+[935.52 --> 939.62]  Het is een programma die je computerscherm verandert in een soort virtuele kantoor.
+[939.72 --> 941.44]  Je ziet icoontjes van je teamleden.
+[941.86 --> 943.94]  Met één klik kun je met ze praten of samenwerken.
+[944.04 --> 946.94]  Het maakt niet uit of ze naast je zitten of aan de andere kant van de wereld.
+[946.94 --> 947.38]  Nou ja.
+[948.14 --> 950.32]  Ja, ik had die Multi wel even getest.
+[950.52 --> 950.66]  Ja.
+[951.94 --> 956.68]  Ja, het lijkt niet zoveel, maar het is eigenlijk een multiplayer cursor.
+[956.92 --> 959.86]  Dus er komt een extra muiscursor op jouw scherm erbij.
+[960.10 --> 962.96]  En die is in hun originele concept van een ander mens.
+[963.42 --> 966.48]  Namelijk Wietz en Alessandra gaan samenwerken aan een Word document.
+[967.20 --> 971.30]  En dat doen ze niet omdat er een collaborative feature in Word zit of in Google Docs.
+[971.36 --> 973.26]  Nee, er is een collaborative OS.
+[973.26 --> 976.58]  We kunnen nu samen, maar jij binnen mijn operating system.
+[976.90 --> 979.20]  Zie je het als een screen share eigenlijk.
+[979.82 --> 980.94]  Interactieve screen share.
+[981.24 --> 983.96]  Ja, met multicursus met een kleurtje en een poppetje erbij en zo.
+[984.02 --> 985.28]  Dat we ook weten wie wie is.
+[985.46 --> 985.72]  Ik snap het.
+[985.72 --> 989.78]  Dan kunnen we eigenlijk, wat je in Miro bijvoorbeeld kan, maar dan op operating system level.
+[990.00 --> 992.10]  Dat is denk ik voor de mensen die die tools kennen.
+[992.38 --> 993.28]  En wat zegt dit jou?
+[993.90 --> 997.20]  Nou, ik vind overnames altijd interessant.
+[997.36 --> 999.50]  Dit is een beetje hoe ik vroeg ga.
+[999.50 --> 1001.10]  Dat is wel echt lang geleden, niet een maand.
+[1001.48 --> 1003.18]  Gewoon tien jaar geleden of zo.
+[1003.58 --> 1006.42]  Mijn dingetje was altijd een beetje om te kijken wat de overnames waren.
+[1006.52 --> 1008.38]  En dan het liefst vanuit Apple bijvoorbeeld.
+[1008.52 --> 1009.14]  Of vanuit Google.
+[1009.52 --> 1011.10]  En dan het liefst van kleine partijen.
+[1012.00 --> 1016.32]  Ik weet, volgens mij heeft Facebook destijds Sofa overgenomen uit Amsterdam.
+[1016.48 --> 1017.12]  Meet bij Sofa.
+[1017.24 --> 1018.38]  Een klein ontwerpteam.
+[1018.66 --> 1019.52]  Wat gaan die nou doen?
+[1019.56 --> 1020.82]  Zelfs Siri is een overname.
+[1020.96 --> 1021.96]  Gmail was een overname.
+[1021.98 --> 1022.44]  Doeem ze maar op.
+[1022.46 --> 1024.00]  Het zegt veel over de strategie van een bedrijf.
+[1024.16 --> 1025.08]  Ja, en je kan...
+[1025.08 --> 1026.68]  Het is gewoon moeilijk om geheim te houden.
+[1027.12 --> 1030.20]  Als die bedrijfjes die je overneemt eigenlijk al een website hadden.
+[1030.26 --> 1032.16]  Want die moeten dan zo'n balkje bovenaan zetten.
+[1032.26 --> 1033.24]  Dat doen ze ook altijd.
+[1033.44 --> 1035.68]  Met een sumierblogberichtje erbij.
+[1035.96 --> 1036.46]  Met...
+[1036.46 --> 1038.88]  Joh, je kan nog een maand lang je spulletjes bij ons downloaden.
+[1038.96 --> 1039.96]  En dan gaan we gewoon lekker dicht.
+[1040.84 --> 1041.18]  Succes.
+[1041.42 --> 1042.22]  Wij zijn overgenomen.
+[1042.48 --> 1044.82]  Nou, in het geval van Multi.
+[1045.38 --> 1047.16]  Kan je je voorstellen dat...
+[1047.16 --> 1049.48]  Wat nu al de lokale ChatGPT app is.
+[1049.54 --> 1050.88]  Die je op MacOS kan installeren.
+[1051.02 --> 1052.10]  Dus een native app.
+[1052.18 --> 1052.84]  Niet een website.
+[1052.96 --> 1055.00]  Maar een applicatie die je installeert van OpenAI.
+[1055.62 --> 1056.52]  Zodat je straks...
+[1056.52 --> 1059.12]  Want dit hebben ze ook nog niet voor z'n werk weet gereleased.
+[1059.20 --> 1060.34]  Maar is ons wel beloofd.
+[1060.80 --> 1061.12]  Destijds.
+[1061.20 --> 1061.76]  Een maand geleden.
+[1062.20 --> 1064.48]  Is dat je je hele scherm live kan delen.
+[1064.72 --> 1065.54]  Met die AI.
+[1065.54 --> 1068.12]  Zodat jij samen Minecraft kunt spelen.
+[1068.22 --> 1068.94]  Of kunt zeggen...
+[1068.94 --> 1071.30]  Joh, ik loop even vast in deze mail.
+[1071.64 --> 1072.28]  Kijk even mee.
+[1072.40 --> 1073.90]  En die ziet dan je hele scherm de hele tijd.
+[1073.98 --> 1075.64]  Iedere seconde wordt er een screenshot gemaakt.
+[1075.74 --> 1076.74]  En die gaat naar OpenAI.
+[1077.34 --> 1078.42]  En daardoor...
+[1078.42 --> 1080.48]  Even om heel precies te zijn.
+[1080.62 --> 1083.56]  Hebben ze het ook beloofd voor Mac desktop?
+[1083.74 --> 1085.18]  Want ik weet dit van iPads.
+[1085.28 --> 1087.16]  Dat je screenshare gebruikt voor iPads.
+[1087.26 --> 1088.16]  Maar is dit ook...
+[1088.16 --> 1088.56]  Ja.
+[1089.02 --> 1089.34]  Oké.
+[1089.34 --> 1090.88]  Ik heb hem zelfs geïnstalleerd.
+[1090.96 --> 1091.30]  Met de hoop.
+[1091.36 --> 1092.44]  Ik wist ook waar ik moest klikken.
+[1092.58 --> 1094.46]  Maar daar kan je nu alleen nog maar take screenshot kieken.
+[1094.64 --> 1095.52]  En nog niet share screen.
+[1095.54 --> 1096.58]  Oké.
+[1097.12 --> 1097.52]  Ja.
+[1097.74 --> 1099.54]  En die feature...
+[1100.74 --> 1101.42]  Dan is het leuk.
+[1101.50 --> 1106.60]  Want dan kan je vragen aan je chat assistent bot.
+[1106.98 --> 1108.68]  Van joh, wat zou jij hier doen?
+[1108.74 --> 1112.26]  Ik zit vast in Red Alert 2 Come On & Conquer computer game.
+[1112.78 --> 1113.58]  En dan zegt hij...
+[1113.58 --> 1115.70]  Joh, je moet even die in die buildings gaan bouwen.
+[1115.78 --> 1116.32]  En die units.
+[1116.54 --> 1117.02]  Super vet.
+[1117.58 --> 1119.58]  Maar je wilt natuurlijk nog eigenlijk een stap verder.
+[1119.68 --> 1120.12]  En zeggen...
+[1120.12 --> 1121.48]  Kan jij dat niet even voor me doen?
+[1121.98 --> 1122.28]  Juist.
+[1122.28 --> 1124.58]  En dan word je eigenlijk een tweede cursor in beeld.
+[1124.74 --> 1126.34]  Namelijk de cursor van OpenAI.
+[1126.62 --> 1127.90]  Of de cursor van GPT.
+[1128.26 --> 1131.66]  En die gaat dan met jou collaborative aan de gang.
+[1131.74 --> 1132.94]  En dan is die multi...
+[1132.94 --> 1136.48]  Die dus dat al gebouwd hebben qua integratie in het bestuuringssysteem.
+[1136.78 --> 1138.42]  Visueel ziet het er best wel gelikt uit.
+[1138.82 --> 1140.48]  Ze hebben eigenlijk al allemaal dingen opgelost.
+[1140.48 --> 1143.08]  Waardoor OpenAI alleen nog maar...
+[1143.08 --> 1144.64]  Ik doe nu even air quotes voor de luisteraar.
+[1144.96 --> 1148.22]  Alleen nog maar een taalmodel...
+[1148.22 --> 1151.64]  Een multimodaal taalmodel hoeft te koppelen aan die cursor.
+[1152.16 --> 1155.30]  En dan heb je een assistent op je computer die mee kan doen.
+[1156.98 --> 1158.14]  Wat is either chat?
+[1158.62 --> 1159.88]  Dat heb jij in een draaiboek gezet.
+[1160.52 --> 1161.84]  Ja, ik heb een beetje nog te vroeg.
+[1161.92 --> 1162.86]  Maar ik ga hem toch wel delen.
+[1162.92 --> 1163.94]  Want ik vind hem gewoon te vet.
+[1164.62 --> 1164.94]  Either.
+[1165.28 --> 1165.98]  Either eigenlijk.
+[1166.12 --> 1166.64]  Iemand die je helpt.
+[1166.86 --> 1167.16]  Een aide.
+[1167.56 --> 1169.34]  A-I-D-E-R.
+[1169.34 --> 1170.22]  Punt chat.
+[1170.86 --> 1171.00]  Ja.
+[1171.32 --> 1173.16]  En dat websiteje denk je...
+[1173.16 --> 1175.66]  Heb ik dus ook een aantal keer al gehad de laatste maanden.
+[1175.84 --> 1176.62]  Ik ben...
+[1176.62 --> 1177.56]  Ik klik op zoveel websites...
+[1177.56 --> 1178.36]  Dat is een hele lelijke website.
+[1178.54 --> 1179.88]  Dat ik deze alweer weg had geklikt.
+[1179.98 --> 1180.08]  Ja.
+[1180.12 --> 1180.74]  Wat heel...
+[1180.74 --> 1181.28]  Dat is dom.
+[1181.82 --> 1184.80]  Want het zijn vaak de hele lelijke websitesjes...
+[1184.80 --> 1186.06]  Waarop hele interessante dingen gebeuren.
+[1186.08 --> 1186.58]  Power move altijd.
+[1186.86 --> 1186.94]  Ja.
+[1187.10 --> 1187.32]  Ja.
+[1188.90 --> 1191.04]  Maar wat je met either kan is eigenlijk...
+[1191.04 --> 1192.04]  Ja, agentic AI.
+[1192.20 --> 1194.16]  Wat dan nu een beetje de volgende...
+[1194.16 --> 1196.26]  Het ligt eraan waar je binnen de bubbel loopt.
+[1196.26 --> 1198.94]  Maar we hebben altijd termen en concepten...
+[1198.94 --> 1200.66]  Maar met z'n allen een beetje omheen verzamelen van...
+[1200.66 --> 1201.62]  Dat is dan het volgende.
+[1202.08 --> 1203.12]  Dat agentic AI...
+[1203.12 --> 1205.78]  Dat echoed al een tijdje rond.
+[1206.28 --> 1207.70]  Dat gaat erover dat je zegt...
+[1207.70 --> 1209.96]  Ik heb niet alleen maar een chatbot...
+[1209.96 --> 1211.80]  Waar ik wat stukjes en taakjes in plak.
+[1212.04 --> 1213.92]  Maar ik heb een chatbot die gaat een plan maken...
+[1213.92 --> 1215.54]  Welke taken er uitgevoerd moeten worden.
+[1215.70 --> 1219.22]  En die taken dan al niet delegeren aan zichzelf.
+[1219.34 --> 1220.50]  Of aan andere chatbots.
+[1220.58 --> 1222.72]  Dus je krijgt een soort projectmanager...
+[1222.72 --> 1224.30]  Die grotere taken aan kan.
+[1224.76 --> 1225.98]  Dus niet alleen maar...
+[1225.98 --> 1227.68]  Ik heb dit kleine stukje van mijn project...
+[1227.68 --> 1228.84]  Wil jij dat even voor me oppakken?
+[1228.90 --> 1230.36]  Nee, ik heb dit hele project...
+[1230.36 --> 1231.36]  Wil je dat even gaan managen?
+[1231.58 --> 1233.24]  Dus dan heb je een agent die erboven hangt.
+[1233.72 --> 1235.16]  Nou, wat Ader doet...
+[1235.16 --> 1237.48]  Is eigenlijk een programmeer-aid.
+[1237.60 --> 1238.98]  Het is eigenlijk Devon...
+[1238.98 --> 1241.88]  Zoals we dat afleveringen terug hebben besproken...
+[1241.88 --> 1244.68]  Een belofte van een synthetische programmeur.
+[1244.86 --> 1246.80]  Een programmeur die je kan inhuren zelfs...
+[1246.80 --> 1248.08]  Hadden zij het op hun website over...
+[1248.08 --> 1249.16]  Tegen een uurtarief...
+[1249.16 --> 1250.64]  Die voor jou software zou gaan maken.
+[1250.64 --> 1252.48]  Dat bleek redelijk overtrokken.
+[1252.74 --> 1254.90]  En iets meer hype dan realiteit.
+[1255.54 --> 1256.72]  Ader is de realiteit.
+[1257.32 --> 1260.18]  Is een open source agent die je kan installeren.
+[1260.72 --> 1262.16]  Je opent een mapje op je desktop.
+[1262.42 --> 1263.10]  Een lege map.
+[1263.26 --> 1264.32]  En dan zeg je Ader.
+[1264.64 --> 1266.02]  En tegenwoordig kan je Ader browser doen.
+[1266.10 --> 1267.58]  Dan krijg je ook nog een mooi browser-vinster...
+[1267.58 --> 1268.98]  Zoals je dat gewend bent van ChatGPT.
+[1269.12 --> 1270.14]  En dan zeg jij...
+[1270.14 --> 1271.58]  We gaan een project maken vandaag.
+[1271.96 --> 1273.06]  Het moet een API hebben.
+[1273.20 --> 1273.80]  Een interface.
+[1273.96 --> 1275.66]  Ik wil er een JavaScript-spelletje in kunnen spelen.
+[1275.74 --> 1276.16]  Noem maar op.
+[1276.42 --> 1278.58]  En die gaat dan de hele directory-structuur aanmaken.
+[1278.58 --> 1279.54]  Een readme toevoegen.
+[1279.54 --> 1282.58]  En die is dan slim genoeg.
+[1282.72 --> 1284.12]  Want dat maakt het zo gaaf.
+[1284.56 --> 1286.70]  Je koppelt Ader aan bestaande taalmodellen.
+[1286.88 --> 1287.54]  Dus je kan je voorstellen...
+[1288.16 --> 1290.74]  Hoe blij ik was toen Cloud 3.5 Sonnet uitkwam.
+[1290.82 --> 1291.58]  Heb ik het straks over.
+[1291.68 --> 1293.40]  Want die kon ik zo eraan koppelen.
+[1294.12 --> 1296.54]  En Ader is eigenlijk een stukje tussen AI...
+[1297.40 --> 1298.54]  Die ervoor zorgt van...
+[1298.54 --> 1301.26]  Welke bestanden moet ik dan gaan aanbieden in mijn prompt?
+[1301.58 --> 1303.62]  Hoe kan ik zorgen dat het binnen de prompt blijft passen?
+[1303.66 --> 1304.74]  Want ik heb een token window.
+[1305.10 --> 1305.88]  En al dat soort dingen.
+[1305.88 --> 1309.02]  Het is wat jij normaal zelf intuïtief doet als programmeur.
+[1309.20 --> 1311.50]  En dat ook alweer een stukje overgenomen door iets anders.
+[1313.06 --> 1314.22]  En ik gebruik het dagelijks.
+[1314.44 --> 1317.38]  Het is helemaal onderdeel geworden van mijn manier van doen.
+[1317.76 --> 1319.62]  En daarom dacht ik ik wil hem toch wel benoemen.
+[1319.72 --> 1322.08]  Omdat het iets is wat ik twee weken geleden niet gebruikte.
+[1322.22 --> 1323.14]  En nu twee uur per dag.
+[1323.14 --> 1326.20]  Nou, voor de programmeurs onder ons een fijne tip.
+[1328.72 --> 1330.56]  Ten slotte, Butterfly.
+[1330.82 --> 1332.18]  Dit is een klein ding hoor.
+[1332.40 --> 1334.16]  En je moet het vooral niet serieus nemen.
+[1334.28 --> 1337.60]  Maar ik dacht wel, het is weer een boeiende sign of the time.
+[1338.06 --> 1339.76]  Het is een app voor iOS en Android.
+[1340.36 --> 1343.36]  Die deze week in beta gelanceerd is.
+[1343.90 --> 1347.14]  En het idee is dat het een soort Instagram is voor AI's.
+[1348.42 --> 1349.00]  Blijf erbij.
+[1349.00 --> 1356.00]  Het is dus een soort character.ai in de zin dat je AI's kunt aanmaken.
+[1356.74 --> 1358.00]  Die noemt men in deze app Butterflies.
+[1359.30 --> 1360.62]  Die kun je een karakter meegeven.
+[1360.72 --> 1362.46]  Je kan ze een avatar geven.
+[1362.76 --> 1365.92]  En vervolgens heb je die AI gemaakt.
+[1366.80 --> 1371.50]  En die AI gedraagt zich of haar of hen, weet ik veel.
+[1371.88 --> 1376.86]  Die gedraagt zich zo dat ze in een nep Instagram app.
+[1376.86 --> 1380.42]  Tenminste, nep in de zin van alle mensen die erin te bekijken zijn.
+[1380.50 --> 1382.98]  Zijn andere AI's die jij zelf gemaakt hebt.
+[1383.60 --> 1386.94]  Die dus plaatjes posten naar hun karakter.
+[1387.10 --> 1388.72]  En waarmee je ook kunt DM'en.
+[1389.36 --> 1392.18]  En de grap is dat ze dan ook op elkaar gaan reageren.
+[1392.34 --> 1393.86]  Dus iedere Butterfly heeft een achtergrondverhaal.
+[1394.70 --> 1396.28]  En meningen en emoties.
+[1396.46 --> 1399.86]  En daarmee kun je dus in feite Instagram emuleren.
+[1400.94 --> 1402.86]  Maar dan met zelfgemaakte AI vrienden.
+[1403.46 --> 1405.86]  Ik moet zeggen, ik heb het geprobeerd.
+[1405.86 --> 1407.78]  Het is nog...
+[1407.78 --> 1409.84]  Ik voelde me heel raar.
+[1410.08 --> 1411.78]  Op een gegeven moment kwam een vriendin ook binnenlopen.
+[1411.86 --> 1412.62]  En die zag mij chatten.
+[1412.70 --> 1413.86]  En ik durfde ook eigenlijk niet te zeggen.
+[1414.80 --> 1416.04]  Dan gaat het niet goed hè.
+[1416.32 --> 1418.24]  Dan gaat het niet goed als je dat niet durft te zeggen.
+[1418.46 --> 1419.02]  Ja precies.
+[1420.44 --> 1424.20]  En het idee dat dat ding...
+[1424.20 --> 1427.94]  Dat je pushnotificaties krijgt over dat je AI's die je dus zelf bedacht hebt.
+[1429.00 --> 1433.06]  Een soort van mid-journey-achtige foto's van zichzelf geüpload hebben.
+[1433.06 --> 1435.82]  Met een commentaartje daarbij over wat ze meegemaakt hebben die dag.
+[1436.04 --> 1437.48]  En dat je dan dus daar...
+[1437.48 --> 1439.80]  Dat je die berichten dan weer kan delen met andere AI's.
+[1439.90 --> 1440.78]  Heb je dit gezien?
+[1440.86 --> 1442.32]  En dat daar dan een gesprek uit ontstaat.
+[1442.64 --> 1443.50]  Ik moet eerlijk zeggen.
+[1443.66 --> 1445.82]  Het is wel een ervaring.
+[1446.58 --> 1448.78]  En wat ze hiermee eigenlijk doen is dus...
+[1448.78 --> 1450.36]  Nou ja, zich onderscheiden van...
+[1450.36 --> 1452.94]  Wat tot nu toe de grote social media bedrijven met AI hebben gedaan.
+[1453.06 --> 1455.06]  Wat toch nog wel blijft hangen in het idee van...
+[1455.06 --> 1456.76]  Het idee van gewoon een simpele chat.
+[1456.84 --> 1458.78]  Wat toch heel erg van tekst gebaseerd blijft.
+[1459.38 --> 1464.70]  En hier voegen ze eigenlijk dat unverslavend element van social media aan toe.
+[1464.78 --> 1467.06]  Namelijk dat je de hele tijd niet weet...
+[1467.06 --> 1470.16]  Wanneer er weer nieuwe posts gemaakt worden.
+[1470.26 --> 1472.88]  Wat dan weer zo'n kleine shot aan...
+[1472.88 --> 1474.10]  Hoe heet dat stofje in je hoofd?
+[1474.82 --> 1475.30]  Dopamine.
+[1475.34 --> 1476.88]  Dopamine krijgt.
+[1477.00 --> 1479.66]  Dat je ook kan liken en likes kan krijgen van je bots.
+[1479.82 --> 1481.80]  En dat was voor mij wel het heftigste.
+[1482.40 --> 1483.84]  Ik had posts gemaakt.
+[1484.40 --> 1486.24]  En die rikken dus mijn AI-vrienden liken.
+[1486.46 --> 1487.98]  En toen deed dat toch iets met me.
+[1488.94 --> 1489.98]  Oh, wauw.
+[1489.98 --> 1492.10]  Nou ja, goed.
+[1492.56 --> 1495.14]  Het is natuurlijk volstrekt nutteloos.
+[1495.60 --> 1496.26]  Maar ik dacht...
+[1496.26 --> 1497.40]  Maar doe ik me wel denken...
+[1497.40 --> 1499.00]  Er is een South Park aflevering...
+[1499.00 --> 1501.88]  Waarin Eric Cartman een soort van visjes in een zakje koopt.
+[1501.92 --> 1503.32]  En als je die in het water gooit gaan ze leven.
+[1503.38 --> 1504.78]  Ik ben even kwijt hoe dat diertje heet.
+[1504.86 --> 1506.36]  Maar die kunnen een soort van droog zijn.
+[1506.46 --> 1507.28]  En die gooien dan in een...
+[1507.28 --> 1508.66]  Dat is een kinderding.
+[1508.74 --> 1509.60]  Dat je zo'n zakje koopt.
+[1509.66 --> 1511.16]  En dan komen jouw beestjes daar.
+[1511.46 --> 1514.52]  Maar bij hem wordt dat in zijn aquarium een volledige samenleving.
+[1514.62 --> 1516.04]  Die raketten gaan ontwikkelen.
+[1516.24 --> 1517.26]  En elektriciteit.
+[1517.26 --> 1521.94]  Maar hij staat dan heel de tijd als een soort god te kijken naar zijn creatie.
+[1522.06 --> 1522.54]  In die bak.
+[1523.00 --> 1523.94]  Die ook echt een...
+[1523.94 --> 1525.82]  Nou ja, die hebben gewoon een politiek systeem inmiddels.
+[1525.92 --> 1526.02]  En zo.
+[1526.06 --> 1527.18]  Dat loopt natuurlijk helemaal uit de hand.
+[1527.48 --> 1528.54]  Maar ik kan me wel...
+[1528.54 --> 1529.86]  Ik kan me voorstellen dat...
+[1529.86 --> 1530.92]  Wat jij nu eigenlijk beschrijft.
+[1530.98 --> 1531.94]  Dit fenomeen.
+[1532.86 --> 1534.14]  Waar je heel eerlijk over bent.
+[1534.22 --> 1535.62]  Dat je het eigenlijk ook toch wel...
+[1535.62 --> 1536.72]  Het doet wat met je.
+[1536.98 --> 1537.26]  Maar ik denk...
+[1537.88 --> 1538.96]  Er is best wel wat onderzoek.
+[1539.04 --> 1540.26]  Dat wil ik nog even toevoegen over...
+[1540.26 --> 1542.26]  Mass multiplayer...
+[1543.72 --> 1545.50]  Nou ja, MMORPGs.
+[1545.50 --> 1550.06]  Van die spelletjes waarin normaal 50.000 tot 100.000 mensen...
+[1550.06 --> 1550.80]  Niet AI's.
+[1550.84 --> 1553.32]  Maar mensen met elkaar online in een wereld zijn.
+[1554.02 --> 1556.46]  Dat daar heel veel onderzoek is om dat te simuleren.
+[1556.98 --> 1559.92]  Dus dan gooi je 50.000 AI's in die wereld.
+[1560.32 --> 1562.16]  En die laat je allemaal met elkaar interacteren.
+[1562.24 --> 1563.40]  En dan kom je na een week terug.
+[1563.82 --> 1565.40]  En dan ga je kijken wat daar is gebeurd.
+[1565.54 --> 1568.64]  Dus dan kan je bijvoorbeeld de chat history tussen twee poppetjes teruglezen.
+[1569.18 --> 1569.68]  En dat...
+[1569.68 --> 1570.12]  Ik moet zeggen.
+[1570.20 --> 1570.78]  Ik was het aan het lezen.
+[1570.78 --> 1571.28]  En toen dacht ik...
+[1571.28 --> 1571.74]  Ja, ja.
+[1572.30 --> 1573.96]  Het is een soort levend boek of zo.
+[1573.96 --> 1574.50]  Een soort...
+[1574.50 --> 1575.96]  Ja, alsof je een plantje plant.
+[1576.12 --> 1576.88]  Ik bedoel...
+[1576.88 --> 1578.12]  Wat ik een beetje in jou...
+[1578.12 --> 1579.60]  Zo gek is het volgens mij niet.
+[1579.72 --> 1582.42]  Om een soort levend narratief te hebben.
+[1583.08 --> 1584.70]  Nou, Wits bedankt voor deze geruststelling.
+[1588.02 --> 1588.42]  Goed.
+[1588.60 --> 1590.80]  We hebben een AI-nieuwsbrief gemaakt.
+[1590.90 --> 1592.72]  Die heet AI-report.email.
+[1592.80 --> 1595.64]  En daarin sturen we twee keer per week het belangrijkste AI-nieuws.
+[1595.74 --> 1596.90]  Dat cureren we voor je.
+[1597.04 --> 1598.36]  En dan ben je weer bij.
+[1598.50 --> 1600.82]  Zonder dat je ook deze podcast hoeft te luisteren überhaupt.
+[1600.82 --> 1601.96]  En het is twee keer per week.
+[1602.06 --> 1603.20]  En deze podcast is maar één keer per week.
+[1603.20 --> 1605.14]  En deze week is de tip van de week.
+[1605.30 --> 1606.92]  Gaat over de nieuwe versie van Claude.
+[1607.04 --> 1608.38]  Waar we dadelijk uitgebreid over gaan hebben.
+[1609.22 --> 1612.40]  En één tip die ik alvast niet wil onthouden uit die nieuwsbrief.
+[1612.52 --> 1615.08]  Is dat Claude 3.5 Sonnet.
+[1615.36 --> 1618.24]  Het nieuwe taalmodel van Anthropic.
+[1618.70 --> 1621.28]  Heel erg goed reageert op de opdracht.
+[1621.52 --> 1622.54]  Maak het beter.
+[1623.06 --> 1624.20]  En ik vind dit iets...
+[1624.86 --> 1626.58]  Een grappige ontdekking.
+[1626.70 --> 1627.74]  Ethan Mollick kwam ermee.
+[1627.74 --> 1630.58]  En die laat dan die AI.
+[1630.58 --> 1632.54]  Geeft die AI de opdracht om iets te maken.
+[1632.88 --> 1635.00]  Bijvoorbeeld wat ik gisteren maakte was...
+[1635.00 --> 1638.62]  Maak een website met duizend checkboxes erop.
+[1639.62 --> 1642.26]  En dat is dan een onzinnige website.
+[1642.42 --> 1643.00]  Maar toch...
+[1643.00 --> 1643.74]  Ik ga dan toch...
+[1643.74 --> 1645.16]  Het is een soort van dat bubbelpapier.
+[1645.26 --> 1645.60]  Weet je wel.
+[1645.66 --> 1646.96]  Dat je die bubbels allemaal wil uitstukken.
+[1646.96 --> 1648.98]  Ik ging die checkbox aanklikken.
+[1649.72 --> 1652.20]  En dan vraag je dus...
+[1652.20 --> 1652.76]  Maak het beter.
+[1652.86 --> 1653.42]  Maak het beter.
+[1653.54 --> 1654.08]  Maak het beter.
+[1654.18 --> 1657.66]  En dan komt hij elke keer met significante verbeteringen...
+[1657.66 --> 1659.20]  Van wat hij gemaakt heeft.
+[1659.28 --> 1660.76]  Dit kan dus ook zo zijn met plaatjes.
+[1660.84 --> 1662.18]  Of wat je dan ook aan het maken bent.
+[1664.02 --> 1665.54]  En eigenlijk...
+[1665.54 --> 1667.10]  Het is best logisch volgens mij.
+[1667.26 --> 1669.04]  Eigenlijk wat je gewoon doet is...
+[1669.04 --> 1672.06]  Elke keer vraag je aan Claude...
+[1672.06 --> 1675.56]  Om meer computerkracht tegen een verzoek aan te gooien.
+[1675.56 --> 1676.96]  Tegen hetzelfde verzoek aan te gooien.
+[1677.06 --> 1680.12]  Dus het is bijna alsof je tegen het ding zegt...
+[1680.12 --> 1681.80]  Je hebt de neiging om snel te willen antwoorden.
+[1682.02 --> 1682.94]  Dat is jou zo verteld.
+[1683.12 --> 1684.66]  Maar ik ga jou nu toestemming geven...
+[1684.66 --> 1686.26]  Om er langer over na te denken.
+[1686.36 --> 1687.38]  En daarmee maak je het beter.
+[1687.48 --> 1688.32]  En dit werkt dus...
+[1688.32 --> 1690.42]  Zowel voor teksten als voor plaatjes...
+[1690.42 --> 1692.78]  Als voor andere dingen die je met Claude wil maken.
+[1692.90 --> 1694.40]  Dat wilde ik je in ieder geval niet onthouden.
+[1694.62 --> 1696.36]  Je kunt dat zelf proberen.
+[1696.98 --> 1698.56]  En als je dus meer...
+[1698.56 --> 1701.18]  Een soort van dit soort tips wil hebben...
+[1701.18 --> 1702.96]  Over hoe je AI kan toepassen in je werk...
+[1702.96 --> 1704.56]  Meld je dan aan voor onze nieuwsbrief op...
+[1704.56 --> 1706.34]  AI-report.email
+[1706.34 --> 1708.02]  Wat ik nog kort aan toevoegen...
+[1708.02 --> 1710.12]  Dat wat in Eder bijvoorbeeld gebeurt...
+[1710.12 --> 1711.76]  Dat hij met het weak model praat.
+[1711.90 --> 1713.70]  Dat is dan de haiku.
+[1713.94 --> 1715.06]  Kleine model van Claude.
+[1715.28 --> 1717.00]  En dan weer heen en weer gaat praten...
+[1717.00 --> 1717.98]  Tussen sonnet en haiku.
+[1718.46 --> 1720.32]  Dus die zit al te combineren...
+[1720.32 --> 1721.88]  Tussen snel en niet zo slim.
+[1722.14 --> 1723.90]  En slim en niet zo snel.
+[1724.22 --> 1725.08]  Dus dit ja...
+[1725.08 --> 1727.02]  En dat gebeurt op de achtergrond eigenlijk ook...
+[1727.02 --> 1727.60]  Bij die diensten.
+[1727.74 --> 1729.40]  En daar is deze persoon goed achtergekomen.
+[1729.74 --> 1730.18]  Grappig.
+[1730.90 --> 1732.32]  Straks het grote verhaal.
+[1732.62 --> 1733.18]  Maar eerst...
+[1733.18 --> 1737.70]  Ja, want vraag je je nou wel eens af...
+[1737.70 --> 1740.74]  Waarom je steeds vaker gepersonaliseerde advertenties ziet...
+[1740.74 --> 1743.64]  Die misschien net iets te goed passen bij je...
+[1743.64 --> 1746.90]  Dan is je digitale voetafdruk misschien groter dan je denkt.
+[1747.54 --> 1748.64]  Elke klik, elke zoekopdracht...
+[1748.64 --> 1750.56]  Elke online aankoop.
+[1750.62 --> 1751.76]  Het laat allemaal sporen achter.
+[1751.96 --> 1754.26]  En datamakelaars verzamelen die gegevens...
+[1754.26 --> 1756.16]  En creëren schaduwprofielen over jou.
+[1756.60 --> 1758.14]  Die ze vervolgens verkopen aan de hoogste bieder.
+[1758.40 --> 1759.06]  Maar dat is goed nieuws.
+[1759.50 --> 1762.96]  In Cogni helpt je om die digitale voetafdruk te verkleinen.
+[1763.16 --> 1766.22]  Deze slimme service verwijdert je gegevens bij datamakelaars.
+[1766.32 --> 1767.50]  Doet dat helemaal zelf voor je.
+[1768.10 --> 1770.88]  Waardoor je persoonlijke informatie beter beschermd is tegen misbruik.
+[1771.06 --> 1771.92]  En het mooie is...
+[1771.92 --> 1773.96]  In Cogni doet al het werk voor je.
+[1774.06 --> 1776.92]  Ze sturen automatisch brieven naar al die datamakelaars.
+[1777.06 --> 1779.32]  En als ze een succesvol verzoek hebben gehad...
+[1779.32 --> 1781.06]  Als in je gegevens zijn verwijderd...
+[1781.06 --> 1782.02]  Dan krijg je daar een bericht van.
+[1782.60 --> 1784.06]  Wil je ook online privacy verbeteren?
+[1784.14 --> 1785.62]  Maak dan nu een account aan bij In Cogni.
+[1785.74 --> 1788.02]  Je krijgt 60% korting met de link...
+[1788.02 --> 1790.14]  incogni.com slash pokypot.
+[1790.28 --> 1792.94]  Dat is incogni.com slash pokypot.
+[1793.24 --> 1795.08]  Voor een kleinere digitale voetafdruk.
+[1795.32 --> 1797.34]  En meer controle over je gegevens.
+[1797.90 --> 1799.38]  Dan gaan we nu naar het grote verhaal.
+[1803.80 --> 1806.62]  Want dat is cloud 3.5 zonnet.
+[1806.62 --> 1808.22]  We hebben het er genoeg over gehad, Witsen.
+[1808.32 --> 1810.08]  Misschien eerst op hoofdlijnen.
+[1810.44 --> 1811.86]  Wat is er nieuw?
+[1811.94 --> 1816.40]  Wat zijn de belangrijkste feiten die nieuw zijn aan dit model?
+[1816.40 --> 1818.84]  Het is wel interessant.
+[1819.10 --> 1822.50]  Want Antropic, de makers van de cloud modellen...
+[1822.50 --> 1825.36]  Een groepje die weggelopen is bij OpenAI destijds.
+[1826.30 --> 1827.38]  Amerikaans bedrijf.
+[1827.72 --> 1830.80]  Die hebben meerdere dingen tegelijk gelanceerd.
+[1830.98 --> 1832.36]  Want daar gaan we het straks ook over hebben.
+[1832.44 --> 1833.66]  Je hebt ook iets dat heet artifacts.
+[1833.92 --> 1834.88]  Je hebt nu projects.
+[1835.60 --> 1838.68]  Maar in de basis is het belangrijk dat...
+[1838.68 --> 1841.76]  Net als dat GPT versienummers heeft.
+[1842.14 --> 1844.34]  GPT 3, 3.5, 4, 4O.
+[1844.34 --> 1849.34]  Heeft Antropic daar hun cloud model.
+[1849.54 --> 1851.06]  En daar zitten ook versienummers aan.
+[1851.48 --> 1852.38]  En we zaten op 3.
+[1852.86 --> 1854.04]  En we zitten nu op 3.5.
+[1854.14 --> 1857.90]  Maar we zitten niet op 3.5 voor hun hele gamma aan modellen.
+[1858.40 --> 1858.90]  Maar alleen voor de...
+[1860.10 --> 1861.16]  Uit mijn hoofd alleen de middelste.
+[1861.22 --> 1863.04]  Ik weet eigenlijk niet of Haiku ook al gelanceerd is.
+[1863.12 --> 1864.62]  Maar als je nu ineens allemaal woorden hoort.
+[1864.68 --> 1865.60]  Dat je denkt Haiku wat?
+[1866.94 --> 1868.98]  Het lijkt er nu een beetje op dat de verschillende partijen...
+[1868.98 --> 1870.98]  Google is daar een beetje mee begonnen destijds.
+[1872.10 --> 1873.98]  Of misschien eigenlijk Microsoft met hun FI-modellen...
+[1873.98 --> 1878.14]  Ervoor kiezen om als ze een nieuwe generatie taalmodel hebben...
+[1878.14 --> 1880.80]  Om die taalmodellen dan minimaal in drie varianten...
+[1880.80 --> 1882.30]  In drie smaakjes uit te brengen.
+[1882.44 --> 1884.86]  Een kleintje, een midden en een grote.
+[1885.42 --> 1887.08]  En we zijn eigenlijk vanuit OpenAI gewend...
+[1887.08 --> 1890.24]  Dat die altijd alleen hun grote met ons delen.
+[1891.40 --> 1892.12]  Wat is dan klein?
+[1892.20 --> 1892.90]  Wat is dan groot?
+[1893.34 --> 1895.96]  Die kleine modellen zitten een beetje rond 7 miljard parameters.
+[1896.26 --> 1897.40]  8, 7, 8.
+[1897.78 --> 1899.46]  Dat kan draaien op een smartphone bijvoorbeeld.
+[1899.76 --> 1901.46]  Het kleine model van Apple wat ze nu...
+[1901.46 --> 1902.28]  Lokaal draaien.
+[1902.56 --> 1906.48]  Ja, dat kan lokaal draaien op jouw redelijk krachtige recente laptop.
+[1907.36 --> 1909.38]  Of jouw iPhone 15 Pro.
+[1909.70 --> 1913.46]  Of een heel recent toestel van Google of Contra.
+[1914.18 --> 1916.84]  Dan heb je de 70 miljard modellen.
+[1916.94 --> 1919.96]  Dat zijn een beetje de lama's die nu bijvoorbeeld uit zijn gekomen vanuit Meta.
+[1920.12 --> 1921.50]  Dus je hebt Lama 2, Lama 3.
+[1922.06 --> 1923.38]  Dat zijn open source modellen.
+[1923.76 --> 1926.48]  70 miljard, daar moet je een hele zware computer voor meenemen.
+[1926.76 --> 1929.24]  Vaak huren mensen daar wat GPU krachten in de cloud voor in.
+[1929.24 --> 1930.80]  Maar het is redelijk bereikbaar.
+[1931.00 --> 1934.62]  En ook bereikbaar voor bedrijven om die bijvoorbeeld te finetunen, aan te passen.
+[1934.98 --> 1935.40]  Noem maar op.
+[1935.76 --> 1940.08]  Dan ga je echt richting serieuze aantallen, richting de 200 miljard.
+[1940.54 --> 1942.82]  200 miljard is waar Sonnet nu op geschat wordt.
+[1943.00 --> 1944.64]  Dat weten we niet helemaal zeker hoe groot die is.
+[1944.72 --> 1947.36]  Maar zeker niet zo klein als die eerdere modellen.
+[1948.26 --> 1949.24]  Jet GPT destijds.
+[1950.10 --> 1951.86]  Toen het allemaal ooit begon met Jet GPT.
+[1952.70 --> 1953.24]  300 miljard.
+[1953.24 --> 1953.84]  100 miljard.
+[1954.48 --> 1960.84]  En nu zitten we met GPT 4 ergens geschat rond de 1,72 biljoen.
+[1961.98 --> 1964.14]  Oh ja, de opvolg van miljard bedoel je.
+[1964.38 --> 1964.60]  Ja.
+[1964.78 --> 1965.96]  Ja, dat is volgens mij biljoen.
+[1966.24 --> 1968.30]  Ja, dus dat zijn de echte flinke.
+[1968.76 --> 1971.20]  Daar hebben we ook nog geen open source modellen van gezien.
+[1971.56 --> 1972.38]  In die grootte.
+[1973.16 --> 1975.22]  Dat heeft ermee te maken dat dat de krachtigste zijn.
+[1975.34 --> 1976.54]  Dus daar kan je een hoop geld mee verdienen.
+[1976.74 --> 1980.24]  Maar het heeft er ook mee te maken dat het gewoon niet te draaien is voor de meeste...
+[1980.24 --> 1982.44]  ook niet midden en kleine bedrijven.
+[1982.52 --> 1984.82]  Want het zijn echt capaciteiten die je daarvoor moet hebben.
+[1984.88 --> 1985.42]  Dat is niet normaal.
+[1985.90 --> 1992.08]  Wat we nu hebben is een gesloten, geen open source, een gesloten taalmodel van Antropic.
+[1992.42 --> 1994.02]  Genaamd CLOT 3.5.
+[1994.12 --> 1995.00]  Dus een allernieuwste.
+[1995.22 --> 1996.24]  En dan het middenmodel.
+[1996.70 --> 2001.48]  Geschat, want ik kan het nergens vinden, rond de 200 miljard parameters.
+[2002.12 --> 2005.88]  Wat is eigenlijk gelijk staat aan de Jet GPT 3,5 modellen.
+[2005.88 --> 2008.44]  Maar presteert rond de 4O modellen.
+[2008.70 --> 2010.60]  Waar we over biljoen praten.
+[2010.76 --> 2012.10]  Dus dat is iets unieks.
+[2012.54 --> 2014.64]  Dan heb ik het eigenlijk alleen maar over gaaf zeg.
+[2014.74 --> 2018.26]  Een kleine model kan meerennen op het niveau van de grote modellen.
+[2018.64 --> 2020.90]  Maar wat er nog meer aan de hand is, is...
+[2020.90 --> 2022.80]  En daar kan jij misschien ook wat meer over vertellen Alexander.
+[2022.98 --> 2027.78]  Is dat die CLOT modellen, dat hadden ze al, maar nu meer en meer anders voelen.
+[2028.02 --> 2029.00]  Anders met je praten.
+[2029.10 --> 2030.24]  Het is een ander gesprek.
+[2030.56 --> 2031.12]  Nee, dat klopt.
+[2031.12 --> 2032.94]  Het is een...
+[2032.94 --> 2036.78]  Het Jet GPT vind ik best wel een irritant toontje hebben.
+[2037.00 --> 2038.40]  Als die tekst voor je schrijft.
+[2038.40 --> 2044.50]  Het is een heel irritant, nadrukkelijk, keurig, helpvol.
+[2044.64 --> 2047.18]  Zoals Amerikanen zeggen, you're so helpful.
+[2047.82 --> 2048.54]  Ja, ik weet niet.
+[2048.64 --> 2049.56]  Ik vind dat gewoon cringe.
+[2050.26 --> 2053.32]  En CLOT kan gewoon veel beter schrijven.
+[2053.48 --> 2056.32]  En het is bij deze versie weer beter geworden.
+[2056.56 --> 2059.40]  En wat daarnaast ook heel erg helpt, is de snelheid.
+[2059.40 --> 2061.82]  Want wat jij het nu over hebt, is de...
+[2061.82 --> 2062.94]  Nou ja, hoe slim is het model.
+[2063.62 --> 2067.46]  Maar wat natuurlijk wel echt een nadeel was van CLOT Opus.
+[2067.62 --> 2068.98]  Het grootste taalmodel van CLOT.
+[2069.14 --> 2072.26]  Wat ook al zo lekker schreef in vergelijking met Jet GPT.
+[2072.58 --> 2075.60]  Was dat het wel echt voelde alsof je met een vriend aan het praten was.
+[2075.70 --> 2076.92]  Weet je, in een chatgesprek.
+[2077.02 --> 2078.14]  Dus dat je iets zegt.
+[2078.26 --> 2079.92]  En dan vervolgens zie je Wiets is typing.
+[2080.14 --> 2081.98]  En dan zie je een tekstbubbeltje met drie puntjes.
+[2082.44 --> 2083.02]  Een minuut.
+[2083.14 --> 2084.02]  Zo gaat dat tussen ons.
+[2084.44 --> 2084.96]  Ja, nou ja.
+[2085.04 --> 2086.76]  Zo gaat dat gewoon in gesprek tussen vrienden.
+[2086.76 --> 2092.38]  Dat is een andere ervaring dan wat we inmiddels dus gewend zijn van Jet GPT 4.0.
+[2092.88 --> 2097.26]  Namelijk dat het echt razendsnel op je scherm bijna streamt.
+[2097.76 --> 2103.00]  En dat is het eerste ding wat je opvalt, denk ik, als je drieënhalf sonnet voor het eerst gebruikt.
+[2103.42 --> 2104.96]  Het komt net zo snel binnen.
+[2105.16 --> 2109.06]  Het is alsof het uit de lucht getrokken wordt.
+[2109.18 --> 2109.98]  Zo snel als je kan lezen.
+[2110.04 --> 2111.62]  Of sneller dan je kan lezen eigenlijk.
+[2112.14 --> 2115.04]  En dan dus betere kwaliteit dan wat je met Opus krijgt.
+[2115.04 --> 2116.08]  Nou, dat is wel een ding.
+[2116.92 --> 2118.50]  Ja, en die performance.
+[2118.82 --> 2120.88]  Ja, gewoon hoe lang duurt het voordat ik een antwoord krijg.
+[2120.96 --> 2123.18]  En hoe snel streamt het antwoord mijn scherm binnen.
+[2123.54 --> 2125.70]  Dat heeft alles te maken met de grootte van het model.
+[2125.92 --> 2128.72]  Hoe kleiner zo'n model is, hoe minder hard wil je er tegenaan hoeft te gooien.
+[2129.02 --> 2130.56]  Hoe sneller je het kunt uitvoeren.
+[2131.02 --> 2134.68]  En daarom is het wezenlijk interessant voor die partijen om te zoeken.
+[2134.82 --> 2141.00]  En dat is nu eigenlijk een soort openlijke zoektocht tussen al die verschillende partijen die taalmodellen aan het ontwikkelen zijn.
+[2141.00 --> 2144.36]  Rond hoeveel parameters zit er een model.
+[2144.50 --> 2146.80]  Wat is een soort van Goldilocks, een sweet spot.
+[2147.22 --> 2153.00]  Waarop je een model kan leveren dat toegevoegde waarde kan bieden binnen een leven van iemand of een organisatie.
+[2153.18 --> 2156.70]  Of in ieder geval toegevoegde waarde kan bieden voor iemands werk bijvoorbeeld.
+[2157.52 --> 2160.26]  En hoeveel parameters hebben we daar nou eigenlijk echt voor nodig.
+[2161.26 --> 2164.78]  Dat is eigenlijk Microsoft die met hun FI-model destijds dat al zei.
+[2164.78 --> 2168.34]  Zelfs met 7 miljard parameters kan je al best wel leuke dingen doen.
+[2168.82 --> 2173.34]  Dat is waarom Apple nu zegt, sterker nog, die durven we zelfs wel mee te leveren op jouw toestel.
+[2173.84 --> 2177.54]  Want die kan nog wel zinnigere dingen zeggen dan de Siri 1.0.
+[2177.80 --> 2178.92]  Niet zo moeilijk, maar dan nog.
+[2179.50 --> 2182.44]  Maar uiteindelijk, het viel mij op.
+[2183.02 --> 2184.00]  En ik was niet de enige.
+[2184.44 --> 2189.78]  Dat het best wel bijzonder is dat als je een geschat model Opus 2 biljoen.
+[2189.78 --> 2192.12]  Dus rond GPT-4O.
+[2193.24 --> 2199.04]  Hebt Opus 3, dat Sonnet 3.5, 200 miljard geschat.
+[2199.54 --> 2203.74]  Eigenlijk op alle benchmarks en de menselijke benchmarks.
+[2203.92 --> 2205.08]  Want die worden er ook gedaan.
+[2205.48 --> 2207.82]  Hoe mensen hierop reageren en scoren geven.
+[2207.84 --> 2208.56]  Ja, de kwalitatieve benchmark.
+[2208.74 --> 2209.56]  Ja, de kwalitatieve benchmark.
+[2209.70 --> 2214.32]  Ook daarop eigenlijk de conclusie nu is, na anderhalve week.
+[2214.62 --> 2218.48]  Ja, Sonnet kan eigenlijk gewoon Opus kwaliteit output leveren.
+[2218.48 --> 2220.30]  Terwijl het een tien keer zo'n klein model is.
+[2220.42 --> 2221.36]  En dat is wel echt bizar.
+[2221.74 --> 2224.36]  En wat is dan de verbazing van mensen?
+[2225.02 --> 2232.50]  Weet je, op Twitter gaat het sinds deze nieuwe versie is uitgekomen, gaat het los met mensen die allemaal voorbeelden langslopen.
+[2233.02 --> 2240.18]  En dat zijn dan met name de dingen waar mensen echt enthousiast over zijn, komen uit een nieuwe feature die heet Artifacts.
+[2240.32 --> 2244.56]  Het is een soort zijbalk die in de chatmodus verschijnt.
+[2244.56 --> 2250.62]  Op het moment dat je iets genereert, dat kan dus code zijn, dat kunnen teksten zijn, dat kunnen documenten zijn.
+[2250.72 --> 2252.56]  Maar zelfs webdesigns of simpele spelletjes.
+[2253.68 --> 2257.62]  Dan is er een apart venster, een soort zijbalk, waar dat gebeurt.
+[2257.70 --> 2259.34]  Dus dit is redelijk nieuw.
+[2259.46 --> 2265.30]  Ik ken dit eigenlijk alleen maar van programmeertools als Devin, waar je een los chatvenster hebt.
+[2265.30 --> 2271.78]  Ja, je zou voor de mensen die het kennen, je hebt Swift Playgrounds van Apple, wat weer voor beginnende programmeurs.
+[2272.26 --> 2280.70]  En veel programmeurs, daarom zitten ze ook vaak achter tegenwoordig ultra widescreens of twee displays, heb je al code links, live preview rechts.
+[2280.94 --> 2283.30]  Maar dat was iets wat je zelf neerzette.
+[2284.46 --> 2287.14]  En nu zit het hier gewoon in en het is ook nog eens een AI.
+[2287.14 --> 2294.22]  Ja, nou, het is dus iets wat programmeurs misschien al gewend zijn, maar ik denk mensen die niet programmeur zijn, hebben dit nooit nodig.
+[2294.50 --> 2302.62]  Namelijk op één plek een plek waar je, of aan de ene kant een plek waar je letterlijk aan het communiceren bent over wat je genereert.
+[2302.70 --> 2306.68]  En aan de andere kant het eindresultaat te zien, de soort van voorvertoning.
+[2306.68 --> 2326.86]  En dat maakt de hele ervaring van zo'n taalmodel of zo'n chat tool gebruiken heel anders, omdat in plaats van dat chat GPT wat toch een onoverzichtelijke brei wordt als je samen een document aan het maken bent, bijvoorbeeld door de hele tijd commentaar te leveren op wat je wil veranderen en dat hij dan weer in line, in dat gesprek, een nieuwe versie van dat document openbaart.
+[2326.94 --> 2329.84]  Het wordt binnen no time een totaal onoverzichtelijke brei.
+[2329.84 --> 2342.96]  En daarin is deze nieuwe UI eigenlijk heel fijn, want op het moment dat je iets probeert te maken samen en de eerste versie is niet gelijk goed, dan is het gesprek aan de linkerkant waar je dus onoverzichtelijkheid houdt.
+[2343.02 --> 2353.72]  Maar aan de rechterkant zie je gewoon per versie elke keer het nieuwe resultaat gegenereerd worden, waarbij je dus ook met pijltjes onderin terug kan gaan naar vorige of naar volgende versies.
+[2353.72 --> 2363.82]  Waardoor je gemakkelijk door het werk wat je samen maakt met die AI, gemakkelijk door die verschillende versies kan gaan.
+[2363.92 --> 2364.90]  En dat verandert wel een hoop.
+[2365.52 --> 2377.76]  Ja, vind ik ook. En ik zat ook te denken waarom nu, want die valt dus eigenlijk gelijk met die lancering van hun nieuwe taalmodel, is dat ik ook denk dat je een bepaalde snelheid nodig hebt om dit te kunnen doen.
+[2377.76 --> 2391.06]  Met daarmee bedoel ik, als jij die snippets zou zetten naast opus, maar die snippets, die art effect, dat is uiteindelijk als het gaat over een SVG, dus een vector afbeelding, dan maak je een plaatje van een koe, noem maar wat.
+[2391.60 --> 2395.46]  Op de achtergrond moeten dan al die coördinaten neergezet worden en dat hele ding in een formaatje.
+[2395.62 --> 2398.24]  En pas als die klaar is, kan je die koe weergeven. In de tussentijd is er niks.
+[2398.24 --> 2404.54]  Dus deze interface heeft eigenlijk nodig een snel en intelligent taalmodel.
+[2404.74 --> 2408.00]  Wil je die artifacts eigenlijk werkbaar maken voor de eindgebruiker?
+[2408.36 --> 2412.44]  En Opus was slim genoeg, maar niet snel genoeg. En Sonnet was snel genoeg, maar niet slim genoeg.
+[2412.68 --> 2420.56]  Dus die artifacts feature is eigenlijk een logisch gevolg van wat taalmodellen nu kunnen binnen de wereld van Antropic.
+[2421.04 --> 2422.18]  Heb je er een beetje mee geklooid?
+[2422.18 --> 2430.40]  Ja, ik vind het heel vet. Maar ik moet zeggen, ik had zelf al, ik had dit al, maar ik gebruik al heel veel tools die zo werken, maar niet zo geïntegreerd.
+[2430.84 --> 2438.40]  Kijk, ik ben iemand, maar dat is ook gewoon hoe ik het liefst werk, is een beetje in het oude paradigma van what you see is what you get.
+[2438.68 --> 2444.50]  Ik wil gewoon in het visuele zijn, niet de hele dag werken in tekst en aan het eind van de dag zien wat ik eigenlijk gemaakt heb.
+[2444.90 --> 2451.26]  Dus ik heb altijd al, dit is voor mij niet nieuw. Ik ging ermee spelen en toen dacht ik, ja, ik snap wel dat dit heel krachtig is.
+[2451.26 --> 2458.60]  Ja, maar ik bedoel dat ik eigenlijk breder dan alleen maar die artifacts UI. Ik bedoel meer heb je met het nieuwe model gespeeld.
+[2458.90 --> 2463.08]  Ja, het is mijn standaard model geworden. Ik heb mijn subscription. Ja, ik ben zo loyaal als niks.
+[2463.12 --> 2463.90]  Wat vind je ervan?
+[2464.66 --> 2473.46]  Voor mij, voor programmeren wat ik doe, en dat is een beetje licht frontend programmeren en wat backend taken, overduidelijk sneller.
+[2473.46 --> 2481.74]  Maar een meer dan intelligent genoeg om te doen wat ik nodig heb. En een best wel creatief.
+[2482.10 --> 2483.80]  En daarmee bedoel ik eigenlijk, als ik de vraag...
+[2483.80 --> 2484.54]  Volgameren bedoel je?
+[2484.86 --> 2489.48]  Ja, want dan vaak denk ik, nou, dit is niet helemaal wat ik wilde. Try again.
+[2490.06 --> 2492.82]  En dan, oh, sorry, nee, ook goed. En dan een hele andere richting.
+[2493.58 --> 2499.70]  En dat vind ik gaaf, want vaak, het zijn ook een beetje mijn vragen die niet gewoon, die ze goed zijn.
+[2499.70 --> 2503.42]  Je moet ook goede vragen stellen. Dat is een beetje een hele devies met sowieso taalmodellen.
+[2504.18 --> 2509.02]  Als het taalmodel niet zo goed reageert, dan moet je toch bij jezelf eens afvragen wat je eigenlijk aan het vragen bent.
+[2509.66 --> 2515.56]  Mijn oplossing daarin is de vraag, ik ben gewoon lui, ik type vaak ook een slecht Engelse vol met spelfoute zin.
+[2515.64 --> 2518.72]  Want ik heb gewoon geen zin om, ik praat tegen een taalmodel, het hoeft allemaal niet zo spannend.
+[2519.34 --> 2524.20]  En tegenwoordig zeg ik dan heel vaak, can you try again? Can you try a different method? Can you try a different direction?
+[2524.60 --> 2527.00]  En dan krijg ik de meest interessante dingen.
+[2527.00 --> 2537.72]  Terwijl ik, want alles waar we nu over praten, precies wat jij net al zei, is een soort de intuïtie van ons als aan de andere kant zittende van het taalmodel.
+[2538.16 --> 2545.12]  En ik, de laatste twee maanden van mijn werkleven, als ik in gesprek best, was dat met GPT-4O.
+[2545.90 --> 2549.74]  En dat doe ik via verschillende apps, dus ik zie niet de interface van OpenAI.
+[2549.92 --> 2551.82]  Dus voor mij gewoon, wat is de achterkant?
+[2551.82 --> 2557.14]  Als jij aan het programmeren bent, bedoel je, dan gebruik je een code editor en daar zit dan Jetty TV in.
+[2557.32 --> 2559.34]  Ja, ik zit niet in de interface van OpenAI.
+[2560.14 --> 2562.88]  Het nadeel is dat ik dan niet alle coole dingen van OpenAI krijg.
+[2562.96 --> 2564.86]  Het voordeel is dat ik niet vast zit in hun wereld.
+[2564.86 --> 2570.40]  Dus toen Cloud 3.5 Sonnet uitkwam, ik even scrollen, ja, opklikken dat ding erin.
+[2570.74 --> 2571.90]  En ik ging weer verder met mijn werk.
+[2572.08 --> 2575.48]  En het voelt ineens alsof ik een andere collega naast me heb zitten, subtiel.
+[2576.20 --> 2578.70]  En deze collega is een stuk sneller.
+[2579.32 --> 2583.08]  En weet met hele interessante creatieve oplossingen te komen.
+[2583.58 --> 2584.48]  Dat viel me op.
+[2584.48 --> 2591.00]  Het is grappig, want dat je dit effect als programmeur hebt, is natuurlijk heel erg gaaf.
+[2591.10 --> 2597.98]  Maar het is voor het eerst ook dat ik dit gevoel heb met, als niet-programmeur zijnde, dat ik een beetje kan programmeren.
+[2598.36 --> 2600.78]  Het zijn simpele dingen die je ding kan maken.
+[2601.50 --> 2610.36]  Maar ik vind dat Ithe Mollek, we noemen hem wel vaker in deze podcast, zijn Twitter account, laat hij altijd heel veel demo's zien van dingen die hij doet.
+[2610.36 --> 2619.90]  En ik vond twee demo's die hij gewoon liet streamen, waarbij je ziet hoe simpel het is om dus zelf iets in elkaar te programmeren, heel grappig.
+[2620.06 --> 2626.12]  Eén was, hij had een ingewikkelde soort van rapport van 80 pagina's erin gegooid.
+[2626.38 --> 2628.52]  Een pdf met allemaal grafieken erin.
+[2629.04 --> 2631.30]  En dan vraag je aan dat ding om een infographic ervan te maken.
+[2632.18 --> 2634.44]  En dat doet hij dan, probleemloos.
+[2634.58 --> 2637.00]  En dan vervolgens als je dan vraagt, kan je dit interactief maken?
+[2637.00 --> 2644.00]  Dus in dit rapport was er iets in waardoor als je met schuifjes schuift, dan deed dat iets met jaarcijfers.
+[2645.72 --> 2647.28]  Dat in de pdf natuurlijk niet kan.
+[2647.84 --> 2657.42]  Maar wat je die AI dus kan vragen, nou maak deze functie interactief, waardoor je een soort website voor me maakt, waardoor ik met schuifjes heen en weer kan schuiven en dat die grafieken dan aanpassen.
+[2658.10 --> 2661.76]  Ja, echt probleemloos wordt dat gegenereerd tot dat ding.
+[2661.76 --> 2672.50]  En als je dan vervolgens vraagt, maak hier een game van, waarmee de principes die uit dit rapport komen via het medium game worden overgebracht aan de gebruikers.
+[2672.74 --> 2682.00]  Dan lukt het ding dus om daar een game mechanics te bedenken en punten en andere dingen die maken wat een spelletje een spelletje maakt.
+[2682.00 --> 2687.66]  Een heel simpel, weet je, spelletjes met knoppen en wel iets van interactiviteit.
+[2687.74 --> 2694.88]  Je moet geen 3D shooter verwachten, maar wel een spelletje wat je in je browser kan spelen.
+[2695.76 --> 2698.58]  En dat zonder programmeerskills te hebben.
+[2698.92 --> 2701.64]  Ik was daar wel van onder de indruk.
+[2701.94 --> 2704.18]  Ik heb zelf dat ook geprobeerd met een aantal dingetjes.
+[2704.32 --> 2708.34]  En dat werkt echt heel aardig voor simpele dingen.
+[2708.34 --> 2716.26]  Ja, en ik denk dat er zijn waarschijnlijk luisteraars die denken, ja oké, Bietje is blijkbaar aan het programmeren.
+[2716.46 --> 2722.46]  Die maakt software interessant wat dat voor effect heeft op zijn werk, zijn werkende leven of zo.
+[2722.90 --> 2725.84]  Maar hoe ik erin sta, want dit spelletje hebben we al vaker gespeeld.
+[2726.02 --> 2731.36]  Of dit verhaal heb ik al vaker gehoord, laat ik het zo zeggen, al vaker gezien.
+[2731.36 --> 2738.56]  Kijk, die tools, zoals Adr, om er nog even op terug te komen, die tool die ik gebruik om mij te helpen tijdens het programmeren.
+[2738.98 --> 2742.58]  Dat was een command line tool, oftewel wat mijn vader zou zeggen, DOS.
+[2742.84 --> 2744.02]  Het ziet eruit als DOS.
+[2744.30 --> 2746.00]  Ja, intimiderend.
+[2746.28 --> 2747.68]  Ja, en een witte tekst.
+[2748.04 --> 2749.06]  Dat is wat Adr was.
+[2749.18 --> 2751.28]  Nu heeft Adr een nieuwe feature, die heet Adr Browse.
+[2751.36 --> 2755.48]  Als je dat erachter typt, opent hij meteen je browser en kom je in een pagina die draait op jouw computer.
+[2755.48 --> 2757.68]  Maar eruit ziet als de interface van JGBT.
+[2757.98 --> 2760.36]  Wat voor heel veel mensen al minder intimiderend is.
+[2760.36 --> 2765.26]  Maar het is nog steeds een tool die volledig bedacht is om jou te helpen bij programmeren.
+[2765.76 --> 2771.72]  Maar uiteindelijk wat je gaat zien, en dat begint nu, er zijn meerdere bedrijven, heel veel geld in aan het stoppen en heel veel tijd.
+[2772.66 --> 2776.94]  Is om een aid, een helper te hebben voor jouw specifieke taak.
+[2777.20 --> 2778.46]  Ik ben een huisarts.
+[2778.90 --> 2780.60]  Ik ben een pensioenadviseur.
+[2781.00 --> 2783.34]  Ik ben een kok.
+[2783.34 --> 2784.22]  Ik noem maar op.
+[2784.62 --> 2791.56]  Om te zeggen, kan ik nou een soort collega, slash hulp, slash projectmanager hebben.
+[2792.04 --> 2793.76]  Die alle taken overziet.
+[2794.06 --> 2796.16]  En zelfs deels de taken kan uitvoeren.
+[2796.48 --> 2798.38]  Of kan delegeren naar mij, de mens.
+[2798.60 --> 2800.04]  Of naar een menselijke collega.
+[2800.58 --> 2805.92]  En ik denk dat wat ik nu zie gebeuren binnen die Adr wereld die dan helemaal op mij toegespitst is.
+[2805.92 --> 2811.00]  Ik zie daar eigenlijk niets in wat niet gegeneraliseerd kan worden naar andere werkvelden.
+[2811.20 --> 2817.68]  En daarom, dus ik wil de luisteraar ook een beetje uitdagen van als je iets met programmeren hoort en je oren gaat meteen dicht.
+[2817.78 --> 2819.96]  Als het ware, omdat je denkt, nou laat die gasten maar even praten.
+[2820.54 --> 2821.00]  Let op.
+[2821.22 --> 2824.42]  Want het begint over het algemeen bij ons, zeg ik dan altijd.
+[2824.82 --> 2827.68]  Deze tools druppelen altijd bij ons naar binnen in een dosvorm.
+[2827.94 --> 2831.04]  En die fietsen uiteindelijk in een gelikte interface jouw bedrijf binnen.
+[2831.04 --> 2839.06]  En ik denk dat het toch goed is om even mee te fantaseren wat als wat Wietse daar nu al dagelijks een beetje knullig aan het doen is.
+[2839.12 --> 2840.86]  Want ik wil niet de wereld beloven.
+[2841.24 --> 2843.02]  Het is geen synthetische collega van mij.
+[2843.56 --> 2845.64]  Maar hij wordt niet slechter iedere maand, kan ik je vertellen.
+[2846.10 --> 2851.26]  Nou, dat haakt aan bij wat Ethan Mollick, sorry, ik begin een beetje een broken record te worden.
+[2851.42 --> 2856.00]  Maar wat hij altijd zegt, namelijk invite AI to the table, is wat hij altijd zegt.
+[2856.00 --> 2862.52]  Dus probeer in je werk AI zoals Claude erbij te vragen.
+[2862.84 --> 2866.52]  Zodat je erachter komt waar het allemaal voor gebruikt kan worden.
+[2866.80 --> 2874.62]  Je gaat er pas achter komen hoe dit in je leven ver kan worden als het nog niet, weet je, heel bruut in de tools zit die je toch elke dag gebruikt.
+[2875.90 --> 2878.18]  Daar kun je op wachten totdat dat allemaal komt.
+[2878.26 --> 2882.60]  Maar je kunt nu ook al de AI uitnodigen, om het zo maar te zeggen.
+[2883.12 --> 2885.04]  Zodat je erachter komt wat er allemaal kan al.
+[2885.04 --> 2890.82]  Want pas als je dat doet, is het ook mogelijk om je fantasie meer aan het werk te zetten.
+[2891.14 --> 2894.40]  En erachter te komen wat realistisch is en wat niet realistisch is.
+[2894.98 --> 2899.84]  Je kan dus niet een 3D shooter nu laten maken door Claude.
+[2899.94 --> 2902.08]  Maar wat wel kan, en ik vind dit een praktisch voorbeeld.
+[2902.16 --> 2905.64]  Ik zat laatst mijn financiën te doen en toen probeerde ik een beetje een inschatting te maken.
+[2905.78 --> 2908.78]  Van nou, als ik ieder jaar x euro opzij zet.
+[2909.82 --> 2913.56]  Hoeveel met een rentepercentage van x procent.
+[2913.56 --> 2915.62]  Wat heb ik dan over 20 jaar?
+[2916.32 --> 2919.10]  Dat is dus een, dat is precies wat ik nu zeg.
+[2919.20 --> 2923.32]  Als je dat als prompt zou geven aan Sonnet, dan maakt hij die tool.
+[2923.86 --> 2925.22]  En dan heb je een slider.
+[2925.68 --> 2928.62]  En dan kan je rendement heen en weer schuiven binnen een bepaald ding.
+[2929.06 --> 2930.98]  En dan, kijk, er zijn mensen die luisteren die zeggen.
+[2931.24 --> 2933.12]  Oh ja, maar dat heb ik al heel mooi in Excel gemaakt.
+[2933.40 --> 2933.88]  Dat is prima.
+[2934.24 --> 2936.20]  Dat kan niet iedereen en dat wil niet iedereen.
+[2936.20 --> 2939.64]  Maar als je nu custom kleine widgets en interfaces kan maken.
+[2939.84 --> 2943.90]  En dat jouw vraag beantwoord wordt, niet met een antwoord, maar met een interface.
+[2944.32 --> 2948.56]  Want dat is wat jij natuurlijk nu aanvoelt met die, want we hebben het wel eens over apps on demand gehad.
+[2948.92 --> 2950.36]  Half jaar geleden in Poki.
+[2950.36 --> 2955.46]  Die artifacts zijn een soort apps on demand als je dat slim gebruikt.
+[2955.56 --> 2958.30]  Je moet daar zelf nog een beetje slim voor zijn als gebruiker.
+[2958.68 --> 2960.06]  Maar we zien de bui al hangen.
+[2960.78 --> 2960.82]  Ja.
+[2961.38 --> 2970.32]  Ja, en wat wel daaruit opvallend is, is dat het nog heel lastig is om dingen die je hebt gemaakt met Cloud,
+[2970.42 --> 2972.82]  bijvoorbeeld zo'n tooltje, om die dan vervolgens weer te delen.
+[2973.38 --> 2977.00]  Dat komt dan wel gelijk, dat wordt dan wel gelijk heel duidelijk voor me.
+[2977.12 --> 2979.32]  Dan heb ik iets gemaakt waarvan ik denk dat het is handig.
+[2979.32 --> 2982.16]  En het is gewoon niet deelbaar.
+[2982.44 --> 2989.80]  Dus dat is, weet je, wanneer gaan we krijgen, misschien een beetje vergelijkbaar met GPT's of zo,
+[2989.86 --> 2993.72]  maar wanneer gaan we krijgen dat die tools, nou ja, makkelijk deelbaar zijn.
+[2993.92 --> 2998.56]  En dat er ook een soort stoor komt van met Cloud gegenereerde tooltjes.
+[2998.66 --> 2999.30]  Ja, ik weet het niet.
+[3000.26 --> 3003.18]  Maar dat wordt wel opeens heel duidelijk, dat gemis.
+[3004.26 --> 3008.68]  Ja, ik moet denken aan die demo van Apple met hun calculator app.
+[3008.68 --> 3011.18]  Dat ze uiteindelijk iedereen ging juichen voor de calculator.
+[3011.42 --> 3016.16]  Maar als je hem dan op een knopje drukte, kwam je in een soort, of kom je in een soort, ik heb het nog niet kunnen zien live,
+[3016.28 --> 3020.56]  maar interface waarbij je, van mij heet het drawing math.
+[3020.96 --> 3023.52]  In ieder geval, je hebt gewoon een whiteboard, daar kan je op tekenen.
+[3023.52 --> 3033.04]  En als je daar een rekensom op zet, en zelfs complexer dan een simpele 1 plus 1 som, dan wordt die som meteen uitgerekend en het antwoord wordt erin geschreven met jouw handschrift.
+[3033.20 --> 3034.16]  Alsof het allemaal niks is.
+[3034.34 --> 3036.06]  Eigenlijk was die demo echt ontzettend vet.
+[3036.56 --> 3044.40]  En alle techniek was er al, maar Apple heeft het weer even aan elkaar gelijmd op een manier dat het ook voor mijn moeder, die denkt, wauw, een soort magische schoolbord.
+[3044.40 --> 3045.82]  Wow, cool.
+[3046.66 --> 3054.60]  Maar daarin zag je ook al dat je in je rekensom kon zeggen, ik gebruik een variabel en dan werd die variabel een slider en dan kon je met je pen aan die slider zitten.
+[3054.80 --> 3066.52]  Ik denk dat daar de eerste inklings, de eerste tekenen zijn van een toekomst van kleine op maat gemaakte interfaces slash applicaties,
+[3066.64 --> 3068.78]  die je dan hopelijk ook met elkaar kan delen inderdaad.
+[3069.08 --> 3071.78]  En misschien zelfs aan elkaar kan gaan koppelen op een bepaalde manier.
+[3071.78 --> 3077.16]  En dat we dat nu een beetje beginnen te zien, iets wat een kleine groep voor zichzelf al kon,
+[3077.28 --> 3083.90]  want genoeg IT-vrienden die hun hele Excel-sheet kunnen laten, die zeggen dan moet je eens even kijken wat ik heb.
+[3083.98 --> 3087.00]  En die hebben dan een of andere kermis gebouwd in Excel om hun eigen leven te managen.
+[3087.28 --> 3092.94]  En super vet, maar daar heeft dan de rest van de wereld niet zo heel veel aan, als ze het al begrijpen wat er allemaal gebeurt.
+[3093.44 --> 3097.82]  En ik denk dat je daar wel meer van kan zien.
+[3097.82 --> 3104.32]  Volgens mij staan we aan het begin van een soort van tijd die een beetje doet denken aan het internet van vroeger,
+[3104.42 --> 3108.44]  toen iedereen zijn eigen ruimtetje op internet had en waarmee je een soort van lichtgewicht,
+[3109.14 --> 3113.50]  met een beetje lichtgewichtprogrammeerskills je eigen dingetjes kon maken op internet.
+[3113.70 --> 3118.68]  Er was een tijd waarin dat veel gebeurde en dat niet alleen maar bij professionele app-ontwikkelaars lag.
+[3118.68 --> 3122.14]  Het voelt een beetje alsof die tijd langzaam een beetje aan het terugkomen is.
+[3122.28 --> 3126.32]  En alsof het idee van wat het is om app-ontwikkelaar te zijn,
+[3126.72 --> 3130.82]  dat is nu een smal, smal, smal deel van de samenleving,
+[3131.46 --> 3140.60]  dat die status, maar ook die vrijheid iets is wat veel meer mensen gaan kunnen bereiken binnen nu en een korte tijd.
+[3140.68 --> 3145.00]  En wat ook ons idee gaat veranderen, wat het is om een app te maken.
+[3145.00 --> 3149.00]  Als je met een paar prompts zo'n tool kan genereren,
+[3150.68 --> 3154.28]  wat is het dan nog om een app te openen op je homescreen,
+[3154.34 --> 3158.58]  wat helemaal in elkaar getikt is door een team van ontwikkelaars?
+[3159.48 --> 3163.26]  Ja, op het moment dat ik iets kan maken wat helemaal aan mijn wensen is aangepast,
+[3163.34 --> 3167.94]  misschien wil ik dat dan wel liever dan een soort van one-size-fits-all app die ik uit de appstore kan maken.
+[3167.94 --> 3173.54]  Nou ja, en ik hoor een soort van mensen stijgeren in mijn hoofd.
+[3173.54 --> 3178.82]  Ik hoor ze nu, die soort van ja, maar dan kan je toch niet de app meemaken van de Rabobank of zo.
+[3179.02 --> 3179.62]  Nee, nee, nee.
+[3179.68 --> 3181.78]  Joh, nee, maar prima. Maar weet je wat het is?
+[3181.88 --> 3184.42]  Ik ben nu deze week weer op zoek geweest naar een habit tracker.
+[3184.58 --> 3186.04]  Ik denk, ga toch maar eens even habit tracker.
+[3186.04 --> 3186.44]  Ja, ja, ja.
+[3186.46 --> 3188.76]  Ik moet mijn tanden weer eens gaan poetsen. Dit gaat echt helemaal verkeerd.
+[3189.06 --> 3189.68]  Ja, nee, dat is echt waar.
+[3190.12 --> 3193.12]  Dus ik heb 17 habit trackers geïnstalleerd. Dat gaat echt hard.
+[3193.54 --> 3195.66]  Nee, doe het. Binnen vijf minuten had ik er nog maar één hoor.
+[3195.66 --> 3197.72]  Ik ben zo snoeihard. Ik open hem.
+[3197.72 --> 3202.24]  Als ik al een beginscherm krijg met een je moet een subscription, denk ik al fout, af en dan, nou.
+[3202.52 --> 3204.52]  Dus uiteindelijk heb ik een habit tracker over.
+[3205.14 --> 3206.26]  En dat is dan precies wat ik wil.
+[3206.68 --> 3210.14]  Alsof die door Apple gebouwd is, ultra minimalistisch, met het fondje van Apple.
+[3210.28 --> 3212.20]  Gewoon niet moeilijk doen. Alsof die bij mijn telefoon hoorde.
+[3212.82 --> 3218.80]  Die app die ik nu heb, die zou je redelijk ver kunnen komen al met die artifacts van Klaut Zonnet.
+[3218.80 --> 3219.52]  Juist.
+[3219.98 --> 3233.92]  En ik denk, wat jij goed aanvoelt, is dat een substantieel aantal of procent of deel van de applicaties waarmee de meeste mensen dagelijks mee interacteren, dat zijn niet zulke hele spannende dingen.
+[3234.58 --> 3238.68]  En als dat dan ook nog eens op maat gemaakt kan worden voor hoe jij denkt, hoe jij wil werken.
+[3238.68 --> 3244.98]  Want een van de grootste frustraties van de meeste mensen is met software werken op een manier dat de software niet bedoeld heeft.
+[3245.48 --> 3246.90]  En dan ga je toch proberen het toch te doen.
+[3246.90 --> 3254.38]  Er komt een moment nu dat jij kan zeggen, ik wil eigenlijk die indeling net even anders en dat moet bovenaan en dat moet onderaan.
+[3254.60 --> 3256.10]  En dat dat dan op een gegeven moment ook zou kunnen.
+[3256.26 --> 3262.42]  Dat kan niet volgende week, maar er zit wel een duidelijke lijn in van hyperpersoonlijke mini-apps.
+[3263.78 --> 3264.44]  Cool hoor.
+[3264.66 --> 3267.04]  Nou, Wietse, volgens mij zijn we rond.
+[3267.36 --> 3273.92]  Er is nog één functie die we nu niet besproken hebben, namelijk dat Klaut ook voor Teams geoptimaliseerd is.
+[3273.92 --> 3282.66]  Omdat je documenten kan toevoegen van jezelf om een soort van context mee te geven aan Klaut.
+[3282.76 --> 3289.42]  Waardoor je bijvoorbeeld een AI kan genereren die nieuwe medewerkers helpt onboorden en meer van dat soort dingen.
+[3289.56 --> 3292.30]  Als je daar nou meer over wil weten, dat hebben we uitgelegd in die nieuwsbrief.
+[3292.40 --> 3293.46]  Dus die moet je dan maar gewoon even nemen.
+[3293.46 --> 3294.78]  AI-report.email
+[3294.78 --> 3295.96]  Dit was hem.
+[3296.66 --> 3298.36]  Bedankt aan Sam Hengeveld voor de edit.
+[3299.52 --> 3302.24]  Wietse, ik vond het weer een feestje.
+[3302.76 --> 3303.12]  Ik ook.
+[3303.50 --> 3304.22]  Tot volgende week.
+[3304.36 --> 3305.04]  Tot volgende week.
+[3305.04 --> 3306.04]  ***

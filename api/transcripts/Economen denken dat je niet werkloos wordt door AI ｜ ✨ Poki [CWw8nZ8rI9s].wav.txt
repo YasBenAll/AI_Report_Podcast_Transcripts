@@ -1,0 +1,1123 @@
+Video title: Economen denken dat je niet werkloos wordt door AI ｜ ✨ Poki
+Youtube video code: CWw8nZ8rI9s
+Last modified time: 2024-04-09 12:28:32
+
+------------------ 
+
+[0.00 --> 10.00]  MUZIEK
+[30.00 --> 31.74]  Zijn gezichtsherkenning technologie?
+[32.00 --> 35.50]  En er is een opvallende rol in dit verhaal voor Google Foto's.
+[35.68 --> 36.64]  Daar gaan we het straks over hebben.
+[36.76 --> 40.12]  Er zijn problemen met het trainen van taalmodellen.
+[40.50 --> 42.28]  Zo wordt deze week gemeld.
+[42.74 --> 48.40]  Dat is namelijk omdat er in 2026 een tekort dreigt aan nieuwe informatie voor taalmodellen.
+[48.60 --> 51.34]  Alle informatie die ze konden lezen is dan op.
+[51.60 --> 56.36]  Waar gaan die bedrijven dan hun taalmodellen mee trainen om ze groter en beter te maken?
+[56.48 --> 57.68]  Wij speculeren daarover.
+[57.68 --> 61.14]  En we spreken Maurits Martijn, journalist bij De Correspondent.
+[61.24 --> 64.76]  Die een aantal economen heeft gesproken om een hele belangrijke vraag te beantwoorden.
+[64.88 --> 67.92]  Namelijk, raken we door AI onze baan kwijt?
+[68.28 --> 70.38]  Spoiler alert, valt allemaal wel mee.
+[70.60 --> 72.36]  Nou, dat is toch ook gezellig om je dag mee in te gaan.
+[72.84 --> 74.70]  Deze week, Sonne Milou, die is op vakantie.
+[74.78 --> 75.64]  Die is er volgende week weer.
+[75.80 --> 76.88]  Veel plezier met Poki.
+[77.54 --> 80.08]  Ik heb dus al meerdere dagen dat ik wakker ben geworden wietse.
+[80.20 --> 83.46]  Met een liedje van Suno wat ik zelf gemaakt heb in mijn hoofd.
+[83.46 --> 88.86]  En dat is toch wel echt, dat voelt toch wel als een soort van overwinning van de AI op ons als mensheid.
+[89.24 --> 91.62]  Dat gewoon, dit zit meer in mijn hoofd dan Europapa.
+[92.62 --> 94.58]  Ik dacht dat je, wow, dat is wel even een statement.
+[94.66 --> 95.44]  I know, I know.
+[96.12 --> 99.62]  Maar die, heb je al eigen happy hardcore Europapa-achtige songs gemaakt?
+[99.62 --> 100.80]  Nee, nee, nee.
+[100.80 --> 102.22]  Ik denk ook wel dat het zo is.
+[102.52 --> 105.52]  Omdat het dan, ik heb het natuurlijk getuned op mijn muzieksmaak.
+[105.60 --> 109.54]  Dus dan is de kans natuurlijk ook een stuk groter dat het een oorworm wordt voor mij.
+[109.62 --> 110.78]  Maar dan nog, dan nog.
+[110.92 --> 113.04]  Ik zit naar een AI oorworm te luisteren.
+[113.28 --> 115.34]  Ja, want dat is dus het grappige.
+[115.42 --> 118.40]  Want ik dacht dat jij ging zeggen dat je gewoon custom wekkers hebt ingesteld.
+[118.50 --> 119.86]  Misschien wel met je dag erin alvast.
+[119.92 --> 120.82]  Dat je weet wat je gaat doen.
+[121.04 --> 121.28]  Weet je wel.
+[122.28 --> 124.64]  Je hoeft een meier met wakker worden, wakker worden, wakker worden.
+[124.80 --> 124.96]  Maar dan.
+[125.40 --> 125.66]  Ja.
+[126.66 --> 127.82]  Je hebt een hele volle agenda.
+[127.82 --> 128.62]  Ja, precies.
+[128.62 --> 130.86]  Maar ik vind het grappig.
+[130.98 --> 132.88]  Want ik merk dus nu om me heen.
+[133.10 --> 134.42]  En ook bij mezelf al een beetje.
+[134.50 --> 136.54]  Want ik had Suno wel heel vaak geprobeerd vroeger.
+[136.78 --> 138.30]  En jij ging helemaal los de vorige keer.
+[138.40 --> 139.46]  Toen was ik alweer helemaal verbaasd.
+[139.54 --> 141.62]  Want ik dacht, jeetje, het klinkt inderdaad wel heel goed nu.
+[141.76 --> 142.30]  Versie 3.
+[142.40 --> 143.62]  Dat is dan een beetje waar het om gaat.
+[144.10 --> 146.14]  Maar dit leeft ook echt heel erg om me heen.
+[146.24 --> 149.34]  Ik heb vrienden van mij die allemaal berichtjes sturen met zelfgemaakte nummertjes.
+[149.62 --> 153.88]  En ik heb vorige week samen met mijn zus een hele avond te gieren op de bank om samen muziek te maken.
+[153.94 --> 154.80]  Het is ook echt heel leuk.
+[154.80 --> 159.14]  Ik bedoel, ik moet zeggen, het blijft best lang hangen hoe lang het leuk blijft ook.
+[159.20 --> 160.02]  Dat valt me ook op.
+[160.18 --> 163.94]  Ik had gedacht van, nou hè, dat is na een avondje wel weer weg.
+[164.06 --> 167.08]  Maar ik kom nog steeds achter nieuwe features en trucjes.
+[167.66 --> 169.42]  En ik vind het gewoon een grappig effect.
+[169.54 --> 174.42]  Omdat ik merk dus nu om me heen dat er een aantal mensen zijn die best wel cynisch waren richting mij.
+[174.54 --> 176.46]  Van joh, het valt toch allemaal wel mee.
+[176.88 --> 178.50]  En Suno doet iets met mensen.
+[178.94 --> 181.24]  Ze zijn echt van, hé, wacht even, maar dit is anders, man.
+[181.24 --> 184.00]  Ja, dit is muziek, dat raakt de mensen in het hart.
+[184.20 --> 185.42]  Dan willen ze eindelijk wel luisteren.
+[185.50 --> 186.90]  Dat het einde van de wereld daar is.
+[187.06 --> 191.76]  Misschien dat de muziek dan de gateway-truck is naar die duisteren waarheid.
+[191.78 --> 194.34]  Maar het komt ook omdat het sporadisch is het gewoon heel goed.
+[194.46 --> 198.16]  Ik zeg sporadisch, misschien ben ik alweer jaded en gewend aan Suno.
+[198.32 --> 201.46]  Maar de meeste nummertjes die ik maak, kan ook aan mijn prompjes liggen.
+[201.72 --> 202.96]  Zijn gewoon niet zo denderend.
+[203.10 --> 204.02]  Veel autotune.
+[204.44 --> 206.52]  Niet heel, voelt als AI-muziek.
+[206.58 --> 207.16]  En dat vind ik niet erg.
+[207.16 --> 208.64]  Maar sommigen zijn goed.
+[209.14 --> 210.70]  Ik schrik er iedere keer gewoon een beetje van.
+[210.82 --> 212.20]  Dan zit er een zin bij, die raakt me.
+[212.64 --> 213.26]  Ja, ja, ja.
+[213.36 --> 215.36]  Ik vong op een manier en dan denk ik, oei, oei, oei.
+[215.70 --> 220.86]  Als V4 of 3.5 dit iets meer kan doen, dan zijn we wel op een punt van de eerste hit.
+[221.18 --> 222.44]  Nou, en concurrerende bedrijven.
+[222.54 --> 225.22]  Want daar zie ik de laatste tijd ook meer en meer over verschijnen.
+[225.30 --> 227.76]  Dat er meer bedrijven zich in dit spelletje aan het mengen zijn.
+[227.86 --> 229.12]  We wisten het eigenlijk al van Google.
+[229.40 --> 231.86]  Dat ze AI-muziek maakten.
+[231.96 --> 234.08]  Onder andere aanboden voor YouTube-creators.
+[234.08 --> 236.82]  Om dat onder hun YouTube-video's te gebruiken.
+[237.70 --> 242.52]  Die eigenlijk al voordat Suno zo populair was, was Google daar al mee bezig.
+[242.58 --> 248.48]  Maar er zijn ook andere, kleinere bedrijfjes zoals Suno, die hun eigen model aan het maken zijn.
+[248.62 --> 251.26]  En ik hoor toch ook daar veel enthousiasme over.
+[251.40 --> 253.26]  Dus het laatste is hier zeker ook nog niet over gezegd.
+[254.02 --> 258.30]  Het is niet alleen maar van Suno waar we dit van gaan meemaken, denk ik.
+[258.30 --> 262.16]  Ja, en ik zit ook nog, het viel me ook ineens op.
+[262.36 --> 264.26]  En dat misschien wordt daar verder niks mee gedaan.
+[264.56 --> 266.60]  Maar qua branding, Sora, Suno.
+[266.94 --> 270.12]  Dat ik dacht, ja, die vierletterige, beetje vrouwachtige naam.
+[270.12 --> 270.66]  Kappen daarmee.
+[270.68 --> 271.10]  Met een S.
+[271.52 --> 272.16]  Kappen daarmee.
+[272.60 --> 274.72]  Waarschijnlijk komen er, net als met Uber voor X.
+[274.96 --> 276.90]  Er is een hele investeringsgolf in geweest.
+[276.98 --> 279.80]  Ging iedereen een Uber maken, maar dan voor pindakaaspotten bestellen of zo.
+[279.98 --> 284.24]  Dat ik me ook voor kan stellen dat je dus nu de Suno en Sora's gaat krijgen voor X.
+[284.48 --> 286.20]  Dus nog een heel veel andere thema's.
+[286.32 --> 286.76]  Ben benieuwd.
+[286.76 --> 291.10]  Ja, we gaan het straks hebben over meer mensen die hun baan gaan kwijtraken.
+[291.20 --> 292.26]  Het zijn niet alleen de muzikanten.
+[292.42 --> 293.20]  Nee, het is heel cynisch.
+[293.28 --> 294.22]  Dat moet je niet doen over...
+[294.22 --> 295.48]  Ja, dat hoeft ook helemaal niet.
+[295.60 --> 296.54]  Dat hoeft ook helemaal niet.
+[296.54 --> 300.76]  Maar we gaan het wel hebben over de rol van AI op werkgelegenheid.
+[300.90 --> 303.96]  En er is een journalist die meent dat het allemaal wel meevalt.
+[304.06 --> 304.70]  En die gaan we bellen.
+[306.32 --> 312.12]  Maar het AI-nieuws van deze week kan je eigenlijk niet bespreken zonder te hebben over wat er in Israël en Gaza gebeurt.
+[313.34 --> 315.16]  Twee grote nieuwsverhalen deze week.
+[315.16 --> 324.86]  Eén ging over hoe het Israëlische leger AI gebruikt om doelwitten te vinden in Gaza om te bombarderen.
+[325.46 --> 327.50]  Daar was een groot verhaal over.
+[327.62 --> 331.16]  Een ander verhaal dat is wat meer ondergesneeuwd gebleven.
+[331.16 --> 336.52]  Maar toch ook wel interessant omdat er ook een grote rol voor AI in zit.
+[336.60 --> 341.46]  En dat is namelijk het gebruik van gezichtsherkenning in de Gaza-strook door het Israëlische leger.
+[341.46 --> 350.74]  Wat er op dit moment gebeurt is dat er allerlei beelden zijn van Hamas-strijders.
+[351.28 --> 356.00]  En dat die beelden gebruikt worden door het Israëlische leger om te analyseren.
+[356.64 --> 360.42]  En vervolgens maken ze daar een gezichtendatabase van.
+[360.52 --> 364.74]  Dat is dan beelden die ze op social media hebben gevonden of op andere manieren hebben verkregen.
+[364.74 --> 372.08]  Die gezichten leggen ze vast en vervolgens gebruiken ze in Gaza checkpoints als mensen van A naar B willen reizen.
+[372.72 --> 378.08]  Om mensen als het ware door zo'n fuik te laten gaan.
+[378.56 --> 381.36]  Om dan vervolgens foto's te maken van hun gezichten.
+[381.48 --> 386.94]  Zodat ze die foto's of die mensen die dan in de reis staan kunnen vergelijken met een zogenaamde hitlist.
+[387.44 --> 391.52]  Van mensen die mee hebben gedaan aan de aanslag van 7 oktober.
+[391.52 --> 397.76]  Een bedrijf wat ze daarvoor gebruiken, de technologie daarvan, wordt gemaakt door een bedrijf het CoreSight.
+[397.88 --> 400.52]  Dat is een bedrijf uit Tel Aviv.
+[401.10 --> 407.56]  En die menen dat ze zelfs gezichten kunnen herkennen waarbij het gezicht minder dan de helft zichtbaar is.
+[408.30 --> 412.10]  Maar, en dit is, nou ja, sajant zou je kunnen zeggen.
+[412.30 --> 418.50]  Niet alleen gebruikt het leger van Israël deze technologie van dit Israëlische bedrijf.
+[418.50 --> 420.44]  Maar ze gebruiken ook Google Photo's.
+[420.44 --> 433.80]  Namelijk, ze kwamen erachter dat Google Photo's, door het uploaden van foto's van mensen waar ze een foto van hadden uit social media beelden.
+[434.46 --> 440.14]  Dat Google Photo's heel erg goed was in mensen herkennen waar dat bedrijf CoreSight stopte.
+[440.14 --> 450.14]  Dus het is op dit moment zo dat in deze oorlog er gezichtsherkenningstechnologie gebruikt wordt die jij ook in je broekzak hebt zitten met Google Photo's.
+[450.14 --> 457.48]  Om mensen op te pakken die op social media beelden vergaard zijn.
+[457.64 --> 460.14]  Het is een bijzondere tijd.
+[461.00 --> 461.52]  Laten we het daar maar op.
+[461.52 --> 470.36]  Ja, en ik denk dat jij en ik het heel vaak in pokey, zeker richting het einde van afleveringen, gaan we in een soort, zeker toen we net begonnen met deze podcast, werd er heel veel gezegd.
+[470.44 --> 475.36]  Jullie zijn een soort Black Mirror audio podcast aan het maken met allemaal enge verhalen.
+[475.46 --> 476.58]  En dit is denk ik een verhaal.
+[476.62 --> 476.78]  Exhibit B.
+[476.78 --> 482.60]  Nou ja, soms kom je een verhaal tegen wat gewoon nu is en gebeurt.
+[483.38 --> 487.88]  En ja, ik zou zeggen, doe ermee wat je wil als luisteraar.
+[488.04 --> 492.96]  En ik denk dat het een toepassing van deze technologie is waar we een hoop vraagtekens bij moeten stellen.
+[493.88 --> 497.50]  Ja, oké. Dan door met het volgende.
+[497.92 --> 502.42]  Afgelopen week was een ander groot nieuwsverhaal en die is iets minder heftig.
+[502.42 --> 510.40]  Er is opeens een groot verhaal onder journalisten van The Wall Street Journal, van The New York Times en van The Verge.
+[510.82 --> 515.86]  Die elkaar opeenvolgend aanvulden in een verhaal.
+[515.96 --> 526.12]  Namelijk dat volgens voorspellingen de hoeveelheid data die gebruikt wordt om taalmodellen mee te trainen op gaat zijn in 2026.
+[526.12 --> 532.80]  Oftewel, dan is er niet genoeg bronmateriaal meer om taalmodellen op te trainen.
+[533.02 --> 538.94]  En die bronmaterialen zijn natuurlijk nodig om taalmodellen beter te maken, om ze slimmer te maken.
+[539.10 --> 545.12]  GPT-3 was gebruikt in minder brondata dan GPT-4, om het maar simpel te zeggen.
+[545.92 --> 552.08]  En daarvoor dwingen die bedrijven zich in allerlei bochten.
+[552.08 --> 555.38]  En deze week was er over een aantal dingen gedoe.
+[555.92 --> 563.48]  Eén was dat OpenAI YouTube filmpjes zou hebben gescraped voor het trainen van GPT-4.
+[564.04 --> 570.84]  Volgens The Verge hebben ze meer dan een miljoen minuten aan audio gescraped van YouTube.
+[571.72 --> 577.60]  YouTube vindt dat niet goed, want dit gaat tegen hun Terms of Service in.
+[577.60 --> 586.58]  Dus dat is gedoe en dat is zaijant aangezien Google natuurlijk zijn eigen taalmodel maakt en Google eigenaar is van YouTube.
+[586.88 --> 594.62]  En Google op eigen initiatief ook YouTube filmpjes gebruikt om haar taalmodellen te trainen.
+[594.76 --> 602.18]  En daarvan is ook niet helemaal duidelijk of dat nou getraind is op video's voor of na een Terms of Service change.
+[602.18 --> 611.74]  Want dat hebben ze op een gegeven moment gedaan vorig jaar, dat video's die je uploadt naar YouTube, dat je daarmee ook toestemming geeft aan Google om haar taalmodellen mee te trainen.
+[611.94 --> 617.04]  Maar nu is natuurlijk de vraag, hebben ze ook hun model getraind op de video's van voor die tijd?
+[617.20 --> 619.20]  Dat is waarschijnlijk zeer aanlokkelijk om dat te doen.
+[619.72 --> 627.52]  En dit gebeurt dus de hele tijd, dat er getraind wordt op data waarvan het een, laten we zeggen, juridisch grijs gebied is of dat überhaupt wel mag.
+[627.52 --> 639.36]  Maar het mooiste voorbeeld van het trainen van data uit bronnen waarvan je kan denken, apart, is van Meta, die dus een open source taalmodel aan het maken zijn.
+[640.08 --> 650.74]  En daar, zo bracht de New York Times vorige week, daar is daadwerkelijk discussie geweest of ze niet een uitgever van boeken moesten kopen,
+[651.24 --> 655.62]  zodat ze geen gedoe zouden hebben over juridische consequenties achteraf.
+[655.62 --> 656.56]  Zij wilden daadwerkelijk...
+[656.56 --> 658.72]  Ook zo'n lekker brute force ook.
+[659.10 --> 660.98]  Maar het is ook niet zomaar een uitgever.
+[661.14 --> 666.00]  Het is de uitgever Simon & Shuster, dat is een gigantische Amerikaanse uitgever.
+[666.86 --> 672.28]  En een van de belangrijkste en meest prestigieuze boekenuitgevers van de Verenigde Staten.
+[672.72 --> 680.18]  Er zijn dus serieus gesprekken geweest om die uitgeverij te kopen, zodat ze geen juridisch gedoe meer zouden hebben.
+[680.18 --> 686.58]  En dat ze lekker alle boeken waar die uitgeverij licenties op heeft, om die te gebruiken om mentaalmodellen te trainen.
+[687.56 --> 696.98]  Ik vind het sowieso interessant, want data als olie, data als iets heel erg waardevols, die discussie is al jaren oud.
+[697.22 --> 701.02]  Ik zit al te lang op verjaardagen te zeggen, Google is niet gratis, je betaalt met wat anders.
+[701.14 --> 704.16]  En dan wordt er een soort van half teruggelachen en geroepen, ik heb toch niks te verbergen.
+[704.16 --> 706.54]  Maar uiteindelijk merken we nu...
+[706.54 --> 709.10]  De samenvatting van een verjaardag met Wietse, leuk.
+[709.46 --> 711.96]  Ja, ik kom niet meer zo veel op verjaardagen, ik word niet meer uitgenodigd.
+[711.98 --> 712.28]  Ja, precies.
+[712.66 --> 714.64]  Ik weet ook niet hoe dat komt.
+[715.02 --> 724.16]  Maar het idee dat nu dus de partijen die én bestaande data hebben, dat kunnen uitgevers zijn inderdaad, journalistieke...
+[725.28 --> 726.14]  Hoe noem je dat?
+[726.56 --> 727.44]  Wat is de New York Times?
+[727.88 --> 731.06]  Een uitgever ook, maar dan van kranten in plaats van boeken.
+[731.06 --> 734.58]  Ja, en dat die natuurlijk nu ineens een soort goud in handen hebben.
+[735.64 --> 741.04]  Tijdelijk, want ze hebben iets ouds wat ze kunnen verkopen, maar ze hebben ook nog nieuwe content die gemaakt wordt en die blijft dan ook wat waard.
+[741.14 --> 743.22]  Dus je hebt een soort nieuwe manier om aan geld te komen.
+[744.14 --> 748.30]  Maar dat is dan nog alleen maar de klassieke uitgever.
+[748.60 --> 755.24]  Je hebt natuurlijk ook gewoon de social media firms die per seconde een hoeveelheid data te verwerken krijgen vanuit allerlei individuen.
+[755.60 --> 756.94]  En daar natuurlijk op kunnen trainen.
+[756.94 --> 765.56]  En nu iedereen de deur dicht gegooid heeft en hun eigen terms of service zo heeft aangepast dat de gebruiker data gebruikt mag worden, maar niet door een ander dan zij zelf.
+[766.16 --> 776.54]  Zitten we ineens inderdaad in die soort data wars waarin heel helder aan het worden is ook wie blijkbaar al die tijd al heel veel waarde in huis had en daar nu ineens achter komt.
+[776.54 --> 782.14]  Of wie toch al door had dat dat heel erg waardevol was en nu de deur nog wat verder dicht gedaan hebben.
+[782.70 --> 788.72]  Ik vind het wel, en ik blijf erbij dat YouTube er gewoon echt een gigantische is, omdat zij het video internet zijn.
+[789.06 --> 789.14]  Ja.
+[790.90 --> 793.24]  Ook daar is weer de vraag of het wel mag, Witsen.
+[793.44 --> 803.26]  Dus dan mag Google wel data gebruiken, want ze kunnen wel claimen dat ze alles bezitten, omdat ze toevallig de servers hosten.
+[803.26 --> 808.48]  Maar het is toch gewoon van gebruikers, die hebben geen toestemming daarvoor gegeven.
+[808.60 --> 810.06]  Nou ja, niet met terugwerkende krachten.
+[810.06 --> 812.54]  Nee, dat is toch wel waar de goudpot zit.
+[812.86 --> 827.88]  Nou ja, ik ga ervan uit dat, ja, je kent gewoon de huidige Europese wetgeving niet goed genoeg, maar ik kan me heel goed voorstellen dat er van alles opgenomen is over het feit dat jij als gebruiker, als jij denkt dat je iets uploadt naar een platform, misschien in eerste instantie dat het niet gepubliceerd wordt.
+[827.88 --> 834.04]  Dus je hebt mensen die hebben ook YouTube gewoon op privé staan, of alleen als je het linkje hebt mag je het kijken, kunnen ze dat ook indexeren?
+[834.42 --> 842.76]  Of gaat het alleen op de video's die publiek zijn en kunnen ze dan de zaak maken van, ja, luister, als het publiek is voor mensen, dan is het ook publiek voor modellen.
+[842.98 --> 844.36]  Dus die mogen daar dan op trainen, punt.
+[845.10 --> 846.76]  Moet je ook nog maar zien of dat zo is.
+[846.76 --> 854.44]  Nou, wat in ieder geval de conclusie van al deze discussies elke keer lijkt te zijn, is ja, dan gaan we wel trainen op synthetische data.
+[854.66 --> 858.46]  Dus data gegenereerd door taalmodellen om taalmodellen mee te trainen.
+[859.00 --> 861.70]  Je moet me toch nog één keer uitleggen hoe dat werkt, Wietse.
+[861.84 --> 867.06]  Hoe kan je een taalmodel trainen op basis van gegenereerde taal door dat taalmodel?
+[868.30 --> 872.28]  Nou, wat ik begreep, want intuïtief klopt er natuurlijk geen snars van, dat dit kan.
+[872.28 --> 879.16]  En toch intuïtief heb je zoiets van garbage in, garbage out. Als je iets gaat laten genereren, dan kan dat niet iets zijn waar je op traint.
+[879.28 --> 879.38]  Nee.
+[880.40 --> 890.94]  Ja, toch tegelijkertijd zit er ook, en misschien is het een beetje vergezocht, maar ik vind het op dezelfde manier intuïtief vreemd dat een simpeler systeem een complexer systeem kan voortbrengen.
+[891.16 --> 896.22]  Zoals wij hier met z'n tweeën zitten, als mensen vanuit een worm, ik bedoel, of een visje, whatever.
+[896.22 --> 904.24]  Dat was een simpeler systeem, wat zichzelf heeft geüpdate, nieuwe informatie, om zichzelf daarna te evalueren tot iets complexers.
+[904.54 --> 909.36]  Daar zit een beetje voor mij dezelfde in. Het is dat ik het zie, ik zit hier, of we nou een simulatie zijn of niet.
+[909.72 --> 910.60]  We zijn complexer.
+[910.98 --> 916.86]  Ja, dus ik kan er niet omheen wat de realiteit is, dat een eenvoudig systeem een complex systeem voort kan brengen.
+[917.00 --> 921.58]  Dus je kan jezelf aan je eigen veters optillen. Dat klopt niet, maar dat kan toch.
+[921.58 --> 926.64]  Dus ik denk op diezelfde manier dat een algoritme data kan genereren.
+[926.74 --> 930.02]  En ik denk omdat je dan zegt, oké, ga maar heel breed genereren.
+[930.40 --> 934.26]  En dan wordt er een klassificatie gedaan op iets betere data.
+[934.46 --> 936.82]  Dus creëer maar een hoop, lekker breed.
+[936.98 --> 938.92]  Bijvoorbeeld, laten we Suno als voorbeeld nemen.
+[939.04 --> 945.00]  Er wordt heel veel muziek gegenereerd, maar dat algoritme is tegelijkertijd in staat om de kwaliteit van die muziek te beoordelen.
+[945.00 --> 951.24]  En gaat dan kwalificeren en zeggen, ik gooi 90% van wat ik zelf heb gegenereerd, zojuist ga ik weggooien.
+[951.32 --> 953.82]  10% kwalificeer ik zelf als beter.
+[954.26 --> 955.68]  En dat voeg ik weer toe aan een set.
+[955.78 --> 961.42]  En op die manier train ik mezelf, als het ware, op data die ik ook zelf heb gekwalificeerd als beter.
+[961.56 --> 968.20]  En dat je in zo'n soort proces, wat ik dan een beetje ver gezocht, maar combineer met een soort evolutionair algoritme.
+[968.42 --> 973.04]  Kan je toch jezelf uit de modder optillen naar iets wat eigenlijk beter is dan wat je was.
+[973.04 --> 978.54]  Maar dat is dan dus omdat er een, er is muziek gemaakt door dat ding.
+[978.70 --> 982.94]  Daarvan constateert hij, 90% is prut, maar 10% is best wel goed.
+[983.38 --> 990.48]  En die afweging maakt hij dan op muziek die die eerder, echte muziek van echte mensen die die eerder heeft geluisterd.
+[990.58 --> 994.46]  En waarvan de soort van iemand een label heeft meegegeven, dit is goed.
+[994.58 --> 998.84]  Dus hij heeft als het ware van zichzelf proberen te leren wat goed is.
+[998.84 --> 1004.22]  Dus dat is, moet ik het zo begrijpen, hij gebruikt oude bronnen om de kwaliteit te beoordelen.
+[1005.42 --> 1007.06]  Ja, en je hebt eigenlijk twee onderdelen.
+[1007.14 --> 1010.54]  Dus je hebt iets wat genereert met een bepaalde intelligentie.
+[1010.72 --> 1012.60]  Ik doe nu air quotes voor de luisteraar.
+[1012.76 --> 1014.30]  Dus ik noem het synthetische intelligentie.
+[1014.56 --> 1016.66]  Of misschien kunstmatige intelligentie.
+[1016.92 --> 1017.04]  Hoe?
+[1017.58 --> 1019.62]  Maar goed, en dat maakt dingen.
+[1020.00 --> 1022.04]  En dan heb je nog iets wat je kan beoordelen.
+[1022.52 --> 1023.54]  En daar zit denk ik de truc.
+[1023.62 --> 1024.28]  Want dat zie je nu ook.
+[1024.36 --> 1025.80]  Er kwam deze week een paper uit.
+[1025.88 --> 1027.76]  Dat was volgens mij agents is all you need.
+[1027.76 --> 1029.50]  Dus dat ging erover.
+[1030.56 --> 1035.74]  Oké, als jij honderd GPT's naast elkaar zet.
+[1035.84 --> 1039.86]  En die taalmodellen, die generatieve algoritmen hebben vaak een soort temperatuur in zich.
+[1039.96 --> 1041.32]  Dat is een variabel temperature.
+[1041.72 --> 1044.18]  En dat houdt eigenlijk in hoe erg is de noise.
+[1044.42 --> 1049.72]  Dus bijvoorbeeld bij tekst, generatieve tekst is het dat je het volgende woord kiest.
+[1049.84 --> 1052.68]  Maar het zou natuurlijk bijna saai zijn op een bepaalde manier.
+[1052.72 --> 1054.84]  Als hij altijd hetzelfde volgende woord zou kiezen.
+[1054.84 --> 1060.30]  Dus dat hij gewoon zegt, de kans dat na de zin eet je wel eens een en dan banaan komt.
+[1060.72 --> 1062.76]  De banaan is altijd hoog, dan zegt hij altijd banaan.
+[1062.86 --> 1066.32]  Maar als je dan die temperature omhoog gooit, dan gaat hij soms voor appel kiezen.
+[1066.88 --> 1072.92]  Daardoor krijg je dus een soort randomness, een soort noise, een soort ruis in zoiets.
+[1073.00 --> 1073.88]  En dat maakt het juist interessant.
+[1073.88 --> 1074.56]  Dat zou je kunnen zeggen.
+[1075.30 --> 1075.66]  Precies.
+[1076.04 --> 1079.62]  En dat is waarom Stable Diffusion altijd een ander plaatje maakt en Dali 3 ook.
+[1079.68 --> 1081.68]  Omdat daar zit een beetje noise in.
+[1081.80 --> 1082.86]  Een beetje creativiteit.
+[1083.26 --> 1084.82]  En wat kan je dan doen?
+[1084.92 --> 1086.88]  Dan kan je zeggen, ik stel een vraag aan.
+[1086.96 --> 1088.48]  Voor het gemak even zeggen, Claude.
+[1088.78 --> 1091.12]  En dan Opus, de allerbruutste van Antropic.
+[1091.60 --> 1094.94]  En dan laat ik honderd keer die vraag beantwoorden.
+[1095.78 --> 1099.52]  En dan ga ik kijken welke antwoorden op elkaar lijken.
+[1100.02 --> 1106.18]  En dan ga ik zeggen, 44 van die Opus agents, Claude Opus agents, hebben ongeveer zo'n antwoord gegeven.
+[1106.38 --> 1106.98]  We gaan voor die.
+[1107.36 --> 1109.10]  Zo'n buiten er eigenlijk een laag overheen.
+[1109.36 --> 1111.84]  Die het eigenlijk aan 100 subagentjes vraagt.
+[1112.22 --> 1115.74]  En dan weer een meta-agent, als een soort wisdom of the crowd, zeg maar.
+[1116.02 --> 1120.58]  Zegt, joh, 44% van onze 100 agenten hebben zojuist dat antwoord gegeven.
+[1120.92 --> 1121.56]  Ik ga voor die.
+[1121.56 --> 1125.94]  En het blijkt dus, dat is wat eigenlijk het inzicht is van dat wetenschappelijk artikel.
+[1126.04 --> 1128.86]  Wat deze week of vorige week uitgekomen is.
+[1129.40 --> 1131.24]  Joh, gooi er gewoon meer agents tegen aan.
+[1131.46 --> 1132.30]  That's all you need.
+[1132.54 --> 1134.44]  Want dat kan je natuurlijk testen.
+[1134.48 --> 1136.10]  Want we hebben allemaal van die synthetische testen.
+[1136.54 --> 1139.68]  Dan vervraagd tekenen bij wat dat betekent voor ons als mensen.
+[1139.78 --> 1142.06]  Die met die generatieve algoritme praten.
+[1142.20 --> 1146.88]  Maar de testen laten dan zien dat het aantal goede antwoorden veel hoger wordt.
+[1147.00 --> 1148.66]  Op het moment dat je het 100 keer vraagt.
+[1148.66 --> 1152.34]  En dan kiest voor de consensus van die 100 agenten.
+[1152.38 --> 1154.04]  En op die manier zijn er dus allerlei trucjes.
+[1154.12 --> 1154.90]  Dat is een beetje mijn punt.
+[1155.28 --> 1159.38]  Trucjes die je kan doen om eigenlijk met jezelfde modellen, zonder die te upgraden.
+[1159.46 --> 1160.98]  Door ze gewoon parallel te laten draaien.
+[1161.06 --> 1162.74]  En daar dan weer iets anders overheen te zetten.
+[1163.20 --> 1164.28]  Kun je weer verder komen.
+[1164.40 --> 1167.76]  En dat maakt mij persoonlijk ook dat ik wel durf te zeggen.
+[1168.56 --> 1171.54]  Dat we nog niet aan het plafond zitten van wat die technologie nu kan.
+[1171.88 --> 1175.82]  Omdat er gewoon nog zoveel laaghangend fruit is van trucjes die we nog kunnen doen.
+[1175.82 --> 1178.50]  En met we bedoel ik dan de mensen die dit daadwerkelijk bouwen.
+[1179.30 --> 1179.50]  Niet in.
+[1179.94 --> 1182.50]  Ja, het is gewoon mijn hoofd hier niet.
+[1183.06 --> 1184.74]  Dit past niet in mijn hoofd.
+[1184.96 --> 1186.14]  Met synthetische data.
+[1186.40 --> 1186.74]  100 agenten.
+[1187.28 --> 1188.62]  Ja, en 100 agenten.
+[1188.70 --> 1189.74]  Ja, dat komt er nog een keer bovenop.
+[1190.18 --> 1190.50]  Oké.
+[1190.76 --> 1195.60]  Meta gaat met AI gemaakt beelden of audio speciale labels geven.
+[1195.60 --> 1202.84]  Ja, het punt is nu dat wat er gebeurt is dat er Facebook groepen opgezet worden.
+[1204.44 --> 1208.32]  En eigenlijk wordt er dan heel veel AI generated content gepost.
+[1208.50 --> 1211.16]  Om zoveel mogelijk likes te krijgen.
+[1211.38 --> 1213.42]  Zodat zo'n groep steeds meer leden krijgt.
+[1213.58 --> 1216.84]  Het zijn allemaal redelijk onschuldigen.
+[1217.34 --> 1222.08]  Maar het is een kind naast een zandbak die een heel mooi zandkasteel gemaakt heeft.
+[1222.14 --> 1222.66]  Wat nooit kan.
+[1222.76 --> 1223.82]  En dan gaat iedereen erop reageren.
+[1223.82 --> 1224.42]  Oh, wat mooi.
+[1224.70 --> 1226.00]  En dan gaan mensen daar weer op reageren.
+[1226.06 --> 1226.84]  Je laat je foppen.
+[1227.12 --> 1227.94]  En daardoor is het prima.
+[1228.10 --> 1229.48]  Want er ontstaat engagement.
+[1229.74 --> 1230.22]  En dat telt.
+[1230.48 --> 1232.26]  Maar het zijn fucking populaire beelden.
+[1232.36 --> 1233.60]  Dat is belangrijk om erbij te zeggen.
+[1233.74 --> 1238.24]  Als je kijkt naar de meest gedeelde beelden of meest gedeelde posts op Facebook.
+[1238.38 --> 1241.74]  Is nu een heel groot deel AI gegenereerd.
+[1241.74 --> 1244.80]  En dan ook heel veel mensen die dat voor waarheid aannemen.
+[1245.08 --> 1246.74]  Terwijl het meest bizarre plaatjes.
+[1246.88 --> 1249.88]  Waar boomers dan op hun Facebook feed zitten te liken.
+[1250.70 --> 1251.94]  Dat is relevante informatie.
+[1252.66 --> 1252.96]  Precies.
+[1253.20 --> 1253.60]  Zeker.
+[1253.82 --> 1255.52]  En die groepen zijn dan heel veel waard.
+[1255.58 --> 1258.58]  Want als jij natuurlijk een groep hebt met zeg voor het gemak 10 miljoen volgers.
+[1258.68 --> 1261.48]  En zie je het als een soort vet mester van zo'n groep.
+[1261.58 --> 1263.48]  Dan heb je tot 10 miljoen vet gemest.
+[1263.82 --> 1265.00]  En dan verkoop je hem.
+[1265.10 --> 1265.70]  Die hele groep.
+[1265.82 --> 1269.32]  En dan klap je er even twee weken lang spam voor een of ander product in.
+[1269.32 --> 1270.64]  En dan gaat die groep weer dicht.
+[1270.78 --> 1272.12]  En dan begint het hele verhaal weer opnieuw.
+[1272.22 --> 1273.52]  En dat gaat dan heel cynisch.
+[1273.62 --> 1274.42]  Maar dit is wat er gebeurt.
+[1274.54 --> 1276.32]  Het is de marktwerking.
+[1277.04 --> 1277.44]  Erg mooi.
+[1277.44 --> 1281.72]  Maar Facebook vindt dat natuurlijk niet leuk.
+[1282.06 --> 1283.78]  Maar ook niet helemaal niet leuk.
+[1283.90 --> 1285.68]  Want het is ook een beetje onderdeel van het business model.
+[1285.82 --> 1286.12]  Moeilijk.
+[1286.54 --> 1286.84]  Maar goed.
+[1286.94 --> 1288.06]  Wat is nu het idee?
+[1289.06 --> 1289.42]  Dan.
+[1289.66 --> 1291.54]  Want Meta heeft best wel een vinger in de pap.
+[1291.64 --> 1293.70]  In al die generatieve AI.
+[1293.94 --> 1296.22]  Die hebben zelf hun lama's.
+[1296.22 --> 1297.50]  Die ze natuurlijk de wereld insturen.
+[1297.58 --> 1298.80]  Die wij allemaal weer gaan verbeteren.
+[1298.86 --> 1299.84]  En dan gratis teruggeven.
+[1301.46 --> 1302.76]  Die zijn nu ook druk met.
+[1302.86 --> 1305.70]  Kunnen we dan labelen wat AI generated content is?
+[1305.98 --> 1307.92]  Ook een beetje natuurlijk om dat hele platform.
+[1308.02 --> 1308.86]  Dat is mijn invulling hoor.
+[1308.92 --> 1311.34]  Maar om dat platform wel betrouwbaar te laten zijn.
+[1311.54 --> 1313.30]  Dat je kan zeggen tegen je gebruikers.
+[1313.38 --> 1313.68]  Kijk.
+[1314.28 --> 1315.14]  Maak je geen zorgen.
+[1315.52 --> 1318.44]  Als iemand nep dingen op Facebook zet.
+[1318.96 --> 1319.96]  Dan weet Facebook dat.
+[1320.22 --> 1321.56]  En dat is natuurlijk een beetje het.
+[1321.86 --> 1325.18]  En ik denk dat ze op die manier toch nog die likes kunnen krijgen.
+[1325.18 --> 1329.56]  Dat is een beetje het beste van twee werelden proberen te pakken.
+[1329.74 --> 1332.28]  Je gaat een soort viraal met nep content.
+[1332.42 --> 1332.92]  Maar het geeft niet.
+[1333.00 --> 1334.48]  Want er zat een icoontje bij van een robot.
+[1334.62 --> 1335.64]  Ga ik er maar even zo van uit.
+[1337.00 --> 1338.84]  En dus dan je wint een soort vertrouwen.
+[1338.96 --> 1341.32]  Terwijl je ook nog die engagement hoog houdt.
+[1341.54 --> 1343.70]  Want dat is de strijd natuurlijk binnen Meta.
+[1344.36 --> 1347.24]  Als ze het woord fake erbij zouden zetten.
+[1347.76 --> 1348.68]  Dat is een slechte branding.
+[1348.88 --> 1349.72]  Want dat moeten we niet doen.
+[1349.82 --> 1351.12]  Dat moet zijn generated.
+[1351.48 --> 1352.14]  En dan ook.
+[1352.24 --> 1353.20]  Maar ik vind het nog steeds leuk.
+[1353.20 --> 1355.26]  Ik ben benieuwd of het impact gaat hebben.
+[1355.42 --> 1357.98]  Of mensen het minder gaan delen.
+[1358.06 --> 1360.60]  Op het moment dat het gegenereerd is.
+[1361.88 --> 1362.86]  Ik vind het nog steeds ook.
+[1362.96 --> 1363.98]  Wat we hadden het er eerder over.
+[1364.38 --> 1365.56]  Vorige week YouTube.
+[1365.80 --> 1366.80]  Die gaat aangeven.
+[1366.90 --> 1367.94]  En nu nog de maker zelf.
+[1368.20 --> 1371.26]  Van gebruik je generatieve AI binnen je YouTube video's.
+[1372.38 --> 1374.84]  Het zit een beetje in het spectro van CGI vind ik.
+[1374.90 --> 1376.10]  Ik vind het een beetje moeilijk daardoor.
+[1376.20 --> 1376.44]  Dat ik denk.
+[1376.52 --> 1376.66]  Ja.
+[1377.04 --> 1377.84]  Hoe ver ga je?
+[1377.84 --> 1382.16]  Als jij een virtuele make-up filter erover hebt gezet.
+[1382.36 --> 1384.44]  Om je huid wat strakker te krijgen in een video.
+[1384.96 --> 1386.28]  Is dat dan generatief?
+[1386.38 --> 1388.52]  Of is dat alleen maar CGI make-up?
+[1388.82 --> 1390.04]  Dus ik vind het een beetje tricky.
+[1390.56 --> 1390.80]  Maar goed.
+[1390.84 --> 1391.80]  Ik denk dat zij bedoelen.
+[1392.14 --> 1394.96]  Als jij met Sora een complete short film maakt.
+[1395.04 --> 1396.82]  Dan vinden we het wel fijn dat jij aangeeft.
+[1397.06 --> 1398.00]  Dat dat gemaakt is.
+[1398.58 --> 1400.30]  Grotendeels met generatieve algoritme.
+[1400.36 --> 1401.14]  Natuurlijk helemaal.
+[1401.24 --> 1402.82]  Als het iets te maken heeft met actualiteit.
+[1402.82 --> 1405.12]  Dan is het helemaal belangrijk.
+[1405.12 --> 1408.80]  Ik zag een artikel in de Wall Street Journal.
+[1408.92 --> 1412.46]  Dat ging over het gebruiken van AI in reclames.
+[1413.02 --> 1417.52]  Dus reclamebureaus die AI gebruiken om bijvoorbeeld platen te maken.
+[1417.94 --> 1419.70]  Voor wat dan ook.
+[1419.76 --> 1420.66]  Televisiereclame.
+[1420.82 --> 1425.06]  Maar ook posters in bushokjes.
+[1425.44 --> 1428.50]  Voor creatieve mensen is het natuurlijk zeer aanlokkelijk.
+[1428.76 --> 1432.54]  Om AI te gebruiken als je een plaat gaat maken.
+[1432.54 --> 1436.38]  Dus veel grotere kleinbureaus geven ook gewoon toe.
+[1436.52 --> 1437.56]  Dat ze daarmee beginnen.
+[1438.18 --> 1441.00]  Maar wat niet zo geapprecieerd wordt door klanten.
+[1441.42 --> 1444.08]  En uiteindelijk ook de doelgroep van die platen.
+[1444.14 --> 1448.66]  Is dat mensen toch herkennen snel dat iets met AI gemaakt is.
+[1448.72 --> 1450.10]  Met de huidig stand van de techniek.
+[1450.48 --> 1453.06]  Die vinden dan beelden te veel op AI lijken.
+[1453.22 --> 1454.10]  En dan is dat gelijk.
+[1454.62 --> 1456.22]  Ja, dat vinden mensen niet gezellig.
+[1456.60 --> 1458.34]  Dus wat nu die bedrijven allemaal doen.
+[1458.34 --> 1462.80]  Is dat ze dan eerst heel erg veel genereren.
+[1463.02 --> 1466.08]  Dus ze worden hartstikke goed in het maken van prompts.
+[1466.26 --> 1468.98]  Waardoor er creatief en interessant beeld gemaakt wordt.
+[1469.14 --> 1471.24]  Om, weet ik veel, een auto mee te verkopen.
+[1471.84 --> 1474.34]  En dan vervolgens gaan ze photoshoppen.
+[1475.20 --> 1476.34]  En dat doen ze dan door bijvoorbeeld...
+[1476.88 --> 1479.28]  Een van de dingen wat mensen irritant vinden naar AI art.
+[1479.40 --> 1481.26]  Is beelden die van mensen gemaakt worden.
+[1481.38 --> 1483.98]  Ze vinden de huid van mensen veel te glad.
+[1484.14 --> 1484.90]  En te glimmend.
+[1485.02 --> 1485.74]  En te zacht.
+[1485.74 --> 1489.62]  En dat is zo perfect dat het niet meer leuk is om naar te kijken.
+[1489.82 --> 1493.74]  Dus dan gaan ze bijvoorbeeld porieën erin photoshoppen.
+[1493.94 --> 1496.20]  Ja, autoticititeit wordt toegevoegd.
+[1496.26 --> 1500.88]  Ja, oneffenheden worden manueel toegevoegd aan het AI beeldwietse.
+[1502.64 --> 1503.88]  Dat vind ik toch wel grappig.
+[1503.92 --> 1505.18]  Dit is wel de beeld op zijn kop.
+[1505.28 --> 1506.52]  Ja, klein beetje.
+[1507.64 --> 1510.74]  Gelukkig is dat nu ook iets, zag ik, wat dan ook weer...
+[1510.74 --> 1517.98]  Ja, waar je toch ook AI mee kan gebruiken om dit proces ook te automatiseren.
+[1518.06 --> 1518.62]  Nou, gelukkig.
+[1519.08 --> 1523.06]  Er zijn tools, dat zijn zogenaamde upscale AI tools.
+[1524.12 --> 1525.42]  Magnifier is er een van.
+[1525.90 --> 1527.50]  Het zijn een aantal tooltjes.
+[1527.50 --> 1530.32]  Dus je kunt er nu een stuk of vier of zo krijgen die best wel groot zijn.
+[1530.44 --> 1531.30]  Het zijn best wel duur.
+[1531.46 --> 1533.70]  Het kost dan 100 dollar om toegang tot te krijgen.
+[1533.88 --> 1535.00]  En dan krijg je iets aan de credits.
+[1536.00 --> 1538.18]  En dan kun je een lage resolutie beeld erin gooien.
+[1538.66 --> 1541.38]  En dan gebruikt dat ding generatieve AI om de...
+[1541.38 --> 1543.22]  Ja, de...
+[1543.22 --> 1548.94]  Stel, het is een kleine foto en je wil hem opblazen tot groter formaat.
+[1549.40 --> 1553.00]  Dan gaat dat ding, gaat proberen te begrijpen wat hij ziet op die foto.
+[1553.12 --> 1556.76]  En dan gaat hij echt letterlijk doen wat vroeger in CSI Enhance...
+[1556.76 --> 1557.60]  Weet je wel?
+[1557.90 --> 1559.26]  Enhance, riep het tegen de computer.
+[1559.42 --> 1562.16]  En dan zo'n horizontale streep over het scherm ging.
+[1562.26 --> 1565.00]  En dat daarna de foto die eerst blurry was, daarna scherp werd.
+[1565.32 --> 1568.80]  Dat hij daadwerkelijk dat doet, maar dan met generatieve AI.
+[1568.80 --> 1573.80]  En wat dat ding dus ook doet, is als je AI beeld van een gladde huid...
+[1574.32 --> 1576.80]  Van een AI gegenereerd mens daarin stopt...
+[1577.68 --> 1580.44]  Dan gaat dat ding daar die porie bij maken.
+[1580.78 --> 1585.80]  Dus als onderdeel van het Enhance proces begrijpt deze AI in ieder geval...
+[1586.32 --> 1589.18]  Dat porie horen bij menselijke huid en andere...
+[1589.18 --> 1592.08]  En waarschijnlijk als je blijft inzoomen, dan kom je in die porie...
+[1592.08 --> 1593.40]  En daar wonen dan kabouters.
+[1593.66 --> 1594.66]  Gewoon een hele familie.
+[1594.94 --> 1596.14]  Want ja, Enhance.
+[1596.14 --> 1598.94]  En dan weer Enhance op de porie van die kabouters.
+[1599.10 --> 1599.36]  Nee.
+[1601.10 --> 1602.86]  Ik moet zeggen, ik heb dit dus wel gebruikt.
+[1603.08 --> 1607.16]  Ik was op een Parijse fotoburs.
+[1607.34 --> 1608.84]  En dan had ik een foto gezien die ik mooi vond.
+[1608.98 --> 1611.42]  Toen ging ik vragen, wat kost deze foto?
+[1611.94 --> 1613.76]  Toen was het antwoord 38.000 euro.
+[1613.90 --> 1615.36]  Toen dacht ik, oké, nou laat maar even.
+[1615.74 --> 1618.56]  Toen heb ik een foto gemaakt.
+[1618.56 --> 1619.44]  Maar ja, het is een beetje fout.
+[1619.76 --> 1621.60]  Ik heb een foto gemaakt van de foto.
+[1621.60 --> 1626.34]  Die met reverse imagers, de soort van foto gevonden op internet ervan.
+[1626.46 --> 1627.74]  Zonder glare en andere dingen.
+[1628.06 --> 1633.76]  Nou, die foto, dat was gewoon een goede, soort van glare-vrije, jpeg-versie ervan.
+[1634.10 --> 1636.84]  Maar die was maar 1000 pixels breed.
+[1637.04 --> 1639.28]  Terwijl als je iets aan de muur wil hangen, moet je het natuurlijk groter hebben.
+[1639.84 --> 1643.28]  Die foto heb ik door Magnifier gegooid.
+[1643.28 --> 1646.36]  Dat ding heeft daar alle details bij bedacht.
+[1646.62 --> 1653.40]  Waardoor die opeens op 300 dpi afgedrukt kon worden op een plaat door een bedrijf die dat uitprint.
+[1653.62 --> 1656.58]  En nu heb ik die foto voor minder dan 38.000 euro aan de muur.
+[1656.92 --> 1659.64]  Dat is het goede nieuws wat ik kan brengen hierop.
+[1659.66 --> 1660.12]  Heel mooi.
+[1660.52 --> 1661.46]  Ja, heel mooi.
+[1662.12 --> 1662.52]  Oké.
+[1662.76 --> 1664.58]  Wie nog meer goed nieuws heeft is Squarespace.
+[1664.98 --> 1665.84]  En die hebben een boodschap.
+[1666.94 --> 1668.78]  Poki wordt gesponsord door Squarespace.
+[1669.16 --> 1672.32]  Ben jij een ondernemer die zich wil onderscheiden en online succes wil boeken?
+[1672.32 --> 1673.74]  Let dan even op.
+[1674.12 --> 1680.32]  Een beetje ondernemer heeft een website, maar maak je al gebruik van Squarespace om op eenvoudige wijze de meest prachtige websites te maken.
+[1680.88 --> 1683.54]  Squarespace's templates zijn niet zomaar templates.
+[1683.70 --> 1685.40]  Het zijn kleine kunstwerken.
+[1685.74 --> 1687.50]  Gecreëerd door topdesigners.
+[1687.76 --> 1693.32]  Want waarom zou je genoegen nemen met middelmatigheid als je de crème de la crème kunt hebben zonder je blauw te betalen aan designbureaus?
+[1694.36 --> 1700.32]  Deze templates zijn niet alleen een lust voor het oog op elk appraat, maar ook een stuk betaalbaarder dan een agency inhuren.
+[1700.32 --> 1706.62]  Ik ben zelf vaak genoeg afgedwaald naar de donkere krochten van het internet voor gratis templates voor CMS'en.
+[1706.70 --> 1708.80]  En ik weet hoe onprettig het daar is.
+[1709.24 --> 1710.32]  Maar gelukkig is er Squarespace.
+[1710.74 --> 1717.04]  Je website kan eruit zien alsof je een fortuin hebt uitgegeven aan een designer, terwijl je portemonnee helemaal intact blijft.
+[1717.04 --> 1724.62]  Squarespace maakt het makkelijk om je eigen website te maken, zodat je je kan focussen op het gedeelte wat jij leuk vindt, het verkopen van je product.
+[1725.12 --> 1727.12]  Realiseer je passie met Squarespace.
+[1727.68 --> 1730.72]  Speciaal voor Poki-luisteraars heb ik een speciale kortingscode.
+[1730.98 --> 1734.36]  Ga naar squarespace.com slash poki voor een gratis trial.
+[1734.82 --> 1741.22]  En ben je klaar om je eigen website te lanceren, dan krijg je met de code POKI10 10% korting op je eerste aankoop.
+[1741.22 --> 1742.80]  Terug naar de show.
+[1743.80 --> 1750.14]  Wij hebben het natuurlijk al langer over dat Spotify onze podcast zou gaan vertalen in Chinees, Duits, Japans en dat dat dan automatisch zou gaan.
+[1750.30 --> 1751.32]  Nou dat is dus nog niet zo.
+[1751.62 --> 1752.72]  Dus dat ga ik nu niet aankondigen.
+[1752.98 --> 1753.94]  Wij wachten daar nog wel op.
+[1754.12 --> 1757.00]  Want ik wil Poki-luisteren in het Japans, want de naam is al Japans.
+[1757.16 --> 1758.98]  Ik bedoel, dit is gewoon helemaal, dit past gewoon.
+[1759.30 --> 1759.94]  Dat kan nog niet.
+[1760.58 --> 1763.44]  Maar wat ze wel begeïntroduceert, ook nog niet in Nederland.
+[1763.58 --> 1764.76]  Iedere geval, ze rollen hem nu uit.
+[1764.82 --> 1768.00]  Het is een beetje een laffe aankondiging, maar het is al wel live voor veel andere mensen.
+[1768.08 --> 1769.28]  Dus ik wil het er toch even over hebben.
+[1769.28 --> 1779.12]  Dat is namelijk Spotify die playlist samenstelt à la Discover Weekly of Blends voor de Spotify gebruikers die luisteren.
+[1779.18 --> 1780.66]  Of misschien zelfs dit luisteren via Spotify.
+[1780.82 --> 1781.92]  Die kennen die features al.
+[1783.28 --> 1787.78]  Maar wat ze nu ook hebben gedaan is, je kunt een prompt geven aan Spotify.
+[1788.00 --> 1791.52]  Zoals je dat als ChatGPT gebruiker of Dali gebruiker gewend bent.
+[1791.76 --> 1791.80]  Nee!
+[1791.80 --> 1792.10]  Ja ja.
+[1792.54 --> 1794.10]  Om playlist te maken.
+[1794.70 --> 1795.00]  Ja!
+[1795.50 --> 1795.92]  Vet hè!
+[1795.92 --> 1799.96]  Dus ik heb alleen nog maar filmpjes gezien van hoe dit werkt, want ik mag er nog niet bij.
+[1800.14 --> 1803.60]  Maar ik wil het al benoemen omdat ik gewoon heel benieuwd ben wat luisteraars hiermee gaan doen.
+[1804.60 --> 1809.90]  Maar wat ze hebben gedaan is, technisch gezien praat je eigenlijk gewoon met een taalmodel.
+[1809.90 --> 1820.00]  En die gaat dan in conclaaf met al bestaande algoritme van Spotify die ook verantwoordelijk zijn voor Discover Weekly en radios en dat soort dingen.
+[1820.44 --> 1823.50]  En gaat eigenlijk een playlist maken op basis van jouw omschrijving.
+[1823.66 --> 1825.32]  En dat kan dus best wel eclectisch zijn.
+[1825.40 --> 1827.76]  Als je goed kan prompten, dat vind ik nu ook wel leuk.
+[1827.76 --> 1837.46]  Dus als je dus een beetje, stel je stond tot nu toe aan de zijlijn omdat je tekstprompten en plaatjesprompten en hele nummers maken niet interessant vond.
+[1838.02 --> 1839.42]  Maar je bent wel muziekliefhebber.
+[1839.66 --> 1841.38]  Ja, dan zou ik zeggen ga los.
+[1841.48 --> 1846.02]  Want nu kan jij die playlist omschrijven, die mixtape, dat album, dat verzamelalbum.
+[1846.02 --> 1848.82]  Wat misschien nog nooit iemand bedacht heeft.
+[1848.94 --> 1849.98]  En daarna ook weer delen.
+[1850.14 --> 1851.44]  Ik vind het wel een heel gaaf idee.
+[1852.00 --> 1852.56]  Heel cool.
+[1853.16 --> 1853.56]  Heel cool.
+[1853.64 --> 1856.70]  En het is gewoon een soort van invulveldje waar je dan dat tekwoorden kan plakken.
+[1856.70 --> 1858.48]  Ja, het is waar je normaal de titel zou typen.
+[1858.74 --> 1861.78]  Of de omschrijving van je playlist, daar typ je nu een prompt.
+[1862.34 --> 1865.88]  Ja, in dit geval, ik noem het een prompt omdat wij te diep in die techniek zitten.
+[1866.00 --> 1868.58]  Maar het is in essentie gewoon, beschrijf je muzieklijst.
+[1868.72 --> 1869.04]  Beschrijving.
+[1869.04 --> 1869.14]  Ja.
+[1871.36 --> 1875.66]  Alsof het in een magazine staat waar je een verzamel CD kocht, vijf CD'tjes dik vroeger.
+[1876.52 --> 1876.90]  En ik...
+[1876.90 --> 1879.86]  Het vereist natuurlijk wel dat je moet nadenken over wat je leuk vindt.
+[1879.92 --> 1883.90]  Ik vraag me wel af in hoeverre mensen daar nou echt bewust mee bezig zijn.
+[1884.44 --> 1889.40]  Als ik moet beschrijven wat mijn muzieksmaak is, moet ik toch echt eerst heel diep nadenken.
+[1889.52 --> 1893.20]  Ik vind het makkelijker om artiesten te noemen dan een stijl beschrijven.
+[1894.52 --> 1896.94]  Nou ja, ik moet zeggen wat ik wel boeiend zou vinden.
+[1896.94 --> 1901.68]  Ik zat een lijst van een hard fork waar ze spraken met iemand die Sora gebruikt heeft om video te genereren.
+[1901.92 --> 1905.06]  En toen gingen ze natuurlijk een beetje vragen hoe lang duurt het dan voor zo'n video gegenereerd is.
+[1905.06 --> 1906.28]  Dus tien minuten tot vijftien minuten.
+[1906.50 --> 1907.26]  Ik had het niet anders verwacht.
+[1907.36 --> 1908.74]  Vind ik nog snel eigenlijk als ik ben.
+[1909.22 --> 1913.46]  Maar wat ook verteld werd is als jij een prompt doet, dan krijg je de tussenprompt te zien.
+[1913.60 --> 1914.32]  Dat vond ik ook wel tof.
+[1914.38 --> 1915.56]  Dus dan krijg je eigenlijk...
+[1915.56 --> 1918.62]  Je gaat praten en dan zeg je ik wil een video van een eend op een scooter.
+[1918.62 --> 1922.38]  En dan zegt hij nou, van jouw ding maak ik als opdracht dit.
+[1922.64 --> 1923.38]  Wat vind je daarvan?
+[1923.46 --> 1924.56]  Wil je nog aanpassingen geven?
+[1924.76 --> 1929.02]  En ik ben dus nu ook benieuwd wat Spotify mij...
+[1929.02 --> 1931.30]  Ik wil eigenlijk niet die prompt geven, ik wil mijn prompt zien.
+[1931.48 --> 1939.08]  Ik wil zien wat Spotify als een soort tekstveldje van mij heeft om radio of Discover Weekly's voor me te maken.
+[1939.20 --> 1941.26]  Hoe ziet de prompt van mijn Discover Weekly eruit?
+[1941.70 --> 1942.00]  Dat is eigenlijk...
+[1942.00 --> 1943.52]  Ik vind dat we daar recht op hebben, Wietse.
+[1943.66 --> 1944.98]  We hebben recht op dat prompt.
+[1944.98 --> 1949.60]  Als we geen Japanse vertaling krijgen, dan vind ik wel minimaal dat we onze prompt moeten kunnen zien.
+[1950.02 --> 1950.58]  Ja, precies.
+[1950.86 --> 1951.98]  Ik denk dat we nu als...
+[1952.80 --> 1958.22]  Nou ja, ik zie jij en ik zijn geen wetenschappers in de kunstmaatregelijke intelligentie.
+[1958.38 --> 1958.86]  Beiden niet.
+[1959.16 --> 1960.44]  We gebruiken een hoop toeltjes.
+[1960.74 --> 1966.36]  En ik denk dat ik nu, ik spreek even alleen voor mezelf, best wel een inzicht heb gekregen van...
+[1966.36 --> 1968.14]  Oké, dit is een beetje hoe algoritme werken.
+[1968.32 --> 1969.68]  Dit is een beetje wat datasets doen.
+[1969.82 --> 1972.20]  Dit is een beetje wat temperatuur doet, waar we het net over hadden.
+[1972.20 --> 1977.76]  Dat ik daardoor nu ook dus met terugwerkende kracht geïnteresseerd ben geraakt in dingen die eigenlijk al...
+[1977.76 --> 1982.16]  In de categorie machine learning AI algoritme hingen al zes, zeven jaar.
+[1982.40 --> 1983.12]  Misschien wel langer.
+[1983.30 --> 1987.70]  Dus eigenlijk waar we dan de laatste zes, zeven jaar al gebruik van hebben gemaakt...
+[1987.70 --> 1990.66]  Dat ik daar nu eigenlijk ook een beetje de binnenkant van wil zien.
+[1991.02 --> 1994.40]  Omdat ik zie dat andere systemen nu wel expliciet kunnen zijn van...
+[1994.40 --> 1995.08]  Dit is je prompt.
+[1995.42 --> 1997.26]  Dit is wat wij halen uit jouw verhaal.
+[1997.72 --> 1998.52]  Laat maar zien Spotify.
+[1998.90 --> 1999.66]  Ik ben nieuwsgierig.
+[1999.66 --> 2001.94]  Er zit ook een soort verwachting in dat...
+[2001.94 --> 2005.22]  En die is denk ik terecht dat wij niet goed genoeg kunnen beschrijven...
+[2005.22 --> 2007.68]  Wat we nou eigenlijk willen voor de AI.
+[2007.82 --> 2010.56]  Dat al die AI's erop staan om tussen prompts toe te passen.
+[2010.70 --> 2013.56]  Dus je vraagt iets aan ze en dan op de achtergrond...
+[2013.56 --> 2017.52]  Maak ze het prompt eigenlijk uitgebreider en dan leveren ze het resultaat aan je.
+[2018.80 --> 2022.88]  Het is ook een soort van extra creativiteit ofzo die ze eraan toevoegen.
+[2023.16 --> 2024.80]  Dat is natuurlijk het interessante aan het.
+[2024.80 --> 2028.54]  Dat is ook wat helemaal in het geval van muziek wil je verrast worden.
+[2028.66 --> 2030.36]  Of je wil dat het een emotie oproept.
+[2031.58 --> 2035.54]  En dat is in het geval van denk ik plaatjes eigenlijk ook wel zo.
+[2036.34 --> 2039.20]  Eigenlijk wil je niet dat het ding precies doet wat je vraagt.
+[2039.30 --> 2042.80]  Maar je wil dat hij een soort van met een beetje sterrenstof.
+[2042.96 --> 2044.36]  En dat is die tussen prompt.
+[2046.54 --> 2048.36]  Ja, nou fascinerend.
+[2048.36 --> 2052.68]  Er komt natuurlijk een moment dat onze podcast in het Japans te beluisteren is via Spotify.
+[2052.88 --> 2054.36]  Omdat zij onze stemmen klonen.
+[2054.88 --> 2059.08]  En dan gewoon de hele podcast in het Japans kunnen doen.
+[2059.58 --> 2062.82]  Waardoor je je kan afvragen wat is eigenlijk nog onze functie op de planeet.
+[2063.16 --> 2064.96]  Als podcaster.
+[2065.28 --> 2066.96]  Die functie die verdwijnt in ieder geval.
+[2067.50 --> 2070.46]  Maar er is een journalist die meent dat er onderscheid te maken is...
+[2070.46 --> 2073.70]  tussen de baan van de podcaster en de taak van de podcaster.
+[2073.70 --> 2076.66]  En dit is een breder gesprek dan alleen maar over podcasters.
+[2076.66 --> 2079.84]  Hij zegt namelijk je moet zo naar al het werk kijken.
+[2080.16 --> 2083.76]  Als je wil afvragen of kunstmatige intelligentie ervoor gaat zorgen...
+[2083.76 --> 2085.66]  dat wij ons allemaal onze baan kwijt gaan raken...
+[2086.48 --> 2088.04]  dan moet je die twee onderscheiden.
+[2088.12 --> 2089.96]  Een baan en een taak.
+[2090.34 --> 2092.22]  Want wie het nieuws over AI een beetje volgt...
+[2092.22 --> 2094.56]  zou al snel kunnen denken dat we allemaal onze baan gaan kwijtraken.
+[2094.66 --> 2097.66]  Maar de geschiedenis vertelt, zo betoogt Marits Martijn van de Correspondent...
+[2098.36 --> 2099.36]  een heel ander verhaal.
+[2099.54 --> 2102.72]  Nieuwe technologie leidt bijna nooit tot massawerkeloosheid.
+[2103.22 --> 2105.10]  Integendeel, er komen juist banen bij.
+[2105.10 --> 2108.16]  Marits heeft heel veel economen gesproken...
+[2108.16 --> 2111.10]  en komt tot een afgewogen idee...
+[2111.66 --> 2116.04]  over wat nou daadwerkelijk de impact gaat zijn van AI op de werkgelegenheid.
+[2116.76 --> 2119.10]  We horen natuurlijk al decennia lang doemscenario's...
+[2119.76 --> 2121.90]  over hoe technologie banen zal vernietigen.
+[2122.52 --> 2124.36]  Maar dat komt dus eigenlijk nooit uit.
+[2125.32 --> 2127.64]  Over AI zeggen mensen andere dingen.
+[2127.78 --> 2129.34]  Ze zeggen deze keer is het anders.
+[2129.64 --> 2132.06]  Waarom zouden die AI-voorspellingen wel kloppen?
+[2132.06 --> 2134.06]  Ja.
+[2135.12 --> 2136.52]  Ja, nou...
+[2136.52 --> 2139.84]  Ik denk dat ze over AI ook niet kloppen.
+[2141.02 --> 2143.06]  Omdat ik denk dat...
+[2143.92 --> 2148.42]  als je kijkt naar de geschiedenis van de voorspellingen...
+[2148.42 --> 2152.06]  de geschiedenis van de momenten waarop er voorspeld is...
+[2152.06 --> 2158.06]  dat er massawerkloosheid het effect zou zijn van een nieuwe technologie...
+[2158.62 --> 2163.66]  dan gebeuren er een aantal dingen die volgens mij nu ook gewoon weer gaan gebeuren.
+[2163.66 --> 2167.72]  En een van de dingen die altijd gebeurt...
+[2167.72 --> 2175.66]  is dat een technologie wel degelijk bepaalde taken kan automatiseren...
+[2175.66 --> 2178.22]  maar nooit hele banen.
+[2178.22 --> 2183.32]  Dus je hoort nu bijvoorbeeld best wel veel over radiologen.
+[2184.06 --> 2189.22]  Dat is een soort bekend voorbeeld van AI-profeten...
+[2189.88 --> 2190.28]  die zeggen...
+[2190.28 --> 2191.36]  ja, radiologen...
+[2191.36 --> 2195.22]  het heeft helemaal geen zin meer om mensen tot radioloog op te leiden...
+[2195.90 --> 2197.26]  omdat we nu AI hebben.
+[2197.44 --> 2202.22]  En AI is beter in staat dan een mens om kanker te detecteren.
+[2202.22 --> 2206.22]  Ja, dit hoor ik ook altijd als ik dan in de wandelgangen bij talkshows...
+[2206.98 --> 2211.22]  dan zitten ze vaak inderdaad medische mensen erbij als het gaat over AI.
+[2211.38 --> 2214.16]  En dit is waar medische mensen altijd over praten.
+[2214.34 --> 2215.22]  Een soort van...
+[2215.22 --> 2220.22]  de foto's die gemaakt worden van mensen met bijvoorbeeld kanker...
+[2220.22 --> 2225.60]  kan een AI vaak beter herkennen wat erop staat dan een mens.
+[2226.04 --> 2228.76]  Marit, dat zeggen de dokters tegen mij.
+[2228.76 --> 2232.72]  Nee, maar ik denk ook dat dat ongetwijfeld zo is...
+[2232.72 --> 2235.94]  of in ieder geval zo gaat zijn op een bepaald moment.
+[2236.90 --> 2241.74]  Alleen dat betekent niet dat de hele baan van een radioloog verdwijnt.
+[2241.86 --> 2242.18]  Juist.
+[2242.28 --> 2246.76]  Want een radioloog is een superbelangrijke taak voor een radioloog...
+[2246.76 --> 2250.96]  om MRI's of ander soort medische foto's te bestuderen...
+[2250.96 --> 2254.76]  en te kijken wat daarop te zien is en die te analyseren.
+[2254.76 --> 2260.66]  Maar het is maar één van de, laten we zeggen, 30 of 40 taken die een radioloog heeft.
+[2261.46 --> 2267.76]  Je kunt je voorstellen dat als er een AI is die dit inderdaad beter kan dan een radioloog...
+[2268.44 --> 2271.76]  die dus bijvoorbeeld iets ziet wat je met mensen ogen niet kunt zien...
+[2273.34 --> 2279.76]  dat het wel heel belangrijk is dat er een radioloog bijvoorbeeld dubbelcheckt of het wel klopt...
+[2279.76 --> 2291.08]  of dat een radioloog blijft praten met collega's om te kijken of het oordeel van de AI wel deugt.
+[2291.30 --> 2295.80]  Ja, dus je zegt eigenlijk banen worden niet vervangen door AI, maar taken worden vervangen door AI.
+[2295.96 --> 2301.76]  Maar als nou een heel groot deel van de taken toch vervangen kunnen worden door AI...
+[2301.76 --> 2304.64]  is dan niet de conclusie onder de streep dat toch de baan vervangen wordt?
+[2304.64 --> 2313.62]  Ja, tuurlijk. Het zou natuurlijk kunnen dat er banen bestaan die uit taken bestaan...
+[2313.62 --> 2315.70]  die voor een heel groot deel te vervangen zijn.
+[2316.40 --> 2321.26]  En dat is natuurlijk ook wat je ziet gebeuren in de geschiedenis van de technologie, zeg maar.
+[2321.40 --> 2323.64]  Dat er verdwijnen banen door automatisering.
+[2324.30 --> 2327.68]  En dat is ook op een soort individueel niveau heel erg vervelend.
+[2327.96 --> 2332.64]  Maar als je het met de macrobril bekijkt, als je gewoon dus kijkt van nou wat doet het nou met de economie...
+[2332.64 --> 2338.06]  dan gebeurt nooit wat er voorspeld wordt, namelijk dat er een soort massowerkloosheid plaatsvindt.
+[2338.06 --> 2340.54]  En er wordt wel eens gezegd, deze keer is het anders.
+[2340.76 --> 2347.60]  Want met AI is er iets fundamenteel anders dan bij die vorige soort van revoluties van automatisering.
+[2348.10 --> 2350.64]  Daar komt het niet uit, maar het is deze keer toch echt anders.
+[2351.40 --> 2354.34]  Wat vind je van mensen die dat claimen?
+[2354.62 --> 2360.86]  Ja, allereerst is het wel grappig om te zeggen dat het elke keer anders is, volgens de mensen die het zeggen.
+[2360.86 --> 2366.70]  Dat werd tien jaar geleden ook geclaimed door de mensen die zeiden dat de robots voor onze banen zouden komen.
+[2366.82 --> 2368.54]  Die zeiden ook, deze keer is het anders.
+[2369.14 --> 2372.90]  Onder andere toenmalig minister van Sociale Zaken, Lodelijk Asscher.
+[2373.42 --> 2375.86]  Maar er is wel iets anders aan kunstmatige intelligentie.
+[2376.52 --> 2381.46]  In de zin van dat het potentieel een ander type taken kan vervangen.
+[2381.46 --> 2394.32]  Dus vooralsnog was het zo dat technologie en automatisering taken kon vervangen die je perfect in regeltjes kon vatten.
+[2394.60 --> 2397.40]  Dus de zogenoemde rule-based tasks.
+[2398.12 --> 2405.98]  Dus dan moet je denken aan fabriekswerk of bepaalde vormen van administratie of financiële administratie.
+[2405.98 --> 2409.26]  Excel is bijvoorbeeld een heel goed voorbeeld.
+[2409.88 --> 2418.90]  Dat is een technologie die in staat is om bepaalde handelingen die je perfect uit kan schrijven, kan automatiseren.
+[2418.90 --> 2425.22]  Dat is met AI anders in de zin van dat AI in staat is.
+[2425.44 --> 2433.06]  Of in ieder geval dat is de potentie van AI om creatieve en cognitieve taken te automatiseren.
+[2433.06 --> 2440.50]  Dat betekent waarschijnlijk dat het effect op de arbeidsmarkt anders is dan dat we tot nu toe hebben gezien.
+[2441.24 --> 2446.98]  Namelijk dat er dus taken aan laten we zeggen de onderkant van de arbeidsmarkt vooral werden vervangen.
+[2447.80 --> 2448.82]  En deze keer?
+[2449.16 --> 2458.78]  En deze keer hebben we een technologie die in staat is om taken te automatiseren die meer aan de bovenkant van de arbeidsmarkt zitten.
+[2458.78 --> 2470.12]  Dus bijvoorbeeld taken die horen bij onderzoekers of bij journalisten of bij juristen of bij medisch experts.
+[2470.34 --> 2471.84]  Ga ik toch even invallen jongens.
+[2472.30 --> 2475.88]  Ik zit netjes, ik vind trouwens je stuk erg goed hoor Maurits.
+[2475.96 --> 2480.26]  Ik raad iedereen aan om het te lezen omdat heel veel van de vragen die ik meteen had,
+[2480.40 --> 2483.64]  werden ook daadwerkelijk meteen weer beantwoord in de volgende Alinea.
+[2483.64 --> 2486.20]  Ja, dus sowieso complimenten daarvoor.
+[2486.64 --> 2491.98]  Wat ik wel zit te denken is dat als je kijkt naar Lodewijk Asscher over de robotisering en robots komen alles vervangen.
+[2492.60 --> 2496.68]  Er zit natuurlijk ook een stuk in dat die voorspelling gewoon niet klopt op basis van wat robots kunnen.
+[2496.68 --> 2501.92]  Want ik denk dat op het moment dat je een robot zou hebben die een woonkamer binnenkomt lopen,
+[2502.04 --> 2509.54]  even vloeiend als een mens, vloeiend Nederlands spreekt en eigenlijk nagenoeg alle taken kan die een gemiddeld opgeleid Nederlander zou kunnen,
+[2510.22 --> 2513.60]  dan denk ik dat er wel iets wezenlijks anders is.
+[2513.72 --> 2517.52]  Dus als ik mezelf dan even in het, deze keer is het anders kamp plaats,
+[2517.98 --> 2525.02]  dan zou ik zeggen als het inderdaad zo is dat we straks robots hebben die zich grotendeels kunnen gedragen als een volledig mens,
+[2525.02 --> 2529.74]  dan is het anders. Maar die hebben we niet, want we zien alleen nog maar kleine vonkjes daarvan.
+[2529.84 --> 2532.06]  En misschien duurt het wel weer twintig jaar of vijftig jaar.
+[2532.58 --> 2538.38]  Dus ik zit meer te denken dat als ik jou een stuk lees, dan ben ik het best wel veel stukken ben ik het er mee eens.
+[2538.46 --> 2544.28]  Want ik denk het wordt overtrokken en het valt allemaal nog wel mee en teksten genereren, laten we niet overdrijven, het is gewoon weer een tool.
+[2544.78 --> 2548.06]  Maar ik zit een beetje in mijn fantasie, want laat ik het gewoon fantasie noemen,
+[2548.20 --> 2552.56]  want ik extrapoleer op wat ik aan filmpjes en demootjes zie in de laatste maanden,
+[2552.56 --> 2558.40]  zit ik te extrapoleren van ja, maar die robots van Lodewijk Asscher, die zijn er wel over vijf jaar.
+[2558.72 --> 2561.56]  En dan is het toch wel anders. Dus mijn vraag aan jou is eigenlijk,
+[2562.06 --> 2567.42]  als er dan een robot jouw kamer binnen komt lopen die echt spreekt vloeiend en al die taak kan vangen,
+[2567.56 --> 2572.80]  is het dan voor jou anders? Of zeg je dan nog steeds, nee, het is gewoon weer oude wijn in nieuwe zakken?
+[2573.68 --> 2582.38]  Nou, ik zit me gewoon even voor te stellen hoe het eruit ziet als ik nu een robot hier binnen komt lopen.
+[2582.56 --> 2584.36]  Ja, maar even heel goed zitten, ja.
+[2584.52 --> 2585.08]  Ja, ja, ja.
+[2585.98 --> 2587.22]  Met humor hè, robot.
+[2587.52 --> 2588.68]  Ja, ja, humor met robot.
+[2589.18 --> 2591.88]  Ja, goed, misschien is dan het eerste wat ik aan die robot vraag,
+[2591.96 --> 2597.80]  kun jij dat zonnepaneel even hierboven even vastmaken en die ook van al mijn buren,
+[2597.92 --> 2601.60]  want er is een enorme tekort aan mensen die die dingen kunnen installeren.
+[2601.60 --> 2606.74]  En daarna zeg ik, kan je misschien even naar mijn oma gaan in Zuid-Limburg,
+[2606.88 --> 2614.04]  want de thuiszorg daar die is helemaal uitgekleed en zij heeft al twee weken geen hulp gehad.
+[2614.72 --> 2624.90]  Dus ik bedoel meer, natuurlijk zijn er nieuwe taken die deze technologie uit kan voeren.
+[2624.90 --> 2630.66]  Misschien is het ook wel meer dan anders, maar dat betekent niet dat, zeg maar,
+[2630.88 --> 2637.92]  het enorme arbeidstekort wat wij nu hebben en de enorme vraag naar allemaal taken en allemaal banen,
+[2638.00 --> 2642.38]  dat dat in één keer opgelost wordt door robots met JetGPT.
+[2642.62 --> 2643.86]  Is dat een antwoord op je vraag?
+[2644.26 --> 2644.98]  Heel mooi antwoord.
+[2645.06 --> 2648.82]  Nee, ik zit zelf te denken dat waar, denk ik, mijn intuïtie zit van,
+[2648.82 --> 2652.32]  los van het feit dat ik natuurlijk cynisch kan zijn, dat ik denk, ik ben gewoon nog te jong.
+[2652.46 --> 2657.00]  Ik had het al een keer mee moeten maken, die eerdere beloftes, en dan hoor ik op een gegeven moment hetzelfde verhaal.
+[2657.40 --> 2660.40]  Daarbij zeg ik niet dat jij oud bent, maar op een gegeven moment ga je natuurlijk merken,
+[2660.54 --> 2664.54]  ja, die revolutie, het is ook een soort doomsdenken, het is een soort einde van de werelddenken,
+[2664.60 --> 2667.24]  wat er een beetje in zit in die robo-pocalypse.
+[2668.10 --> 2673.62]  Dus misschien moet ik hem gewoon een keer meemaken en dan ben ik ook wat minder snel onder de indruk.
+[2673.92 --> 2676.32]  Maar toch heb ik dan nog het idee van, het is nu anders,
+[2676.32 --> 2679.76]  en ik denk dat dat bij mij zit op een stukje snelheid,
+[2679.88 --> 2684.66]  want ik denk dat wij ontzettend flexibel zijn als mensen, als samenleving en als individuen om ons aan te passen.
+[2685.00 --> 2688.54]  Ik denk alleen wel dat we bepaalde limieten hebben hoe snel we ons kunnen aanpassen.
+[2688.96 --> 2695.24]  Dus mijn zorg zit, denk ik, ja, als die robot met een jaar of vijf of tien wel die kamer komt binnenlopen,
+[2695.72 --> 2697.78]  dat ik denk dat we heel snel moeten gaan shuffelen,
+[2698.16 --> 2701.14]  sneller dan dat we ooit hebben moeten stoelen dansen in het verleden.
+[2701.14 --> 2704.48]  En dat maakt het misschien nu anders dan voor mij.
+[2704.82 --> 2707.42]  Het momentum, de snelheid, en daar zit ook een stukje zorg.
+[2708.28 --> 2713.88]  En wat doet die robot dan allemaal? Wat zie jij die robot doen in jouw fantasie?
+[2714.82 --> 2718.88]  Nou, ik denk dus het autootje van picknickrijden, maar dan echt gewoon op de plek van de chauffeur,
+[2718.96 --> 2719.84]  gewoon heel brute force.
+[2720.00 --> 2721.76]  Dus we gaan niet eens zelfrijden in de auto's.
+[2722.16 --> 2725.64]  Die robot zit gewoon daar, die loopt naar je woning toe, neemt meteen het vuil mee.
+[2725.64 --> 2729.90]  Dus ik denk inderdaad, zonnepanelen leggen, mensen uit bed halen.
+[2730.94 --> 2734.48]  Even nog los van het feit of ik daar blij mee ben, dat mensen verzorgd worden door robots.
+[2734.72 --> 2737.10]  Dat is even een andere discussie, maar dat kan dan.
+[2737.54 --> 2742.90]  En ik denk dat er dan heel veel banen zijn of taken zijn, zoals jij het mooi zegt,
+[2743.40 --> 2748.02]  die wel even mensen die een nieuwe plek moeten gaan vinden en krijgen.
+[2748.56 --> 2750.86]  En dat het met een bepaalde snelheid gaat.
+[2751.04 --> 2754.64]  Dat is dan een beetje die robopocalypse of zo, die ik dan in mijn fantasievormen zie.
+[2754.64 --> 2761.58]  Waarin er van honderd naar duizend naar tienduizend robots binnen drie tot vijf jaar ineens best wel een aardverschuiving plaatsvindt.
+[2761.58 --> 2766.00]  Omdat er heel veel synthetische mensen toegevoegd worden aan de arbeidspool.
+[2766.22 --> 2769.88]  En mijn verhaal is volgens mij niet heel veel anders dan het verhaal uit de 80's en 90's.
+[2770.04 --> 2770.92]  Dus dat geef ik toe.
+[2771.54 --> 2773.34]  Maar nu gaat het echt gebeuren.
+[2773.66 --> 2774.50]  Nu gaat het echt gebeuren.
+[2775.04 --> 2776.32]  Misschien in het verlengde daarvan.
+[2776.44 --> 2780.98]  Kijk, want we kunnen het over robots hebben en dat voelt dan misschien nog een beetje als toekomstmuziek.
+[2781.08 --> 2783.84]  En dat moeten we natuurlijk ook nog maar zien of iets gelijk gaat krijgen.
+[2783.84 --> 2791.04]  Maar in het geval van sommige sectoren binnen de economie is dit toch wel al meer dan een aantal taken die vervangen worden.
+[2791.18 --> 2794.96]  We hebben dat persbericht gezien van Klarna wat heel erg rondging.
+[2795.08 --> 2800.14]  Die vertelde dat ze heel veel klantenservice medewerkers overbodig hadden gemaakt door de komst van AI.
+[2800.74 --> 2806.50]  Misschien maar eens als je zegt voor de hele economie geldt dat het elke keer meevalt tot nu toe.
+[2806.74 --> 2808.76]  En die verwachting heb je nu eigenlijk ook.
+[2808.76 --> 2815.10]  Is het dan wel zo dat als je op specifieke sectoren inzoomt.
+[2815.64 --> 2821.68]  Dat het dan wel de meerderheid van de taken of een significant deel van de taken zo groot in ieder geval.
+[2821.84 --> 2824.36]  Dat mensen in die sector niet meer nodig zijn.
+[2824.60 --> 2830.06]  Is dat dan wel onderdeel van het punt wat je dan maakt?
+[2830.06 --> 2835.94]  Ja nou ja het is allemaal op dit moment nog wel soort anekdotisch.
+[2836.14 --> 2842.24]  Dus je kunt nu nog niet zeggen van developers raken massaal hun baan kwijt.
+[2842.50 --> 2845.92]  Of klantenservice medewerkers moeten op zoek naar iets nieuws.
+[2845.92 --> 2853.34]  Maar ik denk dat er nu ook gaat gebeuren de komende jaren wat er eerder ook is gebeurd.
+[2853.78 --> 2864.60]  Namelijk dat er inderdaad wel degelijk bepaalde sectoren of bepaalde onderdelen van sectoren wel degelijk mensen laten gaan.
+[2865.38 --> 2870.68]  En die mensen vervangen met technologie met AI.
+[2870.68 --> 2875.62]  En ja de klantenservice dat is wel eentje die je heel veel hoort.
+[2875.70 --> 2878.08]  Daar moet ik wel zeggen ik las laatst wel een leuk stuk in NRC.
+[2878.90 --> 2884.88]  Waarin ja toch wel bleek dat ook dat vooralsnog echt wel een belofte is.
+[2884.94 --> 2887.94]  Dat er gewoon best wel veel nog misgaat en niet werkt.
+[2888.04 --> 2889.90]  En dat mensen er ook helemaal niet zo heel blij mee zijn.
+[2890.24 --> 2892.78]  Ik bedoel dat bericht van Klarna was natuurlijk ook van Klarna.
+[2894.26 --> 2899.62]  Maar dat is op zich zou ik me wel kunnen voorstellen dat daar op een bepaald moment echt iets gaat veranderen.
+[2899.62 --> 2903.16]  En dat kan ik ook in bepaalde creatieve beroepen heel goed voorstellen.
+[2903.80 --> 2907.04]  Je hebt het in je stuk over ontslagen bij Bild.
+[2907.24 --> 2910.08]  Die waren vorig jaar aangekondigd. Een grote Duitse krant.
+[2910.80 --> 2913.18]  Ik weet niet of dat nou uiteindelijk doorgegaan is.
+[2913.28 --> 2919.16]  Maar die hadden toen in ieder geval het voornemen om honderden mensen te laten gaan in ruil voor AI.
+[2919.70 --> 2922.04]  Daar werd niet per se gezegd dat dat dan journalisten waren.
+[2922.18 --> 2924.54]  Er werd ook een beetje gezegd dat dat over vormgeving ging.
+[2924.68 --> 2929.16]  En het klinkt een beetje alsof dat meer taken rondom een journalist bij de krant zijn.
+[2929.16 --> 2931.22]  Maar of dat nou doorgegaan is of niet.
+[2931.68 --> 2936.46]  Merk, zeg maar, jij schrijft zelf voor de correspondent natuurlijk.
+[2937.34 --> 2942.38]  In welke mate merk jij dat jouw werk fundamenteel veranderd is?
+[2942.54 --> 2946.06]  Zijn er taakjes die overgegaan zijn naar de AI?
+[2946.30 --> 2947.16]  Of blijf je het doen met de...
+[2948.10 --> 2950.18]  Het ganse veer.
+[2950.30 --> 2951.40]  Het ganse veer.
+[2951.90 --> 2954.18]  Het type artisanal typing.
+[2954.18 --> 2961.50]  Nou ja, de transcriptiediensten is voor mij echt revolutionair.
+[2961.98 --> 2965.46]  Dat verandert mijn werk zo fundamenteel.
+[2965.62 --> 2970.24]  Want ik kan nu heel makkelijk eigenlijk iedereen die ik spreek heel makkelijk opnemen.
+[2970.96 --> 2972.18]  En dat vervolgens transcriberen.
+[2973.28 --> 2975.42]  En er nog één keertje naar luisteren.
+[2975.42 --> 2980.38]  En dan heb ik toch wel vrij gedetailleerd in mijn hoofd wat ik met iemand heb besproken.
+[2981.28 --> 2985.16]  Dat deed ik echt nog gewoon met een klapblok.
+[2985.28 --> 2989.06]  Omdat ik geen zin had om alles op te nemen en terug te luisteren en uit te schrijven.
+[2989.54 --> 2992.98]  Dat scheelt mij echt denk ik wel een volle dag per week.
+[2993.10 --> 2996.52]  Maar er wordt nog niet geprompt om delen van artikelen te schrijven als groepgrijp?
+[2996.52 --> 2999.38]  Nee, nee, nee.
+[2999.44 --> 2999.90]  Zeker niet.
+[3000.14 --> 3003.76]  Ik ben wel eens een beetje aan het kloten met koppen.
+[3004.16 --> 3010.80]  En wat ik wel heel leuk vind is om een stuk van mij of een deel daarvan dan te laten bekritiseren.
+[3011.22 --> 3013.06]  Door het chat GPT gebruik daar dan voor.
+[3013.30 --> 3015.06]  Dat is best wel nuttig.
+[3016.44 --> 3020.52]  Maar het genereert nog niks vooralsnog.
+[3020.52 --> 3023.06]  Ben je er wel nieuwsgierig naar?
+[3025.10 --> 3029.92]  Merk je dat je jezelf de hele tijd toch aan het testen bent of het ding nu al kan wat hij een half jaar geleden nog niet kon?
+[3030.62 --> 3032.90]  Of leidt dat eigenlijk alleen maar af van de hoofdtaak?
+[3034.12 --> 3040.10]  Nou, bij mij is een beetje de eerste liefde wel een beetje over.
+[3040.30 --> 3042.88]  Of de bewondering ofzo voor de technologie.
+[3043.26 --> 3046.20]  Ik ben nu wel heel benieuwd van oké, what's next dan?
+[3046.20 --> 3046.64]  Weet je wel.
+[3046.94 --> 3052.12]  Ik vind zelf gewoon die, als je gewoon kijkt van wat komt er uit?
+[3052.20 --> 3054.08]  Wat komt er uit, chat GPT?
+[3054.32 --> 3055.66]  Dat gebruik ik dan vooral.
+[3055.96 --> 3058.60]  Dan valt het me eigenlijk altijd toch wel een beetje tegen.
+[3059.78 --> 3061.96]  En is het dan, Maurits, als ik daarop mag aansluiten.
+[3062.44 --> 3065.60]  Ik stel deze vraag wel vaker de laatste tijd ook als een soort, ja.
+[3066.88 --> 3074.20]  Dan merk ik zelf dat ik helemaal in een bepaalde overtuiging zit van joh, ik moet de straat op.
+[3074.20 --> 3075.32]  Zo belangrijk is dit, hè.
+[3075.32 --> 3077.00]  Dan lees ik zo'n stuk voor jou en dan word ik weer rustig.
+[3077.08 --> 3078.64]  Dan denk ik, nou, misschien, Maurits wel gelijk.
+[3078.72 --> 3079.66]  Het valt eigenlijk allemaal mee.
+[3080.12 --> 3084.66]  Maar dan, mijn vraag aan jou is dan van, wanneer, misschien ga je wel nooit de straat op,
+[3084.72 --> 3088.18]  hoor, zit dat niet in je karakter, maar wanneer zou jij dan wel dat gevoel krijgen?
+[3088.64 --> 3089.90]  Hoe moet dat er dan uitzien?
+[3090.76 --> 3093.02]  Wat voor tool stuurt Alexander jou dan op?
+[3093.10 --> 3097.06]  Of vind jij online dat je denkt, potverdikking, misschien heeft die gekke biets toch wel gelijk
+[3097.06 --> 3098.52]  dat het deze keer een beetje anders is?
+[3098.52 --> 3100.20]  Ja.
+[3101.04 --> 3107.44]  Ja, ik denk dat dat niet zozeer in een tool of in een technologie zit, maar in een keuze
+[3107.44 --> 3111.82]  van iemand in hoe die technologie gebruikt wordt.
+[3111.82 --> 3117.92]  Dus dat is ook een beetje de conclusie van mijn verhaal, dat ik denk dat het effect van
+[3117.92 --> 3123.90]  AI op de arbeidsmarkt, sowieso het effect van AI uiteindelijk veel minder afhangt van
+[3123.90 --> 3125.70]  AI dan van ons.
+[3125.88 --> 3130.56]  Dus van de keuzes die we maken, de politieke keuzes, de economische keuzes.
+[3130.56 --> 3139.50]  En ik zou op zich wel de straat op gaan als heel veel bazen van bedrijven denken dat de
+[3139.50 --> 3142.92]  technologie wel degelijk in staat is om hele banen over te nemen.
+[3143.58 --> 3146.36]  En die keuze die kunnen zij in principe natuurlijk gewoon maken.
+[3146.80 --> 3149.78]  Ja, dat is niet helemaal waar, maar ze kunnen daar vrij ver in gaan.
+[3150.18 --> 3155.80]  Je bedoelt te zeggen, ze hoeven niet banen overbodig te maken door AI, want ze kiezen daar
+[3155.80 --> 3156.38]  zelf voor.
+[3156.38 --> 3158.24]  Ja, ze kunnen er.
+[3158.54 --> 3161.66]  Uiteindelijk is dat natuurlijk gewoon een keuze van een baas.
+[3161.78 --> 3167.06]  Als Rob Wijnberg volgende week in zijn hoofd krijgt dat ik wel degelijk te vervangen ben
+[3167.06 --> 3169.60]  door chat GPT, dan kan hij mij gewoon laten gaan.
+[3169.60 --> 3179.06]  Maar bedoel je daarmee te zeggen, als de techniek zo goed is dat een klantenservice in Nederland
+[3179.06 --> 3185.86]  overgenomen kan worden door een robot, dan zouden wij als land alsnog de keuze
+[3185.86 --> 3189.34]  moeten kunnen maken om het werk alsnog door mensen te laten doen.
+[3189.44 --> 3190.14]  Is dat wat je zegt?
+[3190.52 --> 3191.10]  Ja, natuurlijk.
+[3191.54 --> 3191.98]  Natuurlijk.
+[3192.36 --> 3193.86]  Die keuze, die is er.
+[3194.80 --> 3194.94]  Ja.
+[3195.60 --> 3204.14]  Want ik bedoel, ja, goed een klantenservice, dat is misschien niet een voorbeeld waar je heel
+[3204.14 --> 3206.14]  veel schuring of zo vindt.
+[3206.14 --> 3215.72]  Maar goed, als het gaat over echt het maken van beelden, van teksten, van schoolboeken,
+[3215.72 --> 3225.50]  van het lesgeven aan kinderen, het zorgen voor mijn oma in Zuid-Limburg door een robot.
+[3225.50 --> 3228.46]  Daar liggen allemaal keuzes aan, ten grondslag.
+[3228.54 --> 3230.22]  Het is niet zo dat dat vanzelf gebeurt.
+[3230.90 --> 3232.80]  En daar zijn wij zelf bij, zeg maar.
+[3233.50 --> 3238.98]  En hoe kun je daar ook over oordelen, zeg maar.
+[3240.04 --> 3251.74]  Denk je dan van, nou, deze klantenservice robot, die geeft betere antwoorden dan een mens.
+[3251.74 --> 3255.14]  Dus, oké, maar goed, ja, maar hoe bepaal je dat dan, zeg maar?
+[3255.22 --> 3256.12]  Wat is dan beter?
+[3257.00 --> 3258.80]  En dat is dan nog bij de klantenservice.
+[3259.06 --> 3259.18]  Ja.
+[3259.18 --> 3264.98]  Dus, dus als je vraagt van wanneer ga jij de straat op?
+[3265.48 --> 3271.02]  Ik denk dat ik de straat op ga op het moment dat er keuzes worden gemaakt die in mijn ogen
+[3271.02 --> 3272.26]  niet kloppen.
+[3272.96 --> 3274.32]  Wil je zelf het stuk lezen?
+[3274.42 --> 3274.74]  Dat kan.
+[3274.92 --> 3275.82]  Door naar de consument te gaan.
+[3275.92 --> 3278.72]  Het stuk heet, raken we door kunstmatige intelligentie allemaal onze baan kwijt.
+[3279.30 --> 3279.94]  Maurits, dank je wel.
+[3280.54 --> 3280.66]  Jo.
+[3280.86 --> 3281.24]  Dank je wel.
+[3281.74 --> 3282.84]  Oké, Wietse ten slotte.
+[3284.14 --> 3286.72]  Zoals jij misschien weet, ben ik ook uitgever.
+[3286.84 --> 3288.26]  Ik geef ook boeken uit.
+[3288.62 --> 3292.92]  En een deel van dat werk is het vertalen van Engelstalige boeken naar het Nederlands.
+[3293.02 --> 3294.22]  Om hier in Nederland uit te brengen.
+[3294.92 --> 3296.80]  En dat is altijd met een vertaler.
+[3296.96 --> 3298.92]  Dus dan huur je vertalers in.
+[3299.08 --> 3302.96]  En die gaan dan met je boek aan de slag om er zo goed mogelijk Nederlandse tekst van
+[3302.96 --> 3303.34]  te maken.
+[3304.00 --> 3307.14]  Maar ja, door de komst van al die AI-tools ga je toch een beetje ook afvragen.
+[3307.14 --> 3312.50]  Moeten we niet ook AI proberen te gebruiken om dingen te vertalen.
+[3312.66 --> 3316.44]  Al was het maar een eerste draft om op basis daarvan te werken.
+[3316.56 --> 3318.40]  Dus dat gesprek wat we net met Maurits hadden.
+[3318.40 --> 3321.34]  Eigenlijk bracht ik dat in de praktijk.
+[3321.46 --> 3326.38]  Namelijk welke taak, misschien niet het hele beroep, maar welke taak kan in ieder geval AI
+[3326.38 --> 3327.16]  een rol in.
+[3327.34 --> 3328.56]  Ja, het kwam ineens heel dichtbij.
+[3328.84 --> 3329.98]  Ja, het kwam heel dichtbij.
+[3329.98 --> 3335.94]  En toen dacht ik, nou, als AI sommelier moet je dan natuurlijk nadenken over welk model
+[3335.94 --> 3337.20]  ga ik hiervoor gebruiken.
+[3337.40 --> 3341.70]  En toen was mijn verwachting dat Chachepetie heel houterig zou gaan zijn in de vertaling.
+[3342.48 --> 3346.18]  En Claude een stuk mooier zou schrijven.
+[3347.06 --> 3348.54]  En die verwachting die kwam uit.
+[3348.64 --> 3353.26]  En dat kwam eigenlijk omdat het is dus echt heel goed wat er uit Claude komt als vertaling
+[3353.26 --> 3355.46]  van het Engels naar het Nederlands.
+[3355.46 --> 3360.88]  Maar de truc was, en dat is misschien dat de luisteraars daar wat aan hebben die wel eens
+[3360.88 --> 3362.04]  wat moeten vertalen.
+[3362.50 --> 3367.60]  Mijn eerste prompt ging veel meer over wat hij moest doen en wie hij was.
+[3367.78 --> 3373.84]  Dus mijn prompt was iets als van, herschrijf de tekst van het Engels naar het Nederlands.
+[3373.96 --> 3375.38]  De zinnen moeten op elkaar voortbouwen.
+[3375.46 --> 3376.48]  De inhoud moet hetzelfde zijn.
+[3376.56 --> 3378.08]  Je mag geen informatie weglaten.
+[3378.94 --> 3381.60]  Maar ja, we gaan het nu vertalen.
+[3381.70 --> 3383.16]  Je bent de beste vertaler denkbaar.
+[3383.32 --> 3384.58]  Zoiets in het eerste prompt.
+[3384.58 --> 3388.32]  En toen kwam die met de vertaling, die was redelijk oké.
+[3388.40 --> 3391.50]  Maar toen heb ik daar een prompt overheen gedaan.
+[3391.66 --> 3395.04]  Waarom ik als het ware de creatieve vrijheid heb gegeven.
+[3396.26 --> 3401.80]  Om met de volgorde van zinnen en de structuur van de zinnen te spelen.
+[3402.28 --> 3403.90]  Dus de inhoud moest nog steeds hetzelfde zijn.
+[3404.00 --> 3410.04]  Maar meer vrijheid gegeven om de zinnen op elkaar te laten voortbouwen.
+[3410.12 --> 3411.86]  Op een manier die logisch is in het Nederlands.
+[3411.86 --> 3413.52]  En toen kwam die met een tweede versie.
+[3414.00 --> 3415.64]  Je hebt het hele boek erin gegooid hè?
+[3415.78 --> 3415.96]  Ja.
+[3417.06 --> 3417.54]  Oké.
+[3417.68 --> 3419.50]  En toen kwam die met een tweede versie.
+[3420.22 --> 3421.96]  En die zat ik toen te lezen.
+[3422.04 --> 3423.86]  Toen dacht ik, oké man, dit is echt gewoon...
+[3424.52 --> 3426.38]  We zijn nu op 90% of zo.
+[3427.42 --> 3430.32]  Er moet echt nog wel wat werk gedaan worden.
+[3430.32 --> 3431.72]  Maar poeh.
+[3432.04 --> 3434.40]  Maar nu zit ik dus te denken, oké hier is dus de basis.
+[3434.82 --> 3440.24]  En ik denk dat dit een soort van moment is waar iedereen voor gaat komen te staan.
+[3440.70 --> 3446.24]  Al die alle werkgevers, zoals we het met Maurits net over hadden, gaan voor deze keuze staan.
+[3446.62 --> 3448.54]  Namelijk de vraag, ga ik dit dan ook doen?
+[3449.20 --> 3455.96]  Want ja, je weet ook gewoon dat er ook backlash gaat komen.
+[3455.96 --> 3457.96]  Er zijn mensen die...
+[3457.96 --> 3462.34]  Ja, er zijn mensen die gaan het gewoon niet cool vinden dat je hiervoor AI gebruikt.
+[3462.40 --> 3466.50]  En ik zag een voorbeeld van Lego afgelopen week.
+[3467.78 --> 3473.16]  Lego had op haar website, hadden ze voor de populaire lijn Lego Ninjago.
+[3473.26 --> 3476.34]  Ik ben niet bekend met dit fenomeen, maar dat is een eind populair te zijn.
+[3476.52 --> 3477.94]  Oké, wat is dit?
+[3479.10 --> 3479.90]  Ja, dat...
+[3479.90 --> 3480.74]  Ninja Lego.
+[3480.74 --> 3485.00]  En de zoon van een vriend van mij is hier helemaal mee bezig, daarom weet ik het.
+[3485.00 --> 3486.40]  Oké, dit is een ding.
+[3486.52 --> 3487.04]  Ninjago.
+[3487.50 --> 3495.66]  In ieder geval, Lego had op de homepage van Ninjago, hadden zij AI-gegenereerd Lego plaatjes gemaakt.
+[3496.06 --> 3498.04]  En daar was dus heel veel backlash over.
+[3498.30 --> 3506.90]  En toen heeft de bedenker van Lego Ninjago, heeft op Twitter gezegd, dit is schandalig, dit had niet mogen gebeuren.
+[3507.00 --> 3508.80]  Ik hoop dat dit zo snel mogelijk verdwijnt.
+[3508.80 --> 3511.60]  Oftewel, onderdeel van die...
+[3511.60 --> 3516.14]  Ja, dit is inmiddels dus onderdeel van die dynamiek die je hebt met klanten.
+[3516.26 --> 3520.28]  Namelijk, gaan de klanten het wel accepteren als een deel van het werk door AI gedaan wordt.
+[3520.70 --> 3522.50]  En dat heb ik dus hier ook een beetje mee.
+[3522.64 --> 3523.84]  Een soort van...
+[3523.84 --> 3529.74]  Aan de ene kant ben ik dus technisch heel geïnteresseerd in wat kunnen we automatiseren.
+[3530.76 --> 3536.52]  En denk ik dan, wat vet dat we gewoon 90% van het werk in 30 seconden kunnen doen.
+[3537.24 --> 3538.40]  Want zo is het.
+[3538.80 --> 3544.76]  En een deel van mij denkt dus, ja maar moeten we dit doen, want Jezus wat een gezeik ga je krijgen.
+[3544.86 --> 3546.14]  Zo denk ik dus ook over covers.
+[3546.36 --> 3548.14]  En zo denk ik ook over al het andere creatieve werk.
+[3548.14 --> 3549.18]  Dan ben ik wel benieuwd.
+[3549.82 --> 3553.60]  Want nu je het over die Ninjago zei, of Ninjago, van...
+[3553.60 --> 3557.94]  Hadden ze spijt dat ze het met een jaar hebben gemaakt?
+[3557.94 --> 3560.42]  Of hadden ze spijt dat mensen erachter gekomen zijn?
+[3560.66 --> 3560.80]  Ja.
+[3561.16 --> 3561.94]  Nou ja, het is...
+[3561.94 --> 3565.24]  En ik zie dat ook een beetje als een tijdelijk ding.
+[3565.24 --> 3565.62]  Ja.
+[3565.90 --> 3570.60]  En nu die algoritme zijn gewoon net niet goed genoeg.
+[3571.20 --> 3573.60]  En cynisch kan je zeggen, dat duurt nog wel even.
+[3573.86 --> 3577.34]  Maar ik denk gezien, moeten we maar even zien hoe die lijn doorzetten.
+[3577.48 --> 3579.68]  Misschien is de laatste 20% wel het allermoeilijkste.
+[3579.98 --> 3583.96]  Ik denk dat het voelt voor mij alsof het laatste 5% zit in sommige categorieën.
+[3583.96 --> 3586.48]  Maar jij zei net 90%, dus laten we die even aanhouden.
+[3586.96 --> 3591.02]  Als die laatste 10% ook opgelost wordt binnen een jaar of twee...
+[3591.02 --> 3593.86]  Dan kom je op een heel ander punt dat het helemaal niet meer te herkennen is.
+[3593.86 --> 3598.92]  Sterker nog, dat een vertaling gedaan door Cloud Opus 5...
+[3598.92 --> 3599.54]  Noem maar even wat.
+[3600.48 --> 3604.98]  Die is gewoon substantieel kwalitatief beter dan een menselijke vertaling.
+[3605.32 --> 3607.50]  Want die is door 100 vertalers gedaan.
+[3607.88 --> 3608.84]  Synthetische vertalers.
+[3609.24 --> 3610.50]  En daar zijn de beste uitgekozen.
+[3610.64 --> 3613.86]  En dat is het meest gemiddeld fantastische...
+[3613.86 --> 3614.06]  Ooit.
+[3614.14 --> 3617.92]  Dus ik denk dat sowieso de vraag zit erin...
+[3617.92 --> 3620.98]  Ik ben wel gefascineerd, want wat jij nu beschrijft...
+[3620.98 --> 3624.92]  Die tendens van mensen om die intuïtieve afkeur te hebben...
+[3624.92 --> 3627.50]  Naar synthetische content vind ik fascinerend.
+[3627.92 --> 3629.92]  En de vraag is alleen...
+[3629.92 --> 3631.82]  Wat gebeurt er als je het niet meer kan herkennen?
+[3632.12 --> 3633.56]  Moet het dan dus gelabeld worden?
+[3633.74 --> 3635.18]  Zoals binnen YouTube en Facebook.
+[3635.90 --> 3639.14]  En komt dan de afgunst dat er achterop jouw boek staat...
+[3639.14 --> 3640.84]  Op een van jullie boeken die je hebt uitgebracht.
+[3640.84 --> 3644.06]  Vertaald door en dan netjes cloud opus 5.
+[3644.24 --> 3644.66]  Noem maar wat.
+[3644.90 --> 3646.64]  En dat mensen dan daar boos om worden.
+[3647.16 --> 3648.08]  Omdat je het erop zet.
+[3648.46 --> 3649.76]  Niet omdat de vertaling slecht is.
+[3649.84 --> 3652.10]  Want die is superieur tegen die tijd.
+[3652.44 --> 3653.18]  Daar gaan we even van uit.
+[3653.26 --> 3655.90]  Die is 150% in plaats van 90%.
+[3655.90 --> 3660.30]  En ga jij dan denken van...
+[3660.30 --> 3663.12]  Oké, dit staat niet netjes voor mijn uitgeverij.
+[3663.34 --> 3665.72]  Ik moet mensen in dienst nemen.
+[3665.86 --> 3667.22]  Want dat is een onderdeel van...
+[3667.22 --> 3669.34]  En we zitten eigenlijk gewoon op...
+[3669.34 --> 3672.66]  Wordt er gebruik gemaakt van dierenproeven voor make-up?
+[3673.20 --> 3675.60]  Zit er palmolie in de Nutella?
+[3676.04 --> 3677.70]  Zit er AI in Alexanders Boeken?
+[3678.00 --> 3679.40]  Ik denk niet dat het heel anders is.
+[3679.82 --> 3680.44]  Ja, precies.
+[3680.44 --> 3681.82]  Ja.
+[3682.76 --> 3682.94]  Ja.
+[3684.14 --> 3684.50]  Ja.
+[3684.50 --> 3686.12]  Eigenlijk is de palmolie van de technologie.
+[3686.48 --> 3686.94]  Ja, precies.
+[3688.10 --> 3690.24]  Ik weet niet zo goed wat ik ermee moet.
+[3691.32 --> 3692.50]  Ik twijfel hier nog over.
+[3692.64 --> 3696.40]  Maar ik ben vooral in de war over dat ik nu deze keuze moet gaan maken.
+[3696.58 --> 3697.24]  De ethische keuze.
+[3697.32 --> 3700.16]  Eigenlijk wat we net met Marit bespraken is hier gewoon aan de hand.
+[3700.28 --> 3702.04]  Namelijk, ik sta nu voor de keuze.
+[3702.52 --> 3703.20]  Ga ik dit doen?
+[3703.34 --> 3707.56]  Ga ik het soort van de artisanal, het handmatige werk?
+[3707.56 --> 3712.52]  Of sta ik toch toe dat er een soort mix komt van de twee op dit moment in de tijd?
+[3712.64 --> 3714.48]  Terwijl het nog niet hoeft, maar wel kan.
+[3715.08 --> 3716.42]  Ja, opeens moet ik een keuze maken.
+[3716.92 --> 3722.38]  Ja, als we die metafoor doortrekken met pindakaas of pasta.
+[3723.00 --> 3726.30]  Daar heb je natuurlijk dat er wordt gezegd, oké, joh, er zit geen palmolie in.
+[3726.58 --> 3728.00]  Daardoor zit het potje een euro duurder.
+[3728.42 --> 3729.62]  Want het kost ons gewoon moeite.
+[3730.00 --> 3731.10]  We hebben een kleinere markt.
+[3731.10 --> 3738.58]  Dus de vraag wordt dan, zijn mensen straks bereid te betalen voor boeken waarvan de vertaling later uitkomt.
+[3738.70 --> 3739.68]  Want het duurt gewoon langer.
+[3740.12 --> 3742.02]  En de vertaling misschien ook niet zo goed is.
+[3742.22 --> 3742.76]  Ja, precies.
+[3742.86 --> 3744.52]  Neem het maar eens op tegen honderd algoritmen.
+[3744.92 --> 3747.66]  En dat mensen dan zeggen, dat boeit me allemaal niet.
+[3747.92 --> 3748.58]  Ik wacht wel.
+[3749.06 --> 3751.06]  Dit is voor mij kaviaar in tekstvorm.
+[3752.14 --> 3753.02]  Weet je al zoiets?
+[3753.02 --> 3755.76]  En dus, ik ben heel benieuwd hoe dat gaat zijn.
+[3755.86 --> 3758.28]  Want als je er cynisch qua marktwerking naar kijkt.
+[3758.38 --> 3762.06]  Ja, je hebt uiteindelijk ook je marges te beschermen.
+[3762.12 --> 3763.92]  En het feit dat je blijft bestaan als uitgever.
+[3764.40 --> 3766.66]  Als jij natuurlijk heel veel dingen voor heel weinig kan inkopen.
+[3766.78 --> 3770.06]  Waarvan de kwaliteit zelfs beter is dan de mensen die je anders zou inschakelen.
+[3770.14 --> 3772.74]  Dan moet je wel heel goed kunnen uitleggen aan je lezers.
+[3773.72 --> 3775.50]  Waarom jouw boek zo duur is of zo lang duurt.
+[3775.70 --> 3777.68]  Of zo slecht vertaald is in verhouding.
+[3777.90 --> 3782.50]  Nou, ik ga wel even een of andere ethiek bot opzoeken bij Character AI.
+[3782.50 --> 3786.56]  En dan zul je horen wat de keuze is geweest van mijn Socrates gesprek.
+[3786.88 --> 3788.32]  Dank voor het luisteren naar Poki.
+[3788.42 --> 3789.56]  We zijn er volgende week weer.
+[3789.90 --> 3790.28]  Tot dan.
+[3790.52 --> 3790.80]  Dag.
