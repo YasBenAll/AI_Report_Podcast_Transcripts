@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, abort
+from flask import Flask, jsonify, abort, request
 import os
 from urllib.parse import unquote
 from flask_cors import CORS
@@ -49,6 +49,37 @@ def get_transcript(filename):
         content = f.read()
     
     return jsonify({'content': content})
+
+@app.route('/api/search', methods=['GET'])
+def search_transcripts():
+    query = request.args.get('query', '').lower()
+    if not query:
+        return jsonify([])
+
+    results = []
+    for filename in os.listdir(TRANSCRIPTS_DIR):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(TRANSCRIPTS_DIR, filename)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                youtube_code = None
+                if 'Youtube video code:' in content:
+                    for line in content.split('\n'):
+                        if line.startswith('Youtube video code:'):
+                            youtube_code = line.split(':')[1].strip()
+                            break
+                if query in content.lower():
+                    snippets = []
+                    lines = content.split('\n')
+                    for line in lines:
+                        if query in line.lower():
+                            snippets.append(line.strip())
+                    results.append({
+                        'filename': filename,
+                        'snippets': snippets,
+                        'youtubeCode': youtube_code
+                    })
+    return jsonify(results)
 
 if __name__ == '__main__':
     app.run(port=5328)

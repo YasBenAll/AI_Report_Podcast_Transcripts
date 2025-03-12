@@ -8,9 +8,40 @@ import { Lora } from '@next/font/google';
 
 const lora = Lora({ subsets: ['latin-ext'] })
 
+const formatTimestamp = (time) => {
+  const minutes = Math.floor(time / 60);
+  const seconds = Math.floor(time % 60);
+  return `${minutes}m${seconds}s`;
+};
+
+const createTimestampLink = (start, code) => {
+  return (
+    <button 
+      onClick={() => {
+        const iframe = document.querySelector(`iframe[src*='${code}']`);
+        if (iframe && iframe.contentWindow) {
+          iframe.contentWindow.postMessage(
+            JSON.stringify({
+              event: 'command',
+              func: 'seekTo',
+              args: [parseFloat(start), true]
+            }),
+            '*'
+          );
+        }
+      }}
+      className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800 mr-2 hover:bg-blue-200 transition-colors duration-200"
+    >
+      {formatTimestamp(start)}
+    </button>
+  );
+};
+
 export default function Home() {
   const [data, setMessage] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState([]);
 
   useEffect(() => {
     // Adjust the domain/port to match your Flask server configuration
@@ -23,6 +54,7 @@ export default function Home() {
         return res.json();
       })
       .then((data) => {
+        console.log('Fetched data:', data); // Debugging log
         setMessage(data);
         setLoading(false);
       })
@@ -31,6 +63,26 @@ export default function Home() {
         setLoading(false);
       });
   }, []);
+
+  const handleSearch = () => {
+    if (!searchQuery) return;
+    console.log('Search query:', searchQuery); // Debugging log
+    const webdomain = "http://localhost:5328";
+    fetch(`${webdomain}/api/search?query=${encodeURIComponent(searchQuery)}`)
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return res.json();
+      })
+      .then((data) => {
+        console.log('Search results:', data); // Log the search results
+        setSearchResults(data);
+      })
+      .catch((error) => {
+        console.error('Error fetching search results:', error);
+      });
+  };
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -51,8 +103,61 @@ export default function Home() {
           <div style={lora.style} className='text-center'>
             Lorum ipsum dolor sit amet, consectetur adipiscing elit
           </div>
-          <SearchBar />
-          <div style={lora.style} className="text-3xl">Episodes:</div>
+          <div className="flex justify-center my-4">
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder="Search transcripts..."
+              className="border rounded-md px-4 py-2 w-full max-w-md"
+            />
+            <button
+              onClick={handleSearch}
+              className="ml-2 px-4 py-2 bg-blue-500 text-white rounded-md"
+            >
+              Search
+            </button>
+          </div>
+          {searchResults.length > 0 && (
+            <div className="mt-6">
+              <h2 className="text-2xl mb-4">Search Results:</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {searchResults.map((result, index) => (
+                  <div key={index} className="border p-4 rounded-md shadow-md">
+                    {console.log('YouTube Code:', result.youtubeCode)} {/* Debugging log */}
+                    <iframe
+                      src={`https://www.youtube.com/embed/${result.youtubeCode ? result.youtubeCode.trim() : ''}?enablejsapi=1`}
+                      title={result.name}
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                      className="w-full h-48 mb-4"
+                    ></iframe>
+                    <h3 className="text-xl font-bold mb-2">{result.name}</h3>
+                    <div className="text-sm text-gray-600">
+                      {result.snippets.map((snippet, i) => {
+                        const timestampMatch = snippet.match(/\[(\d+\.\d+)\s*-->/);
+                        const timestamp = timestampMatch ? timestampMatch[1] : null;
+                        const content = snippet.replace(/\[\d+\.\d+\s*-->\s*\d+\.\d+\]/, '').trim();
+                        return (
+                          <div key={i} className="mb-4">
+                            {timestamp && createTimestampLink(timestamp, result.youtubeCode)}
+                            {content.split(new RegExp(`(${searchQuery})`, 'gi')).map((part, index) =>
+                              part.toLowerCase() === searchQuery.toLowerCase() ? (
+                                <span key={index} className="bg-yellow-200">{part}</span>
+                              ) : (
+                                <span key={index}>{part}</span>
+                              )
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          <div style={lora.style} className="text-3xl mt-8">Episodes:</div>
           {!loading ? (
             <ul className="list-inside mt-4">
               {data.map((item, i) => (
