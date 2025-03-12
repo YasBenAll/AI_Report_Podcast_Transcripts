@@ -45,7 +45,7 @@ export default function Home() {
 
   useEffect(() => {
     // Adjust the domain/port to match your Flask server configuration
-    const webdomain = "http://localhost:5328";
+    const webdomain = "https://ai-report-podcast-transcripts.vercel.app:5328";
     fetch(`${webdomain}/api/transcript/episode_name`)
       .then((res) => {
         if (!res.ok) {
@@ -67,7 +67,7 @@ export default function Home() {
   const handleSearch = () => {
     if (!searchQuery) return;
     console.log('Search query:', searchQuery); // Debugging log
-    const webdomain = "http://localhost:5328";
+    const webdomain = "https://ai-report-podcast-transcripts.vercel.app:5328";
     fetch(`${webdomain}/api/search?query=${encodeURIComponent(searchQuery)}`)
       .then((res) => {
         if (!res.ok) {
