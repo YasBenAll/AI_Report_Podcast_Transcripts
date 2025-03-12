@@ -165,7 +165,7 @@ export default function Home() {
                   {/* Use encodeURIComponent to safely embed the filename in the URL */}
                   <Link href={`/episode/${encodeURIComponent(item.filename.replace(/\.[^/.]+$/, ''))}`}>
                     <div className="transition-transform duration-200 flex items-center">
-                      <div className="text-blue-200 hover:underline">{item.name}</div>
+                      <div className="hover:underline">{item.name}</div>
                     </div>
                   </Link>
                 </li>
