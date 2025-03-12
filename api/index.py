@@ -4,8 +4,6 @@ from urllib.parse import unquote
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)  # Allow cross-origin requests, adjust configuration as needed
-
 # Define the directory that holds the transcripts
 TRANSCRIPTS_DIR = os.path.join(os.path.dirname(__file__), 'transcripts')
 
@@ -80,6 +78,3 @@ def search_transcripts():
                         'youtubeCode': youtube_code
                     })
     return jsonify(results)
-
-if __name__ == '__main__':
-    app.run(port=5328)
