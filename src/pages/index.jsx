@@ -93,29 +93,30 @@ export default function Home() {
       <div className="flex justify-center">
         <div className="bg-opacity-10 p-30 px-6 py-6 rounded-md mx-auto max-w-3/4 w-2/3 mt-8">
           <div className="flex justify-center">
-            <Image src="/images/AI_report.png" alt="AI report" width={591} height={241} />
+            <Image src="/images/ai_report.jpeg" alt="AI report" width={200} height={241} />
+            <Image src="/images/poki.jpeg" alt="POKI" width={200} height={241} />
           </div>
           <div className="text-center text-5xl flex flex-col items-center py-6">
             <div style={lora.style}>
-              AI Report Transcripts
+              AI Report (POKI) Transcripts
             </div>
           </div>
           <div style={lora.style} className='text-center'>
-            Lorum ipsum dolor sit amet, consectetur adipiscing elit
+            Deze pagina maakt het mogelijk om de transcripts van de podcast AI Report (POKI) met Alexander Klöpping en Wietse Hage te doorzoeken en te bekijken.
           </div>
           <div className="flex justify-center my-4">
             <input
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search transcripts..."
+              placeholder="Voer zoekterm in..."
               className="border rounded-md px-4 py-2 w-full max-w-md"
             />
             <button
               onClick={handleSearch}
               className="ml-2 px-4 py-2 bg-blue-500 text-white rounded-md"
             >
-              Search
+              Zoek
             </button>
           </div>
           {searchResults.length > 0 && (

@@ -117,7 +117,7 @@ export default function Episode() {
             <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
             </svg>
-            Back to Home
+            Terug
           </button>
         </div>
         {loading ? (
@@ -142,7 +142,7 @@ export default function Episode() {
                     ></iframe>
                   </div>
                 )}
-                {youtubeCode && (
+                {/* {youtubeCode && (
                   <a 
                     href={`https://www.youtube.com/watch?v=${youtubeCode}`}
                     target="_blank"
@@ -151,7 +151,7 @@ export default function Episode() {
                   >
                     Watch on YouTube
                   </a>
-                )}
+                )} */}
               </div>
             </div>
             <div className="bg-gray-50 p-6 rounded-lg shadow-sm border border-gray-200">
