@@ -2,6 +2,7 @@ from flask import Flask, jsonify, abort, request
 import os
 from urllib.parse import unquote
 from flask_cors import CORS
+import re
 
 app = Flask(__name__)
 # Define the directory that holds the transcripts
@@ -26,6 +27,8 @@ def list_episodes():
         if filename.endswith('.txt'):
             # For display, you might strip the extension
             display_name = filename.rsplit('.', 1)[0]
+            # Remove brackets and their contents, and the .wav extension
+            display_name = re.sub(r'\[.*?\]', '', display_name).replace('.wav', '').strip()
             episodes.append({'filename': filename, 'name': display_name})
     return jsonify(episodes)
 
