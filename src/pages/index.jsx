@@ -42,7 +42,8 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
-  const webdomain = "https://ai-report-podcast-transcripts.vercel.app";
+  // const webdomain = "https://ai-report-podcast-transcripts.vercel.app";
+  const webdomain = process.env.NEXT_PUBLIC_WEBDOMAIN;
   useEffect(() => {
     // Adjust the domain/port to match your Flask server configuration
 

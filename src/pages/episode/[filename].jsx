@@ -12,7 +12,7 @@ export default function Episode() {
   const [youtubeCode, setYoutubeCode] = useState('');
   const [parsedContent, setParsedContent] = useState([]);
   const playerRef = useRef(null);
-  const webdomain = "https://ai-report-podcast-transcripts.vercel.app";
+  const webdomain = process.env.NEXT_PUBLIC_WEBDOMAIN;
   const formatTimestamp = (time) => {
     const minutes = Math.floor(time / 60);
     const seconds = Math.floor(time % 60);
@@ -83,7 +83,6 @@ export default function Episode() {
 
   useEffect(() => {
     if (!filename) return;
-    // Append .txt extension when making the API call
     fetch(`${webdomain}/api/transcripts/${filename}.txt`)
       .then((res) => {
         if (!res.ok) {
@@ -100,7 +99,7 @@ export default function Episode() {
         console.error('Error fetching transcript:', error);
         setLoading(false);
       });
-  }, [filename, youtubeCode]); // Add youtubeCode as a dependency
+  }, [filename, youtubeCode]);
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
