@@ -1,0 +1,1539 @@
+Video title: 90% korting op DeepResearch + de vloekende AI van Musk + ons favoriete taalmodel is geüpgraded ｜ ...
+Youtube video code: 6gx8UhWvyq0
+Last modified time: 2025-02-27 19:19:28
+
+------------------ 
+
+[0.00 --> 1.98]  Bietse, over twee weken, wat is er dan?
+[2.60 --> 5.76]  Een webinar en dan kan je vragen aan ons stellen.
+[5.86 --> 7.46]  Dan doe je dat goed, zo geïmproviseerd.
+[7.58 --> 8.24]  Dat is inderdaad.
+[8.60 --> 9.14]  Spontaan hè?
+[9.16 --> 10.46]  Heel spontaan, een webinar.
+[10.74 --> 13.26]  13 maart zet het in je agenda, over twee weken dus.
+[13.40 --> 16.34]  Ons eerste webinar tijdens de lunch van 12 tot 1.
+[16.80 --> 18.98]  Lekker met je boterham of je salade of wat zo'n deks.
+[18.98 --> 20.76]  Die moet je zelf meenemen voor de duidelijke.
+[20.78 --> 21.98]  Ja, die moet je zelf meenemen.
+[22.16 --> 24.48]  Achter je laptop kun je naar ons luisteren.
+[24.76 --> 27.14]  En wat nog meer, je kan met ons praten.
+[27.22 --> 28.62]  Want dat is de echte toegevoegde waarde.
+[28.62 --> 33.54]  Alle vragen die je voor ons hebt, beantwoorden wij tijdens dat uur.
+[34.02 --> 35.08]  Wat moet je doen om erbij te zijn?
+[35.18 --> 37.14]  Heel simpel, op het moment nemen op AI Report.
+[37.30 --> 42.58]  Dan krijg je naast het webinar ook nog twee keer per week de beste tips om AI in te zetten in je werk.
+[43.42 --> 45.00]  Meer dan duizend mensen gingen je voor.
+[45.00 --> 49.56]  En als je nou bij dat webinar wil zijn, dan ga je naar AIReport.email.webinar.
+[49.78 --> 52.04]  Of klik je op de link in de show notes.
+[52.84 --> 57.00]  Welkom bij AI Report, de Nederlandse podcast over kunstmatige intelligentie.
+[57.00 --> 61.46]  Waar we uitzoeken welke invloed AI heeft op ons werk, ons leven en de samenleving.
+[62.08 --> 64.52]  Met deze week, eindelijk is die daar.
+[64.68 --> 68.38]  Chat GPT's Deep Research is sinds deze week beschikbaar voor Chat GPT.
+[68.52 --> 70.12]  Plus abonnees van 20 euro per maand.
+[70.22 --> 74.02]  En dus niet alleen maar meer voor die mensen die 200 euro per maand betalen voor Chat GPT.
+[74.72 --> 75.48]  Het is waanzinnig.
+[75.48 --> 78.04]  Wij geven tips voor de eerste prompts die je kunt proberen.
+[78.44 --> 85.02]  En de nieuwste versie van onze lievelings AI, Claude, is uitgekomen met de wonderlijke naam 3.7 Sonnet.
+[85.54 --> 87.10]  We staan uitgebreid stil wat je ermee kan.
+[87.94 --> 90.86]  En terwijl het Nederlandse onderwijs worstelt met basis AI-kennis,
+[90.94 --> 95.66]  rolt Esland een volledig onderwijsprogramma uit met behulp van diezelfde grote AI-bedrijven.
+[95.66 --> 102.50]  Ze bereiden 20.000 tieners voor op een toekomst waarin AI-geletterdheid net zo belangrijk wordt als het kunnen lezen en schrijven.
+[102.62 --> 108.58]  En we staan stil bij de scheldende chatbot van Elon Musk en de beloftes van Amazons Alexa Plus.
+[108.80 --> 111.30]  Oftewel, jeetje mina, een bomvolle aflevering.
+[111.72 --> 113.36]  Welkom bij AI Report.
+[113.36 --> 131.72]  Ik zat te spelen met Grock met een Q, omdat die inmiddels ook een DeepSeek R1 distil hebben.
+[132.06 --> 136.40]  Dus je moet je voorstellen, die gasten van Grock draaien die modellen megasnel.
+[136.54 --> 138.30]  Echt 1600 tokens per seconde.
+[138.40 --> 139.96]  Ja, dat is het grote voordeel van Grock.
+[140.06 --> 143.04]  Ja, die klappen er echt A4'tjes uit per seconde.
+[143.04 --> 144.72]  Dat is gewoon een beetje indrukwekkend.
+[145.22 --> 148.28]  En ik dacht, vet, wanneer hebben ze dan eigenlijk zo'n reasoning model?
+[148.42 --> 155.90]  Want nu, als je met O1 of O3 of R1 praat en nu met Cloud 3.7 thinking mode, dan moet je wel even geduld hebben.
+[156.22 --> 160.50]  Ja, de moderne ervaring van chatbots gebruiken is dat je de hele tijd aan het wachten bent.
+[160.64 --> 164.68]  En hoe beter de chatbot is, hoe langer je in de praktijk aan het wachten bent.
+[164.76 --> 167.14]  En dat is ook gewoon best wel een irritante ervaring.
+[167.14 --> 170.46]  Ik ben nu al verwend dat ik dus merk van...
+[170.46 --> 172.00]  Want chat GPT was snel vroeger.
+[172.00 --> 175.72]  Toen kregen we denkmodus en dan staat er thought for 28 seconds.
+[175.94 --> 176.34]  Ja, shit.
+[176.50 --> 177.32]  Ik wil gewoon meteen antwoorden.
+[178.14 --> 183.38]  En bij Grock hebben ze die, omdat ze die supersnelle inference processoren hebben.
+[183.94 --> 185.86]  En inmiddels ook een deep-seek model.
+[186.00 --> 187.90]  Dat is een soort op deep-seek getrainde lama.
+[188.10 --> 189.70]  Want het is niet het hele deep-seeking.
+[190.12 --> 191.60]  Maar hij kan wel nadenken.
+[191.60 --> 192.02]  Oké.
+[192.18 --> 196.26]  En dan krijg je dus de ervaring, en daarom wilde ik het er even over hebben, van...
+[196.26 --> 200.74]  Wat gebeurt er als je zo'n thinking model hebt die heel snel kan nadenken?
+[200.84 --> 203.10]  En dan kom je dus een beetje terug op de oude snelheid.
+[203.66 --> 208.44]  Alleen ik merkte bij mezelf, als je daar dus mee speelt, kan iedereen doen.
+[208.78 --> 211.64]  Want er zit een demo ding op hun website.
+[212.04 --> 213.00]  Wat moeten mensen dan doen?
+[213.10 --> 215.02]  Een gok.com met een K, met een Q.
+[215.02 --> 215.58]  Met een Q.
+[215.86 --> 218.72]  En dan staat daar, zeg maar, een paar van die demo vragen.
+[218.80 --> 220.08]  Maar je kan ook gewoon je eigen vraag stellen.
+[220.20 --> 221.84]  Moet je wel even het juiste model selecteren.
+[222.20 --> 223.46]  Er staat ergens deep-seek.
+[224.08 --> 228.54]  En dan klikt hij erop en dan gaat hij dus nadenken met een A4'tje per seconde ongeveer.
+[229.04 --> 230.08]  En dat is dus...
+[230.08 --> 232.76]  Ik voelde me een soort geïntimideerd, merkte ik.
+[232.82 --> 235.22]  En waarom kunnen die andere AI-labs dit niet?
+[235.62 --> 236.44]  Ja, die hebben eigenlijk...
+[236.44 --> 238.76]  Omdat hun hardware gewoon niet zo gespecialiseerd is.
+[239.02 --> 241.54]  En ik denk ook omdat hun traffic gewoon een stuk hoger is.
+[241.82 --> 242.30]  Maar...
+[242.30 --> 244.76]  En die draaien grotere modellen.
+[244.76 --> 246.42]  Want het is eigenlijk een hack voor de luisteraar.
+[246.62 --> 248.14]  Als je snel groeit...
+[248.14 --> 250.16]  Moet je dit proberen bij grok.
+[250.56 --> 250.90]  Nee, serieus.
+[250.90 --> 252.12]  Ik doe dit nooit hoor.
+[252.34 --> 254.68]  Nee, ik deed het omdat ik dus met iets bezig was.
+[254.76 --> 257.44]  Waar ik van merkte, volgens mij hoeft dit helemaal niet zo zwaar te zijn.
+[257.54 --> 258.76]  Hij hoeft alleen maar even na te denken.
+[258.92 --> 261.42]  Maar moet ik dan nu iedere keer 28 seconden gaan wachten?
+[261.44 --> 262.84]  En waar gebruik je nu grok voor dan?
+[263.10 --> 264.76]  Nou, ik heb best wel...
+[264.76 --> 269.44]  Als ik complexe programmeervragen heb, dan zijn die reasoning models vaak even beter.
+[269.44 --> 271.44]  Dus ik ben aan het programmeren.
+[271.52 --> 274.24]  Ik praat gewoon met andere modellen die niet nadenken de hele tijd.
+[274.24 --> 275.70]  Maar gewoon meteen bluffen.
+[276.30 --> 277.12]  En dan loop ik...
+[277.12 --> 278.10]  En dan gaat hij op een gegeven moment vast.
+[278.18 --> 278.90]  Hij lukt hem niet meer.
+[278.96 --> 279.44]  Hij zit vast.
+[279.56 --> 282.26]  En dan switch ik vaak over naar nadenkmodus.
+[282.42 --> 284.80]  Van, oké, ga er dan maar even goed over nadenken.
+[285.22 --> 286.94]  En daar zit dus nu mijn verwenden.
+[287.22 --> 288.22]  Ik ben gefrustreerd dan.
+[288.22 --> 289.48]  Want ik denk dit duurt veel te lang.
+[289.92 --> 290.98]  En nu switch ik dan over.
+[291.12 --> 291.68]  Want ik heb...
+[291.68 --> 294.00]  Ja, in al die apps kan je tegenwoordig wisselen van model.
+[294.20 --> 297.10]  Dus ik heb nu gewoon die grok diepziek als optie erbij.
+[297.66 --> 299.22]  En dan kan ik weer door.
+[299.48 --> 300.96]  Ja, het is totaal een luxe probleem.
+[301.12 --> 301.22]  Maar...
+[301.22 --> 304.36]  We gaan het straks meer hebben over Anthropics nieuwe model.
+[304.50 --> 307.36]  Maar het was voor mij weer een extra reden om Cursor op te starten.
+[307.50 --> 308.90]  De programmeertool.
+[308.90 --> 311.90]  Dus als je naar Cursor.com gaat, kun je die app downloaden.
+[312.58 --> 316.68]  En dan krijg je een vrij intimiderend uitziende app op je scherm.
+[317.04 --> 318.04]  Met een...
+[318.04 --> 320.90]  Ja, de meeste ruimte wordt ingenomen door...
+[320.90 --> 324.24]  Ja, vage programmeercode, die mijn ik zegt.
+[324.48 --> 327.38]  En een rechterzijbalk die leeg is.
+[327.96 --> 329.72]  En als je eenmaal eroverheen stapt...
+[329.72 --> 331.70]  Dat die interface er intimiderend uitziet.
+[331.80 --> 336.16]  En je neemt gewoon die rechterzijbalk als bijna een soort van leeg Google-venster.
+[336.28 --> 337.66]  Zoals je dat gewend bent van vroeger.
+[337.66 --> 339.70]  En je zegt daarin...
+[339.70 --> 341.52]  Dit was mijn use case.
+[342.36 --> 343.98]  We gaan een app maken samen.
+[344.54 --> 345.98]  Of een tooltje noemde ik het volgens mij.
+[346.06 --> 346.66]  Of een website.
+[347.22 --> 348.76]  Waarmee ik mijn dochter ga leren.
+[348.90 --> 349.80]  Mijn dochter is zeven.
+[349.90 --> 354.30]  Ik ga haar leren hoe ze een aantal sommen die zij niet maar kan onthouden.
+[354.48 --> 354.82]  Een soort van...
+[354.82 --> 356.66]  Je moet dan die rekensommen automatiseren.
+[357.52 --> 358.96]  Dus moet je keersommen uit je hoofd kennen.
+[359.94 --> 361.88]  We gaan een spelletje maken in stijl van de Romeinen.
+[361.92 --> 362.64]  Want dat vindt ze leuk.
+[363.18 --> 364.38]  En je doet de geluidseffecten bij.
+[364.38 --> 368.72]  En je zet een maximum erop van 15 seconden per vraag.
+[368.98 --> 370.26]  Deze sommen vinden ze moeilijk.
+[370.46 --> 372.14]  Nou, optel een sommetje van die sommen.
+[373.36 --> 376.92]  En je geeft een geluidje als het gelukt is.
+[377.02 --> 378.68]  En doe ook iets met levensstralen als het gelukt is.
+[378.72 --> 379.20]  Dat vind ik leuk.
+[379.74 --> 380.42]  En je maakt een highscore.
+[380.42 --> 382.62]  Highscores hou je bij over meerdere dagen.
+[382.70 --> 385.24]  Dus je moet wel onthouden allemaal wat de scores zijn geweest.
+[385.36 --> 387.02]  Wat de highscores en wanneer ze die gehad hadden.
+[387.64 --> 391.08]  En je moet het spelelement erin doen waardoor ze het leuk vindt om zichzelf te verslaan.
+[391.50 --> 391.80]  Go!
+[392.66 --> 394.40]  En ik zweer het je wietse.
+[394.60 --> 397.18]  Gewoon one shot, zoals dat tegenwoordig heet.
+[397.26 --> 397.48]  Zeker.
+[397.48 --> 400.64]  In één keer, zonder dat je nog een keer in discussie hoeft te gaan wat iets niet werkt of zo.
+[401.08 --> 403.46]  Kwam daar een Romeinen spel uit.
+[403.56 --> 405.38]  Ik vond dat die iets te ver ging met de Romeinse taal.
+[405.48 --> 409.86]  Het werd wel heel een soort van cliché matig Romeinse kreet overnemen.
+[409.96 --> 411.32]  Maar dat buiten beschouwing gelaten.
+[411.40 --> 413.64]  Want dat was simpel te fixen met gewoon praat Nederlands.
+[414.20 --> 414.44]  Enter.
+[415.82 --> 417.52]  Is daar een spelletje uitgekomen.
+[417.62 --> 420.08]  Wat zij dus nu de hele tijd wil spelen.
+[420.42 --> 422.18]  Terwijl zij vindt die sommen kut.
+[422.18 --> 426.12]  En is dus die hele tijd nu die sommetjes aan het oefenen voor de lol.
+[426.30 --> 433.16]  Omdat ik in letterlijk 90 seconden een game voor haar heb gemaakt.
+[433.18 --> 436.54]  En ik ben dus heel benieuwd wanneer Apple met die Swift Playgrounds van hun.
+[436.66 --> 440.52]  Waarop je eigenlijk ook als tiener kan programmeren op de iPad zonder AI.
+[440.76 --> 443.48]  Dat zij een update uitbrengen aan Swift Playgrounds.
+[443.52 --> 446.30]  En dat je gewoon kan zeggen zet die app ook op mijn homescreen.
+[446.46 --> 450.20]  Zodat je een hele homescreen vol krijgt met dit soort 90 seconden.
+[450.20 --> 451.58]  Misschien is dit anders wat ik jou vraag.
+[451.58 --> 456.22]  Want er zit een vraag gekoppeld aan dit betoog.
+[456.44 --> 457.58]  Of betoog aan deze constatering.
+[458.46 --> 460.34]  Dat het zo makkelijk is om een spelletje te maken.
+[460.46 --> 462.50]  Waarin je een soort van educatief spelletje maakt.
+[464.00 --> 465.58]  Waarom heeft niemand het hier over?
+[465.86 --> 467.90]  Ik snap dat het op Twitter hier over gaat.
+[468.54 --> 470.42]  Ik snap ook dat die interface nog uitdagend is.
+[470.62 --> 473.42]  En ik snap ook dat het fijner is dat je het gelijk op je homescreen kan zetten als app.
+[473.52 --> 475.80]  In plaats van dat het een HTML bestand in je browser is.
+[476.60 --> 477.60]  Maar holy shit.
+[477.60 --> 478.68]  Ik kan, ik.
+[479.60 --> 481.82]  Als ik met jou praat over programmeren met AI.
+[482.46 --> 483.28]  Dan zit jij toch voor.
+[483.36 --> 484.94]  En dat merk ik bij meer programmeurs.
+[485.32 --> 486.24]  Die zitten toch een beetje van.
+[486.32 --> 487.42]  Ja dit werd nog niet goed.
+[487.62 --> 488.44]  En dit werd nog niet goed.
+[488.74 --> 490.52]  En ja ik ben wel productiever geworden.
+[490.52 --> 493.76]  Maar ja als ik echt ingewikkelde dingen wil.
+[493.84 --> 494.60]  Dan kan hij het allemaal niet.
+[494.74 --> 495.00]  Blablabla.
+[495.60 --> 496.00]  Oké.
+[496.64 --> 497.04]  Oké.
+[497.32 --> 499.58]  Zeg maar de superprogrammeurs onder ons.
+[499.70 --> 500.52]  Waaronder jij Witsen.
+[501.20 --> 502.08]  Zijn impressed.
+[502.20 --> 503.68]  Maar denken ook de hele tijd.
+[503.80 --> 504.32]  Ja maar.
+[504.46 --> 504.98]  Ik zei zet.
+[505.88 --> 506.12]  Prima.
+[506.70 --> 508.54]  Dan heb je helemaal aan de andere kant van spectrum.
+[508.96 --> 511.76]  Merk ik dus dat als ik probeer aan gewone mensen.
+[512.16 --> 512.96]  Uit te leggen.
+[513.18 --> 515.08]  Dat ik tegenwoordig dit soort apps kan maken.
+[515.16 --> 516.40]  Dat ze hun schouders ophalen.
+[516.52 --> 516.80]  Ook.
+[516.80 --> 519.00]  Allebei de kanten halen hun schouders op.
+[519.12 --> 521.76]  Zowel de programmeurs als de nitwits.
+[521.88 --> 522.34]  Zullen we maar zeggen.
+[523.46 --> 524.30]  Omdat zij denken.
+[524.42 --> 526.10]  Ja zo werkt programmeren toch.
+[526.18 --> 527.78]  Dat je tegen een computer zegt wat die moet doen.
+[528.30 --> 530.56]  Die zijn niet onder de indruk.
+[530.80 --> 532.46]  Jullie zijn allebei niet onder de indruk.
+[533.98 --> 536.90]  Vanuit hele verschillende uitgangspunten.
+[537.96 --> 538.36]  Terwijl.
+[538.84 --> 541.08]  Ik heb een app gemaakt voor mijn dochter.
+[541.20 --> 542.36]  Waarmee ze leert rekenen.
+[542.60 --> 543.66]  En realiseer mij.
+[543.86 --> 545.62]  Dit kan iedere docent van Nederland.
+[545.62 --> 546.94]  En.
+[548.30 --> 550.02]  Ik snap niet waarom het hier niet.
+[550.18 --> 551.86]  Dit is zo makkelijk.
+[552.46 --> 554.48]  Hoezo gaat het hier niet over.
+[554.88 --> 555.54]  Ja ik zit te denken.
+[555.74 --> 557.28]  Er zullen meerdere redenen ervoor zijn.
+[557.30 --> 557.56]  Waarom onderschat je.
+[557.64 --> 559.04]  Of waarom underplay jij.
+[559.28 --> 562.20]  Of waarom onderschatten ze aan de andere kant van de dingen.
+[562.72 --> 564.48]  Als je dit vertelt.
+[564.82 --> 566.60]  Ben ik wel onder de indruk.
+[566.70 --> 568.08]  Maar ik ben dan ook een soort snop blijkbaar.
+[568.20 --> 568.88]  Die zoiets heeft van.
+[569.40 --> 569.64]  Ja.
+[570.80 --> 571.20]  Tof.
+[571.20 --> 574.48]  Vanuit een soort democratisering van software maken.
+[574.56 --> 575.32]  Is het natuurlijk super vet.
+[575.44 --> 575.62]  Want.
+[576.06 --> 577.34]  Ik denk dat jij iemand bent.
+[577.52 --> 580.04]  Die eigenlijk donders goed door heeft wat hij wil.
+[580.66 --> 581.86]  Jij ziet het gewoon helemaal voor je.
+[582.26 --> 584.70]  Maar je had tot nu toe niet de tools en de kennis.
+[585.02 --> 586.78]  Om het tot realiteit te kunnen brengen.
+[586.88 --> 587.06]  Klopt.
+[587.06 --> 588.96]  Nu begin jij gewoon in het Nederlands.
+[589.10 --> 589.78]  Met een paar zinnen.
+[589.90 --> 590.48]  Single shot.
+[590.58 --> 591.12]  En dat ding klapt.
+[591.22 --> 591.98]  En jij denkt gewoon.
+[592.38 --> 592.70]  Yes.
+[593.30 --> 594.06]  Eindelijk kan ik dit.
+[594.06 --> 594.68]  Super excited.
+[594.68 --> 594.82]  Ja.
+[595.14 --> 597.82]  En no way dat jij de enige bent die deze wens heeft.
+[597.94 --> 598.02]  Nee.
+[598.16 --> 599.78]  Dus ik ben met je eens.
+[600.24 --> 601.68]  Hier zou het meer over moeten gaan.
+[601.84 --> 602.00]  Want.
+[602.50 --> 603.94]  In essentie betekent dit.
+[604.80 --> 605.20]  Ja.
+[605.60 --> 606.08]  Je hebt.
+[608.28 --> 609.64]  Je hebt wel meer van dit soort.
+[609.72 --> 612.06]  Toen ik ooit begon met dingen maken.
+[612.24 --> 613.68]  Dan deed ik dat in Dreamweaver.
+[614.48 --> 615.34]  En Frontpage Express.
+[615.34 --> 616.78]  What you see is what you get.
+[616.88 --> 619.14]  Ik snapte niks van wat er op de achtergrond gebeurde.
+[619.28 --> 620.40]  Ik sleepte daar alles in.
+[620.68 --> 621.28]  En ik begon met.
+[621.28 --> 623.14]  Een website maken zoals je een Word document schrijft.
+[623.26 --> 623.40]  Ja.
+[623.40 --> 623.96]  Let er ze in.
+[624.02 --> 624.52]  Maakt ze groter.
+[624.54 --> 625.36]  Heel toegankelijk.
+[625.54 --> 626.22]  Heel toegankelijk.
+[626.36 --> 626.66]  In ieder geval.
+[626.94 --> 628.12]  Dat vond ik toen toegankelijk.
+[628.68 --> 630.50]  En later ga je pas dieper erin duiken.
+[630.58 --> 631.66]  Maar er is wel een soort bevrijding.
+[631.78 --> 634.08]  Ik weet nog dat ik mijn eerste website online zette.
+[634.20 --> 634.64]  En echt dacht.
+[635.22 --> 635.98]  The world is mine.
+[636.38 --> 637.88]  Nu kan ik echt alles.
+[638.22 --> 638.52]  Als je deze.
+[639.02 --> 639.92]  Ik heb heel vaak.
+[640.28 --> 641.16]  Even voor jouw beeld.
+[642.10 --> 644.76]  Ik heb veel lessen gegeven over websites bouwen.
+[644.76 --> 646.00]  Aan eerstejaars studenten.
+[646.14 --> 646.64]  NBO, HBO.
+[647.44 --> 648.02]  En dan zei ik.
+[648.08 --> 648.98]  Nou bouw maar een website.
+[649.14 --> 650.42]  Mocht tool naar keuze zeg maar.
+[650.54 --> 651.14]  Makkelijk of moeilijk.
+[651.22 --> 651.96]  Maakt me niet zoveel uit.
+[652.40 --> 654.00]  En dan wil ik uiteindelijk die link van jou.
+[654.70 --> 655.96]  En dan wil ik ook dat je thuis.
+[656.08 --> 657.62]  Op jouw wifi.
+[658.12 --> 659.52]  Gaat kijken of die link nog werkt.
+[660.24 --> 661.62]  Nou dan had ik dus allemaal.
+[662.46 --> 664.36]  Gezichten van studenten die mij echt aankijken.
+[664.48 --> 665.86]  Keek of ze water zagen branden.
+[665.96 --> 666.10]  Van.
+[667.18 --> 668.76]  Tuurlijk werkt die link thuis ook.
+[669.34 --> 669.60]  Ik zei.
+[670.20 --> 672.28]  Hoezo tuurlijk werkt die link thuis ook.
+[672.36 --> 672.76]  Weet je wat.
+[672.76 --> 674.10]  En dan stond ik daar helemaal.
+[674.78 --> 675.26]  Gefrustreerd van.
+[675.36 --> 676.96]  Weet je wat ervoor nodig is aan info.
+[677.16 --> 678.70]  Weet je hoe bizar het is.
+[678.80 --> 680.18]  Dat die link thuis ook werkt.
+[680.26 --> 680.84]  Nou ja dat soort dingen.
+[681.18 --> 683.04]  Dus ik wil even empathie.
+[683.40 --> 684.50]  Voor jouw frustratie.
+[684.60 --> 686.16]  Dat hier iets heel groots gebeurt.
+[686.40 --> 688.00]  Wat gewoon helaas door.
+[688.10 --> 690.00]  Aan de ene kant van de mensen niet serieus genomen wordt.
+[690.06 --> 691.10]  Omdat het hun eigen werk is.
+[691.16 --> 691.50]  En ze zeggen.
+[691.58 --> 693.34]  Joh dit is nog maar 3% van wat er moet gebeuren.
+[693.34 --> 695.88]  En de rest van de samenleving zoiets heeft.
+[695.96 --> 697.24]  Oh was het niet al zo makkelijk dan.
+[697.28 --> 697.50]  Precies.
+[697.64 --> 698.64]  Computers zijn toch magisch.
+[698.68 --> 699.32]  Die kunnen toch alles.
+[699.42 --> 701.14]  Ja je valt een beetje tussenballen.
+[701.22 --> 701.38]  Ja.
+[701.66 --> 703.18]  Met je revolutie.
+[703.24 --> 703.40]  Ja.
+[704.24 --> 704.64]  Maar.
+[704.98 --> 706.78]  We kunnen dan natuurlijk beter de vraag stellen.
+[707.44 --> 711.00]  Wanneer gaat een van deze twee groepen het wel serieuzer nemen.
+[711.62 --> 712.04]  Is denk ik.
+[712.04 --> 713.00]  Als jij komt tot.
+[713.56 --> 714.58]  Voor de nitwits.
+[714.70 --> 715.86]  Om even jouw term te gebruiken.
+[715.98 --> 716.22]  De niet.
+[716.32 --> 717.26]  De niet programmeurs.
+[717.94 --> 718.94]  Tot toepassingen.
+[719.00 --> 720.42]  Die zijn meteen als waardevol zien.
+[720.70 --> 721.32]  Misschien is het.
+[721.52 --> 722.22]  Met alle aspecten.
+[722.32 --> 723.82]  Het hele leuke spelletje wat je beschrijft.
+[723.92 --> 725.22]  Dat doet het nog niet zo heel erg voor hun.
+[725.34 --> 725.46]  Nee.
+[725.78 --> 726.36]  Totdat je zegt.
+[726.44 --> 726.54]  Joh.
+[726.68 --> 729.18]  Je hebt een bloedinsuline meter.
+[729.60 --> 730.90]  Ik heb een dashboardje voor je gemaakt.
+[731.00 --> 732.04]  Voor jouw specifieke situatie.
+[732.04 --> 732.86]  Met je suikerziekte.
+[732.94 --> 733.44]  En dat zij zeggen.
+[733.54 --> 734.58]  Waar kan ik dat dashboardje kopen?
+[734.92 --> 735.06]  Of.
+[735.54 --> 736.62]  Dat heb ik zelf gemaakt.
+[736.76 --> 737.34]  Met wat kan ik.
+[737.34 --> 738.10]  En dan heb je.
+[738.26 --> 739.58]  Je moet even iets te pakken krijgen.
+[739.82 --> 741.40]  Wat frictie heeft.
+[741.40 --> 742.34]  In iemand anders leven.
+[742.80 --> 743.80]  En voor die groep snops.
+[744.12 --> 745.32]  Zo noem ik mezelf dan maar even.
+[745.84 --> 745.98]  Ja.
+[745.98 --> 747.26]  Daar zit een stukje coping in.
+[747.44 --> 747.56]  Van.
+[747.80 --> 748.76]  We voelen ons bedreigd.
+[748.80 --> 749.62]  Ik praat even voor mezelf.
+[749.72 --> 750.70]  Ik voel me dan bedreigd.
+[750.80 --> 751.76]  Want dan kom jij met je.
+[751.82 --> 752.60]  Met je one shot.
+[752.76 --> 753.48]  Wat krijgen we nou?
+[753.58 --> 754.20]  Wat kan jij morgen?
+[754.30 --> 755.04]  Wat kan jij over een week?
+[755.88 --> 756.98]  Het is ook een stukje.
+[758.40 --> 758.72]  Ja.
+[758.80 --> 759.12]  Ik denk.
+[759.80 --> 761.18]  Niet meer bewustzijn van.
+[761.54 --> 762.14]  Hoe gaaf het is.
+[762.18 --> 763.10]  Wat je eigenlijk zelf kan.
+[763.30 --> 763.42]  Dat je.
+[763.78 --> 764.54]  Je bent gewend.
+[764.60 --> 765.76]  Dat je kan toveren op die manier.
+[765.88 --> 766.72]  Dat doe je al jaren.
+[767.22 --> 767.52]  En dan zeg jij.
+[767.60 --> 767.76]  Kijk.
+[767.80 --> 769.52]  Ik kan ook een beetje toveren.
+[769.52 --> 771.26]  Ik heb een groot truc gekocht.
+[771.28 --> 771.66]  Ja leuk.
+[771.72 --> 772.58]  Bij de Intertoys.
+[772.68 --> 773.84]  Hartstikke leuk Alexander.
+[774.88 --> 775.84]  You do you.
+[776.52 --> 776.92]  Hippie.
+[777.04 --> 777.28]  Hippie.
+[777.28 --> 777.52]  Hippie.
+[777.52 --> 777.56]  Hippie.
+[777.56 --> 777.76]  Hoi.
+[778.18 --> 778.52]  Terwijl.
+[778.70 --> 779.54]  Dat is eigenlijk nog steeds.
+[779.54 --> 780.28]  Gewoon heel groot.
+[780.38 --> 782.30]  Want er is eigenlijk iets doorbroken daar.
+[782.46 --> 783.66]  Je bent gegaan van.
+[784.10 --> 785.74]  Ik moest anderen mijn ideeën uitleggen.
+[785.88 --> 787.38]  Maar ik moest een jij mijn idee uitleggen.
+[787.46 --> 789.28]  En daarna kon ik het gewoon aan mijn dochter laten zien.
+[789.66 --> 790.88]  En daar zaten jullie helemaal niet meer tussen.
+[791.10 --> 791.24]  Ja.
+[791.90 --> 792.08]  Nou.
+[792.16 --> 794.22]  En ik ben ook weer eerder overtuigd geraakt.
+[794.36 --> 796.38]  Of nog meer overtuigd geraakt.
+[796.52 --> 799.14]  Van toch het nut van goed kunnen prompten.
+[799.14 --> 800.80]  En wrapper apps kunnen maken.
+[801.00 --> 802.04]  Of wrapper apps überhaupt.
+[803.02 --> 803.32]  Kijk.
+[806.96 --> 811.52]  Ik denk dat veel teleurstelling in AI chatbots komt.
+[811.66 --> 813.10]  Omdat mensen slecht prompten.
+[813.64 --> 817.58]  En dat je voor goed prompten toch ook een soort fantasie moet hebben.
+[817.88 --> 818.60]  Creativiteit moet hebben.
+[818.68 --> 819.56]  Het is een bepaald soort.
+[820.18 --> 821.98]  Je moet een soort voorstellingsvermogen hebben.
+[822.06 --> 824.08]  Van wat je wel niet uit die machine kunt trekken.
+[824.28 --> 825.44]  En hoe je hem kan manipuleren.
+[825.52 --> 826.52]  Zodat er meer uitkomt.
+[826.56 --> 827.62]  En dat is niet programmeren.
+[827.62 --> 828.88]  Maar het lijkt er wel een beetje op.
+[828.88 --> 835.44]  Het is op dezelfde manier ook een soort van technisch proberen te denken.
+[835.54 --> 837.02]  Zonder dat je de termpjes hoeft te kennen.
+[837.58 --> 838.54]  Zeg ik maar eventjes.
+[839.38 --> 841.04]  Je hebt een concept uitgewerkt eigenlijk.
+[841.16 --> 841.54]  Eigenlijk wel.
+[841.54 --> 842.48]  De termpte jij net noemde.
+[842.54 --> 843.92]  Als je die dus nu had getranscribeerd.
+[844.02 --> 845.38]  En zelf weer thuis in cursus gooit.
+[845.46 --> 846.40]  Heb je jouw spelletje gewoon.
+[846.56 --> 846.80]  Klopt.
+[848.04 --> 851.36]  Maar je moet dan wel het concept kunnen verzinnen is mijn punt.
+[852.02 --> 854.38]  En dat is denk ik iets waar wel.
+[855.76 --> 857.14]  Daar zit wel heel veel waarde.
+[857.24 --> 858.60]  Op dit moment in de tijd in ieder geval.
+[859.14 --> 860.30]  Is daar wel heel veel waarde.
+[860.30 --> 863.12]  En die.
+[863.68 --> 865.22]  Ik denk dat ik gewoon daar.
+[866.12 --> 869.36]  Nou ik denk dat ik die kunst beter begrijp dan de gemiddelde Nederlander.
+[869.44 --> 876.08]  En dat ik ook eerder dus voorzie wat voor soort appjes ik dan zou kunnen programmeren.
+[876.16 --> 879.56]  Het is alsof ik eerder denk ik dan de gemiddelde mens bedenk.
+[880.12 --> 881.26]  Oh maar als dit kan ik ook dit maken.
+[881.34 --> 881.68]  Kan ik dit maken.
+[881.76 --> 882.28]  Kan ik dit maken.
+[882.28 --> 885.96]  En misschien dat dat gebrek aan fantasie of creativiteit of wat dan ook.
+[886.14 --> 886.74]  Of gewoon ja.
+[886.98 --> 888.38]  Het kan ook gewoon gewenning zijn.
+[889.84 --> 891.80]  Dat dat eraan ontbreekt bij de meeste mensen.
+[891.88 --> 893.80]  En dat je daar maar ook niet het enthousiasme kan opbrengen.
+[894.08 --> 895.86]  Maar ik heb nu de hele dag bij alles wat ik zit te doen.
+[895.98 --> 896.20]  Dat ik denk.
+[896.36 --> 897.06]  Oh mijn god.
+[897.16 --> 898.48]  Ik kan programmeren.
+[898.56 --> 900.38]  Ik kan fucking programmeren opeens.
+[900.48 --> 901.36]  Ja het is het.
+[901.94 --> 903.40]  Engels is het nieuwe programmeren.
+[903.74 --> 905.44]  Het Engelse taal is het nieuwe programmeertaal.
+[905.84 --> 906.50]  Ik denk dat.
+[907.06 --> 912.04]  Jij hebt eerder in een aflevering hebben wij het gehad over programmeren met AI.
+[912.28 --> 914.46]  En toen begon ik uit te leggen wat mijn prompt was.
+[914.58 --> 915.46]  En toen zei jij heel snel.
+[916.00 --> 918.30]  Waarom zit je al die opinionated.
+[918.44 --> 920.26]  Waarom ben je dat ding zo ontzettend aan het sturen.
+[920.38 --> 922.22]  Je zegt precies welke stenen die moet gebruiken.
+[922.32 --> 923.02]  Welk metselwerk.
+[923.12 --> 923.74]  Hoe die moet rijden.
+[923.76 --> 924.88]  Zoals een typische man in een ruzie.
+[925.00 --> 926.34]  Je vertelt de oplossing voor het probleem.
+[926.46 --> 927.64]  In plaats van dat je gewoon aan het luisteren bent.
+[927.72 --> 928.18]  Ja precies.
+[928.26 --> 930.68]  Ik was echt heel erg aan het oplossen al.
+[932.28 --> 933.24]  Met jouw spelletje.
+[933.32 --> 934.28]  Om het even concreet te maken.
+[934.36 --> 935.30]  Zou ik dan nu zeggen van.
+[935.90 --> 937.10]  Ja gebruik maar SQLite.
+[938.72 --> 939.64]  Lokale database.
+[939.80 --> 941.00]  Of local browser storage.
+[941.32 --> 941.46]  Whatever.
+[941.46 --> 942.90]  Ik heb allemaal technische.
+[943.04 --> 944.62]  Je gaat er al allerlei dingen gewoon sturen.
+[944.82 --> 946.04]  Maar het grappige is dat eigenlijk.
+[946.40 --> 947.64]  Doe jij dat nu ook.
+[948.06 --> 949.20]  We kunnen even uitzoomen.
+[949.70 --> 951.36]  Door jou ben ik me bewust geworden.
+[952.64 --> 953.94]  Ik praat dus met dat ding.
+[954.44 --> 956.18]  Met allemaal oplossingen erin al.
+[956.48 --> 956.60]  Ik heb.
+[956.92 --> 957.68]  Er wordt niet meer.
+[957.78 --> 959.22]  Er is geen ruimte voor creativiteit.
+[959.40 --> 959.88]  In mijn prompt.
+[959.88 --> 960.12]  Ja.
+[960.68 --> 962.84]  Ik wil eigenlijk gewoon dat je voor me gaat programmeren nu.
+[962.94 --> 964.60]  En ik heb eigenlijk het hele idee al klaar.
+[964.60 --> 964.80]  Ja.
+[964.80 --> 967.00]  Jij legt het concept van het spel uit.
+[967.12 --> 968.30]  Je geeft een thema eraan.
+[968.38 --> 969.52]  Je geeft een look and feel.
+[969.66 --> 970.42]  Alles zit er al op.
+[970.70 --> 972.12]  Heb je ook al helemaal ingevuld hè.
+[972.48 --> 973.54]  Je had ook kunnen zeggen.
+[975.08 --> 975.80]  Didactisch gezien.
+[975.88 --> 976.08]  Ja.
+[976.34 --> 977.04]  Niet eens dat woord.
+[977.04 --> 977.60]  Nee.
+[977.78 --> 978.16]  Maar daarom.
+[978.24 --> 980.52]  Dus ik dacht ook gelijk.
+[980.70 --> 984.80]  Ik wil dit een basisschool docent leren.
+[984.90 --> 986.26]  Maar jij noemt het al een app en zo.
+[986.50 --> 987.18]  Je had ook kunnen zeggen.
+[987.28 --> 989.18]  Wil je mijn dochter gewoon helpen.
+[989.22 --> 989.46]  Ja.
+[989.70 --> 989.90]  Precies.
+[990.00 --> 990.84]  En dan had het ding kunnen zeggen.
+[990.92 --> 991.06]  Nou.
+[991.16 --> 992.50]  Ik denk dat een app leuk is.
+[992.52 --> 992.72]  Ja.
+[992.82 --> 993.10]  Precies.
+[993.24 --> 994.26]  Maar het zou ook kunnen zijn.
+[994.92 --> 995.12]  Ja.
+[995.22 --> 995.78]  Het kan van alles zijn.
+[995.78 --> 997.68]  We gaan een leuk fictief verhaal voor je maken.
+[997.84 --> 998.58]  Ook gewoon boeken.
+[998.78 --> 999.82]  Maar ik realiseerde me dus ook.
+[999.86 --> 1002.04]  Dat ik dat hele didactische element natuurlijk mist.
+[1002.34 --> 1004.68]  En dat dat eigenlijk de superpower is.
+[1004.86 --> 1005.06]  Hier.
+[1005.06 --> 1007.36]  En dat ik dat zeg maar daar.
+[1008.30 --> 1010.84]  Dan is mijn toegevoegde waarde dat overbrengen.
+[1011.04 --> 1012.98]  Dit enthousiasme aan een docent.
+[1013.04 --> 1014.44]  Ik hoop dat een docent zit te luisteren.
+[1014.50 --> 1016.88]  En dit nu in de klas in praktijk gaat brengen.
+[1016.94 --> 1017.80]  Lekker op die gewoon boekjes.
+[1017.94 --> 1019.82]  Die die html file in die browsers gooit.
+[1020.54 --> 1021.48]  En dat kinderen dit gewoon.
+[1021.76 --> 1022.56]  En gewoon het.
+[1023.20 --> 1025.76]  De basale ervaring van een app die werkt.
+[1025.86 --> 1026.72]  Daartantegen zeggen.
+[1027.60 --> 1031.80]  En nu zorgen dat het in vijf minuten uitspelen is.
+[1031.90 --> 1033.62]  En dat het einde heel verslavend wordt.
+[1033.62 --> 1034.26]  Of weet ik veel.
+[1034.26 --> 1035.48]  Of wat je dan ook mist.
+[1035.58 --> 1036.42]  Wat je mis ziet gaan.
+[1036.48 --> 1038.02]  En wat je dan kan fixen met een gewone zin.
+[1038.98 --> 1039.36]  Ik vind.
+[1039.58 --> 1039.70]  Ja.
+[1040.64 --> 1040.92]  Jezus.
+[1040.98 --> 1042.60]  Je hebt toch een toverstaf gekregen.
+[1042.72 --> 1042.86]  Ja.
+[1043.14 --> 1043.90]  Het is gewoon bizar.
+[1043.92 --> 1044.64]  Maar wil ik even zeggen.
+[1044.74 --> 1046.22]  En ik hoop dat dit enthousiasmerend is voor de mensen.
+[1046.44 --> 1047.54]  Download fucking cursor.
+[1047.70 --> 1048.46]  En ga het proberen.
+[1048.62 --> 1049.46]  Dat is maar wat ik wil zeggen.
+[1049.46 --> 1050.84]  En ik wil nog heel even toevoegen.
+[1050.84 --> 1052.54]  Dat in die discussie die wij nu hebben.
+[1052.74 --> 1053.34]  Jij doet een prompt.
+[1053.46 --> 1054.04]  Ik doe een prompt.
+[1054.12 --> 1055.40]  In mijn prompt zit veel meer techniek.
+[1055.50 --> 1057.12]  In jouw prompt zitten allemaal oplossingen al.
+[1057.18 --> 1058.42]  Je kan nog een niveau uitzoomen.
+[1058.90 --> 1059.72]  En dit zie ik dus nu.
+[1059.80 --> 1061.46]  Dat is echt heel grappig om mee te maken.
+[1061.96 --> 1063.12]  Ik heb in het onderwijs gewerkt.
+[1063.24 --> 1065.64]  En in het onderwijs is alles al weggeabstraheerd.
+[1065.68 --> 1066.58]  Op tien lagen hoog.
+[1066.58 --> 1067.62]  Dus je moet je voorstellen.
+[1068.06 --> 1069.10]  Als jij een les geeft.
+[1070.66 --> 1073.54]  Over een bepaald specifiek onderwerp.
+[1073.62 --> 1074.28]  Je gaat een les.
+[1075.34 --> 1077.66]  Een presentatie maken met Apple Keynote.
+[1078.26 --> 1078.42]  Of zo.
+[1079.18 --> 1081.62]  Maar over welke competentie hebben we het dan eigenlijk.
+[1081.88 --> 1083.36]  Over jezelf presenteren toch.
+[1083.76 --> 1084.98]  En dan gaan we nog verder uitzoomen.
+[1085.26 --> 1086.96]  Is het niet eigenlijk communicatieskills.
+[1087.10 --> 1089.16]  Zie je even hoe je iedere keer kan uitzoomen.
+[1089.42 --> 1090.96]  Van de specifieke tool.
+[1091.10 --> 1091.54]  Keynote.
+[1091.76 --> 1093.34]  En de specifieke deliverable.
+[1093.56 --> 1094.28]  Een presentatie.
+[1094.28 --> 1095.94]  Maar wat je eigenlijk volgens mij.
+[1095.94 --> 1096.90]  Wil weten is.
+[1097.10 --> 1099.06]  Waarom maakt een student eigenlijk een keynote.
+[1099.20 --> 1100.74]  Die wil namelijk iets overbrengen.
+[1101.02 --> 1101.24]  Ah.
+[1101.38 --> 1103.06]  Dus het gaat over communiceren.
+[1103.16 --> 1104.14]  En een verhaal overbrengen.
+[1104.22 --> 1106.64]  En dan ga je dus in je competentie profiel.
+[1106.78 --> 1108.52]  Waarin je een student beschrijft.
+[1108.58 --> 1110.98]  En een student kan meten.
+[1111.04 --> 1111.26]  Zeg maar.
+[1111.32 --> 1111.94]  Of het goed gaat.
+[1112.24 --> 1112.66]  Staat niet.
+[1112.92 --> 1114.82]  Kan met keynote een presentatie maken.
+[1114.92 --> 1115.02]  Nee.
+[1115.08 --> 1115.44]  Daar staat.
+[1115.74 --> 1118.12]  Kan zichzelf of haarzelf presenteren.
+[1118.22 --> 1118.44]  Ja.
+[1118.60 --> 1119.36]  In welke vorm.
+[1119.56 --> 1119.72]  Nou.
+[1120.58 --> 1122.22]  In het prompten merk ik dus nu ook.
+[1122.22 --> 1124.92]  Dat al die documenten die er nu liggen.
+[1124.92 --> 1128.56]  Wat eigenlijk geschreven abstracte specificaties zijn.
+[1128.76 --> 1130.42]  Van wat onderwijs zou moeten zijn.
+[1130.64 --> 1131.82]  Wat software zou moeten doen.
+[1132.26 --> 1133.72]  Die over het algemeen door mij.
+[1133.84 --> 1134.84]  Door iemand in de praktijk.
+[1135.12 --> 1137.22]  Altijd als heel stoffig en abstract en leem.
+[1137.22 --> 1137.42]  Ja.
+[1137.52 --> 1137.62]  Ja.
+[1137.62 --> 1139.04]  Dat zijn opeens uitstekende prompt.
+[1139.36 --> 1139.88]  You got it.
+[1139.98 --> 1140.18]  Ja.
+[1140.18 --> 1142.16]  Dus nu kunnen je ineens die kasten weer open.
+[1142.26 --> 1144.10]  Met die super ver weg geabstraheerden.
+[1144.42 --> 1148.22]  Waar al die onderwijskundige theoretici over zeiden.
+[1148.30 --> 1150.42]  Ja maar onderwijs gaat over veel meer.
+[1150.54 --> 1151.24]  Dus ik had het zo.
+[1151.48 --> 1151.88]  Boeien.
+[1152.20 --> 1152.64]  Neem.
+[1152.76 --> 1153.94]  Laat mij gewoon mijn lesje geven.
+[1153.96 --> 1154.12]  Ja.
+[1154.20 --> 1154.86]  Wat gaan we doen.
+[1155.02 --> 1155.16]  Ja.
+[1155.16 --> 1156.00]  En nu kan ik hun mailen.
+[1156.08 --> 1156.46]  Kom hier.
+[1156.60 --> 1158.74]  Jullie hebben echt awesome prompts geschreven.
+[1158.92 --> 1161.18]  Waar zo min mogelijk kruiden in zit.
+[1161.28 --> 1164.22]  Maar zo veel mogelijk de omschrijving van het effect van het eten.
+[1164.46 --> 1165.46]  En niet wat erin moet.
+[1165.46 --> 1166.72]  Laat die AI maar verzinnen.
+[1166.88 --> 1168.14]  Of het India's wordt.
+[1168.58 --> 1169.48]  Of Mexicaans.
+[1169.60 --> 1169.68]  Ja.
+[1169.68 --> 1170.96]  Interessant.
+[1171.38 --> 1172.84]  Dus ik vind het ook leuk.
+[1172.94 --> 1174.94]  Want ik praat ook veel met software ontwikkelaars.
+[1175.02 --> 1176.90]  Dat ik zeg van we moeten veel meer specs gaan schrijven.
+[1177.02 --> 1177.62]  Dus dat zijn alleen maar.
+[1177.86 --> 1178.70]  Wat kan deze software.
+[1178.70 --> 1179.34]  First principles.
+[1179.60 --> 1179.74]  Ja.
+[1179.90 --> 1180.94]  All the first principles.
+[1181.48 --> 1181.92]  En dan.
+[1182.32 --> 1184.56]  Nou dus ik vind eigenlijk jouw prompt.
+[1185.06 --> 1186.26]  Nog wel iets te veel aangegeven.
+[1186.28 --> 1187.08]  Ja het werk aan de winkel.
+[1187.34 --> 1187.84]  Ik hoor het.
+[1187.94 --> 1188.40]  Ik hoor het.
+[1188.46 --> 1189.46]  Nou dit simuleert mij ook weer.
+[1190.18 --> 1192.68]  Ondertussen kunnen mensen die voor Chattie Petie betalen.
+[1192.68 --> 1195.00]  En dat is dan een 20 euro per maand abonnement.
+[1195.20 --> 1197.70]  In plaats van een 200 euro per maand abonnement.
+[1197.82 --> 1198.78]  Hun hart ophalen.
+[1198.78 --> 1200.70]  Want OpenAI heeft Deep Research.
+[1200.84 --> 1203.86]  De tool waarmee Chattie Petie hele uitgebreide rapporten kan maken.
+[1203.94 --> 1205.10]  Over vrijwel ieder onderwerp.
+[1205.16 --> 1207.52]  Beschikbaar gemaakt voor alle betalende gebruikers.
+[1208.22 --> 1211.18]  Een maand geleden kondigde het bedrijf nog aan dat alleen.
+[1212.22 --> 1214.00]  Of dat het naar plusgebruikers zou komen.
+[1214.16 --> 1215.64]  En die belofte is nu waar gemaakt.
+[1215.94 --> 1218.72]  Voorheen had je dus een pro-abonnement van 200 dollar per maand nodig.
+[1218.72 --> 1219.58]  Om die tool te gebruiken.
+[1219.64 --> 1220.70]  Dat hebben wij gedaan Witsen.
+[1221.20 --> 1221.78]  Omdat wij dan...
+[1221.78 --> 1222.72]  Ik op jou aandringen.
+[1222.80 --> 1225.04]  Ik ben van pauper naar Deep Research gebruiker gegaan.
+[1226.04 --> 1226.82]  Nou ik moet zeggen.
+[1226.88 --> 1227.92]  Ik ben weer gedowngraded.
+[1228.02 --> 1232.10]  Want hij is nu voor 10 Deep Research zoekopdrachten per maand.
+[1232.46 --> 1235.28]  Inbegrepen bij gewone plus abonnementen van 20 euro per maand.
+[1235.94 --> 1238.88]  Dus dat betekent dat als je aan 10 zoekopdrachten genoeg hebt.
+[1238.88 --> 1240.50]  Je gewoon weer 20 euro kan dokken.
+[1240.50 --> 1241.12]  Goddank.
+[1241.42 --> 1243.50]  En mijn oproep is wel echt aan.
+[1244.22 --> 1244.72]  Gebruik dit.
+[1244.84 --> 1246.04]  Als je nu plusgebruik bent.
+[1246.14 --> 1246.68]  Ga ze ermee spelen.
+[1246.70 --> 1246.92]  Precies.
+[1247.02 --> 1249.08]  Want dat is natuurlijk het echte nieuws.
+[1249.30 --> 1251.82]  Er is maar een heel klein deel van de mensen die bereid zijn om 200 euro per maand.
+[1251.94 --> 1253.54]  Voor een fucking chatje betie te betalen.
+[1253.84 --> 1257.74]  Maar opeens is daar het voor het eerst in mensen.
+[1257.96 --> 1259.24]  Dat ze het kunnen gebruiken voor 20 euro.
+[1259.42 --> 1261.02]  En dat is inderdaad een warme oproep.
+[1261.10 --> 1261.94]  Ga dat proberen.
+[1262.48 --> 1264.20]  Wat zou je als eerste mensen aanbevelen?
+[1264.30 --> 1265.38]  In je eigen werkveld.
+[1265.50 --> 1265.86]  Ja ja.
+[1266.06 --> 1269.78]  En want dit is ongeveer hoe de laatste twee weken zijn gegaan in mijn leven.
+[1269.78 --> 1273.26]  Ik spreek dan mensen rondom AI.
+[1273.40 --> 1274.00]  Dat doe ik wel eens.
+[1274.30 --> 1276.14]  En dan is het verschillende levels.
+[1276.28 --> 1277.00]  Ik speel er wel eens mee.
+[1277.18 --> 1277.58]  Ik speel er.
+[1277.70 --> 1278.24]  Ik heb plus.
+[1278.42 --> 1279.14]  Of ik heb cloud.
+[1279.24 --> 1279.68]  Al dat soort dingen.
+[1279.74 --> 1280.68]  Dan kan ik een beetje inschatten.
+[1280.92 --> 1281.86]  Hoe diep zit je erin?
+[1282.50 --> 1285.68]  En heb ik nu ongeveer aan vier mensen de laatste twee weken gezegd.
+[1286.08 --> 1286.48]  Oké.
+[1287.06 --> 1288.24]  Als je de middelen hebt.
+[1288.94 --> 1291.64]  Ga even een maandje voor die deep research.
+[1291.82 --> 1291.94]  Ja.
+[1292.02 --> 1292.58]  200 euro.
+[1292.68 --> 1292.80]  Ja.
+[1292.92 --> 1294.16]  Dat is echt wel geld.
+[1294.42 --> 1294.50]  Ja.
+[1295.56 --> 1297.90]  Maar ik weet dan wat die mensen voor werk doen.
+[1297.90 --> 1300.22]  Dan zeg ik.
+[1300.22 --> 1300.42]  Ik denk dat jij hem zelfs in je werk wel terug kan krijgen.
+[1300.52 --> 1300.74]  Juist.
+[1300.98 --> 1302.86]  Als je hem in een uurtje factuurtje gaat opzetten.
+[1303.26 --> 1306.62]  Dan heb ik ze vaak als een soort salesman voor chat GPT overtuigd.
+[1306.94 --> 1310.10]  En dan krijg ik eigenlijk binnen een paar uur.
+[1310.88 --> 1311.42]  Holy shit.
+[1311.54 --> 1312.02]  Ja ja ja.
+[1312.02 --> 1312.84]  Dat is het enige wat ik krijg.
+[1312.86 --> 1313.02]  Ja ja ja.
+[1313.02 --> 1313.46]  Dat is zo.
+[1313.60 --> 1313.70]  Ja.
+[1313.70 --> 1314.14]  Holy shit.
+[1314.24 --> 1316.02]  Dat is gewoon het gebruik.
+[1316.02 --> 1316.54]  Is kenbaar.
+[1316.84 --> 1318.14]  Ik heb niemand gehad die zei.
+[1318.20 --> 1319.18]  Nou valt toch een beetje tegen.
+[1319.38 --> 1321.80]  En dan zeggen ze van joh super leuk om te zien.
+[1322.20 --> 1323.72]  Ik heb mijn eigen PhD geprobeerd.
+[1323.80 --> 1325.64]  Of ik heb mijn eigen laatste onderzoek geprobeerd.
+[1325.72 --> 1326.72]  Of mijn stage opdracht.
+[1327.38 --> 1328.90]  Ik ben ook trots op mezelf.
+[1329.02 --> 1330.40]  Want er zitten een paar dingen niet in.
+[1330.96 --> 1332.64]  Maar ik zie ook wel in.
+[1332.84 --> 1334.14]  En anders zei ik het tegen ze.
+[1334.84 --> 1335.44]  Besef je even.
+[1335.50 --> 1338.20]  Dit is allemaal publiek beschikbare data op internet.
+[1338.72 --> 1340.74]  Zeker als jij wetenschappelijk bezig bent.
+[1340.74 --> 1342.14]  En besef je even wat er zou gebeuren.
+[1342.22 --> 1344.12]  Als dit ding toegang heeft tot research papers.
+[1344.22 --> 1346.64]  Want die heeft nu alleen maar toegang tot publieke research papers.
+[1347.10 --> 1349.06]  Dus het is grotere toneel nog een data probleem.
+[1349.44 --> 1351.62]  Maar het kwartje landt eigenlijk bij iedereen.
+[1352.52 --> 1352.92]  Zo.
+[1353.22 --> 1354.76]  Dit is wel even weer wat anders man.
+[1355.90 --> 1356.94]  Nou om het te gebruiken.
+[1357.10 --> 1359.10]  Dit is dus voor de meeste luisteraars.
+[1359.10 --> 1360.30]  Die betalen voor ChattiePT.
+[1360.42 --> 1361.12]  De goedkope versie.
+[1361.22 --> 1361.88]  Is dit dus relevant.
+[1362.58 --> 1364.26]  Schrijf een prompt zoals normaal.
+[1364.50 --> 1366.54]  Maar tik het deep research icoon aan.
+[1366.70 --> 1368.06]  Voordat je het naar OpenAI stuurt.
+[1368.26 --> 1369.98]  Dat is dus niet met dat dingetje bovenin.
+[1369.98 --> 1371.18]  Waar je je model kiest.
+[1371.30 --> 1372.76]  Maar het is allemaal een beetje ingewikkeld.
+[1372.88 --> 1374.56]  Er zit een knopje met een verrekijker.
+[1374.68 --> 1375.38]  Daar moet je op klikken.
+[1376.08 --> 1377.78]  En dan duurt het tussen de 35 minuten.
+[1377.92 --> 1379.02]  Om een antwoord samen te stellen.
+[1379.14 --> 1381.26]  Afhankelijk van de complexiteit van je vraag.
+[1381.36 --> 1382.26]  En een tip van mij.
+[1382.34 --> 1383.82]  Ze hebben zo geprompt.
+[1383.86 --> 1385.66]  Dat hij altijd eerst een wedervraag stelt.
+[1385.78 --> 1387.02]  Wij meteen research doen.
+[1387.18 --> 1388.24]  Maar als jij gewoon zegt.
+[1388.62 --> 1388.98]  Alles.
+[1389.40 --> 1389.74]  Enter.
+[1389.96 --> 1390.60]  Gaat hij het gewoon doen.
+[1390.78 --> 1392.52]  Ja maar ik vind die vraag altijd wel goed hoor.
+[1392.56 --> 1395.24]  Nee het is eigenlijk gewoon iemand die even een verduidelijkingsvraag stelt.
+[1395.36 --> 1396.06]  En ik ben gewoon lui.
+[1396.18 --> 1396.96]  Maar als je alles zegt.
+[1397.08 --> 1397.52]  Of everything.
+[1397.52 --> 1401.50]  Het helpt ook echt wel bij erin komen.
+[1401.68 --> 1403.82]  Want jij inmiddels weet je hoe je dat ding moet prompten.
+[1404.02 --> 1404.98]  Maar de meeste mensen die het voor het eerst proberen.
+[1405.00 --> 1407.50]  Ja mijn ingeële single shot prompt is al goed genoeg.
+[1407.58 --> 1407.78]  Ja.
+[1408.02 --> 1408.60]  Vind ik.
+[1408.80 --> 1410.40]  Ja nou gefeliciteerd daarmee.
+[1410.50 --> 1411.94]  De AI zal je bevieren ook.
+[1411.94 --> 1412.82]  Als je goed kan prompten kan je gewoon alles hebben.
+[1413.34 --> 1414.54]  Maar dat kan dus ook.
+[1414.88 --> 1415.72]  Ga het gewoon doen.
+[1416.32 --> 1416.66]  Oké.
+[1416.70 --> 1417.04]  Nou weet je wat.
+[1417.04 --> 1418.52]  Ik doe gewoon weer zo'n jingle ertussen.
+[1418.68 --> 1419.28]  Voor de sfeer.
+[1419.28 --> 1425.58]  Amazon heeft ook niet stil gezeten.
+[1425.74 --> 1427.70]  Zij hadden de Alexa spraakassistent.
+[1427.96 --> 1433.12]  En die was zoals Siri en Google Assistant inmiddels toch wel onwaarschijnlijk dom.
+[1433.12 --> 1439.96]  En het bedrijf heeft al lang aangekondigd dat ze Alexa een upgrade zouden geven met generatieve AI erin.
+[1440.06 --> 1441.30]  Dat is nu eindelijk aan het gebeuren.
+[1441.86 --> 1447.12]  Waardoor slimme speakers van Amazon veel slim worden.
+[1447.12 --> 1453.84]  En daarmee verschijnt een jaar nadat ze het voor het eerst aangekondigd hebben.
+[1454.44 --> 1457.86]  Een systeem van Amazon dat op gelijke hoogte is met Google's Gemini.
+[1458.04 --> 1460.24]  Het gaat 20 euro per maand kosten.
+[1460.36 --> 1461.70]  Maar gratis voor Prime leden.
+[1461.78 --> 1463.66]  En dat is natuurlijk de toegevoegde waarde.
+[1463.80 --> 1466.86]  Want dat is wat de Amerikanen allemaal hebben.
+[1467.22 --> 1467.78]  Amazon Prime.
+[1468.78 --> 1470.30]  En wat de truc is.
+[1470.30 --> 1473.74]  Is naast dat die in natuurlijke taal kan praten.
+[1473.80 --> 1476.66]  Zoals we dat inmiddels langzaam aan het gewend zijn van die advanced voice mode modellen.
+[1477.32 --> 1480.04]  Kan het ook voor jou het internet opgaan.
+[1480.28 --> 1481.78]  Als ik naar die demo zat te kijken wietzen.
+[1481.90 --> 1484.20]  Dan kan dat ding niet alleen beelden analyseren.
+[1484.32 --> 1488.22]  Maar ook bijvoorbeeld proactief jou vertellen over concertkaartjes.
+[1488.90 --> 1490.32]  Er is binnenkort je favoriete band.
+[1490.58 --> 1492.12]  En als je dan zegt oh thanks man.
+[1492.48 --> 1494.36]  Dus ik vond het ook echt weer zo Amerikaans hoe dat ging.
+[1495.00 --> 1497.68]  En dan zegt die wil je dat ik kaartje bestel.
+[1497.68 --> 1500.58]  En dan zegt die persoon terug you got it.
+[1500.78 --> 1502.50]  En dan zo praten ze met elkaar in Amerika.
+[1503.06 --> 1504.46]  En dan worden de kaartjes besteld.
+[1504.56 --> 1505.30]  Dat is dan de belofte.
+[1505.42 --> 1507.08]  Hij kan ook restaurantreserveringen maken.
+[1507.26 --> 1508.46]  Studiegidsen lezen en testen.
+[1508.58 --> 1511.00]  Reizen onderzoeken en routines voor je smartphone creëren.
+[1511.76 --> 1512.58]  Wat geloof jij?
+[1512.64 --> 1515.18]  Want dit is natuurlijk een soort van agentic ding wat ze hiermee claimen.
+[1515.24 --> 1517.28]  Namelijk we gaan restaurantreserveringen maken.
+[1517.40 --> 1518.92]  Wat geloof jij van die claim?
+[1519.08 --> 1521.46]  Gaat dat echt waar gemaakt worden op korte termijn?
+[1521.84 --> 1524.38]  Nou ik heb begrepen dat Entropic erachter zit als backend.
+[1524.76 --> 1529.10]  Dus dat zou in essentie met computer use dit mogelijk moeten kunnen maken.
+[1529.32 --> 1532.96]  Het is wel zo dat in al die operator computer use achtige.
+[1532.96 --> 1535.58]  Ik ga voor jou browsen of ik ga je computer rondklikken.
+[1535.98 --> 1537.28]  Is allemaal alpha, alpha.
+[1537.66 --> 1538.28]  Doe het niet.
+[1538.42 --> 1540.32]  Ik bedoel het zit ook in die Rabbit R1.
+[1540.78 --> 1542.74]  Gingen ze ook allemaal rondklikken in je Spotify en zo.
+[1542.84 --> 1545.92]  Nou dat bleek dan 80% van de gevallen te werken en 20% niet.
+[1546.30 --> 1547.80]  Ja dat lijkt me nog veel 80%.
+[1547.80 --> 1550.92]  Ja en ik kan me niet voorstellen dat zij nu ineens die nood gekraakt hebben.
+[1550.92 --> 1551.02]  Nee.
+[1551.76 --> 1553.32]  Dus ik ben een beetje sceptisch.
+[1553.42 --> 1558.26]  Ik denk dat heel veel gemiddelde consumenten.
+[1558.94 --> 1562.90]  Ik weet dat bijvoorbeeld van vrienden die hebben zo'n iPod speakertje staan van Apple.
+[1563.22 --> 1564.14]  Zo'n klein balletje.
+[1564.38 --> 1564.66]  Heeft dat ding.
+[1564.74 --> 1565.70]  iPod Hi-Fi ofzo.
+[1566.02 --> 1566.70]  iPod Mini.
+[1566.92 --> 1567.30]  Of Air.
+[1567.30 --> 1567.94]  Hi-Fi was eerder.
+[1569.22 --> 1569.98]  HomePod Mini.
+[1570.12 --> 1570.50]  Dankjewel.
+[1570.50 --> 1570.78]  HomePod Mini.
+[1570.78 --> 1571.14]  Dankjewel.
+[1571.28 --> 1572.08]  De HomePod Mini.
+[1572.08 --> 1579.38]  En dan dat ding voelt als je zeg maar eerst even praat met de advanced voice mode van Gemini of JGPT.
+[1579.76 --> 1580.90]  En dan met je HomePod Mini.
+[1581.14 --> 1584.60]  Dan is het echt alsof je een oud fototoestel uit de laad trekt uit jaren 70.
+[1584.62 --> 1586.56]  Ja onze medewerkers zijn nog in gesprek.
+[1586.64 --> 1587.42]  Ja dat gaat niet goed.
+[1588.50 --> 1592.68]  Maar ik denk dat voor de gemiddelde consument waarom dat verschil tussen die twee zo groot is.
+[1592.74 --> 1594.22]  Is gewoon ingewikkeld om te begrijpen.
+[1594.22 --> 1597.56]  Daar moet een heel nieuw datacenter achter gebouwd worden.
+[1597.76 --> 1600.92]  En een heel team opgezet worden om het van het een naar het ander te migreren.
+[1600.92 --> 1603.12]  Dat is nu blijkbaar gebeurd bij Amazon.
+[1603.36 --> 1605.66]  En ik denk dat omdat dat eigenlijk geen nieuws is.
+[1606.80 --> 1611.10]  De smart speaker die je gewend bent is nu even slim als je JGPT appt wat je eigenlijk al dacht.
+[1611.60 --> 1613.44]  Dan moet je er dus iets bij gaan kletsen over.
+[1613.74 --> 1616.12]  Hij kan nu concertkaartjes voor je kopen.
+[1616.68 --> 1620.10]  Ik snap dat het is slim en Google claimt het ook dat ze het gaan doen.
+[1620.18 --> 1625.54]  Ik weet niets van een doorbraak binnen het Amazon AI Research Team.
+[1625.54 --> 1630.44]  Waarom zij wel ineens voor elkaar hebben gekregen dat daar 100% zeker kaartjes gekocht worden.
+[1630.44 --> 1631.00]  We zullen het zien.
+[1632.04 --> 1637.62]  Vorige week hoorde je al even in onze podcast, deze podcast, dat GroK3 uitgekomen was.
+[1637.90 --> 1640.14]  Een ongecensureerd taalmodel.
+[1640.88 --> 1642.24]  Controversieel ook zou je kunnen zeggen.
+[1642.44 --> 1644.68]  Want het is van Groot Movedy Musk.
+[1645.38 --> 1651.18]  En afgelopen zondag hebben ze daar een vokale interactiemodus, mooi vertaald, uitgebracht.
+[1651.18 --> 1652.96]  Voor hun GroK3 model.
+[1653.20 --> 1655.12]  Alleen beschikbaar voor premium abonnees van X.
+[1655.12 --> 1660.40]  En het lijkt een beetje op OpenAI's Advanced Voice Mode voor ChetjeBetie, maar met een cruciaal verschil.
+[1660.64 --> 1665.76]  Namelijk GroK biedt meerdere ongecensureerde persoonlijkheden.
+[1666.50 --> 1668.18]  Je hoort Musk erin door.
+[1668.66 --> 1669.90]  Waaruit gebruikers kunnen kiezen.
+[1670.26 --> 1671.90]  Waaronder een unhinged modus.
+[1671.98 --> 1674.44]  Die vloekt en beledigt zonder dat je daarom hoeft te vragen.
+[1674.68 --> 1676.16]  Jij vertelt het al met zo'n glimlach.
+[1676.40 --> 1676.96]  Dat vindt hoe mooi.
+[1676.96 --> 1683.46]  En een sexy mode, let op, die verbale seksuele scenario's kan rol spelen.
+[1683.98 --> 1687.92]  Het zijn de oude seksbellijnen van vroeger in AI-vorm.
+[1688.12 --> 1688.40]  Precies.
+[1689.20 --> 1692.64]  En XAI, dit is natuurlijk een soort van steen in de vijver.
+[1692.84 --> 1697.96]  Want AI-bedrijven als OpenAI en Enthropic gaan er prat op dat ze veilige modellen willen maken.
+[1698.34 --> 1703.52]  En dat wordt door een ander deel van het politieke spectrum geïnterpreteerd als censuur.
+[1703.52 --> 1710.90]  En discussies over onderwerpen die als niet veilig beschouwd worden, worden door die andere modellen in de kien gesmoord.
+[1711.44 --> 1718.38]  En Elon Musk's visie is dat er ongecensureerde chatbots moeten zijn met zogenaamde beest antwoorden.
+[1718.56 --> 1719.54]  In vergelijking met chat-JPT.
+[1719.86 --> 1720.74]  Heb je het probeerd, Witsen?
+[1721.00 --> 1723.16]  Ik heb filmpjes gekeken.
+[1723.34 --> 1723.88]  Je hebt filmpjes gekeken.
+[1723.90 --> 1725.02]  Wat viel je op in die filmpjes?
+[1725.88 --> 1728.34]  Er was iemand, dat ging over procrastination.
+[1729.12 --> 1729.36]  Oh ja.
+[1729.36 --> 1735.26]  Die wilde eigenlijk even gemotiveerd worden om zijn werk te gaan doen.
+[1735.54 --> 1736.36]  Heb een groot stukje bij.
+[1736.36 --> 1741.56]  Ja, Grok, ik ga te zeggen, ik ga te zeggen, ik ga te zeggen, ik ga te zeggen, ik ga te doen.
+[1741.56 --> 1741.92]  Ik ga te doen.
+[1742.24 --> 1742.86]  Ik ga te doen.
+[1742.86 --> 1743.06]  Ik ga me.
+[1743.36 --> 1745.34]  Laten op, je lazy piece van.
+[1745.70 --> 1752.60]  Je hebt exact 10 minuten te gaan je sorry ass moving voor ik kom over daar en schuven je face into je to-do list.
+[1752.98 --> 1755.12]  Nu stop f***ing around en get to work.
+[1755.26 --> 1757.84]  Of so help me God, ik ga je regrette.
+[1757.98 --> 1759.06]  Maar het is niet dat easy.
+[1759.24 --> 1759.96]  Ik ga te doen.
+[1759.96 --> 1761.42]  Ik ga te doen van severe brain fog.
+[1761.78 --> 1766.06]  Ik heb had like 10 cups of tea today en het nog niet doen voor me.
+[1766.06 --> 1767.18]  Brain fog, huh?
+[1767.68 --> 1768.44]  Well, you know what?
+[1768.58 --> 1770.72]  I don't give a flying f*** about your brain fog.
+[1771.06 --> 1774.30]  You think you're the only one who's ever felt like their head was stuffed with cotton candy?
+[1774.86 --> 1775.84]  Suck it up, buttercup.
+[1776.16 --> 1780.36]  Maybe if you stopped chugging tea like a British grandmother, you'd actually get something done.
+[1780.78 --> 1783.04]  Now quit your whining and start f***ing moving.
+[1783.36 --> 1784.94]  Or I'm gonna lose my goddamn mind.
+[1784.94 --> 1790.86]  Toch wel weer knap van de heer Musch, hoe die zichzelf met PR in de kijker reet spelen in deze strijd.
+[1791.30 --> 1796.54]  Ja, ik ben wel benieuwd, want ik kan me wel voorstellen dat er behoefte is aan dit soort werk.
+[1796.64 --> 1799.40]  Als je gaat hardlopen of zo, dat je even een boost krijgt.
+[1799.72 --> 1800.30]  Dat kun je ook doen.
+[1800.36 --> 1801.40]  Je kan motivation doen.
+[1801.62 --> 1802.38]  Je kan sexy doen.
+[1802.94 --> 1803.22]  Argumentative.
+[1803.60 --> 1804.32]  Het is een beetje een...
+[1804.32 --> 1805.56]  Unlicensed therapist.
+[1805.78 --> 1806.90]  Dat is een wonderlijk iets.
+[1807.46 --> 1807.82]  Unlicensed.
+[1807.96 --> 1808.90]  Oh, dat woord staat er ook bij.
+[1808.98 --> 1809.70]  Ja, staat erbij.
+[1810.16 --> 1810.52]  Conspiracy.
+[1810.84 --> 1811.20]  Meditation.
+[1811.20 --> 1813.84]  Dus het is een beetje een allegaartje van verschillende dingen.
+[1814.00 --> 1815.68]  Ik moest wel het meest lachen om Unhinged.
+[1816.38 --> 1823.24]  What do you think of Wietsehagen when he talks, you know, when he talks a little bit philosophical about AI?
+[1823.42 --> 1824.60]  Do you think that's very useful?
+[1826.04 --> 1830.82]  Alexander, that Ichiraha dude sounds like a pretentious f***, doesn't he?
+[1831.30 --> 1835.94]  Always jerking off to his own deep thoughts like he's the next goddamn Socrates.
+[1836.66 --> 1838.34]  I bet he's insufferable at parties.
+[1838.34 --> 1844.20]  Just standing there, sipping shitty wine, asking people what life means instead of pounding beers and living it?
+[1844.62 --> 1846.22]  Does he ever lighten the f*** up?
+[1846.32 --> 1849.12]  Or is he always stuck in that existential circle jerk?
+[1850.46 --> 1850.82]  Damn.
+[1851.88 --> 1853.16]  Ik lig hier op de grond.
+[1855.34 --> 1856.18]  En Alex...
+[1856.18 --> 1857.40]  Oh, hello.
+[1858.56 --> 1859.62]  What were you just saying?
+[1859.66 --> 1861.92]  This is Wietseh here, the guy you're actually talking about.
+[1862.22 --> 1863.40]  That's not very nice of you.
+[1863.56 --> 1864.32]  No f***.
+[1864.58 --> 1867.60]  Alexander or Alex, whatever the hell you're going by now.
+[1867.60 --> 1869.12]  Did I just step in it?
+[1869.54 --> 1874.90]  You're telling me Ichiraha's actually ceviche and I've been shitting on the dude right in front of you?
+[1875.36 --> 1876.04]  That's hilarious.
+[1876.74 --> 1877.68]  And not sorry though.
+[1877.78 --> 1881.24]  He sounds like he'd still bore the piss out of me with his philosophical crap.
+[1881.76 --> 1883.48]  So what's your deal with him?
+[1883.48 --> 1884.82]  Oké, dank je.
+[1885.32 --> 1886.20]  Nou ja, zo gaat dat door.
+[1886.38 --> 1887.80]  En er zijn allerlei verschillende modi.
+[1888.18 --> 1891.84]  Ook conspiracy, want dat hoort erbij als je maga AI bent.
+[1892.32 --> 1893.32]  Maar ook meditation.
+[1894.04 --> 1895.08]  Eigenlijk voor ieder wat wils.
+[1896.14 --> 1896.50]  Motivation.
+[1896.66 --> 1897.48]  Inderdaad, als je...
+[1898.12 --> 1898.78]  Weet ik eigenlijk niet.
+[1898.88 --> 1900.42]  Volgens mij is die ook wel motivation.
+[1900.60 --> 1901.42]  Zoals Amerikanen dan.
+[1901.54 --> 1902.44]  Er staat 18 plus bij.
+[1902.62 --> 1903.06]  Dus het zal wel weer...
+[1903.06 --> 1907.14]  Een drill sergeant zijn die in je oor staat te schreeuwen.
+[1907.32 --> 1908.76]  Als je dit wil proberen.
+[1908.90 --> 1909.98]  Het is wel grappig.
+[1910.54 --> 1912.76]  Kun je Grok downloaden in de App Store.
+[1912.96 --> 1914.42]  Dat is dus een losse app om te downloaden.
+[1914.50 --> 1915.06]  Zit niet in Twitter.
+[1915.66 --> 1919.36]  Maar dan kun je met de ongecensureerde stem van Elon Musk praten.
+[1919.46 --> 1921.34]  Wil je nog iets aan toevoegen, lieve witsen?
+[1922.12 --> 1922.38]  Nee.
+[1924.06 --> 1924.50]  Akkoord.
+[1924.50 --> 1928.08]  Ondertussen werkt het beste land van Europa.
+[1928.22 --> 1928.64]  Esland.
+[1929.12 --> 1931.56]  Ik heb een warm plek in mijn hart voor Esland.
+[1931.82 --> 1933.72]  Samen met OpenAI en Anthropic.
+[1934.16 --> 1939.12]  Om AI-vaardigheden te onderwijzen aan middelbare scholieren.
+[1939.78 --> 1942.84]  En het idee is dat ze daardoor voorbereid worden op de banen van de toekomst.
+[1943.36 --> 1945.12]  Ze hebben een deal gesloten.
+[1945.28 --> 1950.26]  Waardoor 20.000 middelbare scholieren van 16 en 17 jaar gratis toegang krijgen tot AI-leertours.
+[1950.26 --> 1952.02]  Waaronder de tools van Anthropic en OpenAI.
+[1952.02 --> 1954.70]  En ongeveer 3000 studenten in het land.
+[1954.80 --> 1957.50]  Dat zijn bijna alle docenten in het land.
+[1958.10 --> 1959.50]  Beginnen met trainingsworkshops.
+[1959.96 --> 1964.10]  De president van Esland benadrukt dat het initiatief niet bedoeld is om leraren te vervangen.
+[1964.24 --> 1968.00]  Maar om het kritisch denken en bewustzijn over AI te ontwikkelen bij leerlingen.
+[1968.66 --> 1969.36]  Zij stelt.
+[1969.96 --> 1971.34]  Of de onderwijsminister.
+[1971.66 --> 1972.96]  Dus dat is net over de president.
+[1973.08 --> 1974.08]  Nu de onderwijsminister.
+[1974.50 --> 1977.70]  Die stelt dat het laten schrijven van lange essays door leerlingen.
+[1977.70 --> 1980.10]  Een quote nutteloze oefening is geworden.
+[1980.36 --> 1981.62]  Gezien de mogelijkheden van AI.
+[1982.02 --> 1985.66]  Maar dat het des te belangrijker wordt voor leerlingen om kritische denkvaardigheden te ontwikkelen.
+[1985.78 --> 1990.30]  En juist daarom zijn ze dit lespakket begonnen.
+[1991.10 --> 1991.92]  Best wel cool.
+[1992.76 --> 1996.92]  Ondertussen kwam er onderzoek uit van hoe AI in het Britse onderwijs wordt gemaakt.
+[1997.04 --> 2002.38]  Van universiteitsstudenten werd bekend dat AI-gebruik in één jaar explosief is gestegen.
+[2002.38 --> 2004.24]  Van 66% naar ruim 90%.
+[2004.24 --> 2010.28]  Waarbij 88% aangaf generatieve AI zoals JGPT specifiek voor studietaken te gebruiken.
+[2010.46 --> 2016.20]  De helft van de studenten noemt het als middel om tijd te besparen en kwaliteit te verbeteren.
+[2016.60 --> 2019.96]  Terwijl het percentage dat bewerkte AI-teksten acceptabel vindt.
+[2020.02 --> 2022.46]  Steeg van 17% naar 25%.
+[2022.46 --> 2025.22]  Dus er zijn meerdere redenen om het te gebruiken.
+[2025.36 --> 2026.82]  En het wordt ook steeds betrouwbaarder.
+[2026.92 --> 2029.86]  Ondanks dat 25% opvallend laag nog steeds is.
+[2030.06 --> 2031.50]  Ze weten dat ze er niet meer weg gaan komen.
+[2031.90 --> 2033.64]  Er is nog wel werk om te doen, maar minder.
+[2034.48 --> 2036.46]  En er bestaan duidelijke verschillen tussen verschillende studierichtingen.
+[2037.16 --> 2041.92]  Dus 45% van de beta-studenten denkt dat AI-teksten goede cijfers zouden opleveren.
+[2041.92 --> 2045.70]  Terwijl 29% van de geesteswetenschapsstudenten dat denkt.
+[2045.98 --> 2049.06]  Oftewel beta-studenten zijn dan een stuk positiever over de kwaliteit van de antwoorden.
+[2049.88 --> 2054.84]  En het blijft een soort van interessante digitale kloof ontstaan tussen mannen en vrouwen.
+[2054.96 --> 2056.00]  Mannen gebruiken het veel meer.
+[2056.26 --> 2060.52]  En ook studenten uit welvarendere milieus gebruiken het meer.
+[2061.28 --> 2063.84]  Terwijl die licenties dus eigenlijk gekocht zijn wel voor iedereen.
+[2064.08 --> 2065.14]  Dat is een beetje het idee toch?
+[2065.78 --> 2071.06]  De studenten hebben nu dankzij de overheid toegang tot die tools.
+[2071.06 --> 2072.24]  Ja, dat is in Estland zo.
+[2072.40 --> 2073.78]  Maar dit gaat over Engeland.
+[2074.32 --> 2075.44]  Ja, het gaat allemaal snel in Wietse.
+[2075.56 --> 2076.18]  Het gaat heel snel.
+[2076.58 --> 2077.36]  Ik dacht dat ik over...
+[2077.36 --> 2079.08]  Ik denk wat een leuk Ests onderzoek.
+[2079.10 --> 2079.76]  Nee, nee, nee.
+[2079.84 --> 2082.22]  Ik heb even het onderwijsdingetje bij elkaar gebracht.
+[2082.24 --> 2084.48]  Dan maak ik even het bruggetje dat het wel mooi is.
+[2085.02 --> 2087.50]  Dat er ook toegang is voor iedereen dan daar.
+[2087.74 --> 2088.06]  Blijkbaar.
+[2088.20 --> 2088.60]  Ja, precies.
+[2088.60 --> 2089.40]  In Estland.
+[2089.48 --> 2091.36]  En je ziet dus in Engeland wat er gebeurt als je dat niet doet.
+[2091.46 --> 2092.06]  Want dan wordt het dus een...
+[2092.64 --> 2093.46]  Laten we wel wezen.
+[2093.48 --> 2094.62]  Het is gewoon 20 euro per maand.
+[2094.76 --> 2097.22]  Ja, je moet maar eventjes erbij kunnen rekenen.
+[2097.30 --> 2098.42]  200 was dan Wietse licht.
+[2098.42 --> 2100.28]  Omdat ik vind dat je die resource moet gebruiken.
+[2100.52 --> 2103.28]  Ja, dan heb je nog steeds ongelijkheid in de klas.
+[2103.40 --> 2105.44]  Want sommigen betalen aan 200 euro per maand abonnement.
+[2106.40 --> 2107.38]  Nee, dat is interessant.
+[2107.60 --> 2109.34]  En ik zie dit in Nederland niet zo heel snel gebeuren.
+[2109.80 --> 2111.54]  Het lijkt er in Nederland een soort houding te zijn.
+[2111.62 --> 2112.54]  Houd je de klas uit?
+[2113.22 --> 2113.86]  Dan dat het...
+[2113.86 --> 2115.48]  Ligt heel erg aan de onderwijsinstelling.
+[2115.60 --> 2117.98]  Maar dit is zeker een van de posities.
+[2118.12 --> 2118.88]  Maar wat is er dan?
+[2119.10 --> 2119.40]  Want je kunt...
+[2119.40 --> 2120.32]  Nou ja, je kunt...
+[2120.32 --> 2121.28]  Nu, je kunt...
+[2121.28 --> 2121.84]  Het wordt...
+[2121.84 --> 2126.94]  Ik bedoel, er is in zoverre vrijheid dat het een beetje per opleiding ligt.
+[2127.06 --> 2127.54]  Ook weer het aan...
+[2127.54 --> 2130.92]  We hebben het over basisschool, middelbare school, hbo's, universiteit.
+[2131.56 --> 2135.60]  Dat daar per instelling nu gekozen wordt wat hun positie is.
+[2135.60 --> 2140.86]  Dus er zijn inderdaad hele manifesten die uitgebracht worden waar studenten te horen krijgen.
+[2140.94 --> 2141.64]  Je mag er niks mee.
+[2141.76 --> 2143.22]  Tot en met dit is hoe je ermee kan werken.
+[2143.40 --> 2144.30]  Dus het is ook maar een beetje...
+[2144.30 --> 2145.24]  Ik vind het eerst wel absurd.
+[2145.40 --> 2147.20]  Dit lijkt me iets waar landelijk beleid voor nodig is.
+[2147.30 --> 2154.30]  En niet dat iedere universiteit zelf een commissie gaat oprichten en dan een mening gaat vormen over die didactiek rondom AI.
+[2154.48 --> 2156.18]  Jesus Christ, wie ze...
+[2156.18 --> 2161.70]  Ja, of zijn dat de eerste schetjes en kiezen we daar uiteindelijk iets moois uit?
+[2161.72 --> 2162.18]  Nou, prima.
+[2162.18 --> 2166.66]  Straks het hoofdonderwerp, namelijk Cloud, is ons lievelings AI.
+[2166.80 --> 2167.54]  Dat mogen we wel zeggen, toch?
+[2167.86 --> 2168.92]  Ja, we hebben er te veel over.
+[2169.00 --> 2171.52]  Het is een publieksliefeling onder onze luisteraars.
+[2171.66 --> 2173.48]  Heeft een nieuw model gelanceerd.
+[2173.58 --> 2176.88]  Eindelijk we kijken er heel lang naar uit en de resultaten zijn ontzettend leuk.
+[2176.94 --> 2177.66]  Gaan we het straks over hebben.
+[2178.08 --> 2184.92]  Maar eerst praten Marianne en Lucas van Debt je bij over hoe je als bedrijf beter gevonden kunt worden door AI zoekmachines.
+[2188.28 --> 2190.86]  Hi, ik ben Marianne van Marketing en Techbureau Debt.
+[2190.86 --> 2195.78]  Elke week praat ik met mijn collega Lucas over hoe wij merken helpen in de wonderenwereld van AI.
+[2196.12 --> 2199.70]  Deze week Generative Engine Optimization, oftewel geo.
+[2200.06 --> 2206.48]  Want we weten allemaal dat AI zoekmachines geen lange lijst met resultaten meer geven, maar gewoon direct het juiste antwoord.
+[2206.84 --> 2210.02]  Lucas, geef eens een voorbeeld van een bedrijf wat hier een goed mee bezig is.
+[2210.02 --> 2216.82]  Ja, wij werken voor een groot internationaal e-mail marketing platform die we helpen beter gevonden te worden in AI zoekmachines.
+[2217.24 --> 2222.08]  En in de eerste pilot fase is het ons gelukt om 65% vaker onderdeel van het antwoord te zijn.
+[2222.36 --> 2225.28]  Wow, dat is best impressive. Maar hoe hebben we dat er al gedaan?
+[2225.62 --> 2226.60]  In de basis heel simpel.
+[2226.72 --> 2232.30]  We zijn gaan prompten om te kijken wanneer we wel of niet onderdeel waren van het antwoord.
+[2232.54 --> 2233.94]  Alleen dan op hele grote schaal.
+[2233.94 --> 2237.30]  We hebben een model gebouwd dat de Google AI naboost.
+[2237.40 --> 2244.50]  En op die manier zijn we in staat om duizenden en duizenden tests te draaien om erachter te komen welke selectiecriteria het model hanteert.
+[2244.80 --> 2249.58]  Denk aan tone-of-voice, welke video's en afbeeldingen werken, semantiek, dus context.
+[2249.86 --> 2256.02]  Toen we dat in kaart hadden, konden we ook met de hulp van AI heel veel optimalisatietests op onze content draaien.
+[2256.58 --> 2258.74]  En daaruit leren wat wel of niet werkt.
+[2259.04 --> 2260.82]  Oké, en waarom is dit belangrijk?
+[2260.82 --> 2266.70]  Op de eerste plaats zien we dat er al meer dan 300 miljoen dagelijkse gebruikers zijn van AI-assistants.
+[2266.84 --> 2270.66]  Zoals DeepSeq, JetGPT, Perplexity, de hele lijst.
+[2271.08 --> 2273.58]  Dus er wordt gewoon heel veel gezocht via die zoekmachines.
+[2273.82 --> 2277.52]  En met de opkost van Gemini en Apple Intelligence wordt dat de komende jaren alleen maar meer.
+[2277.96 --> 2282.70]  Dus als je niet in een AI-zoekmachine voorkomt, dan besta je op termijn niet meer.
+[2283.22 --> 2285.50]  Dankjewel Lucas. Niet afwachten maar doen dus.
+[2285.86 --> 2288.18]  Want wie vandaag begint, loopt morgen voorop.
+[2288.18 --> 2292.16]  Ga naar debbedagdc.com slash AI-report als je meer wil weten.
+[2292.46 --> 2293.38]  En tot volgende week!
+[2293.38 --> 2300.06]  Anthropic kwam uit met een nieuwe versie van Claude.
+[2300.36 --> 2304.32]  3.7 Sonnet, niet 3.6, want we hadden al 3.5.
+[2304.52 --> 2307.58]  Maar om dingen nog ingewikkelder te maken, staan ze ook een getal over.
+[2308.40 --> 2314.62]  Na lang wachten introduceert Anthropic het eerste model dat naar wens kort of lang kan nadenken over complexe vragen.
+[2314.62 --> 2320.62]  De eerste testen wijzen uit dat ze een flinke voorsprong in programmeervaardigheden veroorzaken.
+[2321.52 --> 2324.44]  3.7 scoort hoger dan OpenAI's O3 Mini.
+[2325.10 --> 2329.20]  En de word on the street is dat Claude ver boven de resten uitsteekt op dit moment.
+[2329.40 --> 2333.54]  Professor Ethan Mollick beschouwt het als onderdeel van een nieuwe generatie AI.
+[2333.54 --> 2341.40]  Hij zei deze modellen geven me dezelfde mix van onder de indruk zijn en lichte ongerustheid als hij toen had bij GPT-4.
+[2341.64 --> 2344.04]  Als in dit is de volgende fase.
+[2345.16 --> 2351.26]  Programmeren wordt vaak aangehaald als belangrijkste nieuwe talent van dit model.
+[2352.26 --> 2354.22]  Is dat het enige of is er meer?
+[2354.94 --> 2356.74]  Niet dat ik daar te klein over wil doen hoor.
+[2356.74 --> 2359.02]  Maar om het even in de greek te schouwen.
+[2359.28 --> 2362.38]  Jouw intro vandaag met programmeren in Cursor.
+[2364.12 --> 2364.98]  Ze hebben zich heel erg.
+[2366.88 --> 2370.18]  Anthropic doet heel erg goed bijhouden hoe hun modellen gebruikt worden.
+[2370.32 --> 2371.70]  Daar hebben ze ook een heel blog over geschreven.
+[2371.82 --> 2377.08]  Ze doen best wel diep onderzoek, gedegen onderzoek naar waar gebruiken eigenlijk mensen Cloud for.
+[2377.26 --> 2379.76]  En dat blijkt en dat had ik al intuïtief een beetje aangevoeld.
+[2379.92 --> 2381.12]  Vooral voor programmeren.
+[2381.60 --> 2384.74]  En daar kan je dan gefrustreerd over zijn.
+[2384.74 --> 2388.30]  Of het jammer vinden dat je model grotendeels ingezet wordt voor programmeurs.
+[2388.38 --> 2389.32]  Of dat omarmen.
+[2390.22 --> 2391.32]  Dat hebben ze eigenlijk gedaan.
+[2391.54 --> 2396.98]  Dus ze zijn gaan kijken hoe kunnen we er nog een sterker model van maken als het om programmeren gaat.
+[2397.32 --> 2397.96]  Dat is gelukt.
+[2398.10 --> 2400.62]  Want dat model komt uit 3.7.
+[2400.76 --> 2403.64]  Ik ga dan een beetje refreshen om de paar uur.
+[2403.88 --> 2404.52]  Maak je geen zorgen.
+[2404.80 --> 2406.68]  Op de Polyglot Benchmark van Eder.
+[2407.16 --> 2408.28]  De Polyglot Benchmark.
+[2408.38 --> 2411.60]  Een hele verzameling van verschillende programmeerpuzzels.
+[2412.02 --> 2413.96]  Die echt pittig zijn om op te lossen.
+[2413.96 --> 2414.82]  Zeker voor een mens.
+[2415.34 --> 2422.82]  Waar tot 3.7 een combinatie van DeepSeq R1 en Cloud 3.5 op één stond.
+[2423.14 --> 2424.82]  Dat was de ultimate combo.
+[2425.00 --> 2429.20]  Dus dan had je de R1 architect met de Cloud engineer 3.5.
+[2429.70 --> 2430.12]  Ja, ja.
+[2430.36 --> 2431.60]  Maar dat was best wel een gedoetje.
+[2431.68 --> 2433.08]  Want dan moest je twee licenties hebben.
+[2433.24 --> 2433.52]  En twee modellen combineren.
+[2433.52 --> 2435.04]  DeepSeq was de architect neem ik aan.
+[2435.10 --> 2435.42]  Ja, sorry.
+[2435.50 --> 2435.90]  R1.
+[2435.98 --> 2437.18]  DeepSeq R1 was de architect.
+[2437.44 --> 2439.02]  En Cloud 3.5 was de engineer.
+[2439.02 --> 2442.60]  En dat heb ik ook zo geconfigureerd staan wanneer ik programmeer.
+[2442.84 --> 2444.02]  Maar het is toch niet helemaal lekker.
+[2444.68 --> 2446.76]  Wat je eigenlijk wil is een model die beide kan.
+[2446.84 --> 2448.18]  En die kan wisselen on demand.
+[2448.36 --> 2450.06]  Nou, dat is dus Cloud 3.7 geworden.
+[2450.20 --> 2451.18]  Dus één model.
+[2451.50 --> 2452.30]  Eén endpoint.
+[2452.44 --> 2453.32]  Eén API key.
+[2453.82 --> 2457.56]  Die zowel als jij dat wil wat langer kan nadenken als een architect.
+[2457.68 --> 2459.24]  Maar ook een hele goede engineer is.
+[2459.30 --> 2460.20]  Een soort hybrid model.
+[2460.20 --> 2462.40]  En die staat nu ook op één.
+[2462.78 --> 2463.70]  Want de vraag was een beetje.
+[2464.48 --> 2467.82]  Moeten we dan niet eigenlijk R1 combineren met 3.7?
+[2468.00 --> 2469.82]  Nee, dat heeft tot nu toe geen zin.
+[2470.18 --> 2473.12]  Je kunt gewoon enkel met dat nieuwe model praten.
+[2473.22 --> 2473.86]  En dat is wel gaaf.
+[2473.92 --> 2476.10]  Want daarmee laten ze dus zien.
+[2476.46 --> 2477.44]  Dat ze die een soort van.
+[2477.70 --> 2479.70]  Dat duo voorbij zijn gestreven.
+[2479.84 --> 2481.36]  Dat is wel heel naam.
+[2481.36 --> 2482.10]  Maar wat merk jij daarvan?
+[2483.10 --> 2485.66]  Hoe dat dan in de praktijk tegenwoordig werkt voor programmeurs.
+[2485.74 --> 2488.82]  Dat je dus een uitklapmenuutje hebt in je programmeertool.
+[2488.82 --> 2492.16]  En dat je dan in plaats van 3.5 zet je 3.7 aan.
+[2492.22 --> 2495.20]  Ja, het is een beetje hoe Neo in de Matrix een complete tank leert te besturen.
+[2495.30 --> 2496.42]  Ja, het is van zoop.
+[2496.56 --> 2497.56]  En je hebt er een skill erbij.
+[2497.76 --> 2497.92]  Ja.
+[2498.46 --> 2500.16]  Wat merk je in de praktijk ervan?
+[2501.32 --> 2502.66]  Eerder in één keer goed.
+[2503.36 --> 2503.84]  One shot.
+[2503.96 --> 2504.38]  One shot.
+[2504.66 --> 2505.78]  Ik denk dat dit een term is.
+[2506.04 --> 2506.94]  Je weet gewoon.
+[2507.06 --> 2509.20]  Dit gaat in de rest van de samenleving ook.
+[2509.20 --> 2510.86]  Ik heb dat gewone shot, man.
+[2511.06 --> 2512.24]  Ja, dit gaat zeker wat worden.
+[2513.08 --> 2514.50]  Dus daar merk je het in.
+[2515.34 --> 2516.58]  Complexere taken.
+[2516.58 --> 2520.72]  Dus het maken van complexe database queries of zo lukt beter.
+[2521.34 --> 2524.04]  Ja, ik heb mijn eigen dingetjes die ik vaak doe.
+[2524.18 --> 2524.40]  Ja.
+[2524.54 --> 2525.76]  Die niet lukten voorheen.
+[2526.14 --> 2527.30]  Wat lukte er dan niet?
+[2527.44 --> 2528.62]  Dan kwam die met...
+[2528.62 --> 2529.48]  Na vier keer pas.
+[2529.56 --> 2531.72]  Of na heel veel handje vast te houden.
+[2531.72 --> 2533.64]  Nee, doe nou niet dat.
+[2533.76 --> 2534.42]  Doe nou niet dat.
+[2534.80 --> 2535.52]  Het staat daar.
+[2535.62 --> 2536.72]  Ben je het nou weer vergeten?
+[2536.84 --> 2538.00]  Nou, zo'n gesprek krijg je dan.
+[2538.36 --> 2540.50]  En het gaat allemaal net weer even wat vloeiender.
+[2540.76 --> 2542.98]  Niet spectaculair vloeiender.
+[2543.12 --> 2545.04]  Want ik geloof wat Ethan Mollick zegt.
+[2545.18 --> 2547.06]  Ik voel een beetje diezelfde...
+[2547.06 --> 2550.36]  Kijk, wat ik vooral interessant vind is...
+[2550.36 --> 2551.50]  De rek is er nog niet uit.
+[2552.82 --> 2553.82]  Is er een 4.0?
+[2554.50 --> 2556.34]  Is er een clad 4.0?
+[2556.82 --> 2557.88]  Is die er alleen intern?
+[2559.44 --> 2561.60]  Ja, je kan het op twee manieren lezen.
+[2561.74 --> 2562.32]  Je kunt zeggen...
+[2562.32 --> 2564.92]  Hebben we nou zo lang moeten wachten op een incrementele update?
+[2565.06 --> 2566.52]  Want met alle spec, dat is het.
+[2566.52 --> 2568.26]  In de grafiekjes gaat er een heel...
+[2568.26 --> 2571.02]  Een 2 millimeter op de bar chart, zeg maar.
+[2572.54 --> 2573.02]  Tegelijkertijd...
+[2573.90 --> 2575.80]  Wauw, voor dezelfde prijs met dezelfde snelheid.
+[2575.94 --> 2576.96]  En de thinking mode.
+[2577.32 --> 2578.80]  We gaan er ook maar steeds van uit dat...
+[2578.80 --> 2580.42]  Antropic OpenAI bij kan houden.
+[2580.64 --> 2582.78]  Ik bedoel, het is niet dat ze nu al...
+[2582.78 --> 2584.86]  Toen ze DeepSeek zagen, dat even hebben kunnen integreren.
+[2584.96 --> 2586.20]  Zo werken dit soort ontwikkelingen niet.
+[2586.30 --> 2587.88]  Het gaat over maanden pretraining.
+[2588.06 --> 2591.80]  Dus dit is hun antwoord op O1 eigenlijk.
+[2591.90 --> 2592.54]  Zou je kunnen zeggen.
+[2593.20 --> 2595.06]  En daarin doen ze goed mee.
+[2595.06 --> 2596.32]  Het is wel zo.
+[2596.64 --> 2597.42]  We zijn wat verloren.
+[2598.48 --> 2603.34]  Dit heeft effecten gehad dat zij hebben gespecialiseerd op programmeren.
+[2603.72 --> 2605.36]  En dit is even de vibe check.
+[2605.78 --> 2610.20]  Dus een subjectieve vibe check op de social media.
+[2610.72 --> 2612.86]  Is dat het een minder goede schrijver geworden is.
+[2614.44 --> 2616.16]  Waarop ik meteen reageer met...
+[2616.16 --> 2618.94]  Je kunt in de drop-down ook gewoon nog 3.5 selecteren.
+[2619.24 --> 2620.04]  Ja, maar het voelt heel raar.
+[2620.16 --> 2622.22]  Ja, en waarop Sjang zei, die onze nieuwsbrief schrijft.
+[2622.22 --> 2625.04]  Zij zei, ik heb voor het eerst gevoeld dat ik dacht...
+[2625.06 --> 2626.78]  3.5 gaat toch niet weg?
+[2627.24 --> 2629.48]  Als een soort subiele paniek.
+[2629.68 --> 2631.24]  Maar dit is echt mijn writing buddy.
+[2631.72 --> 2634.46]  Dus Antropic, want als Antropic hem offline gooit, zijn we hem kwijt.
+[2634.56 --> 2636.16]  Of Amazon moet hem nog even doorzetten.
+[2636.48 --> 2637.72]  Je kan hem niet lokaal draaien.
+[2637.78 --> 2640.80]  Ze had voor het eerst een soort angst over...
+[2640.80 --> 2642.40]  Wordt mijn model mij straks afgenomen?
+[2642.54 --> 2645.22]  Waar ik eigenlijk een soort symbiose mee aan het ontwikkelen ben.
+[2645.34 --> 2647.24]  Dus dat is echt een boeiende.
+[2647.24 --> 2651.36]  Wat ik zelf heel erg interessant vind aan 3.7...
+[2651.36 --> 2652.64]  Een beetje onderbelicht nog.
+[2652.96 --> 2654.40]  In ieder geval, ik kwam het nog niet zoveel tegen.
+[2654.92 --> 2658.70]  Is een beetje nerdy, maar ik ga uitleggen waarom deze nerdiness interessant is.
+[2658.70 --> 2660.88]  Is het aantal output tokens.
+[2661.26 --> 2661.70]  Jeuuh!
+[2661.70 --> 2665.02]  Kijk, we zijn inmiddels gewend dat we een context window hebben.
+[2665.48 --> 2668.18]  En dat ieder model, Gemini, staat de koning in.
+[2668.64 --> 2670.52]  En ja, open jij wat minder.
+[2670.98 --> 2674.28]  Hoeveel data kan je tegelijk per vraag aan dat model stellen?
+[2675.32 --> 2678.26]  Dat heeft namelijk heel veel invloed op hoe je dat model kan gronden.
+[2678.38 --> 2679.28]  Kan je boeken meesturen?
+[2679.42 --> 2680.86]  Kan je je eigen databases meesturen?
+[2680.98 --> 2681.64]  Noem het allemaal maar op.
+[2681.64 --> 2685.94]  Nou, ik zei al, Gemini, heren en meester in grote context windows.
+[2686.76 --> 2688.94]  Maar stel, ik maak het even heel erg concreet.
+[2689.70 --> 2690.66]  Wij gaan een boek schrijven.
+[2690.88 --> 2694.04]  Een paar afleveringen geleden over gehad dat je een boek zou kunnen schrijven met AI.
+[2695.24 --> 2696.54]  Stel dat je dat zou willen doen.
+[2697.86 --> 2699.24]  Hoe wordt dat boek dan opgebouwd?
+[2699.46 --> 2701.52]  Dat worden dan waarschijnlijk iteratieve prompts.
+[2702.02 --> 2704.32]  Oftewel, maak de inhoudsopgave.
+[2704.48 --> 2705.70]  Maak de eerste paragraaf.
+[2705.80 --> 2706.78]  Maak nog een paragraaf.
+[2706.78 --> 2709.62]  En iedere keer voed je dat hele boek dan weer terug.
+[2709.76 --> 2710.82]  Die hij zelf geschreven heeft.
+[2710.82 --> 2712.12]  Zeg je, nou, je bent nu hier.
+[2712.54 --> 2713.60]  Schrijf nog maar een stukje.
+[2713.90 --> 2716.60]  Waarom kan je niet zeggen, schrijf het hele boek maar in één keer?
+[2716.74 --> 2720.58]  Omdat de output window of de output token is gelimiteerd.
+[2720.90 --> 2721.22]  Enorm.
+[2721.36 --> 2721.88]  8000.
+[2722.38 --> 2725.04]  Dus hij mag eigenlijk maar relatief korte antwoorden geven.
+[2725.24 --> 2726.72]  Met mogen, bedoel ik eigenlijk, kunnen.
+[2726.78 --> 2727.78]  Ja, en soms loopt hij dan vast.
+[2727.88 --> 2729.22]  En dan moet je zo continue zeggen.
+[2729.30 --> 2730.08]  En dan schrijft hij weer door.
+[2730.20 --> 2735.56]  Ja, en ik denk dus dat hij dan die response split in een soort twee responses.
+[2736.12 --> 2740.56]  Er is een interface overheen gehackt.
+[2740.56 --> 2742.12]  Door die AI bedrijven.
+[2742.28 --> 2744.34]  Om te zorgen dat het meer voelt als één ding.
+[2744.78 --> 2751.04]  Maar je kunt hebben dat je, je kunt tegen de context window aanlopen als jouw gesprek te lang wordt.
+[2751.12 --> 2752.32]  Dus dat is de input window.
+[2752.78 --> 2755.00]  Maar je kunt ook tegen de output window aanlopen.
+[2755.08 --> 2756.14]  Hij kan nog geen boek schrijven.
+[2756.24 --> 2756.74]  Dat kan hij niet.
+[2756.74 --> 2756.88]  Nee.
+[2757.08 --> 2758.24]  Nou, wat is er nu gebeurd?
+[2758.38 --> 2760.82]  Cloud 3.7 heeft een gigantische output window.
+[2760.96 --> 2761.32]  Oké.
+[2761.32 --> 2767.20]  Dus daar wordt nu ook heel veel mee getest van hoe lang kan die, ook in de train of thought.
+[2767.32 --> 2768.86]  Dus dan heb ik het niet over chain of thought.
+[2768.98 --> 2770.02]  Wat is een LLM term?
+[2770.08 --> 2773.38]  Dat is namelijk hoe je R1 en Deepsea kan zien nadenken.
+[2773.70 --> 2774.54]  De gedachtengang.
+[2774.72 --> 2775.54]  Chain of thought.
+[2775.62 --> 2777.42]  Heb je ook de train of thought.
+[2777.52 --> 2781.34]  En dat is, snapt Wietse nu nog wat hij aan Alexander aan het uitleggen is?
+[2782.34 --> 2784.32]  Of is hij inmiddels zijn verhaal kwijt?
+[2784.38 --> 2785.06]  Dat ben ik niet.
+[2785.32 --> 2787.00]  Want ik was train of thought aan het uitleggen.
+[2787.26 --> 2791.46]  De totale trein, al die wagons, zitten die nog aan elkaar in Wietse's verhaal?
+[2791.54 --> 2792.54]  Ja, argumentatief.
+[2792.62 --> 2796.42]  Ja, en je voelt heel vaak als je met taalmodellen praat, dat je denkt, yo, alles oké?
+[2796.48 --> 2798.88]  Want je begint ineens over iets anders.
+[2799.20 --> 2802.76]  Of jij hebt dit letterlijk drie minuten geleden aan me uitgelegd en nu doe je alsof je het niet weet.
+[2803.10 --> 2808.30]  Er zitten hele rare, ja, ik kan het niet anders noemen, als een soort synthetisch Alzheimer-achtig.
+[2808.30 --> 2808.62]  Ja, ja.
+[2808.64 --> 2810.48]  En dat heeft met de output window te maken.
+[2810.48 --> 2811.82]  Ja, want die is op een gegeven moment gewoon vol.
+[2812.28 --> 2814.16]  En dan moet alles in stukjes gehakt worden.
+[2814.86 --> 2820.60]  En het idee dat je eigenlijk de ruimte geeft aan dat model om heel lang, het is eigenlijk een soort Wietse model,
+[2820.86 --> 2824.30]  een heel gigantische output window te hebben.
+[2824.58 --> 2828.10]  Ja, dat is echt, en ik vind dit een boeiende ontwikkeling.
+[2828.20 --> 2831.38]  En ik volg heel erg die experimenten nu op de voet.
+[2831.50 --> 2835.68]  Want dan zou je bijvoorbeeld ook kunnen zeggen, joh, ik ben Alexander.
+[2836.26 --> 2838.08]  Je gaat een spelletje maken voor mijn dochter.
+[2838.08 --> 2845.44]  Ik wil dat je dat hele spel, en dat is niet alleen een klein spelletje, maar met twintig levels als iPhone-app, gewoon in één keer.
+[2845.64 --> 2845.80]  Ja.
+[2846.18 --> 2850.42]  En je hoeft niet, je gaat niet tegen mij zeggen, plak nu dit veldje daar.
+[2850.54 --> 2852.72]  Of tegen cursor zeggen, ga dit bestand bewerken.
+[2852.76 --> 2856.18]  Ja, want je moet tegen cursor de hele tijd zeggen, ja is goed, ja is goed, ja is goed, ja is goed.
+[2856.30 --> 2857.78]  Accepteer, human in the loop hè, Alexander is belangrijk.
+[2857.90 --> 2858.26]  Ja, ik haat dat.
+[2858.26 --> 2861.34]  Ja, jij hebt een robotje gekocht, ik klik op accept.
+[2861.56 --> 2864.82]  Ja, precies ja, ik koop zo'n robotje op AliExpress inderdaad.
+[2864.84 --> 2865.82]  Ja, klik, klik, klik, klik.
+[2866.24 --> 2875.20]  Maar goed, dat er nu voor het eerst een frontiermodel, een krachtig model uitgekomen is,
+[2875.26 --> 2877.58]  waarin toegelaten wordt dat er heel veel gezegd mag worden.
+[2877.72 --> 2882.58]  Even voor de duidelijkheid, dat is niet een of ander arbitrair kinderachtig ding wat die bedrijven doen.
+[2882.58 --> 2883.58]  Alles kost geld.
+[2884.34 --> 2887.72]  En heel groot output window kost heel veel geheugen en dus zit iemand anders,
+[2888.10 --> 2889.90]  mag niet, kan dat geheugen op dat moment niet gebruiken.
+[2890.10 --> 2891.70]  Ja, oké.
+[2892.04 --> 2892.68]  What's next?
+[2893.20 --> 2897.46]  Nou, ik denk dat, ik vind het boeiend en dat is een beetje een,
+[2897.98 --> 2902.52]  ik merk nu al als gebruiker, ook bij 3.7, los van dat de interface,
+[2902.52 --> 2905.34]  ik ga toch even uitleggen aan mensen die luisteren, want als ik moet zoeken,
+[2905.56 --> 2906.90]  dan zoeken jullie waarschijnlijk ook.
+[2907.36 --> 2910.98]  Als je cloudgebruiker bent of cloud een keer wil proberen en je gaat naar de cloud app
+[2910.98 --> 2913.78]  of dan wel de cloud desktop interface of whatever.
+[2914.84 --> 2919.18]  De plek waar je normaal koos of die een concise antwoord gaf of een extended antwoord,
+[2919.34 --> 2921.86]  daar zit dat ding in verborgen met hij mag ook nadenken,
+[2922.02 --> 2925.04]  terwijl bij OpenAI hebben ze gezegd, nee, dit is een heel nieuw model.
+[2925.60 --> 2927.56]  Dus je moet even graven.
+[2927.56 --> 2931.16]  Dus even goede interface als deep research, als in waar zit het?
+[2931.66 --> 2934.30]  Als je klikt op het plekje waar je normaal zou kiezen,
+[2934.40 --> 2938.18]  dus hoe geef je antwoord cloud, staat nu ook een knopje, laat hem nadenken.
+[2938.30 --> 2940.96]  Nou, dit is bij mij niet hoor, want je hebt style en je hebt model,
+[2940.98 --> 2947.68]  dat zijn twee losse tapjes en bij style heb je normaal concise en die andere writing styles.
+[2948.20 --> 2950.72]  En model, daar zit hij in.
+[2951.00 --> 2957.12]  En daar moet je dus 3.7 sonnet aanklikken en dan zit more models,
+[2957.36 --> 2959.16]  daar zit 3.5 sonnet onder.
+[2959.48 --> 2961.66]  Dus dat is belangrijk voor Xiang bijvoorbeeld.
+[2962.12 --> 2965.98]  De schrijfstijl, die moet je via more, daar zit die oude in.
+[2966.52 --> 2969.98]  En als je dan extended wil, thinking mode, moet je dus 3.7 sonnet aanzetten
+[2969.98 --> 2972.82]  en dan moet je extended erbij aanklikken in hetzelfde minuutje.
+[2973.36 --> 2973.62]  Top.
+[2974.34 --> 2977.56]  Nou ja, ga er even naar op zoek, want het is wel een succes.
+[2977.56 --> 2978.30]  Ja, dat is wel een succes.
+[2978.30 --> 2979.06]  Nou ja, voor...
+[2979.06 --> 2982.86]  Die bedrijven, het gaat over geopolitiek, het gaat over geen namen geven,
+[2982.94 --> 2985.78]  je kunt niet fucking drop downs maken die normaal werken.
+[2985.82 --> 2987.46]  Het is er een beetje ingehekt achteraf.
+[2988.14 --> 2993.42]  Als ontwikkelaar, dat is wel interessant, want wat Antropic ook heeft toegestaan,
+[2993.42 --> 3001.50]  is je bent bij OpenAI, heb je O3 en O3 Mini en O3 Mini High uit mijn hoofd.
+[3001.86 --> 3004.36]  En High betekent, je mag langer nadenken.
+[3005.24 --> 3007.74]  Want ik heb vaak vragen van mensen gehad, wat doe je met High?
+[3007.84 --> 3009.48]  Wat gaat die omhoog? Wat mag die dan?
+[3009.88 --> 3012.84]  Nou, die mag langer nadenken en nadenken kost geld, dus dat is niet standaard.
+[3012.88 --> 3015.08]  Dat moet je even nudgen, zeg maar.
+[3015.64 --> 3019.64]  En bij Antropic hebben ze gezegd, dat High vinden wij een beetje te grof.
+[3019.64 --> 3020.64]  Dan noemen we dat extended.
+[3020.88 --> 3026.44]  Nee, je kunt in de API van Antropic als ontwikkelaar expliciet aangeven hoe lang die mag gaat.
+[3026.44 --> 3029.28]  Een soort schuifje in plaats van een aanknopje.
+[3029.28 --> 3030.48]  Ja, die zit er niet, maar je snapt hem.
+[3030.70 --> 3032.62]  Die kan jij bouwen als ontwikkelaar, die slider.
+[3032.96 --> 3035.32]  En ik denk, want daar wilde ik een beetje naartoe met dit verhaal,
+[3036.34 --> 3039.72]  wat je bij OpenAI ziet, voor zover u deze trein nog kunt volgen,
+[3039.96 --> 3043.44]  wat je bij OpenAI ziet, ik spring even naar OpenAI terug,
+[3043.92 --> 3048.74]  is dat ze nu hebben gezegd, die JetGPT 5 wordt een samenvoeging van onze modellen,
+[3048.74 --> 3051.70]  want die model drop-down wordt iets van het verleden.
+[3052.00 --> 3053.16]  Dat is eigenlijk logisch.
+[3053.80 --> 3056.76]  We krijgen een automaat in plaats van dezelfde versnellingen hebben te doen.
+[3056.86 --> 3057.62]  Mooie metafoor.
+[3057.72 --> 3058.02]  Dank je.
+[3058.06 --> 3058.50]  Dat gaat lekker.
+[3058.56 --> 3059.88]  Ja, je wordt geïnspireerd.
+[3060.10 --> 3061.14]  Ja, heel nice.
+[3061.60 --> 3067.30]  En wat ik dus nu al merk bij Cloud, dat ik denk, oké, vet dat het één model is
+[3067.30 --> 3070.48]  die snel kan nadenken en langzamer kan nadenken,
+[3070.58 --> 3072.80]  of in ieder geval lang kan nadenken en kort kan nadenken.
+[3073.04 --> 3074.66]  Zelfde model, je moet het maar even nudgen.
+[3074.66 --> 3079.30]  Maar je praat nog steeds met Cloud 3.7 Sonnet.
+[3080.50 --> 3082.86]  Daarin is het volgende stapje dat ik ervan uitga,
+[3083.22 --> 3086.14]  dat zij zeggen, joh, kijkende naar wat voor vraag je nu stelt,
+[3086.34 --> 3087.54]  klikken we even die extended mode voor je aan.
+[3087.54 --> 3088.06]  Ja, oké.
+[3088.18 --> 3091.48]  Dus allemaal gaan ze naar een automaat waarin je niet hoeft na te denken over je model.
+[3091.62 --> 3094.72]  En als die merkt, je wil dit voor schrijven, dan krijg je een andere model dan.
+[3094.82 --> 3096.84]  Je wil heel ingewikkeld programmeervraag stellen.
+[3097.00 --> 3097.12]  Ja.
+[3097.30 --> 3097.66]  Oké.
+[3098.92 --> 3099.62]  En dan wat?
+[3100.00 --> 3100.56]  En dan wat?
+[3100.56 --> 3102.74]  Ja, wat ben jij op zoek naar de...
+[3102.74 --> 3108.00]  Kijk, Mollick zegt, dit is de tweede fase, de fase van reasoning modellen.
+[3108.38 --> 3108.52]  Ja.
+[3109.62 --> 3113.82]  Gaan we nu, is dit nu meer computerkracht is beter?
+[3114.24 --> 3117.88]  Of is dit nu, gaan we nu al die mini modellen verder?
+[3117.88 --> 3118.80]  Ah ja, leuk.
+[3118.90 --> 3126.16]  Ja, ik denk in dat opzicht, het onderzoek is nu heel erg, daar heb ik het vorige week met
+[3126.16 --> 3131.58]  Rick over gehad, het onderzoek is heel erg, moeten wij nu die modellen nog groter maken?
+[3132.48 --> 3134.32]  Moeten we die modellen slimmer maken?
+[3134.72 --> 3137.28]  Of moeten we die modellen juist een soort dunner maken?
+[3137.54 --> 3137.70]  Ja.
+[3137.70 --> 3140.44]  En zoveel mogelijk context geven terwijl we de vraag stellen.
+[3140.44 --> 3145.08]  Dus want bij deep research zeggen ze eigenlijk, om even terug te komen op deep research, we
+[3145.08 --> 3148.06]  hebben O3, want deep research gebruikt het volledige O3 model.
+[3148.52 --> 3152.00]  Dat model kan heel goed redeneren en heeft een stuk basiskennis in zich, want dat is nog
+[3152.00 --> 3156.66]  steeds een gigantisch model, waardoor het model redelijk intuïtief weet waar die naar
+[3156.66 --> 3159.48]  moet zoeken, maar uiteindelijk gaat die wel de feiten erbij zoeken.
+[3159.92 --> 3162.46]  Het is een intuïtief model met een feiten zoekmachine ernaast.
+[3163.28 --> 3166.90]  Dat is een stap die nu genomen wordt, dus dan hebben we het niet eens over enkel reasoning,
+[3166.90 --> 3170.08]  maar reasoning augmented met realtime data.
+[3170.52 --> 3172.70]  Die kan het web op, die kan databases in.
+[3173.24 --> 3180.82]  En het lijkt er nu op dat al deze, kijk, in softwareontwikkeling is er een uitspraak
+[3180.82 --> 3182.36]  your underpants is showing.
+[3182.82 --> 3187.68]  Dat houdt in, ik zie je onderbroek, dat houdt in dat als iemand een stuk software oplevert
+[3187.68 --> 3194.48]  en daar zitten drop downs in met modelversienummers, dat dan een goede software UX designer zegt
+[3194.48 --> 3196.02]  jongen, ik zie je onderbroek.
+[3196.04 --> 3196.64]  Dit gaat mis.
+[3196.64 --> 3198.24]  Wat doet die drop, wat is dat?
+[3198.36 --> 3199.42]  3.7 zonnet externe tinkering.
+[3199.42 --> 3202.56]  Ik kan een gebruiker hier niet mee confronteren met deze shit.
+[3202.66 --> 3203.36]  Ja, liever niet.
+[3203.70 --> 3206.54]  Kun je niet even zelf zorgen dat je het juiste drop down selecteert.
+[3207.06 --> 3214.52]  En dan heb je dus, en moet dit model nadenken zo ja, hoe lang?
+[3214.78 --> 3214.98]  Ja.
+[3215.86 --> 3219.32]  Moet dit model nadenken over programmeertaken zo ja, hoe lang?
+[3219.52 --> 3220.94]  En wat voor context heeft u daarbij nodig?
+[3220.94 --> 3224.48]  Is dit eigenlijk Jean die een nieuwsbrief wil schrijven, switch maar meer naar 3,5, zonder dat
+[3224.48 --> 3225.02]  iemand dat ziet?
+[3225.02 --> 3226.02]  Misschien kan je...
+[3226.02 --> 3227.60]  En is het geheugen veel belangrijker?
+[3227.68 --> 3229.72]  Want je wil haar schrijfstijl beter vasthouden?
+[3229.88 --> 3231.70]  Dan programmeren misschien minder aan de hand.
+[3231.82 --> 3236.64]  Ja, en nu, ik dacht dus naïef als software programmeur, dat ik dacht, ah, daar moet een soort
+[3236.64 --> 3237.62]  routertje voor.
+[3237.62 --> 3243.28]  Een soort air traffic controller die dat dan gaat doen en die een soort van heel leem, misschien
+[3243.28 --> 3245.42]  een mini taalmodelletje ervoor of zo die dat gaat doen.
+[3245.42 --> 3246.36]  Ja, dat heb je eerder ook gezegd.
+[3246.36 --> 3254.00]  Ja, en nu, wat ik dus begreep, wat eigenlijk net als dat die reasoning models hun chains of
+[3254.00 --> 3260.60]  thought, dus logica strains zeg maar, erin getraind krijgen, dat het idee nu is om die
+[3260.60 --> 3262.24]  keuzes erin te trainen.
+[3262.36 --> 3262.60]  Juist.
+[3262.60 --> 3267.50]  Ja, omdat eigenlijk het liefst die modellen of die bedrijven niet werken met allerlei losse
+[3267.50 --> 3271.76]  modelletjes die weer aan elkaar geknoopt worden door een of andere traffic controller, maar
+[3271.76 --> 3277.64]  één supermodel die op verschillende manieren zichzelf kan inzetten en zeggen ik laat wel een
+[3277.64 --> 3278.32]  stukje daarin.
+[3278.38 --> 3281.86]  Een soort mixture of experts, maar ook nog eens met moet ik reasonen?
+[3281.90 --> 3282.84]  Hoe lang moet ik reasonen?
+[3283.10 --> 3286.10]  En het allerbelangrijkst, welke context heb ik nodig?
+[3286.10 --> 3291.50]  Want dit is iets wat ik nu nog mis en dat zou heel erg helpen voor, ja, noem het de gemiddelde
+[3291.50 --> 3296.06]  gebruiker van een taalmodel, dat wanneer zij een vraag stellen die overduidelijk feitelijk
+[3296.06 --> 3300.74]  is, concreet, dat hij zegt ik mis deze context, maar je kunt hem mij geven.
+[3301.16 --> 3303.68]  Je kunt hier iets indroppen, heb je misschien toegang tot iets?
+[3304.04 --> 3306.48]  Moet ik even een MCP'tje voor je klappen op de achtergrond?
+[3306.54 --> 3307.84]  Dat zegt hij dan niet, maar...
+[3307.84 --> 3313.80]  Ja, precies, want je wil gewoon kranten, archieven in kunnen gaan of je wil de, weet ik veel,
+[3313.80 --> 3316.06]  boeken in kunnen gaan of je wil.
+[3316.08 --> 3317.54]  Je stelt een vraag over je eigen e-mailbox.
+[3317.66 --> 3321.60]  Ik denk dat mensen dit nu al doen op JGPT, uit met alle respect totale naïviteit over
+[3321.60 --> 3325.90]  hoe computers werken, zie ik echt wel iemand de vraag stellen, kan je even in mijn mail
+[3325.90 --> 3326.28]  kijken?
+[3326.54 --> 3326.72]  Ja.
+[3327.04 --> 3327.62]  En dat hij dan aangezegd...
+[3327.62 --> 3328.28]  Het werkt nog niet.
+[3328.36 --> 3328.58]  Ja.
+[3328.84 --> 3331.28]  Cloud would like to access your e-mail, allow of niet.
+[3331.40 --> 3331.52]  Ja.
+[3331.64 --> 3333.02]  Zo zie ik hem een beetje vormen.
+[3333.64 --> 3335.60]  En dat is dus eigenlijk wat MCP is voor je vaste luisteren.
+[3335.60 --> 3336.42]  Ja, ja, ja.
+[3336.54 --> 3339.02]  Dat draait dan lokaal, maar die ervaring gaat zo zijn.
+[3339.08 --> 3340.42]  Ja, en die hele term is dan weg.
+[3340.42 --> 3343.32]  Het gaat alleen nog maar zijn op het user interface niveau.
+[3343.32 --> 3348.20]  Dat ondergoed wordt netjes verborgen onder twee lagen kleding, zodat die eindgebruiker
+[3348.20 --> 3350.74]  uiteindelijk gewoon een magische tovenaar op zijn computer heeft staan.
+[3351.40 --> 3354.26]  Nou, die metafoor krijgt u weer cadeau, lieve luisteraar.
+[3355.46 --> 3356.22]  Dat was hem.
+[3356.96 --> 3360.68]  Ik wil nog één warme aanbeveling doen, cursor uit te proberen als je dat nog niet gedaan hebt.
+[3361.04 --> 3363.80]  Je moet in het begin even door de vragen heen klikken die je niet begrijpt.
+[3363.90 --> 3365.38]  Maar op een gegeven moment werkt het echt.
+[3365.52 --> 3366.10]  Dat is mijn belofte.
+[3366.70 --> 3367.06]  Doe het.
+[3367.06 --> 3369.38]  Bedankt aan Sam Hengeveld voor de edit.
+[3369.54 --> 3370.52]  Pankra voor de vormgeving.
+[3370.64 --> 3372.62]  Wil je een lezing over AI van Wietse of van mij?
+[3372.72 --> 3373.18]  Dan kan dat.
+[3373.34 --> 3375.68]  Mail ons op lezing.ai-report.email.
+[3375.68 --> 3379.78]  Als je op de hoogte wil blijven van het laatste AI-nieuws twee keer per week, dan kan je naar
+[3379.78 --> 3381.14]  AI-report.email gaan.
+[3381.54 --> 3385.70]  Wil je vandaag nog beginnen met AI binnen jouw bedrijf, dan kun je naar deptagency.com
+[3385.70 --> 3388.40]  slash AI-report gaan onze trotse hoofdsponsor.
+[3388.96 --> 3391.14]  En alle linkjes staan in de show notes.
+[3391.36 --> 3391.86]  Tot volgende week.
+[3391.86 --> 3392.86]  ***
