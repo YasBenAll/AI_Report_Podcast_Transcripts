@@ -25,11 +25,19 @@ def list_episodes():
     episodes = []
     for filename in os.listdir(TRANSCRIPTS_DIR):
         if filename.endswith('.txt'):
+            # read file 
+            with open(os.path.join(TRANSCRIPTS_DIR, filename), 'r', encoding='utf-8') as f:
+                """Extract the Last modified time inside the file, formatted like 2024-01-22 10:06:02"""
+                for line in f:
+                    if line.startswith('Last modified time:'):
+                        last_modified_time = line.split(':')[1].strip()
+                        break
+
             # For display, you might strip the extension
             display_name = filename.rsplit('.', 1)[0]
             # Remove brackets and their contents, and the .wav extension
             display_name = re.sub(r'\[.*?\]', '', display_name).replace('.wav', '').strip()
-            episodes.append({'filename': filename, 'name': display_name})
+            episodes.append({'filename': filename, 'name': display_name, 'lastModifiedTime': last_modified_time})
     return jsonify(episodes)
 
 @app.route('/api/transcripts/<path:filename>', methods=['GET'])

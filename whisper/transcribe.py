@@ -3,12 +3,13 @@ import time
 import os 
 import re
 import datetime 
-# track timee
-
+# track time
 
 # open file in folder test
 files = os.listdir("poki")
-model = whisper.load_model("turbo")
+
+# load whisper model on gpu
+model = whisper.load_model("turbo", device="cuda")
 
 for file in files:
     start = time.time()
